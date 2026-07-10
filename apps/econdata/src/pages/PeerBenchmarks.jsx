@@ -126,9 +126,9 @@ export default function PeerBenchmarks() {
   function barChart(snapshot, fmt = v => v) {
     return (
       <BarChart data={snapshot.map(r => ({ name: r.geoLabel, value: r.value }))}>
-        <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-        <XAxis dataKey="name" tick={{ fontSize: 11 }} stroke="#94a3b8" angle={-20} textAnchor="end" height={60} />
-        <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+        <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+        <XAxis dataKey="name" tick={{ fontSize: 11 }} stroke="#7A8079" angle={-20} textAnchor="end" height={60} />
+        <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
         <Tooltip formatter={v => fmt(v)} />
         <Bar dataKey="value" fill={CHART_COLORS[1]} />
       </BarChart>
@@ -139,9 +139,9 @@ export default function PeerBenchmarks() {
     const labels = geosInRows(rows)
     return (
       <LineChart data={rows} margin={{ left: -10, right: 10 }}>
-        <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-        <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-        <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+        <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+        <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+        <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
         <Tooltip formatter={fmt || (v => v)} />
         <Legend wrapperStyle={{ fontSize: 11 }} />
         {labels.map((g, i) => (

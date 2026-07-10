@@ -22,6 +22,7 @@ import {
 } from 'lucide-react'
 
 const navigation = [
+  { name: 'Days Until', path: '/days-until', icon: Calendar },
   { name: 'Dashboard', path: '/dashboard', icon: LayoutDashboard },
   { name: 'Heatmap', path: '/heatmap', icon: TableProperties },
   { name: 'Economic Overview', path: '/irish-economy', icon: TrendingUp },
@@ -37,7 +38,6 @@ const navigation = [
   { name: 'Trade Reports', path: '/trade-reports', icon: Globe },
   { name: 'Housing Reports', path: '/housing', icon: HomeIcon },
   { name: 'CSO Releases', path: '/cso-releases', icon: ClipboardList },
-  { name: 'Days Until', path: '/days-until', icon: Calendar },
   { name: 'Energy Tracker', path: '/energy-tracker', icon: Zap },
   { name: 'Data Sources', path: '/data-sources', icon: Database },
 ]

@@ -13,12 +13,12 @@ import {
 const tabs = ['GDP Growth', 'Unemployment', 'Inflation', 'Debt', 'Bond Yields']
 
 const COUNTRY_COLORS = {
-  Ireland: '#0ea5e9',
-  'Euro Area': '#f59e0b',
-  EU: '#6366f1',
-  Germany: '#10b981',
-  Netherlands: '#f43f5e',
-  France: '#8b5cf6',
+  Ireland: '#0B5D4E',
+  'Euro Area': '#C08A2D',
+  EU: '#2B5D8A',
+  Germany: '#1D7A46',
+  Netherlands: '#C2798D',
+  France: '#9A7BC8',
 }
 
 const COUNTRY_KEYS = Object.keys(COUNTRY_COLORS)
@@ -88,9 +88,9 @@ export default function Benchmarks() {
     return (
       <ChartCard title={title} subtitle={subtitle} loading={loading} error={errors[dataKey]}>
         <LineChart data={data[dataKey] || []}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip formatter={(v) => `${v}${unit}`} />
           <Legend />
           {COUNTRY_KEYS.map((country) => (

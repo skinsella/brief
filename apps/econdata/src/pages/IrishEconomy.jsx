@@ -212,11 +212,11 @@ function MacroTab({ errors, loading, latest, slice }) {
         error={errors.gdp}
       >
         <LineChart data={slice('gdp')}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
-          <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+          <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
           <Line type="monotone" dataKey="value" name="GDP Growth" stroke={CHART_COLORS[0]} strokeWidth={2} dot={{ r: 3 }} />
         </LineChart>
       </ChartCard>
@@ -310,9 +310,9 @@ function EmploymentTab({ errors, loading, latest, slice, data }) {
         error={errors.unemployment && errors.youthUnemployment ? errors.unemployment : undefined}
       >
         <LineChart data={merged}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
           <Line type="monotone" dataKey="unemployment" name="Overall" stroke={CHART_COLORS[1]} strokeWidth={2} dot={{ r: 2 }} />
@@ -328,9 +328,9 @@ function EmploymentTab({ errors, loading, latest, slice, data }) {
           error={errors.earnings}
         >
           <LineChart data={slice('earnings')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip formatter={(v) => `\u20ac${v}`} />
             <Line type="monotone" dataKey="value" name="Avg Weekly Earnings" stroke={CHART_COLORS[3]} strokeWidth={2} dot={{ r: 2 }} />
           </LineChart>
@@ -343,12 +343,12 @@ function EmploymentTab({ errors, loading, latest, slice, data }) {
           error={errors.migration && errors.immigration ? errors.migration : undefined}
         >
           <LineChart data={migrationMerged}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Legend />
-            <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+            <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
             <Line type="monotone" dataKey="immigration" name="Immigration" stroke={CHART_COLORS[1]} strokeWidth={2} dot={{ r: 3 }} />
             <Line type="monotone" dataKey="emigration" name="Emigration" stroke={CHART_COLORS[5]} strokeWidth={2} dot={{ r: 3 }} />
             <Line type="monotone" dataKey="net" name="Net Migration" stroke={CHART_COLORS[0]} strokeWidth={2.5} dot={{ r: 3 }} />
@@ -402,12 +402,12 @@ function PricesTab({ data, errors, loading, latest, slice }) {
         data={inflationMerged}
       >
         <LineChart data={inflationMerged}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
-          <ReferenceLine y={2} stroke="#ef4444" strokeDasharray="5 5" label={{ value: 'ECB 2% target', position: 'right', fontSize: 10, fill: '#ef4444' }} />
+          <ReferenceLine y={2} stroke="#B0413E" strokeDasharray="5 5" label={{ value: 'ECB 2% target', position: 'right', fontSize: 10, fill: '#B0413E' }} />
           <Line type="monotone" dataKey="headline" name="All Items (HICP)" stroke={CHART_COLORS[2]} strokeWidth={2} dot={{ r: 2 }} />
           <Line type="monotone" dataKey="core" name="Core (excl. energy & food)" stroke={CHART_COLORS[4]} strokeWidth={2} dot={{ r: 2 }} connectNulls />
         </LineChart>
@@ -449,9 +449,9 @@ function HousingTab({ errors, loading, latest, slice }) {
           error={errors.housePrices}
         >
           <LineChart data={slice('housePrices')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Line type="monotone" dataKey="value" name="HPI" stroke={CHART_COLORS[4]} strokeWidth={2} dot={{ r: 3 }} />
           </LineChart>
@@ -464,9 +464,9 @@ function HousingTab({ errors, loading, latest, slice }) {
           error={errors.dwellingCompletions}
         >
           <BarChart data={slice('dwellingCompletions')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Bar dataKey="value" name="Completions" fill={CHART_COLORS[3]} radius={[4, 4, 0, 0]} />
           </BarChart>
@@ -577,12 +577,12 @@ function FiscalTab({ errors, loading, latest, slice, data }) {
           error={errors.govBalance && errors.govDebt ? errors.govBalance : undefined}
         >
           <LineChart data={fiscalMerged}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Legend />
-            <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+            <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
             <Line type="monotone" dataKey="balance" name="Balance (% GNI)" stroke={CHART_COLORS[1]} strokeWidth={2} dot={{ r: 3 }} />
             <Line type="monotone" dataKey="debt" name="Debt (% GNI)" stroke={CHART_COLORS[5]} strokeWidth={2} dot={{ r: 3 }} />
           </LineChart>
@@ -595,10 +595,10 @@ function FiscalTab({ errors, loading, latest, slice, data }) {
           error={errors.debtService}
         >
           <BarChart data={debtServiceMerged}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-            <YAxis yAxisId="left" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-            <YAxis yAxisId="right" orientation="right" tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+            <YAxis yAxisId="left" tick={{ fontSize: 12 }} stroke="#7A8079" />
+            <YAxis yAxisId="right" orientation="right" tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Legend />
             <Bar yAxisId="left" dataKey="mioEUR" name="\u20ac millions" fill={CHART_COLORS[2]} radius={[4, 4, 0, 0]} />
@@ -614,11 +614,11 @@ function FiscalTab({ errors, loading, latest, slice, data }) {
         error={errors.currentAccount}
       >
         <BarChart data={slice('currentAccount')}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip formatter={(v) => `\u20ac${v.toLocaleString()}m`} />
-          <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+          <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
           <Bar dataKey="value" name="Current Account" fill={CHART_COLORS[1]} radius={[4, 4, 0, 0]} />
         </BarChart>
       </ChartCard>
@@ -727,9 +727,9 @@ function RatesTab({ errors, loading, latest, slice, data }) {
         data={ratesMerged}
       >
         <LineChart data={ratesMerged}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
           <Line type="monotone" dataKey="bondYield" name="IE 10Y Bond" stroke={CHART_COLORS[3]} strokeWidth={2} dot={{ r: 2 }} />
@@ -746,12 +746,12 @@ function RatesTab({ errors, loading, latest, slice, data }) {
         data={fxMerged}
       >
         <LineChart data={fxMerged}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
-          <ReferenceLine y={0.9} stroke="#ef4444" strokeDasharray="5 5" label={{ value: '\u00a30.90', position: 'left', fontSize: 10, fill: '#ef4444' }} />
+          <ReferenceLine y={0.9} stroke="#B0413E" strokeDasharray="5 5" label={{ value: '\u00a30.90', position: 'left', fontSize: 10, fill: '#B0413E' }} />
           <Line type="monotone" dataKey="eurGbp" name="EUR/GBP" stroke={CHART_COLORS[1]} strokeWidth={2} dot={{ r: 2 }} />
           <Line type="monotone" dataKey="eurUsd" name="EUR/USD" stroke={CHART_COLORS[0]} strokeWidth={2} dot={{ r: 2 }} />
         </LineChart>

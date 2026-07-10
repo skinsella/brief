@@ -196,9 +196,9 @@ export default function Employment() {
           data={empTrend}
         >
           <LineChart data={empTrend} margin={{ left: -10, right: 10 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis domain={['auto', 'auto']} tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis domain={['auto', 'auto']} tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Line type="monotone" dataKey="value" stroke={CHART_COLORS[4]} strokeWidth={2} dot={false} />
           </LineChart>
@@ -212,9 +212,9 @@ export default function Employment() {
           data={peerChartData}
         >
           <LineChart data={peerChartData} margin={{ left: -10, right: 10 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis domain={['auto', 'auto']} tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis domain={['auto', 'auto']} tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Legend wrapperStyle={{ fontSize: 11 }} />
             {peerLabels.map((g, i) => (
@@ -240,9 +240,9 @@ export default function Employment() {
         data={sectorSharePct}
       >
         <BarChart data={sectorSharePct} layout="vertical" margin={{ left: 10, right: 30 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis type="number" tick={{ fontSize: 11 }} stroke="#94a3b8" />
-          <YAxis type="category" dataKey="sector" tick={{ fontSize: 10 }} width={210} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis type="number" tick={{ fontSize: 11 }} stroke="#7A8079" />
+          <YAxis type="category" dataKey="sector" tick={{ fontSize: 10 }} width={210} stroke="#7A8079" />
           <Tooltip formatter={(v, n, p) => [`${v}k (${p.payload.share}%)`, 'Employed']} />
           <Bar dataKey="value" fill={CHART_COLORS[1]} />
         </BarChart>

@@ -274,12 +274,12 @@ export default function Inflation() {
         data={headlineVsCore}
       >
         <LineChart data={headlineVsCore} margin={{ left: -10, right: 10 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
           <Tooltip formatter={v => `${v}%`} />
           <Legend wrapperStyle={{ fontSize: 11 }} />
-          <ReferenceLine y={2} stroke="#64748b" strokeDasharray="4 4" />
+          <ReferenceLine y={2} stroke="#4A524D" strokeDasharray="4 4" />
           <Line type="monotone" dataKey="headline"  name="Headline"   stroke={CHART_COLORS[5]} strokeWidth={2.5} dot={false} />
           <Line type="monotone" dataKey="core"      name="Core"       stroke={CHART_COLORS[3]} strokeWidth={2} dot={false} />
           <Line type="monotone" dataKey="superCore" name="Super-core" stroke={CHART_COLORS[6]} strokeWidth={1.5} dot={false} strokeDasharray="4 2" />
@@ -295,16 +295,16 @@ export default function Inflation() {
         data={componentsMerged}
       >
         <LineChart data={componentsMerged} margin={{ left: -10, right: 10 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
           <Tooltip formatter={v => `${v}%`} />
           <Legend wrapperStyle={{ fontSize: 11 }} />
-          <ReferenceLine y={0} stroke="#cbd5e1" />
-          <Line type="monotone" dataKey="services" name="Services"         stroke="#0ea5e9" strokeWidth={2} dot={false} />
-          <Line type="monotone" dataKey="goods"    name="Goods (ex energy)" stroke="#10b981" strokeWidth={2} dot={false} />
-          <Line type="monotone" dataKey="energy"   name="Energy"            stroke="#f97316" strokeWidth={2} dot={false} />
-          <Line type="monotone" dataKey="food"     name="Food"              stroke="#f43f5e" strokeWidth={2} dot={false} />
+          <ReferenceLine y={0} stroke="#D8D2C7" />
+          <Line type="monotone" dataKey="services" name="Services"         stroke="#0B5D4E" strokeWidth={2} dot={false} />
+          <Line type="monotone" dataKey="goods"    name="Goods (ex energy)" stroke="#1D7A46" strokeWidth={2} dot={false} />
+          <Line type="monotone" dataKey="energy"   name="Energy"            stroke="#C2703D" strokeWidth={2} dot={false} />
+          <Line type="monotone" dataKey="food"     name="Food"              stroke="#C2798D" strokeWidth={2} dot={false} />
         </LineChart>
       </ChartCard>
 
@@ -318,12 +318,12 @@ export default function Inflation() {
           data={producerSeries}
         >
           <LineChart data={producerSeries} margin={{ left: -10, right: 10 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
             <Tooltip formatter={v => `${v}%`} />
             <Legend wrapperStyle={{ fontSize: 11 }} />
-            <ReferenceLine y={0} stroke="#cbd5e1" />
+            <ReferenceLine y={0} stroke="#D8D2C7" />
             <Line type="monotone" dataKey="ppi"       name="Industry PPI" stroke={CHART_COLORS[1]} strokeWidth={2} dot={false} />
             <Line type="monotone" dataKey="ppiEnergy" name="Energy PPI (D35)" stroke={CHART_COLORS[2]} strokeWidth={2} dot={false} />
           </LineChart>
@@ -337,12 +337,12 @@ export default function Inflation() {
           data={expectations}
         >
           <LineChart data={expectations} margin={{ left: -10, right: 10 }}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
             <Tooltip />
             <Legend wrapperStyle={{ fontSize: 11 }} />
-            <ReferenceLine y={0} stroke="#cbd5e1" />
+            <ReferenceLine y={0} stroke="#D8D2C7" />
             <Line type="monotone" dataKey="perceived" name="Past 12m (perception)" stroke={CHART_COLORS[0]} strokeWidth={2} dot={false} />
             <Line type="monotone" dataKey="expected"  name="Next 12m (expectation)" stroke={CHART_COLORS[5]} strokeWidth={2.5} dot={false} />
           </LineChart>
@@ -358,11 +358,11 @@ export default function Inflation() {
         data={coicopLatestBars.bars}
       >
         <BarChart data={coicopLatestBars.bars} layout="vertical" margin={{ left: 10, right: 30 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis type="number" tick={{ fontSize: 11 }} stroke="#94a3b8" />
-          <YAxis type="category" dataKey="group" tick={{ fontSize: 10 }} width={240} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis type="number" tick={{ fontSize: 11 }} stroke="#7A8079" />
+          <YAxis type="category" dataKey="group" tick={{ fontSize: 10 }} width={240} stroke="#7A8079" />
           <Tooltip formatter={v => `${v}%`} />
-          <ReferenceLine x={0} stroke="#cbd5e1" />
+          <ReferenceLine x={0} stroke="#D8D2C7" />
           <Bar dataKey="value" fill={CHART_COLORS[5]} />
         </BarChart>
       </ChartCard>
@@ -376,12 +376,12 @@ export default function Inflation() {
         data={peersChart}
       >
         <LineChart data={peersChart} margin={{ left: -10, right: 10 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 11 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 11 }} stroke="#7A8079" />
           <Tooltip formatter={v => `${v}%`} />
           <Legend wrapperStyle={{ fontSize: 11 }} />
-          <ReferenceLine y={2} stroke="#64748b" strokeDasharray="4 4" />
+          <ReferenceLine y={2} stroke="#4A524D" strokeDasharray="4 4" />
           {peerLabels.map((g, i) => (
             <Line
               key={g}

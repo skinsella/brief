@@ -1,29 +1,98 @@
 @import "tailwindcss";
 
+/* The Brief fonts, served from the site-wide assets directory.
+   Root-absolute URLs so Vite leaves them alone at build time;
+   the app is published at /brief/econ/. */
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-display: swap;
+  src: url('/brief/assets/fonts/inter-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-display: swap;
+  src: url('/brief/assets/fonts/inter-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-display: swap;
+  src: url('/brief/assets/fonts/inter-700.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Serif 4';
+  font-weight: 700;
+  font-display: swap;
+  src: url('/brief/assets/fonts/source-serif-4-700.woff2') format('woff2');
+}
+
 @theme {
-  --color-background: #f8fafc;
-  --color-foreground: #0f172a;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* The Brief design tokens (docs/assets/brief.css), mapped onto the
+     Tailwind scales this app already uses: slate → warm paper greys,
+     sky → bottle green, emerald → positive green. */
+  --color-slate-50: #FAF7F2;
+  --color-slate-100: #F1EDE5;
+  --color-slate-200: #E7E2D8;
+  --color-slate-300: #D8D2C7;
+  --color-slate-400: #7A8079;
+  --color-slate-500: #6E756E;
+  --color-slate-600: #4A524D;
+  --color-slate-700: #333A36;
+  --color-slate-800: #202823;
+  --color-slate-900: #1B1F1D;
+  --color-slate-950: #0E1613;
+
+  --color-sky-50: #E3EEEA;
+  --color-sky-100: #D2E4DD;
+  --color-sky-200: #B5D3C9;
+  --color-sky-300: #7FBCAB;
+  --color-sky-400: #4FA893;
+  --color-sky-500: #2C8271;
+  --color-sky-600: #0B5D4E;
+  --color-sky-700: #0A4F43;
+  --color-sky-800: #083E35;
+  --color-sky-900: #062F28;
+
+  --color-emerald-50: #EAF4EE;
+  --color-emerald-100: #DCEEE2;
+  --color-emerald-400: #4CAF78;
+  --color-emerald-500: #2F9159;
+  --color-emerald-600: #1D7A46;
+  --color-emerald-700: #176239;
+  --color-emerald-800: #14572F;
+
+  --color-background: #FAF7F2;
+  --color-foreground: #1B1F1D;
   --color-card: #ffffff;
-  --color-card-foreground: #0f172a;
-  --color-primary: #334155;
-  --color-primary-foreground: #f8fafc;
-  --color-secondary: #f1f5f9;
-  --color-secondary-foreground: #1e293b;
-  --color-muted: #f1f5f9;
-  --color-muted-foreground: #64748b;
-  --color-accent: #f1f5f9;
-  --color-accent-foreground: #1e293b;
-  --color-destructive: #ef4444;
-  --color-border: #e2e8f0;
-  --color-input: #e2e8f0;
-  --color-ring: #334155;
+  --color-card-foreground: #1B1F1D;
+  --color-primary: #0B5D4E;
+  --color-primary-foreground: #FAF7F2;
+  --color-secondary: #F1EDE5;
+  --color-secondary-foreground: #1B1F1D;
+  --color-muted: #F1EDE5;
+  --color-muted-foreground: #4A524D;
+  --color-accent: #E3EEEA;
+  --color-accent-foreground: #1B1F1D;
+  --color-destructive: #B0413E;
+  --color-border: #E7E2D8;
+  --color-input: #E7E2D8;
+  --color-ring: #0B5D4E;
   --radius: 0.5rem;
 }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   background-color: var(--color-background);
   color: var(--color-foreground);
+}
+
+h1, h2 {
+  font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  letter-spacing: -0.01em;
 }

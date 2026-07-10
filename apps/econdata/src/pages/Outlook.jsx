@@ -199,13 +199,13 @@ export default function Outlook() {
               data={chartData}
             >
               <ComposedChart data={chartData}>
-                <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-                <XAxis dataKey="period" tick={{ fontSize: 11 }} stroke="#94a3b8" />
-                <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+                <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+                <XAxis dataKey="period" tick={{ fontSize: 11 }} stroke="#7A8079" />
+                <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
                 <Tooltip content={<ForecastTooltip />} />
-                <ReferenceLine x={String(currentYear)} stroke="#94a3b8" strokeDasharray="4 4" label={{ value: 'Now', position: 'top', fontSize: 10, fill: '#94a3b8' }} />
+                <ReferenceLine x={String(currentYear)} stroke="#7A8079" strokeDasharray="4 4" label={{ value: 'Now', position: 'top', fontSize: 10, fill: '#7A8079' }} />
                 {(ind.code === 'GGXCNL_NGDP' || ind.code === 'BCA_NGDPD') && (
-                  <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+                  <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
                 )}
                 {/* Forecast shading */}
                 <Area
@@ -267,12 +267,12 @@ export default function Outlook() {
             data={chartData}
           >
             <ComposedChart data={chartData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-              <XAxis dataKey="period" tick={{ fontSize: 11 }} stroke="#94a3b8" />
-              <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+              <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+              <XAxis dataKey="period" tick={{ fontSize: 11 }} stroke="#7A8079" />
+              <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
               <Tooltip content={<ForecastTooltip />} />
-              <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
-              <ReferenceLine x={String(currentYear)} stroke="#94a3b8" strokeDasharray="4 4" label={{ value: 'Now', position: 'top', fontSize: 10, fill: '#94a3b8' }} />
+              <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
+              <ReferenceLine x={String(currentYear)} stroke="#7A8079" strokeDasharray="4 4" label={{ value: 'Now', position: 'top', fontSize: 10, fill: '#7A8079' }} />
               {countries.map(c => (
                 <Line
                   key={c}

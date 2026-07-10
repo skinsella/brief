@@ -166,16 +166,16 @@ export default function Dashboard() {
                 data={cd}
               >
                 <LineChart data={cd}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+                  <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
                   <XAxis
                     dataKey="period"
                     tick={{ fontSize: 10 }}
-                    stroke="#94a3b8"
+                    stroke="#7A8079"
                     angle={-45}
                     textAnchor="end"
                     height={50}
                   />
-                  <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+                  <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
                   <Tooltip />
                   <Line
                     type="monotone"

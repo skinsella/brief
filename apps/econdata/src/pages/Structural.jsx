@@ -134,9 +134,9 @@ export default function Structural() {
           error={errors.dependencyRatio}
         >
           <LineChart data={slice('dependencyRatio')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Line type="monotone" dataKey="value" name="Dependency Ratio" stroke={CHART_COLORS[0]} strokeWidth={2} dot={{ r: 3 }} />
           </LineChart>
@@ -149,9 +149,9 @@ export default function Structural() {
           error={errors.poverty}
         >
           <LineChart data={slice('poverty')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Line type="monotone" dataKey="value" name="Poverty Rate" stroke={CHART_COLORS[5]} strokeWidth={2} dot={{ r: 3 }} />
           </LineChart>
@@ -164,9 +164,9 @@ export default function Structural() {
           error={errors.labourCost}
         >
           <LineChart data={slice('labourCost')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Line type="monotone" dataKey="value" name="LCI YoY" stroke={CHART_COLORS[3]} strokeWidth={2} dot={{ r: 3 }} />
           </LineChart>
@@ -179,9 +179,9 @@ export default function Structural() {
           error={errors.electricity}
         >
           <LineChart data={slice('electricity')}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
             <Tooltip />
             <Line type="monotone" dataKey="value" name="EUR/kWh" stroke={CHART_COLORS[2]} strokeWidth={2} dot={{ r: 3 }} />
           </LineChart>
@@ -196,9 +196,9 @@ export default function Structural() {
         error={errors.fdi}
       >
         <BarChart data={slice('fdi')}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip formatter={(v) => `\u20ac${Number(v).toLocaleString()}m`} />
           <Bar dataKey="value" name="FDI Inward" fill={CHART_COLORS[4]} radius={[4, 4, 0, 0]} />
         </BarChart>

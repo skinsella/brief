@@ -33,12 +33,12 @@ function pivotComparison(data) {
 }
 
 const PEER_COLORS = {
-  Ireland: '#0ea5e9',
-  'Euro Area': '#6366f1',
-  'EU 27': '#8b5cf6',
-  Germany: '#f59e0b',
-  Netherlands: '#f97316',
-  France: '#10b981',
+  Ireland: '#0B5D4E',
+  'Euro Area': '#2B5D8A',
+  'EU 27': '#9A7BC8',
+  Germany: '#C08A2D',
+  Netherlands: '#C2703D',
+  France: '#1D7A46',
 }
 
 export default function Confidence() {
@@ -234,11 +234,11 @@ function SentimentTab({ errors, loading, latest, slice, data }) {
         error={errors.esi}
       >
         <LineChart data={slice('esi', 60)}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
-          <ReferenceLine y={100} stroke="#94a3b8" strokeDasharray="5 5" label={{ value: 'Long-term avg', position: 'right', fontSize: 10, fill: '#94a3b8' }} />
+          <ReferenceLine y={100} stroke="#7A8079" strokeDasharray="5 5" label={{ value: 'Long-term avg', position: 'right', fontSize: 10, fill: '#7A8079' }} />
           <Line type="monotone" dataKey="value" name="ESI" stroke={CHART_COLORS[3]} strokeWidth={2} dot={{ r: 2 }} />
         </LineChart>
       </ChartCard>
@@ -250,12 +250,12 @@ function SentimentTab({ errors, loading, latest, slice, data }) {
         error={errors.consumerConf && errors.industrialConf ? 'No data available' : undefined}
       >
         <LineChart data={confidenceMerged}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
-          <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+          <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
           <Line type="monotone" dataKey="Consumer" stroke={CHART_COLORS[1]} strokeWidth={2} dot={{ r: 1 }} />
           <Line type="monotone" dataKey="Industrial" stroke={CHART_COLORS[2]} strokeWidth={2} dot={{ r: 1 }} />
           <Line type="monotone" dataKey="Services" stroke={CHART_COLORS[4]} strokeWidth={2} dot={{ r: 1 }} />
@@ -310,11 +310,11 @@ function ActivityTab({ errors, loading, latest, slice }) {
           error={errors.retailTrade}
         >
           <LineChart data={slice('retailTrade', 48)}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" domain={['auto', 'auto']} />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" domain={['auto', 'auto']} />
             <Tooltip />
-            <ReferenceLine y={100} stroke="#94a3b8" strokeDasharray="5 5" />
+            <ReferenceLine y={100} stroke="#7A8079" strokeDasharray="5 5" />
             <Line type="monotone" dataKey="value" name="Retail Trade" stroke={CHART_COLORS[4]} strokeWidth={2} dot={{ r: 2 }} />
           </LineChart>
         </ChartCard>
@@ -326,11 +326,11 @@ function ActivityTab({ errors, loading, latest, slice }) {
           error={errors.industrialProd}
         >
           <LineChart data={slice('industrialProd', 48)}>
-            <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-            <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" domain={['auto', 'auto']} />
+            <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+            <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+            <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" domain={['auto', 'auto']} />
             <Tooltip />
-            <ReferenceLine y={100} stroke="#94a3b8" strokeDasharray="5 5" />
+            <ReferenceLine y={100} stroke="#7A8079" strokeDasharray="5 5" />
             <Line type="monotone" dataKey="value" name="Industrial Production" stroke={CHART_COLORS[3]} strokeWidth={2} dot={{ r: 2 }} />
           </LineChart>
         </ChartCard>
@@ -353,12 +353,12 @@ function ComparisonTab({ data, errors, loading }) {
         error={errors.consumerConfComp}
       >
         <LineChart data={confComp.slice(-24)}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
-          <ReferenceLine y={0} stroke="#94a3b8" strokeDasharray="3 3" />
+          <ReferenceLine y={0} stroke="#7A8079" strokeDasharray="3 3" />
           {countries.map(c => (
             <Line key={c} type="monotone" dataKey={c} name={c} stroke={PEER_COLORS[c]} strokeWidth={c === 'Ireland' ? 3 : 1.5} dot={{ r: c === 'Ireland' ? 3 : 1 }} />
           ))}
@@ -372,12 +372,12 @@ function ComparisonTab({ data, errors, loading }) {
         error={errors.esiComp}
       >
         <LineChart data={esiComp.slice(-24)}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#94a3b8" angle={-45} textAnchor="end" height={50} />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 10 }} stroke="#7A8079" angle={-45} textAnchor="end" height={50} />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip />
           <Legend />
-          <ReferenceLine y={100} stroke="#94a3b8" strokeDasharray="5 5" />
+          <ReferenceLine y={100} stroke="#7A8079" strokeDasharray="5 5" />
           {countries.map(c => (
             <Line key={c} type="monotone" dataKey={c} name={c} stroke={PEER_COLORS[c]} strokeWidth={c === 'Ireland' ? 3 : 1.5} dot={{ r: c === 'Ireland' ? 3 : 1 }} />
           ))}

@@ -24,7 +24,7 @@ export default function App() {
     <HashRouter>
       <Layout>
         <Routes>
-          <Route path="/" element={<Navigate to="/dashboard" replace />} />
+          <Route path="/" element={<Navigate to="/days-until" replace />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/irish-economy" element={<IrishEconomy />} />
           <Route path="/benchmarks" element={<Benchmarks />} />

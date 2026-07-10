@@ -48,9 +48,9 @@ export default function TradeReports() {
         error={error}
       >
         <LineChart data={tradeData}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
-          <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#94a3b8" />
-          <YAxis tick={{ fontSize: 12 }} stroke="#94a3b8" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#E7E2D8" />
+          <XAxis dataKey="period" tick={{ fontSize: 12 }} stroke="#7A8079" />
+          <YAxis tick={{ fontSize: 12 }} stroke="#7A8079" />
           <Tooltip formatter={(v) => `${v}%`} />
           <Line
             type="monotone"
