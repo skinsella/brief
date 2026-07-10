@@ -581,7 +581,7 @@
     "latest_seen": "2026-07-10T06:44:53Z",
     "lifespan_hours": 14,
     "velocity_6h": 0,
-    "velocity_24h": 4,
+    "velocity_24h": 1,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1665,7 +1665,7 @@
     "latest_seen": "2026-07-09T16:20:00Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1676,7 +1676,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVYVVJLaUNod0ljRlg0UkM3cUJ1eUU0OHFzbDRZQ2o4ZW1TTm93eDRRM21EQ0trTy13YU9ua3N3Qi1nTnpFZXdBQTI0em1xdFIwZ1U0VEtmc29ZQVRKVXVLQmFFSXBraWQyVm5CYmFiOWRJN213b2ZueEt1V0w5M3BXMG1PMWdTU1NkOVN0ZnVHOVpuaDVUcERFSG5rSFNXVlFVeEo3RGJpYkF4aWZkeGM2LTV0S2g4bnRpTnZFTElUNWtsMWdyZUwzN3V3MlVJcDdN?oc=5",
       "https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html"
@@ -2252,7 +2252,7 @@
     "latest_seen": "2026-07-09T16:20:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2263,7 +2263,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0RLTExFWjkxVlFJNGJKR3VJa0lkaTIxY1FzS2hOSmxHaEJkanBseXdmbzlVbWN1UWgwdGVIdmdPWHhkLVkxM2dFeWRiSTdNREZSUG0yTXhxSE5yX2NBUU43N2FMdi1iRzJMVDM4c2xYN1R5WWtqcV9XZHhPbUNCUHg2YVJEVFZtWjNqa0V4TEJVMXJzcE50djRma0FPWFNsQ2VHb0hzRE91bl9jaDhHUWJwS1J5VUJSWHFsTFZyNVRYbjhrTlY1WldhLWdxTll2dEpRNS13?oc=5"
     ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T16:11:14Z",
+  "updated_at": "2026-07-10T16:20:32Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
