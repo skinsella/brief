@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 10 Jul 2026 22:36 GMT
+Updated: Fri, 10 Jul 2026 23:36 GMT
 
 ## Snapshot
 

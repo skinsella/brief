@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-10T23:36:14Z",
+    "checked_at_display": "Fri, 10 Jul 2026 23:36 GMT",
+    "new_count": 0,
+    "old_skipped": 10,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 5,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 35,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260710T233614Z.html"
+  },
+  {
     "checked_at": "2026-07-10T22:36:03Z",
     "checked_at_display": "Fri, 10 Jul 2026 22:36 GMT",
     "new_count": 2,
@@ -5943,49 +6021,5 @@
       "https://www.breakingnews.ie/ireland/ursula-von-der-leyen-to-meet-taoiseach-and-tanaiste-in-cork-1921327.html"
     ],
     "archive_file": "archive/20260702T084415Z.html"
-  },
-  {
-    "checked_at": "2026-07-02T05:52:16Z",
-    "checked_at_display": "Thu, 02 Jul 2026 05:52 GMT",
-    "new_count": 1,
-    "old_skipped": 0,
-    "duplicate_skipped": 1,
-    "mismatched_skipped": 2,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://www.rte.ie/news/politics/2026/0702/1581353-eu-presidency/"
-    ],
-    "archive_file": "archive/20260702T055216Z.html"
   }
 ]
