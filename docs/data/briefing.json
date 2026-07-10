@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:24:32Z",
-  "morning_note": "Media coverage is steady today (9 items, neutral tone; 62 items over the past week). Brent is at $70, down 2.8% on the week. Irish home heating oil averages \u20ac619 per 500L. The Irish 10-year trades at 3.25%, 25 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%.",
+  "generated_at": "2026-07-10T17:02:08Z",
+  "morning_note": "Media coverage is steady today (9 items, neutral tone; 62 items over the past week). Brent is at $70, down 2.8% on the week. Irish home heating oil averages \u20ac621 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%.",
   "tiles": {
     "media": {
       "today_total": 9,
@@ -35,11 +35,10 @@
       "asof": "2026-07-06"
     },
     "eurusd": {
-      "value": 1.1435,
+      "value": 1.143,
       "unit": "$",
-      "delta_pct": 0.32,
+      "delta_pct": -0.16,
       "spark": [
-        1.1567,
         1.1607,
         1.1594,
         1.1591,
@@ -58,14 +57,15 @@
         1.1415,
         1.1433,
         1.1404,
-        1.1435
+        1.1435,
+        1.143
       ],
-      "asof": "2026-07-09"
+      "asof": "2026-07-10"
     },
     "heating_oil": {
-      "value": 619.15,
+      "value": 621.49,
       "unit": "\u20ac/500L",
-      "delta_pct": 1.23,
+      "delta_pct": 1.61,
       "spark": [
         645.97,
         644.19,
@@ -86,16 +86,15 @@
         601.23,
         596.54,
         619.15,
-        619.15
+        621.49
       ],
-      "asof": "2026-07-10T03:40:14.039486+00:00"
+      "asof": "2026-07-10T17:02:00.574819+00:00"
     },
     "ie10y": {
-      "value": 3.247,
+      "value": 3.126,
       "unit": "%",
-      "spread_bund_bps": 25,
+      "spread_bund_bps": 23,
       "spark": [
-        2.589,
         2.626,
         2.491,
         2.789,
@@ -114,9 +113,10 @@
         3.034,
         3.197,
         3.241,
-        3.247
+        3.247,
+        3.126
       ],
-      "asof": "2026-05"
+      "asof": "2026-06"
     },
     "economy": {
       "cpi_yoy": 2.7613,
@@ -130,7 +130,7 @@
       "asof": "2026-07-10T16:24:27Z"
     },
     "energy": {
-      "asof": "2026-07-10T03:40:07.636523+00:00"
+      "asof": "2026-07-10T17:01:54.579397+00:00"
     },
     "economy": {
       "asof": "2026-07-10T11:35:57Z"
