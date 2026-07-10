@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T17:02:02.953796+00:00",
+  "last_updated": "2026-07-10T21:51:50.229043+00:00",
   "source": "FRED, Bundesbank, ECB",
   "errors": null,
   "yields": {
@@ -10,6 +10,10 @@
       "unit": "%",
       "freq": "daily",
       "history": [
+        {
+          "date": "2026-07-09",
+          "value": 4.54
+        },
         {
           "date": "2026-07-08",
           "value": 4.56
@@ -347,6 +351,10 @@
       "unit": "%",
       "freq": "daily",
       "history": [
+        {
+          "date": "2026-07-09",
+          "value": 4.16
+        },
         {
           "date": "2026-07-08",
           "value": 4.21
@@ -1488,6 +1496,10 @@
   },
   "spreads": {
     "US": [
+      {
+        "date": "2026-07-09",
+        "value": 0.38
+      },
       {
         "date": "2026-07-08",
         "value": 0.35
