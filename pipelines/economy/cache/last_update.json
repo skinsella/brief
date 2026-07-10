@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-07-10T12:34:50.296262",
+  "results": {
+    "cso": {
+      "live_register": 24,
+      "cpi": 24,
+      "unemployment": {
+        "rate": 5.0,
+        "date": "June 2026"
+      }
+    },
+    "ecb": {
+      "exchange_rates": 280,
+      "latest_rates": {
+        "eur_gbp": 0.854,
+        "eur_usd": 1.144,
+        "date": "2026-07-09",
+        "eur_gbp_wow": -0.42,
+        "eur_usd_wow": -0.11
+      },
+      "monthly_rates": 15
+    },
+    "market": {
+      "brent": 301,
+      "gas": 301,
+      "commodities": {
+        "brent": {
+          "price": 76.6,
+          "wow": 6.69,
+          "yoy": 0.0
+        },
+        "gas": {
+          "price": 7.45,
+          "high": 8.36,
+          "low": 7.45
+        }
+      },
+      "bonds": {
+        "ireland_10y": 3.057,
+        "germany_10y": 2.945,
+        "spread": 0.112,
+        "date": "2026-07-10"
+      },
+      "monthly_bonds": 15,
+      "sentiment": 15,
+      "container": {
+        "current": 2730,
+        "wow": -3.91,
+        "yoy": -33.54,
+        "mom": 7.14,
+        "date": "2026-07-10"
+      },
+      "insolvency": 5
+    },
+    "pmi": {
+      "latest_pmi": {
+        "manufacturing": null,
+        "services": null,
+        "construction": null
+      },
+      "pmi_records": 15
+    }
+  },
+  "status": "success"
+}

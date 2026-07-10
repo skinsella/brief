@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Brief — economic &amp; media briefing</title>
+<meta name="description" content="A live, consolidated economic and media briefing: Irish economy, energy, bonds, tax and jobs.">
+<link rel="stylesheet" href="assets/brief.css">
+<link rel="icon" href="assets/icon.svg">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0B5D4E">
+<script src="assets/header.js"></script>
+<style>
+  .masthead { padding: var(--s5) 0 var(--s3); }
+  .masthead h1 {
+    font-size: clamp(2rem, 6vw, 3rem); letter-spacing: .02em; margin-bottom: var(--s1);
+  }
+  .masthead h1 .tick { color: var(--accent); }
+  .dateline {
+    display: flex; flex-wrap: wrap; gap: var(--s2) var(--s3); align-items: baseline;
+    font-size: .85rem; color: var(--ink-soft);
+  }
+  .dateline .stamp { font-family: var(--font-mono); font-size: .72rem; color: var(--ink-faint); }
+  .note { margin: var(--s4) 0 var(--s5); }
+  .rail-title {
+    font-size: .72rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--ink-faint); margin: var(--s6) 0 var(--s3);
+  }
+  .section-card { display: flex; flex-direction: column; gap: var(--s2); color: inherit; }
+  a.section-card:hover { text-decoration: none; border-color: var(--accent); }
+  .section-card h3 { margin: 0; }
+  .section-card .desc { color: var(--ink-soft); font-size: .9rem; }
+  .section-card .live { font-family: var(--font-mono); font-size: .74rem; color: var(--accent); margin-top: auto; }
+  .spark { display: block; margin-top: 2px; }
+  .spark polyline { fill: none; stroke: var(--series); stroke-width: 1.5; }
+  .spark .fillpath { fill: color-mix(in srgb, var(--series) 12%, transparent); stroke: none; }
+</style>
+</head>
+<body>
+<brief-header current="home" root="./"></brief-header>
+
+<main class="container">
+  <header class="masthead">
+    <h1>THE BRIEF<span class="tick">.</span></h1>
+    <div class="dateline">
+      <span id="today"></span>
+      <span class="stamp" id="stamp">Compiled automatically</span>
+    </div>
+  </header>
+
+  <section class="note" id="note" aria-label="Morning note">
+    <span class="kicker">Morning note</span>
+    <span id="note-text">Loading the latest numbers…</span>
+  </section>
+
+  <section aria-label="Headlines">
+    <div class="grid grid-kpi" id="kpis"></div>
+  </section>
+
+  <h2 class="rail-title">Sections</h2>
+  <section class="grid grid-cards" id="rail" aria-label="All sections"></section>
+
+  <footer class="brief-footer">
+    <div>Compiled automatically from official and public sources — CSO, ECB, Eurostat, IMF, EIA, FRED, Bundesbank, oilprices.ie, SOLAS, and Irish news RSS feeds.</div>
+    <div class="sources" id="pipes"></div>
+    <div style="margin-top:8px">Stephen Kinsella · University of Limerick</div>
+  </footer>
+</main>
+
+<script>
+(function () {
+  var fmtDate = new Intl.DateTimeFormat('en-IE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  document.getElementById('today').textContent = fmtDate.format(new Date());
+
+  function el(tag, cls, html) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (html != null) e.innerHTML = html;
+    return e;
+  }
+
+  function sparkSvg(values) {
+    if (!values || values.length < 2) return '';
+    var w = 120, h = 28, min = Math.min.apply(null, values), max = Math.max.apply(null, values);
+    var range = (max - min) || 1;
+    var pts = values.map(function (v, i) {
+      return (i * w / (values.length - 1)).toFixed(1) + ',' + (h - 3 - (v - min) / range * (h - 6)).toFixed(1);
+    });
+    return '<svg class="spark" width="' + w + '" height="' + h + '" viewBox="0 0 ' + w + ' ' + h + '" aria-hidden="true">' +
+      '<polygon class="fillpath" points="0,' + h + ' ' + pts.join(' ') + ' ' + w + ',' + h + '"/>' +
+      '<polyline points="' + pts.join(' ') + '"/></svg>';
+  }
+
+  function badge(delta, suffix) {
+    if (delta == null) return '';
+    var cls = delta > 0 ? 'badge-up' : (delta < 0 ? 'badge-down' : 'badge-flat');
+    var arrow = delta > 0 ? '▲' : (delta < 0 ? '▼' : '—');
+    return '<span class="' + cls + '">' + arrow + ' ' + Math.abs(delta).toFixed(1) + (suffix || '%') + '</span>';
+  }
+
+  function asof(s) {
+    if (!s) return '';
+    var d = s.length > 10 ? new Date(s) : null;
+    var label = d && !isNaN(d) ? d.toLocaleDateString('en-IE', { day: 'numeric', month: 'short' }) +
+      ' ' + d.toLocaleTimeString('en-IE', { hour: '2-digit', minute: '2-digit' }) : s;
+    return '<span class="kpi-asof">as of ' + label + '</span>';
+  }
+
+  function kpi(href, label, valueHtml, deltaHtml, sparkHtml, asofHtml) {
+    var a = el('a', 'kpi');
+    a.href = href;
+    a.innerHTML = '<span class="kpi-label">' + label + '</span>' +
+      '<span class="kpi-value">' + valueHtml + '</span>' +
+      (sparkHtml || '') +
+      '<span class="kpi-foot">' + (deltaHtml || '') + (asofHtml || '') + '</span>';
+    return a;
+  }
+
+  var SECTIONS = [
+    { href: 'media/',   key: 'media',   title: 'Media Monitor',      desc: 'Hourly scan of Irish coverage, with framing and significance labels.' },
+    { href: 'economy/', key: 'economy', title: 'This Week’s Economy', desc: 'Weekly Irish indicators: prices, labour market, markets and sentiment.' },
+    { href: 'econ/',    key: 'econ',    title: 'Data Explorer',      desc: 'Interactive Irish and international data: growth, inflation, fiscal, trade.' },
+    { href: 'energy/',  key: 'energy',  title: 'Energy & Bonds',     desc: 'Live oil and gas prices, Irish heating oil by county, sovereign yields.' },
+    { href: 'tax/',     key: 'tax',     title: 'Tax Model',          desc: 'Income tax and USC costings calibrated to the Revenue Ready Reckoner.' },
+    { href: 'spend/',   key: 'spend',   title: 'Who Pays, Who Benefits?', desc: 'Fiscal incidence across the income distribution, with a tax calculator.' },
+    { href: 'jobs/',    key: 'jobs',    title: 'Jobs & AI Exposure', desc: 'The Irish labour market mapped: growth, pay, education and AI exposure.' }
+  ];
+
+  fetch('data/briefing.json?_=' + Date.now())
+    .then(function (r) { return r.json(); })
+    .then(function (b) {
+      var t = b.tiles || {};
+
+      if (b.generated_at) {
+        var g = new Date(b.generated_at);
+        document.getElementById('stamp').textContent =
+          'Compiled automatically · last updated ' +
+          g.toLocaleTimeString('en-IE', { hour: '2-digit', minute: '2-digit' });
+      }
+      document.getElementById('note-text').textContent = b.morning_note || '';
+
+      var k = document.getElementById('kpis');
+
+      if (t.media && t.media.today_total != null) {
+        var net = t.media.today_net || 0;
+        var tone = net === 0 ? 'Neutral' : (net > 0 ? 'Favourable' : 'Unfavourable');
+        k.appendChild(kpi('media/', 'Media tone today',
+          tone + ' <small>' + t.media.today_total + ' item' + (t.media.today_total !== 1 ? 's' : '') + '</small>',
+          badge(t.media.seven_day_net, ' net 7d'), '', asof(t.media.asof)));
+      } else {
+        k.appendChild(kpi('media/', 'Media monitor', '<small>coming online</small>', '', '', ''));
+      }
+
+      if (t.economy && (t.economy.cpi_yoy != null || t.economy.unemployment != null)) {
+        var parts = [];
+        if (t.economy.unemployment != null) parts.push(t.economy.unemployment.toFixed(1) + '%<small> unemp.</small>');
+        if (t.economy.cpi_yoy != null) parts.push(t.economy.cpi_yoy.toFixed(1) + '%<small> CPI</small>');
+        k.appendChild(kpi('economy/', 'Economy', parts.join(' · '), '', '', asof(t.economy.asof)));
+      } else {
+        k.appendChild(kpi('economy/', 'Weekly economy', '<small>coming online</small>', '', '', ''));
+      }
+
+      if (t.brent) {
+        k.appendChild(kpi('energy/', 'Brent crude',
+          '$' + Number(t.brent.value).toFixed(1) + '<small>/bbl</small>',
+          badge(t.brent.delta_pct), sparkSvg(t.brent.spark), asof(t.brent.asof)));
+      }
+      if (t.ie10y) {
+        var spread = t.ie10y.spread_bund_bps != null
+          ? '<span class="badge-flat">+' + t.ie10y.spread_bund_bps + ' bps vs Bund</span>' : '';
+        k.appendChild(kpi('energy/#bonds', 'Irish 10-year',
+          Number(t.ie10y.value).toFixed(2) + '<small>%</small>',
+          spread, sparkSvg(t.ie10y.spark), asof(t.ie10y.asof)));
+      }
+      if (t.heating_oil && !t.ie10y) {
+        k.appendChild(kpi('energy/', 'Heating oil (IE)',
+          '€' + Number(t.heating_oil.value).toFixed(0) + '<small>/500L</small>',
+          badge(t.heating_oil.delta_pct), sparkSvg(t.heating_oil.spark), asof(t.heating_oil.asof)));
+      }
+
+      var rail = document.getElementById('rail');
+      SECTIONS.forEach(function (s) {
+        var live = '';
+        if (s.key === 'media' && t.media && t.media.seven_day_total != null) {
+          live = t.media.seven_day_total + ' items tracked this week';
+        } else if (s.key === 'energy' && t.heating_oil) {
+          live = 'Heating oil €' + Number(t.heating_oil.value).toFixed(0) + '/500L nationally';
+        } else if (s.key === 'economy' && t.economy && t.economy.cpi_yoy != null) {
+          live = 'CPI ' + t.economy.cpi_yoy.toFixed(1) + '% y/y';
+        }
+        var a = el('a', 'card section-card',
+          '<h3>' + s.title + '</h3><div class="desc">' + s.desc + '</div>' +
+          (live ? '<div class="live">' + live + '</div>' : ''));
+        a.href = s.href;
+        rail.appendChild(a);
+      });
+
+      var pipes = document.getElementById('pipes');
+      var stamps = [];
+      Object.keys(b.sections || {}).forEach(function (key) {
+        var s = b.sections[key];
+        if (s && s.asof) stamps.push(key + ': ' + s.asof.slice(0, 16).replace('T', ' '));
+      });
+      if (stamps.length) pipes.textContent = 'Pipeline runs — ' + stamps.join(' · ');
+    })
+    .catch(function () {
+      document.getElementById('note-text').textContent =
+        'Live data is temporarily unavailable. Use the section links below.';
+      var rail = document.getElementById('rail');
+      SECTIONS.forEach(function (s) {
+        var a = el('a', 'card section-card', '<h3>' + s.title + '</h3><div class="desc">' + s.desc + '</div>');
+        a.href = s.href;
+        rail.appendChild(a);
+      });
+    });
+})();
+</script>
+</body>
+</html>

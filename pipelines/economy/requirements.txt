@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+yfinance
+python-dateutil
+reportlab
+cachetools
+python-dotenv
+beautifulsoup4
+lxml
+openpyxl

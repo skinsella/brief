@@ -1,0 +1,58 @@
+name: energy
+
+on:
+  schedule:
+    - cron: '0 21 * * 1-5'   # weekdays 21:00 UTC — after EIA daily publication
+    - cron: '0 0 * * 2-6'    # weekday overnight top-up
+  workflow_dispatch:
+
+concurrency:
+  group: energy
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml openpyxl xlrd
+
+      - name: Fetch EIA spot prices + ECB FX
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: python pipelines/energy/fetch_prices.py
+
+      - name: Fetch Irish heating oil prices
+        continue-on-error: true
+        run: python pipelines/energy/fetch_ireland_prices.py
+
+      - name: Fetch EU Weekly Oil Bulletin
+        continue-on-error: true
+        run: python pipelines/energy/fetch_eu_bulletin.py
+
+      - name: Fetch bond yields (FRED / Bundesbank / ECB)
+        continue-on-error: true
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python pipelines/energy/fetch_bonds.py
+
+      - name: Fetch NORA consumption data
+        continue-on-error: true
+        run: python pipelines/energy/fetch_consumption.py
+
+      - name: Rebuild morning note
+        run: python pipelines/brief/build_morning_note.py
+
+      - uses: ./.github/actions/commit-publish
+        with:
+          paths: docs/energy/data docs/data
+          message: 'data(energy): scheduled price and yield update'

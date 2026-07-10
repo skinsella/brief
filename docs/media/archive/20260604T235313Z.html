@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script>(function(){try{var t=localStorage.getItem("hm-theme")||"dark";if(t==="light")document.documentElement.classList.add("theme-light");}catch(e){}})();</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="900">
+  <title>Simon Harris Media Monitor</title>
+  <meta name="description" content="Latest: Connemara man begins four-month jail term for threatening to kill Tánaiste • Man convicted over threats to Simon Harris and family withdraws appeal against jailing • Man begins sentence for threat to Tánaiste and family">
+  <meta name="theme-color" content="#0a0e14">
+  <style>
+    :root {
+      color-scheme: dark;
+      --ink: #eaf1f8;
+      --muted: #8c9bab;
+      --line: #243140;
+      --paper: #131b25;
+      --paper-2: #18222e;
+      --wash: #0a0e14;
+      --glow: #16263a;
+      --accent: #6aa9ff;
+      --accent-soft: rgba(106,169,255,.16);
+      --urgent: #ff9b63;
+      --urgent-bg: #2c1b11;
+      --sig: #ffb07a;
+      --soft: #1b2532;
+      --ok: #5fd08a;
+      --new: #ffb15c;
+      --new-bg: #2c2113;
+      --shadow: 0 2px 6px rgba(0,0,0,.45), 0 8px 24px rgba(0,0,0,.30);
+      --sans: Calibri, "Segoe UI", Candara, Optima, "Trebuchet MS", Helvetica, Arial, sans-serif;
+    }
+    html.theme-light {
+      color-scheme: light;
+      --ink: #15202b;
+      --muted: #566472;
+      --line: #e3e8ee;
+      --paper: #ffffff;
+      --paper-2: #f7f9fb;
+      --wash: #eef1f5;
+      --glow: #dfe9f5;
+      --accent: #0a66c2;
+      --accent-soft: rgba(10,102,194,.10);
+      --urgent: #b3401a;
+      --urgent-bg: #fbeae3;
+      --sig: #b3401a;
+      --soft: #eef2f7;
+      --ok: #1f7a3d;
+      --new: #c2410c;
+      --new-bg: #fff1e8;
+      --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.10);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      color: var(--ink);
+      background: radial-gradient(1100px 520px at 50% -260px, var(--glow) 0%, transparent 70%), var(--wash);
+      background-attachment: fixed;
+      min-height: 100vh;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: 780px; margin: 0 auto; padding: 0 18px; }
+    .masthead {
+      position: sticky; top: 0; z-index: 10;
+      background: color-mix(in srgb, var(--paper) 88%, transparent);
+      backdrop-filter: saturate(1.4) blur(8px);
+      border-bottom: 1px solid var(--line);
+    }
+    .masthead .wrap { padding-top: 14px; padding-bottom: 13px; }
+    .brand { display: flex; align-items: center; gap: 12px; }
+    .logo {
+      font-size: 24px; line-height: 1; width: 44px; height: 44px; flex: none;
+      display: grid; place-items: center; background: var(--soft); border-radius: 12px;
+    }
+    h1 { margin: 0; font-size: 21px; font-weight: 800; }
+    .tagline { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
+    .status-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-top: 12px; font-size: 13px; color: var(--muted); }
+    .live { display: inline-flex; align-items: center; gap: 7px; font-weight: 600; color: var(--ink); }
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--ok); animation: pulse 2.4s infinite; }
+    @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(95,208,138,.5); } 70% { box-shadow: 0 0 0 7px rgba(95,208,138,0); } 100% { box-shadow: 0 0 0 0 rgba(95,208,138,0); } }
+    .newpill { padding: 3px 10px; border-radius: 999px; font-weight: 700; font-size: 12px; background: var(--soft); color: var(--muted); }
+    .newpill.has-new { background: var(--new-bg); color: var(--new); }
+    .linkbtn { font: inherit; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; }
+    main.wrap { padding-top: 22px; padding-bottom: 56px; }
+    .page-title { font-size: 27px; margin: 24px 0 4px; }
+    .lead { color: var(--muted); margin: 0 0 18px; font-size: 14px; }
+    .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 0 0 16px; }
+    .controls input[type=search], .controls select { font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px; }
+    .controls input[type=search] { flex: 1; min-width: 150px; }
+    .chips { display: flex; gap: 6px; }
+    .chip { font: inherit; font-size: 13px; font-weight: 600; color: var(--muted); background: var(--soft); border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+    .chip.on { background: var(--accent-soft); color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
+    #fcount { font-size: 13px; color: var(--muted); margin-left: auto; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 0 0 16px; }
+    .stat, .panel { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+    .stat { padding: 16px; }
+    .stat .num { font-size: 28px; font-weight: 800; letter-spacing: -.02em; }
+    .stat .lbl { color: var(--muted); font-size: 13px; margin-top: 2px; }
+    .stat .sub { font-size: 12px; margin-top: 7px; color: var(--muted); }
+    .panel { padding: 18px; margin: 0 0 16px; }
+    .panel h3 { margin: 0 0 14px; font-size: 18px; }
+    .cols { display: flex; align-items: flex-end; gap: 3px; height: 120px; }
+    .cols a { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: flex-end; }
+    .cols .bar { background: var(--accent); border-radius: 3px 3px 0 0; min-height: 0; }
+    .axis { display: flex; justify-content: space-between; gap: 8px; margin-top: 8px; font-size: 12px; color: var(--muted); }
+    .hbars { display: flex; flex-direction: column; gap: 9px; }
+    .hbar { display: grid; grid-template-columns: 130px 1fr 40px; gap: 10px; align-items: center; font-size: 13px; }
+    .hbar .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .hbar .track { display: block; background: var(--soft); border-radius: 6px; height: 16px; overflow: hidden; }
+    .hbar .fill { display: block; background: var(--accent); height: 100%; border-radius: 6px; min-width: 3px; }
+    .hbar .n { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+    .feed { display: flex; flex-direction: column; gap: 14px; }
+    .day-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 24px 2px 12px; padding-bottom: 7px; border-bottom: 1px solid var(--line); font-size: 15px; font-weight: 700; }
+    .day-head .day-count { font-size: 12px; font-weight: 600; color: var(--muted); }
+    .card { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; box-shadow: var(--shadow); transition: transform .12s ease, border-color .12s ease; }
+    .card:hover { transform: translateY(-1px); border-color: color-mix(in srgb, var(--accent) 30%, var(--line)); }
+    .card.is-new { border-color: var(--new); }
+    .card-body { padding: 18px 18px 16px; }
+    .card.is-new .card-body::before { content: ""; display: block; height: 3px; width: 32px; border-radius: 3px; background: var(--new); margin-bottom: 12px; }
+    .pills { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; margin-bottom: 10px; }
+    .pill { font-size: 11px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; background: var(--soft); color: var(--muted); }
+    .pill.sig { background: var(--urgent-bg); color: var(--sig); }
+    .pill.cat { background: var(--accent-soft); color: var(--accent); }
+    .pill.new { background: var(--new); color: #1a1206; }
+    .pill.tone { background: var(--soft); color: var(--ink); }
+    .when { margin-left: auto; font-size: 12px; color: var(--muted); font-weight: 600; white-space: nowrap; }
+    .card h2 { margin: 0 0 8px; font-size: 21px; line-height: 1.25; font-weight: 700; }
+    .card h2 a { color: var(--ink); }
+    .why { margin: 0 0 13px; color: var(--muted); font-size: 14.5px; }
+    .sources { display: flex; flex-wrap: wrap; gap: 7px; }
+    .source { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; font-weight: 600; padding: 5px 11px; border: 1px solid var(--line); border-radius: 999px; background: var(--soft); color: var(--ink); }
+    .alert { padding: 11px 13px; margin-bottom: 14px; border-radius: 10px; border-left: 4px solid var(--urgent); background: var(--urgent-bg); color: var(--ink); font-size: 14px; }
+    .empty { text-align: center; color: var(--muted); padding: 48px 16px; background: var(--paper); border: 1px dashed var(--line); border-radius: 14px; }
+    footer { margin-top: 32px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+    table.runs { width: 100%; border-collapse: collapse; font-size: 13.5px; background: var(--paper); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; box-shadow: var(--shadow); }
+    table.runs th, table.runs td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+    table.runs th { background: var(--soft); font-size: 11px; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); }
+    table.runs td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .ok { color: var(--ok); font-weight: 700; }
+    .degraded { color: var(--urgent); font-weight: 700; }
+    .months { display: flex; flex-direction: column; gap: 22px; }
+    .month { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 16px 16px 18px; box-shadow: var(--shadow); }
+    .month h3 { margin: 0 0 12px; font-size: 19px; }
+    .cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+    .cal .dow { text-align: center; font-size: 11px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); padding-bottom: 2px; }
+    .cal .cell { aspect-ratio: 1 / 1; min-height: 40px; border: 1px solid var(--line); border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between; padding: 6px 7px; font-size: 13px; color: var(--muted); background: var(--paper-2); }
+    .cal .cell.pad { border: 0; background: transparent; }
+    .cal .cell.future { opacity: .38; }
+    .cal a.cell { color: var(--muted); text-decoration: none; font-weight: 600; }
+    .cal a.cell .daynum { color: var(--ink); }
+    .cal a.cell.has { font-weight: 700; background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
+    .cal .cell.today { outline: 2px solid var(--accent); outline-offset: -1px; }
+    .cal .count { align-self: flex-start; font-size: 11px; font-weight: 800; background: var(--accent); color: #06101d; border-radius: 999px; padding: 1px 7px; line-height: 1.5; }
+    .stat-row { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0 0 18px; color: var(--muted); font-size: 14px; }
+    .stat-row b { color: var(--ink); }
+    details { margin-top: 18px; }
+    summary { cursor: pointer; color: var(--muted); font-size: 13px; }
+    pre { white-space: pre-wrap; overflow-wrap: anywhere; margin-top: 10px; padding: 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); font-size: 12.5px; line-height: 1.5; }
+    @media (max-width: 520px) {
+      h1 { font-size: 19px; }
+      .card h2 { font-size: 19px; }
+      .when { margin-left: 0; }
+      table.runs { font-size: 12.5px; }
+      .hbar { grid-template-columns: 96px 1fr 32px; gap: 8px; font-size: 12px; }
+      #fcount { width: 100%; margin-left: 0; }
+    }
+</style>
+  
+</head>
+<body>
+  <div class="masthead">
+    <div class="wrap">
+      <div class="brand">
+        <span class="logo" aria-hidden="true">News</span>
+        <div>
+          <h1>Simon Harris Media Monitor</h1>
+          <p class="tagline">Tracking Simon Harris across the news, updated automatically.</p>
+        </div>
+      </div>
+      <div class="status-bar"><span class="live"><span class="dot"></span> Updated <time class="rel" data-ts="2026-06-04T23:53:13Z">Thu, 04 Jun 2026 23:53 GMT</time></span><span class="newpill">No new items in last check</span><a href="fine-gael.html">Fine Gael</a><a href="dashboard.html">Dashboard</a><a href="calendar.html">Archive by day</a><a href="history.html">Run history</a><button id="share" class="linkbtn" type="button">Share</button><button id="theme" class="linkbtn" type="button">Theme</button></div>
+    </div>
+  </div>
+  <main class="wrap">
+    
+    <h2 class="page-title">Latest news</h2>
+    
+    <section aria-label="Media tone index">
+      <div class="stats">
+        
+        <div class="stat">
+          <div class="num">-8%</div>
+          <div class="lbl">Today net tone</div>
+          <div class="sub">12 classified item(s)</div>
+        </div>
+
+        
+        <div class="stat">
+          <div class="num">-24%</div>
+          <div class="lbl">7-day weighted tone</div>
+          <div class="sub">12 item(s), significance-weighted</div>
+        </div>
+
+        
+        <div class="stat">
+          <div class="num">-38%</div>
+          <div class="lbl">Significant-only tone</div>
+          <div class="sub">7 significant item(s)</div>
+        </div>
+
+        
+        <div class="stat">
+          <div class="num">Access to cash</div>
+          <div class="lbl">Top theme</div>
+          <div class="sub">6 item(s) tracked</div>
+        </div>
+
+      </div>
+      <div class="panel">
+        <h3>7-day tone mix</h3>
+        <div class="hbars"><div class="hbar"><span class="name" title="mixed">Mixed</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="n">5</span></div><div class="hbar"><span class="name" title="neutral">Neutral</span><span class="track"><span class="fill" style="width:80%"></span></span><span class="n">4</span></div><div class="hbar"><span class="name" title="unfavourable">Unfavourable</span><span class="track"><span class="fill" style="width:40%"></span></span><span class="n">2</span></div><div class="hbar"><span class="name" title="favourable">Favourable</span><span class="track"><span class="fill" style="width:20%"></span></span><span class="n">1</span></div></div>
+      </div>
+    </section>
+
+    
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search coverage..." autocomplete="off">
+      <div class="chips">
+        <button type="button" class="chip on" data-sig="0">All</button>
+        <button type="button" class="chip" data-sig="1">Significant</button>
+      </div>
+      <select id="outlet" aria-label="Filter by outlet"><option value="">All outlets</option><option value="cork beo">Cork Beo</option><option value="highland radio">Highland Radio</option><option value="irish examiner">Irish Examiner</option><option value="irish independent">Irish Independent</option><option value="kclr 96fm">KCLR 96FM</option><option value="msn">MSN</option><option value="rte.ie">RTE.ie</option><option value="the irish sun">The Irish Sun</option><option value="the irish times">The Irish Times</option><option value="the journal">The Journal</option></select>
+      <span id="fcount"></span>
+    </div>
+
+    
+    <section class="day-section" data-day="2026-06-04">
+      <h3 class="day-head"><span>Today</span><span class="day-count">12 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the journal" data-text="connemara-man-begins-four-month-jail-term-for-threatening-to-kill-t-naiste connemara man begins four-month jail term for threatening to kill tánaiste the journal reports: connemara man begins four-month jail term for threatening to kill tánaiste. the journal neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill tone">Neutral +0</span><time class="when rel" data-ts="2026-06-04T18:42:00+00:00">4 Jun, 18:42</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVGZWUE9NLU5fa01iT2hSZm5HQWdnSEQ1VWpSSnNYVHI4SmxsWlkycHozV0U4VkU4a0lHY2NpVm9xOFJTdk1vLU5CM3AzT3hRXzVPVF80d195M09UbEFSYUJ1Z3EtaFZXN1hJN0pxMkU0SkwyRU9yNVpZSWdmUQ?oc=5" rel="noopener">Connemara man begins four-month jail term for threatening to kill Tánaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Tone:</strong> Headline describes an adverse event or risk (threat) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVGZWUE9NLU5fa01iT2hSZm5HQWdnSEQ1VWpSSnNYVHI4SmxsWlkycHozV0U4VkU4a0lHY2NpVm9xOFJTdk1vLU5CM3AzT3hRXzVPVF80d195M09UbEFSYUJ1Z3EtaFZXN1hJN0pxMkU0SkwyRU9yNVpZSWdmUQ?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the irish times" data-text="man-convicted-over-threats-to-simon-harris-and-family-withdraws-appeal-against-j man convicted over threats to simon harris and family withdraws appeal against jailing the irish times reports: man convicted over threats to simon harris and family withdraws appeal against jailing. the irish times neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill tone">Neutral +0</span><time class="when rel" data-ts="2026-06-04T18:13:49+00:00">4 Jun, 18:13</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlowRzQ5SmZUMENpakxTRTg1U3BtVG1Pc3JkUktYQzlzUXNnbjNvWl9DVG5DeS1fMk5hSFg2UTZ3eUpyOGZpc0VEMUMtS096SUdPcHBuUkxGaTJ5eVViY1FjWnEwRFJ1d25pV0sySlZ2bkZiOHptc1FjMEhfU2xDYUxBbFl4ZHplUTUzZjNyeDN3ZGN6NlFTNnBuWXM2TmcwYV83NnpvRUNlWnJ2SnlBLVI5d3pVRVpEQkZqWFpHYVBPTVJxTklhRkg2YjdDdEdEdDEzRXFZY0ZzQQ?oc=5" rel="noopener">Man convicted over threats to Simon Harris and family withdraws appeal against jailing</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Tone:</strong> Headline describes an adverse event or risk (threat, threats) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlowRzQ5SmZUMENpakxTRTg1U3BtVG1Pc3JkUktYQzlzUXNnbjNvWl9DVG5DeS1fMk5hSFg2UTZ3eUpyOGZpc0VEMUMtS096SUdPcHBuUkxGaTJ5eVViY1FjWnEwRFJ1d25pV0sySlZ2bkZiOHptc1FjMEhfU2xDYUxBbFl4ZHplUTUzZjNyeDN3ZGN6NlFTNnBuWXM2TmcwYV83NnpvRUNlWnJ2SnlBLVI5d3pVRVpEQkZqWFpHYVBPTVJxTklhRkg2YjdDdEdEdDEzRXFZY0ZzQQ?oc=5" rel="noopener">The Irish Times <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte.ie" data-text="man-begins-sentence-for-threat-to-t-naiste-and-family man begins sentence for threat to tánaiste and family rte.ie reports: man begins sentence for threat to tánaiste and family. rte.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill tone">Neutral +0</span><time class="when rel" data-ts="2026-06-04T16:10:38+00:00">4 Jun, 16:10</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9jQk40WGtSNWRjOUNFbTdQUlJjUWhxY0NsNmFUdTB6UUw1Y1ZoUm9TNXVCVmhXbllqYWI5c0pnVkpaRVJ1elphMEdRTkR2NkI2b2JwVWRWNEtCX3FkcEtGTHgxUmJkMW50MXV4Z3lDZUVpYW8?oc=5" rel="noopener">Man begins sentence for threat to Tánaiste and family</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Tone:</strong> Headline describes an adverse event or risk (threat) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9jQk40WGtSNWRjOUNFbTdQUlJjUWhxY0NsNmFUdTB6UUw1Y1ZoUm9TNXVCVmhXbllqYWI5c0pnVkpaRVJ1elphMEdRTkR2NkI2b2JwVWRWNEtCX3FkcEtGTHgxUmJkMW50MXV4Z3lDZUVpYW8?oc=5" rel="noopener">RTE.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish examiner" data-text="government-worried-russia-using-aughinish-alumina-products-in-ukraine-war government worried russia using aughinish alumina products in ukraine war irish examiner reports: government worried russia using aughinish alumina products in ukraine war. irish examiner neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill tone">Neutral +0</span><time class="when rel" data-ts="2026-06-04T16:10:00+00:00">4 Jun, 16:10</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE91OEktN2FqRDBZdVk4Ni1GTnBRcS1SS3F4dVAyalhwazRpVFU3X1Z3UWhYaWczNTdPMHZHSWJCY1JsSHBpZ21pMURzUWRJbXFQNzRSVXZuNnFvNUhxRzVkWEFxam5NUzVNWjN6ZDJhbw?oc=5" rel="noopener">Government worried Russia using Aughinish Alumina products in Ukraine war</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Tone:</strong> Headline describes an adverse event or risk (worried) rather than approval or criticism of Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE91OEktN2FqRDBZdVk4Ni1GTnBRcS1SS3F4dVAyalhwazRpVFU3X1Z3UWhYaWczNTdPMHZHSWJCY1JsSHBpZ21pMURzUWRJbXFQNzRSVXZuNnFvNUhxRzVkWEFxam5NUzVNWjN6ZDJhbw?oc=5" rel="noopener">Irish Examiner <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="msn" data-text="access to cash struggling to find an atm near you? you&#x27;ll be able to tell the central bank under new rules msn reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. msn mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill tone">Mixed +0</span><time class="when rel" data-ts="2026-06-04T12:19:16+00:00">4 Jun, 12:19</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQkVUd3JobjJKT1V0WFlLa2RWNWFYby1iZTcwWUdMdms4SVA0N1lRZy1yOS1zTnJfdDFycFRJZkVoa3Uwak9aRU94OFRHVXRvNGtBc0JoMTFsblhxOVVoXzJFZ1p5ekZqem9PcWJYRHpMd1JEa0hkSTU4eFJUeDJFTU1sUmNXYmJRb2g2YnBCbGwxU3oxWS1mZ2JrWEJIOEVFQnlJME1kWV8yS3dHaDRnclJwX0ZGSXlwZWUtUURWVHRfSlVFRnQxd3JSZFZrMTNacVlWak9hMGRPQ2pNYnI2Y01jQm9DTWZ6V2FHbDBaS0ZwOEVaNVhLYw?oc=5" rel="noopener">Struggling to find an ATM near you? You&#x27;ll be able to tell the Central Bank under new rules</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Tone:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQkVUd3JobjJKT1V0WFlLa2RWNWFYby1iZTcwWUdMdms4SVA0N1lRZy1yOS1zTnJfdDFycFRJZkVoa3Uwak9aRU94OFRHVXRvNGtBc0JoMTFsblhxOVVoXzJFZ1p5ekZqem9PcWJYRHpMd1JEa0hkSTU4eFJUeDJFTU1sUmNXYmJRb2g2YnBCbGwxU3oxWS1mZ2JrWEJIOEVFQnlJME1kWV8yS3dHaDRnclJwX0ZGSXlwZWUtUURWVHRfSlVFRnQxd3JSZFZrMTNacVlWak9hMGRPQ2pNYnI2Y01jQm9DTWZ6V2FHbDBaS0ZwOEVaNVhLYw?oc=5" rel="noopener">MSN <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="highland radio" data-text="access to cash government announces safeguards for access to cash in local communities highland radio reports: government announces safeguards for access to cash in local communities. highland radio favourable mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill tone">Favourable +1</span><time class="when rel" data-ts="2026-06-04T12:00:00+00:00">4 Jun, 12:00</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC1XTFozMEROeG9RSUlydk5lelQzQnJZbkhaelJPZjJZUldfSXRFY21ndGFvUjhXQm1wNTdQUEgxY2R3c3BleVM0VWhyZEhtZ2JxVHNubmNXUDhUNnd6WFFQOXExOV9fZ0Z5STFDMWlrRVJTSjRkbTFPdXIxQkVXcHh4Ni1hcG82T2J1WHFRZEhCWmFRbVl4bFlOQlRLalI3bTNHbW9kOW10OS1UQXc?oc=5" rel="noopener">Government announces safeguards for access to cash in local communities</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Tone:</strong> Headline uses constructive delivery language: announces, safeguards. Target: Government/policy; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC1XTFozMEROeG9RSUlydk5lelQzQnJZbkhaelJPZjJZUldfSXRFY21ndGFvUjhXQm1wNTdQUEgxY2R3c3BleVM0VWhyZEhtZ2JxVHNubmNXUDhUNnd6WFFQOXExOV9fZ0Z5STFDMWlrRVJTSjRkbTFPdXIxQkVXcHh4Ni1hcG82T2J1WHFRZEhCWmFRbVl4bFlOQlRLalI3bTNHbW9kOW10OS1UQXc?oc=5" rel="noopener">Highland Radio <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="fast reaction" data-outlets="the irish times" data-text="savings plan a dozen questions still to be answered about the government&#x27;s new savings plan the irish times reports on unresolved details around the government&#x27;s new savings plan. the irish times unfavourable fast reaction">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">FAST REACTION</span><span class="pill tone">Unfavourable -1</span><time class="when rel" data-ts="2026-06-04T11:32:10+00:00">4 Jun, 11:32</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5" rel="noopener">A dozen questions still to be answered about the Government&#x27;s new savings plan</a></h2>
+        <p class="why">The framing is critical or unresolved and may need a quick response.</p>
+        <p class="why"><strong>Tone:</strong> Headline uses critical or risk language: questions still. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5" rel="noopener">The Irish Times <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="fast reaction" data-outlets="irish independent" data-text="residential zoned land tax call for urgent review as wicklow council hit with eur1m residential zoned land tax bill irish independent reports on calls for review or concern around a residential zoned land tax bill. irish independent unfavourable fast reaction">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">FAST REACTION</span><span class="pill tone">Unfavourable -1</span><time class="when rel" data-ts="2026-06-04T11:20:00+00:00">4 Jun, 11:20</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5" rel="noopener">Call for urgent review as Wicklow council hit with EUR1m residential zoned land tax bill</a></h2>
+        <p class="why">The framing is critical or unresolved and may need a quick response.</p>
+        <p class="why"><strong>Tone:</strong> Headline uses critical or risk language: urgent review, hit with. Target: unclear; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="the irish sun" data-text="access to cash public to be enabled to raise concerns to central bank under new law the irish sun reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. the irish sun mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill tone">Mixed +0</span><time class="when rel" data-ts="2026-06-04T11:17:06+00:00">4 Jun, 11:17</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2F1dzZMSmxXXzhMUEJlSFB2SmNMM3Z5cU1WZGhoVDYyRUJFWWxMOFpMY1BvMVZhVjR5TDh5N2hJeWdNejB1eE9GMkRTQXZ6NzBXbWtFUF9wV3p2bEJxUUN5WnE2VDdDN3ltREtIdGJOTWdPR014c0U2WE9ieUJyWjdvVXlubGUtMW5sZmVB?oc=5" rel="noopener">Public to be enabled to raise concerns to Central Bank under new law</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Tone:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2F1dzZMSmxXXzhMUEJlSFB2SmNMM3Z5cU1WZGhoVDYyRUJFWWxMOFpMY1BvMVZhVjR5TDh5N2hJeWdNejB1eE9GMkRTQXZ6NzBXbWtFUF9wV3p2bEJxUUN5WnE2VDdDN3ltREtIdGJOTWdPR014c0U2WE9ieUJyWjdvVXlubGUtMW5sZmVB?oc=5" rel="noopener">The Irish Sun <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="cork beo" data-text="access to cash new rules to allow people to raise &#x27;cashless society&#x27; concerns with central bank cork beo reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. cork beo mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill tone">Mixed +0</span><time class="when rel" data-ts="2026-06-04T11:13:24+00:00">4 Jun, 11:13</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1TQWtEdW5hMmMzdXRNTUFQTnBGbkZLdmFHUzhfclRkOW1BWGNGQ21FNXczUlVjUVhtd0FhS2kxWmhHeXRKTlNkUFhuR0NuQUhYREozVGVJMS1UZFVhOVlmVi1BcUJWeGFra3VzOTlwRlF1VmhocDZMSW1vbjRRNlVB?oc=5" rel="noopener">New rules to allow people to raise &#x27;cashless society&#x27; concerns with Central Bank</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Tone:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1TQWtEdW5hMmMzdXRNTUFQTnBGbkZLdmFHUzhfclRkOW1BWGNGQ21FNXczUlVjUVhtd0FhS2kxWmhHeXRKTlNkUFhuR0NuQUhYREozVGVJMS1UZFVhOVlmVi1BcUJWeGFra3VzOTlwRlF1VmhocDZMSW1vbjRRNlVB?oc=5" rel="noopener">Cork Beo <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="the journal" data-text="access to cash struggling to find an atm near you? you&#x27;ll be able to tell the central bank under new rules the journal reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. the journal mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill tone">Mixed +0</span><time class="when rel" data-ts="2026-06-04T11:12:00+00:00">4 Jun, 11:12</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVGcl93TW9zLVJEYnBXMVRLc1BxSVdWUS1UaTVNQ3ZHdVFxeERqaFZHbUJVb09GVFM4b1RGQURDZlI5bk1PUEg0TlN0WWM4b2FMOWVsZWVva0xkRjc0a2k0YjJPRnVuYlFfdXIzU2laOWRJUFozbmZkVFY2SURqV0JYR3NLQXRJeUR4VnF2czFPZVo0S3MxYlFQMEZkVFZjX0oxakRB?oc=5" rel="noopener">Struggling to find an ATM near you? You&#x27;ll be able to tell the Central Bank under new rules</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Tone:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVGcl93TW9zLVJEYnBXMVRLc1BxSVdWUS1UaTVNQ3ZHdVFxeERqaFZHbUJVb09GVFM4b1RGQURDZlI5bk1PUEg0TlN0WWM4b2FMOWVsZWVva0xkRjc0a2k0YjJPRnVuYlFfdXIzU2laOWRJUFozbmZkVFY2SURqV0JYR3NLQXRJeUR4VnF2czFPZVo0S3MxYlFQMEZkVFZjX0oxakRB?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="kclr 96fm" data-text="access to cash new guidelines to protect access to cash services in communities in carlow, kilkenny and across the country kclr 96fm reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. kclr 96fm mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill tone">Mixed +0</span><time class="when rel" data-ts="2026-06-04T11:08:21+00:00">4 Jun, 11:08</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0daWE9sYXRzVkJQU2lRUDVaMnVnVENCa0ZmN3UyQWpka1I5cEhGNnIxeFNkLTNLM2plVVlXZlBoNUhfeXZqOUxqb1NHOFFCQ2JtYzIwQTZoQ2t2SWl1aGdUQVJuQXdCUXFMTzVFRmtEODdXUlZxenY2MWhLQVQ4WlhxZHZJTks3NmtIVHA3bmJlWHJqRHZSbEExd3B6X3lYQmpBVk5xeC11TWJEUHZhdVJTTEFvblJpZHNTSUtxM0laX29rMzFF?oc=5" rel="noopener">New guidelines to protect access to cash services in communities in Carlow, Kilkenny and across the country</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Tone:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0daWE9sYXRzVkJQU2lRUDVaMnVnVENCa0ZmN3UyQWpka1I5cEhGNnIxeFNkLTNLM2plVVlXZlBoNUhfeXZqOUxqb1NHOFFCQ2JtYzIwQTZoQ2t2SWl1aGdUQVJuQXdCUXFMTzVFRmtEODdXUlZxenY2MWhLQVQ4WlhxZHZJTks3NmtIVHA3bmJlWHJqRHZSbEExd3B6X3lYQmpBVk5xeC11TWJEUHZhdVJTTEFvblJpZHNTSUtxM0laX29rMzFF?oc=5" rel="noopener">KCLR 96FM <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section><div id="feed-empty" class="empty" style="display:none">No stories match your filter.</div>
+    <details>
+      <summary>Plain-text output</summary>
+      <pre>NONE</pre>
+    </details>
+    <footer>
+      <p>Automated media monitor · feeds checked every 30 minutes · <a href="dashboard.html">dashboard</a> · <a href="calendar.html">archive</a> · <a href="history.html">run history</a></p>
+      <p>all feeds healthy · last check Thu, 04 Jun 2026 23:53 GMT</p>
+    </footer>
+
+  </main>
+  
+  <script>
+  (function () {
+    function rel(ts) {
+      var d = new Date(ts);
+      if (isNaN(d)) return null;
+      var s = Math.max(0, Math.round((Date.now() - d.getTime()) / 1000));
+      var m = Math.round(s / 60), h = Math.round(m / 60), day = Math.round(h / 24);
+      if (s < 45) return "just now";
+      if (m < 60) return m + " min" + (m !== 1 ? "s" : "") + " ago";
+      if (h < 24) return h + " hr" + (h !== 1 ? "s" : "") + " ago";
+      if (day < 7) return day + " day" + (day !== 1 ? "s" : "") + " ago";
+      return d.toLocaleDateString();
+    }
+    function tick() {
+      document.querySelectorAll("time.rel[data-ts]").forEach(function (el) {
+        var r = rel(el.getAttribute("data-ts"));
+        if (!r) return;
+        if (!el.dataset.abs) el.dataset.abs = el.textContent;
+        el.textContent = r;
+        el.title = el.dataset.abs;
+      });
+    }
+    tick();
+    setInterval(tick, 30000);
+    var sb = document.getElementById("share");
+    if (sb) {
+      sb.addEventListener("click", function () {
+        var data = { title: document.title, url: location.href };
+        if (navigator.share) { navigator.share(data).catch(function () {}); }
+        else if (navigator.clipboard) {
+          navigator.clipboard.writeText(location.href);
+          sb.textContent = "Link copied";
+          setTimeout(function () { sb.textContent = "Share"; }, 1600);
+        }
+      });
+    }
+    var tb = document.getElementById("theme");
+    function label() { return document.documentElement.classList.contains("theme-light") ? "Dark mode" : "Light mode"; }
+    if (tb) {
+      tb.textContent = label();
+      tb.addEventListener("click", function () {
+        var light = document.documentElement.classList.toggle("theme-light");
+        try { localStorage.setItem("hm-theme", light ? "light" : "dark"); } catch (e) {}
+        tb.textContent = label();
+      });
+    }
+  })();
+  </script>
+
+  <script>
+  (function () {
+    var q = document.getElementById("q");
+    var outletSel = document.getElementById("outlet");
+    var count = document.getElementById("fcount");
+    var empty = document.getElementById("feed-empty");
+    var cards = [].slice.call(document.querySelectorAll(".feed .card"));
+    var chips = [].slice.call(document.querySelectorAll(".chip"));
+    var sigOnly = false;
+    function apply() {
+      var term = ((q && q.value) || "").trim().toLowerCase();
+      var outlet = ((outletSel && outletSel.value) || "").toLowerCase();
+      var shown = 0;
+      cards.forEach(function (c) {
+        var ok = true;
+        if (sigOnly && c.getAttribute("data-sig") !== "1") ok = false;
+        if (ok && term && (c.getAttribute("data-text") || "").indexOf(term) < 0) ok = false;
+        if (ok && outlet && (c.getAttribute("data-outlets") || "").indexOf(outlet) < 0) ok = false;
+        c.style.display = ok ? "" : "none";
+        if (ok) shown++;
+      });
+      document.querySelectorAll(".day-section").forEach(function (sec) {
+        var vis = [].slice.call(sec.querySelectorAll(".card")).some(function (c) { return c.style.display !== "none"; });
+        sec.style.display = vis ? "" : "none";
+      });
+      if (count) count.textContent = shown + " of " + cards.length + " stories";
+      if (empty) empty.style.display = shown ? "none" : "";
+    }
+    if (q) q.addEventListener("input", apply);
+    if (outletSel) outletSel.addEventListener("change", apply);
+    chips.forEach(function (ch) {
+      ch.addEventListener("click", function () {
+        chips.forEach(function (x) { x.classList.remove("on"); });
+        ch.classList.add("on");
+        sigOnly = ch.getAttribute("data-sig") === "1";
+        apply();
+      });
+    });
+    apply();
+  })();
+  </script>
+
+</body>
+</html>

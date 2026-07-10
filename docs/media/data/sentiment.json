@@ -1,0 +1,2241 @@
+{
+  "updated_at": "2026-07-10T16:11:14Z",
+  "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
+  "windows": {
+    "today": {
+      "total": 9,
+      "counts": {
+        "favourable": 0,
+        "neutral": 9,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 17,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 2,
+        "Simon Harris": 7
+      },
+      "themes": {
+        "Other": {
+          "total": 6,
+          "favourable": 0,
+          "neutral": 6,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "seven_day": {
+      "total": 62,
+      "counts": {
+        "favourable": 1,
+        "neutral": 58,
+        "unfavourable": 1,
+        "mixed": 2
+      },
+      "weighted_counts": {
+        "favourable": 3,
+        "neutral": 126,
+        "unfavourable": 3,
+        "mixed": 6
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 22,
+        "Simon Harris": 38,
+        "unclear": 2
+      },
+      "themes": {
+        "Other": {
+          "total": 33,
+          "favourable": 1,
+          "neutral": 32,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 10,
+          "favourable": 0,
+          "neutral": 8,
+          "unfavourable": 0,
+          "mixed": 2
+        },
+        "Foreign affairs": {
+          "total": 5,
+          "favourable": 0,
+          "neutral": 5,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 5,
+          "favourable": 0,
+          "neutral": 5,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 5,
+          "favourable": 0,
+          "neutral": 5,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 1,
+          "mixed": 0
+        }
+      }
+    },
+    "thirty_day": {
+      "total": 301,
+      "counts": {
+        "favourable": 16,
+        "neutral": 274,
+        "unfavourable": 6,
+        "mixed": 5
+      },
+      "weighted_counts": {
+        "favourable": 50,
+        "neutral": 698,
+        "unfavourable": 22,
+        "mixed": 21
+      },
+      "net": 3,
+      "weighted_net": 4,
+      "targets": {
+        "Government/policy": 128,
+        "Simon Harris": 138,
+        "unclear": 35
+      },
+      "themes": {
+        "Other": {
+          "total": 132,
+          "favourable": 7,
+          "neutral": 121,
+          "unfavourable": 4,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 37,
+          "favourable": 1,
+          "neutral": 31,
+          "unfavourable": 0,
+          "mixed": 5
+        },
+        "Tax": {
+          "total": 29,
+          "favourable": 3,
+          "neutral": 25,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 27,
+          "favourable": 0,
+          "neutral": 27,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 25,
+          "favourable": 1,
+          "neutral": 24,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 13,
+          "favourable": 0,
+          "neutral": 13,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 12,
+          "favourable": 1,
+          "neutral": 11,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 12,
+          "favourable": 1,
+          "neutral": 10,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 10,
+          "favourable": 2,
+          "neutral": 8,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Enterprise": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "all_time": {
+      "total": 349,
+      "counts": {
+        "favourable": 18,
+        "neutral": 312,
+        "unfavourable": 9,
+        "mixed": 10
+      },
+      "weighted_counts": {
+        "favourable": 56,
+        "neutral": 802,
+        "unfavourable": 38,
+        "mixed": 38
+      },
+      "net": 3,
+      "weighted_net": 2,
+      "targets": {
+        "Government/policy": 150,
+        "Simon Harris": 160,
+        "unclear": 39
+      },
+      "themes": {
+        "Other": {
+          "total": 144,
+          "favourable": 7,
+          "neutral": 132,
+          "unfavourable": 5,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 50,
+          "favourable": 2,
+          "neutral": 37,
+          "unfavourable": 1,
+          "mixed": 10
+        },
+        "Tax": {
+          "total": 32,
+          "favourable": 3,
+          "neutral": 27,
+          "unfavourable": 2,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 31,
+          "favourable": 0,
+          "neutral": 31,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 28,
+          "favourable": 1,
+          "neutral": 27,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 17,
+          "favourable": 1,
+          "neutral": 16,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 16,
+          "favourable": 1,
+          "neutral": 14,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 16,
+          "favourable": 1,
+          "neutral": 15,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 11,
+          "favourable": 2,
+          "neutral": 9,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Enterprise": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "significant_only": {
+      "total": 54,
+      "counts": {
+        "favourable": 6,
+        "neutral": 32,
+        "unfavourable": 6,
+        "mixed": 10
+      },
+      "weighted_counts": {
+        "favourable": 30,
+        "neutral": 142,
+        "unfavourable": 31,
+        "mixed": 38
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 31,
+        "Simon Harris": 19,
+        "unclear": 4
+      },
+      "themes": {
+        "Finance": {
+          "total": 22,
+          "favourable": 1,
+          "neutral": 10,
+          "unfavourable": 1,
+          "mixed": 10
+        },
+        "Polling": {
+          "total": 15,
+          "favourable": 1,
+          "neutral": 14,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 13,
+          "favourable": 3,
+          "neutral": 8,
+          "unfavourable": 2,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 4,
+          "favourable": 1,
+          "neutral": 0,
+          "unfavourable": 3,
+          "mixed": 0
+        }
+      }
+    }
+  },
+  "daily": {
+    "2026-06-04": {
+      "total": 12,
+      "counts": {
+        "favourable": 1,
+        "neutral": 4,
+        "unfavourable": 2,
+        "mixed": 5
+      },
+      "weighted_counts": {
+        "favourable": 1,
+        "neutral": 12,
+        "unfavourable": 12,
+        "mixed": 17
+      },
+      "net": -8,
+      "weighted_net": -26,
+      "targets": {
+        "Government/policy": 8,
+        "Simon Harris": 3,
+        "unclear": 1
+      },
+      "themes": {
+        "Finance": {
+          "total": 7,
+          "favourable": 1,
+          "neutral": 0,
+          "unfavourable": 1,
+          "mixed": 5
+        },
+        "Courts/security": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-05": {
+      "total": 3,
+      "counts": {
+        "favourable": 0,
+        "neutral": 3,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 7,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 1,
+        "Simon Harris": 1,
+        "unclear": 1
+      },
+      "themes": {
+        "Courts/security": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-06": {
+      "total": 3,
+      "counts": {
+        "favourable": 1,
+        "neutral": 2,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 5,
+        "neutral": 6,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 33,
+      "weighted_net": 45,
+      "targets": {
+        "Government/policy": 3
+      },
+      "themes": {
+        "Polling": {
+          "total": 1,
+          "favourable": 1,
+          "neutral": 0,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-07": {
+      "total": 1,
+      "counts": {
+        "favourable": 0,
+        "neutral": 1,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 1,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Simon Harris": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-08": {
+      "total": 4,
+      "counts": {
+        "favourable": 0,
+        "neutral": 4,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 12,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Simon Harris": 4
+      },
+      "themes": {
+        "Other": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-09": {
+      "total": 17,
+      "counts": {
+        "favourable": 0,
+        "neutral": 17,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 45,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 8,
+        "Simon Harris": 9
+      },
+      "themes": {
+        "Other": {
+          "total": 7,
+          "favourable": 0,
+          "neutral": 7,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-10": {
+      "total": 8,
+      "counts": {
+        "favourable": 0,
+        "neutral": 7,
+        "unfavourable": 1,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 21,
+        "unfavourable": 4,
+        "mixed": 0
+      },
+      "net": -12,
+      "weighted_net": -16,
+      "targets": {
+        "Government/policy": 2,
+        "Simon Harris": 4,
+        "unclear": 2
+      },
+      "themes": {
+        "Other": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-11": {
+      "total": 6,
+      "counts": {
+        "favourable": 0,
+        "neutral": 6,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 16,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 3,
+        "Simon Harris": 3
+      },
+      "themes": {
+        "Other": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-12": {
+      "total": 1,
+      "counts": {
+        "favourable": 0,
+        "neutral": 1,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 3,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-13": {
+      "total": 1,
+      "counts": {
+        "favourable": 0,
+        "neutral": 1,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 3,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 1
+      },
+      "themes": {
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-14": {
+      "total": 20,
+      "counts": {
+        "favourable": 7,
+        "neutral": 13,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 27,
+        "neutral": 29,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 35,
+      "weighted_net": 48,
+      "targets": {
+        "Government/policy": 7,
+        "Simon Harris": 12,
+        "unclear": 1
+      },
+      "themes": {
+        "Fine Gael": {
+          "total": 8,
+          "favourable": 1,
+          "neutral": 7,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 5,
+          "favourable": 3,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 4,
+          "favourable": 3,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-15": {
+      "total": 20,
+      "counts": {
+        "favourable": 0,
+        "neutral": 20,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 52,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 11,
+        "Simon Harris": 6,
+        "unclear": 3
+      },
+      "themes": {
+        "Tax": {
+          "total": 5,
+          "favourable": 0,
+          "neutral": 5,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-16": {
+      "total": 19,
+      "counts": {
+        "favourable": 2,
+        "neutral": 17,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 2,
+        "neutral": 47,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 11,
+      "weighted_net": 4,
+      "targets": {
+        "Government/policy": 6,
+        "Simon Harris": 11,
+        "unclear": 2
+      },
+      "themes": {
+        "Other": {
+          "total": 13,
+          "favourable": 1,
+          "neutral": 12,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 2,
+          "favourable": 1,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-17": {
+      "total": 12,
+      "counts": {
+        "favourable": 1,
+        "neutral": 11,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 5,
+        "neutral": 37,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 8,
+      "weighted_net": 12,
+      "targets": {
+        "Government/policy": 6,
+        "Simon Harris": 5,
+        "unclear": 1
+      },
+      "themes": {
+        "Tax": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 4,
+          "favourable": 1,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-18": {
+      "total": 19,
+      "counts": {
+        "favourable": 1,
+        "neutral": 17,
+        "unfavourable": 0,
+        "mixed": 1
+      },
+      "weighted_counts": {
+        "favourable": 3,
+        "neutral": 39,
+        "unfavourable": 0,
+        "mixed": 5
+      },
+      "net": 5,
+      "weighted_net": 6,
+      "targets": {
+        "Government/policy": 10,
+        "Simon Harris": 7,
+        "unclear": 2
+      },
+      "themes": {
+        "Other": {
+          "total": 12,
+          "favourable": 0,
+          "neutral": 12,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 1
+        },
+        "Courts/security": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 1,
+          "neutral": 0,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-19": {
+      "total": 8,
+      "counts": {
+        "favourable": 0,
+        "neutral": 8,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 18,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 4,
+        "Simon Harris": 4
+      },
+      "themes": {
+        "Other": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-20": {
+      "total": 4,
+      "counts": {
+        "favourable": 0,
+        "neutral": 4,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 10,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Simon Harris": 3,
+        "unclear": 1
+      },
+      "themes": {
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-21": {
+      "total": 4,
+      "counts": {
+        "favourable": 0,
+        "neutral": 4,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 12,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 2,
+        "Simon Harris": 1,
+        "unclear": 1
+      },
+      "themes": {
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-22": {
+      "total": 2,
+      "counts": {
+        "favourable": 0,
+        "neutral": 2,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 4,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 1,
+        "unclear": 1
+      },
+      "themes": {
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-23": {
+      "total": 12,
+      "counts": {
+        "favourable": 0,
+        "neutral": 12,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 40,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 9,
+        "Simon Harris": 2,
+        "unclear": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 6,
+          "favourable": 0,
+          "neutral": 6,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Enterprise": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-24": {
+      "total": 16,
+      "counts": {
+        "favourable": 0,
+        "neutral": 14,
+        "unfavourable": 1,
+        "mixed": 1
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 38,
+        "unfavourable": 3,
+        "mixed": 5
+      },
+      "net": -6,
+      "weighted_net": -7,
+      "targets": {
+        "Government/policy": 5,
+        "Simon Harris": 3,
+        "unclear": 8
+      },
+      "themes": {
+        "Constituency/local": {
+          "total": 5,
+          "favourable": 0,
+          "neutral": 5,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Enterprise": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 0,
+          "mixed": 1
+        }
+      }
+    },
+    "2026-06-25": {
+      "total": 18,
+      "counts": {
+        "favourable": 0,
+        "neutral": 17,
+        "unfavourable": 1,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 41,
+        "unfavourable": 1,
+        "mixed": 0
+      },
+      "net": -6,
+      "weighted_net": -2,
+      "targets": {
+        "Government/policy": 12,
+        "Simon Harris": 4,
+        "unclear": 2
+      },
+      "themes": {
+        "Other": {
+          "total": 12,
+          "favourable": 0,
+          "neutral": 11,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Enterprise": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-26": {
+      "total": 16,
+      "counts": {
+        "favourable": 0,
+        "neutral": 16,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 42,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 5,
+        "Simon Harris": 8,
+        "unclear": 3
+      },
+      "themes": {
+        "Other": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 4,
+          "favourable": 0,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-27": {
+      "total": 8,
+      "counts": {
+        "favourable": 0,
+        "neutral": 6,
+        "unfavourable": 2,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 12,
+        "unfavourable": 12,
+        "mixed": 0
+      },
+      "net": -25,
+      "weighted_net": -50,
+      "targets": {
+        "Government/policy": 1,
+        "Simon Harris": 7
+      },
+      "themes": {
+        "Other": {
+          "total": 8,
+          "favourable": 0,
+          "neutral": 6,
+          "unfavourable": 2,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-28": {
+      "total": 2,
+      "counts": {
+        "favourable": 0,
+        "neutral": 1,
+        "unfavourable": 1,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 3,
+        "unfavourable": 3,
+        "mixed": 0
+      },
+      "net": -50,
+      "weighted_net": -50,
+      "targets": {
+        "Government/policy": 1,
+        "Simon Harris": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-29": {
+      "total": 10,
+      "counts": {
+        "favourable": 1,
+        "neutral": 9,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 1,
+        "neutral": 21,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 10,
+      "weighted_net": 5,
+      "targets": {
+        "Government/policy": 8,
+        "Simon Harris": 1,
+        "unclear": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 5,
+          "favourable": 1,
+          "neutral": 4,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-06-30": {
+      "total": 15,
+      "counts": {
+        "favourable": 0,
+        "neutral": 14,
+        "unfavourable": 0,
+        "mixed": 1
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 30,
+        "unfavourable": 0,
+        "mixed": 5
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 3,
+        "Simon Harris": 11,
+        "unclear": 1
+      },
+      "themes": {
+        "Tax": {
+          "total": 8,
+          "favourable": 0,
+          "neutral": 8,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 1
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-01": {
+      "total": 2,
+      "counts": {
+        "favourable": 0,
+        "neutral": 2,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 8,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 2
+      },
+      "themes": {
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-02": {
+      "total": 8,
+      "counts": {
+        "favourable": 0,
+        "neutral": 8,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 24,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 1,
+        "Simon Harris": 5,
+        "unclear": 2
+      },
+      "themes": {
+        "Other": {
+          "total": 6,
+          "favourable": 0,
+          "neutral": 6,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-03": {
+      "total": 16,
+      "counts": {
+        "favourable": 3,
+        "neutral": 13,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 9,
+        "neutral": 43,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 19,
+      "weighted_net": 17,
+      "targets": {
+        "Government/policy": 7,
+        "Simon Harris": 6,
+        "unclear": 3
+      },
+      "themes": {
+        "Finance": {
+          "total": 6,
+          "favourable": 1,
+          "neutral": 5,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Courts/security": {
+          "total": 2,
+          "favourable": 1,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 1,
+          "neutral": 0,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-04": {
+      "total": 6,
+      "counts": {
+        "favourable": 0,
+        "neutral": 5,
+        "unfavourable": 1,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 15,
+        "unfavourable": 3,
+        "mixed": 0
+      },
+      "net": -17,
+      "weighted_net": -17,
+      "targets": {
+        "Government/policy": 6
+      },
+      "themes": {
+        "Other": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Tax": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 1,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-05": {
+      "total": 4,
+      "counts": {
+        "favourable": 0,
+        "neutral": 4,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 14,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 3,
+        "Simon Harris": 1
+      },
+      "themes": {
+        "Polling": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-06": {
+      "total": 3,
+      "counts": {
+        "favourable": 1,
+        "neutral": 1,
+        "unfavourable": 0,
+        "mixed": 1
+      },
+      "weighted_counts": {
+        "favourable": 3,
+        "neutral": 3,
+        "unfavourable": 0,
+        "mixed": 3
+      },
+      "net": 33,
+      "weighted_net": 33,
+      "targets": {
+        "Government/policy": 2,
+        "Simon Harris": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 2,
+          "favourable": 1,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 0,
+          "mixed": 1
+        }
+      }
+    },
+    "2026-07-07": {
+      "total": 4,
+      "counts": {
+        "favourable": 0,
+        "neutral": 3,
+        "unfavourable": 0,
+        "mixed": 1
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 7,
+        "unfavourable": 0,
+        "mixed": 3
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 4
+      },
+      "themes": {
+        "Other": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 0,
+          "unfavourable": 0,
+          "mixed": 1
+        }
+      }
+    },
+    "2026-07-08": {
+      "total": 13,
+      "counts": {
+        "favourable": 0,
+        "neutral": 13,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 19,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Simon Harris": 12,
+        "unclear": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 7,
+          "favourable": 0,
+          "neutral": 7,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Housing": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Polling": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-09": {
+      "total": 23,
+      "counts": {
+        "favourable": 0,
+        "neutral": 23,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 51,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 5,
+        "Simon Harris": 17,
+        "unclear": 1
+      },
+      "themes": {
+        "Other": {
+          "total": 12,
+          "favourable": 0,
+          "neutral": 12,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Finance": {
+          "total": 8,
+          "favourable": 0,
+          "neutral": 8,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Constituency/local": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    },
+    "2026-07-10": {
+      "total": 9,
+      "counts": {
+        "favourable": 0,
+        "neutral": 9,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "weighted_counts": {
+        "favourable": 0,
+        "neutral": 17,
+        "unfavourable": 0,
+        "mixed": 0
+      },
+      "net": 0,
+      "weighted_net": 0,
+      "targets": {
+        "Government/policy": 2,
+        "Simon Harris": 7
+      },
+      "themes": {
+        "Other": {
+          "total": 6,
+          "favourable": 0,
+          "neutral": 6,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Foreign affairs": {
+          "total": 3,
+          "favourable": 0,
+          "neutral": 3,
+          "unfavourable": 0,
+          "mixed": 0
+        }
+      }
+    }
+  }
+}

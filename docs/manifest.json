@@ -1,0 +1,12 @@
+{
+  "name": "The Brief",
+  "short_name": "The Brief",
+  "description": "A live, consolidated economic and media briefing.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#0B5D4E",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

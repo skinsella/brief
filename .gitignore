@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+node_modules/
+pipelines/economy/.venv/
+pipelines/jobs/.venv/
+apps/econdata/node_modules/

@@ -1,0 +1,37 @@
+name: media
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'   # every 30 minutes
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['pipelines/media/**']
+
+concurrency:
+  group: media
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run media monitor
+        run: python pipelines/media/monitor.py
+
+      - name: Rebuild morning note
+        run: python pipelines/brief/build_morning_note.py
+
+      - uses: ./.github/actions/commit-publish
+        with:
+          paths: docs/media docs/data
+          message: 'data(media): scheduled monitor run'

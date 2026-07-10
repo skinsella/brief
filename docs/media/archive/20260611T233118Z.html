@@ -1,0 +1,1116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script>(function(){try{var t=localStorage.getItem("hm-theme")||"dark";if(t==="light")document.documentElement.classList.add("theme-light");}catch(e){}})();</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="900">
+  <title>Simon Harris Media Monitor</title>
+  <meta name="description" content="Latest: Simon Harris slams Belfast riots as ‘racist thuggery and intimidation’ • Government will do all it can for festivals after ticket firm collapse, minister says • Joe Brolly blasts FAI and Irish government over Ireland v Israel Nations League game">
+  <meta name="theme-color" content="#0a0e14">
+  <style>
+    :root {
+      color-scheme: dark;
+      --ink: #eaf1f8;
+      --muted: #8c9bab;
+      --line: #243140;
+      --paper: #131b25;
+      --paper-2: #18222e;
+      --wash: #0a0e14;
+      --glow: #16263a;
+      --accent: #6aa9ff;
+      --accent-soft: rgba(106,169,255,.16);
+      --urgent: #ff9b63;
+      --urgent-bg: #2c1b11;
+      --sig: #ffb07a;
+      --soft: #1b2532;
+      --ok: #5fd08a;
+      --new: #ffb15c;
+      --new-bg: #2c2113;
+      --shadow: 0 2px 6px rgba(0,0,0,.45), 0 8px 24px rgba(0,0,0,.30);
+      --sans: Calibri, "Segoe UI", Candara, Optima, "Trebuchet MS", Helvetica, Arial, sans-serif;
+    }
+    html.theme-light {
+      color-scheme: light;
+      --ink: #15202b;
+      --muted: #566472;
+      --line: #e3e8ee;
+      --paper: #ffffff;
+      --paper-2: #f7f9fb;
+      --wash: #eef1f5;
+      --glow: #dfe9f5;
+      --accent: #0a66c2;
+      --accent-soft: rgba(10,102,194,.10);
+      --urgent: #b3401a;
+      --urgent-bg: #fbeae3;
+      --sig: #b3401a;
+      --soft: #eef2f7;
+      --ok: #1f7a3d;
+      --new: #c2410c;
+      --new-bg: #fff1e8;
+      --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.10);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      color: var(--ink);
+      background: radial-gradient(1100px 520px at 50% -260px, var(--glow) 0%, transparent 70%), var(--wash);
+      background-attachment: fixed;
+      min-height: 100vh;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: 780px; margin: 0 auto; padding: 0 18px; }
+    .masthead {
+      position: sticky; top: 0; z-index: 10;
+      background: color-mix(in srgb, var(--paper) 88%, transparent);
+      backdrop-filter: saturate(1.4) blur(8px);
+      border-bottom: 1px solid var(--line);
+    }
+    .masthead .wrap { padding-top: 14px; padding-bottom: 13px; }
+    .brand { display: flex; align-items: center; gap: 12px; }
+    .logo {
+      font-size: 24px; line-height: 1; width: 44px; height: 44px; flex: none;
+      display: grid; place-items: center; background: var(--soft); border-radius: 12px;
+    }
+    h1 { margin: 0; font-size: 21px; font-weight: 800; }
+    .tagline { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
+    .status-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-top: 12px; font-size: 13px; color: var(--muted); }
+    .live { display: inline-flex; align-items: center; gap: 7px; font-weight: 600; color: var(--ink); }
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--ok); animation: pulse 2.4s infinite; }
+    @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(95,208,138,.5); } 70% { box-shadow: 0 0 0 7px rgba(95,208,138,0); } 100% { box-shadow: 0 0 0 0 rgba(95,208,138,0); } }
+    .newpill { padding: 3px 10px; border-radius: 999px; font-weight: 700; font-size: 12px; background: var(--soft); color: var(--muted); }
+    .newpill.has-new { background: var(--new-bg); color: var(--new); }
+    .linkbtn { font: inherit; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; }
+    main.wrap { padding-top: 22px; padding-bottom: 56px; }
+    .page-title { font-size: 27px; margin: 24px 0 4px; }
+    .lead { color: var(--muted); margin: 0 0 18px; font-size: 14px; }
+    .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 0 0 16px; }
+    .controls input[type=search], .controls select { font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px; }
+    .controls input[type=search] { flex: 1; min-width: 150px; }
+    .chips { display: flex; gap: 6px; }
+    .chip { font: inherit; font-size: 13px; font-weight: 600; color: var(--muted); background: var(--soft); border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+    .chip.on { background: var(--accent-soft); color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
+    #fcount { font-size: 13px; color: var(--muted); margin-left: auto; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 0 0 16px; }
+    .stat, .panel { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+    .stat { padding: 16px; }
+    .stat .num { font-size: 28px; font-weight: 800; letter-spacing: -.02em; }
+    .stat .lbl { color: var(--muted); font-size: 13px; margin-top: 2px; }
+    .stat .sub { font-size: 12px; margin-top: 7px; color: var(--muted); }
+    .panel { padding: 18px; margin: 0 0 16px; }
+    .panel h3 { margin: 0 0 14px; font-size: 18px; }
+    .brief-list { display: flex; flex-direction: column; gap: 10px; margin: 0; padding: 0; list-style: none; }
+    .brief-list li { padding: 10px 0; border-top: 1px solid var(--line); }
+    .brief-list li:first-child { border-top: 0; padding-top: 0; }
+    .brief-k { display: block; color: var(--muted); font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; }
+    .attention-item { display: grid; grid-template-columns: 1fr auto; gap: 8px 14px; align-items: start; }
+    .attention-item a { color: var(--ink); font-weight: 700; }
+    .attention-flags { color: var(--urgent); font-size: 12px; font-weight: 800; text-align: right; }
+    .cols { display: flex; align-items: flex-end; gap: 3px; height: 120px; }
+    .cols a { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: flex-end; }
+    .cols .bar { background: var(--accent); border-radius: 3px 3px 0 0; min-height: 0; }
+    .axis { display: flex; justify-content: space-between; gap: 8px; margin-top: 8px; font-size: 12px; color: var(--muted); }
+    .tone-chart { display: flex; align-items: stretch; gap: 5px; min-height: 170px; overflow-x: auto; padding: 2px 0 4px; }
+    .tone-day { flex: 1 0 24px; min-width: 24px; display: grid; grid-template-rows: 1fr 1px 1fr 18px; gap: 0; color: var(--muted); text-align: center; font-size: 11px; }
+    .tone-up, .tone-down { display: flex; align-items: flex-end; justify-content: center; }
+    .tone-down { align-items: flex-start; }
+    .tone-base { background: var(--line); }
+    .tone-pos, .tone-neg { width: 70%; border-radius: 4px; min-height: 0; }
+    .tone-pos { background: var(--ok); border-radius: 4px 4px 0 0; }
+    .tone-neg { background: var(--urgent); border-radius: 0 0 4px 4px; }
+    .tone-net { font-variant-numeric: tabular-nums; }
+    .hbars { display: flex; flex-direction: column; gap: 9px; }
+    .hbar { display: grid; grid-template-columns: 130px 1fr 40px; gap: 10px; align-items: center; font-size: 13px; }
+    .hbar .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .hbar .track { display: block; background: var(--soft); border-radius: 6px; height: 16px; overflow: hidden; }
+    .hbar .fill { display: block; background: var(--accent); height: 100%; border-radius: 6px; min-width: 3px; }
+    .hbar .n { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+    .feed { display: flex; flex-direction: column; gap: 14px; }
+    .day-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 24px 2px 12px; padding-bottom: 7px; border-bottom: 1px solid var(--line); font-size: 15px; font-weight: 700; }
+    .day-head .day-count { font-size: 12px; font-weight: 600; color: var(--muted); }
+    .card { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; box-shadow: var(--shadow); transition: transform .12s ease, border-color .12s ease; }
+    .card:hover { transform: translateY(-1px); border-color: color-mix(in srgb, var(--accent) 30%, var(--line)); }
+    .card.is-new { border-color: var(--new); }
+    .card-body { padding: 18px 18px 16px; }
+    .card.is-new .card-body::before { content: ""; display: block; height: 3px; width: 32px; border-radius: 3px; background: var(--new); margin-bottom: 12px; }
+    .pills { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; margin-bottom: 10px; }
+    .pill { font-size: 11px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; background: var(--soft); color: var(--muted); }
+    .pill.sig { background: var(--urgent-bg); color: var(--sig); }
+    .pill.cat { background: var(--accent-soft); color: var(--accent); }
+    .pill.new { background: var(--new); color: #1a1206; }
+    .pill.tone { background: var(--soft); color: var(--ink); }
+    .pill.topic { background: var(--paper-2); color: var(--muted); }
+    .when { margin-left: auto; font-size: 12px; color: var(--muted); font-weight: 600; white-space: nowrap; }
+    .card h2 { margin: 0 0 8px; font-size: 21px; line-height: 1.25; font-weight: 700; }
+    .card h2 a { color: var(--ink); }
+    .why { margin: 0 0 13px; color: var(--muted); font-size: 14.5px; }
+    .sources { display: flex; flex-wrap: wrap; gap: 7px; }
+    .source { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; font-weight: 600; padding: 5px 11px; border: 1px solid var(--line); border-radius: 999px; background: var(--soft); color: var(--ink); }
+    .alert { padding: 11px 13px; margin-bottom: 14px; border-radius: 10px; border-left: 4px solid var(--urgent); background: var(--urgent-bg); color: var(--ink); font-size: 14px; }
+    .empty { text-align: center; color: var(--muted); padding: 48px 16px; background: var(--paper); border: 1px dashed var(--line); border-radius: 14px; }
+    footer { margin-top: 32px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+    table.runs { width: 100%; border-collapse: collapse; font-size: 13.5px; background: var(--paper); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; box-shadow: var(--shadow); }
+    table.runs th, table.runs td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+    table.runs th { background: var(--soft); font-size: 11px; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); }
+    table.runs td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .ok { color: var(--ok); font-weight: 700; }
+    .degraded { color: var(--urgent); font-weight: 700; }
+    .months { display: flex; flex-direction: column; gap: 22px; }
+    .month { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 16px 16px 18px; box-shadow: var(--shadow); }
+    .month h3 { margin: 0 0 12px; font-size: 19px; }
+    .cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+    .cal .dow { text-align: center; font-size: 11px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); padding-bottom: 2px; }
+    .cal .cell { aspect-ratio: 1 / 1; min-height: 40px; border: 1px solid var(--line); border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between; padding: 6px 7px; font-size: 13px; color: var(--muted); background: var(--paper-2); }
+    .cal .cell.pad { border: 0; background: transparent; }
+    .cal .cell.future { opacity: .38; }
+    .cal a.cell { color: var(--muted); text-decoration: none; font-weight: 600; }
+    .cal a.cell .daynum { color: var(--ink); }
+    .cal a.cell.has { font-weight: 700; background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
+    .cal .cell.today { outline: 2px solid var(--accent); outline-offset: -1px; }
+    .cal .count { align-self: flex-start; font-size: 11px; font-weight: 800; background: var(--accent); color: #06101d; border-radius: 999px; padding: 1px 7px; line-height: 1.5; }
+    .stat-row { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0 0 18px; color: var(--muted); font-size: 14px; }
+    .stat-row b { color: var(--ink); }
+    details { margin-top: 18px; }
+    summary { cursor: pointer; color: var(--muted); font-size: 13px; }
+    pre { white-space: pre-wrap; overflow-wrap: anywhere; margin-top: 10px; padding: 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); font-size: 12.5px; line-height: 1.5; }
+    @media (max-width: 520px) {
+      h1 { font-size: 19px; }
+      .card h2 { font-size: 19px; }
+      .when { margin-left: 0; }
+      table.runs { font-size: 12.5px; }
+      .hbar { grid-template-columns: 96px 1fr 32px; gap: 8px; font-size: 12px; }
+      #fcount { width: 100%; margin-left: 0; }
+    }
+</style>
+  
+</head>
+<body>
+  <div class="masthead">
+    <div class="wrap">
+      <div class="brand">
+        <span class="logo" aria-hidden="true">News</span>
+        <div>
+          <h1>Simon Harris Media Monitor</h1>
+          <p class="tagline">Tracking Simon Harris across the news, updated automatically.</p>
+        </div>
+      </div>
+      <div class="status-bar"><span class="live"><span class="dot"></span> Updated <time class="rel" data-ts="2026-06-11T23:31:18Z">Thu, 11 Jun 2026 23:31 GMT</time></span><span class="newpill">No new items in last check</span><a href="fine-gael.html">Fine Gael</a><a href="dashboard.html">Dashboard</a><a href="weekly-briefing.html">Briefing</a><a href="calendar.html">Archive by day</a><a href="history.html">Run history</a><button id="share" class="linkbtn" type="button">Share</button><button id="theme" class="linkbtn" type="button">Theme</button></div>
+    </div>
+  </div>
+  <main class="wrap">
+    
+    <h2 class="page-title">Latest news</h2>
+    
+    <section aria-label="Media framing index">
+      <div class="stats">
+        
+        <div class="stat">
+          <div class="num">0%</div>
+          <div class="lbl">Today net framing</div>
+          <div class="sub">6 classified item(s)</div>
+        </div>
+
+        
+        <div class="stat">
+          <div class="num">+1%</div>
+          <div class="lbl">7-day weighted framing</div>
+          <div class="sub">42 item(s), reach/significance-weighted</div>
+        </div>
+
+        
+        <div class="stat">
+          <div class="num">-23%</div>
+          <div class="lbl">Significant-only framing</div>
+          <div class="sub">11 significant item(s)</div>
+        </div>
+
+        
+        <div class="stat">
+          <div class="num">Other</div>
+          <div class="lbl">Top theme</div>
+          <div class="sub">15 item(s) tracked</div>
+        </div>
+
+      </div>
+      <div class="panel">
+        <h3>7-day framing mix</h3>
+        <div class="hbars"><div class="hbar"><span class="name" title="neutral factual">Neutral Factual</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="n">40</span></div><div class="hbar"><span class="name" title="supportive">Supportive</span><span class="track"><span class="fill" style="width:3%"></span></span><span class="n">1</span></div><div class="hbar"><span class="name" title="critical">Critical</span><span class="track"><span class="fill" style="width:3%"></span></span><span class="n">1</span></div><div class="hbar"><span class="name" title="mixed framing">Mixed Framing</span><span class="track"><span class="fill" style="width:3%"></span></span><span class="n">0</span></div></div>
+      </div>
+      <div class="panel">
+        <h3>Supportive / critical framing over time</h3>
+        
+      <div class="tone-chart" aria-label="Daily supportive and critical media framing"><span class="tone-day" title="13 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="14 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="15 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="16 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="17 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="18 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="19 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="20 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="21 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="22 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="23 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="24 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="25 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="26 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="27 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="28 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="29 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="30 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="31 May: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="1 Jun: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="2 Jun: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><span class="tone-day" title="3 Jun: supportive 0, critical 0, net 0, total 0">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </span><a class="tone-day" href="day/2026-06-04.html" title="4 Jun: supportive 1, critical 2, net -1, total 12">
+          <span class="tone-up"><span class="tone-pos" style="height:50%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:100%"></span></span>
+          <span class="tone-net">-1</span>
+        </a><a class="tone-day" href="day/2026-06-05.html" title="5 Jun: supportive 0, critical 0, net 0, total 3">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </a><a class="tone-day" href="day/2026-06-06.html" title="6 Jun: supportive 1, critical 0, net 1, total 3">
+          <span class="tone-up"><span class="tone-pos" style="height:50%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+1</span>
+        </a><a class="tone-day" href="day/2026-06-07.html" title="7 Jun: supportive 0, critical 0, net 0, total 1">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </a><a class="tone-day" href="day/2026-06-08.html" title="8 Jun: supportive 0, critical 0, net 0, total 4">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </a><a class="tone-day" href="day/2026-06-09.html" title="9 Jun: supportive 0, critical 0, net 0, total 17">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </a><a class="tone-day" href="day/2026-06-10.html" title="10 Jun: supportive 0, critical 1, net -1, total 8">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:50%"></span></span>
+          <span class="tone-net">-1</span>
+        </a><a class="tone-day" href="day/2026-06-11.html" title="11 Jun: supportive 0, critical 0, net 0, total 6">
+          <span class="tone-up"><span class="tone-pos" style="height:0%"></span></span>
+          <span class="tone-base"></span>
+          <span class="tone-down"><span class="tone-neg" style="height:0%"></span></span>
+          <span class="tone-net">+0</span>
+        </a></div>
+      <div class="axis"><span>13 May</span><span>green = supportive, orange = critical, number = net</span><span>11 Jun</span></div>
+
+      </div>
+    </section>
+
+    <div class="panel"><h3>Trend summary</h3><ul class="brief-list"><li><span class="brief-k">Coverage volume</span>42 item(s) in the last 7 days; up 30 vs previous 7 days.</li><li><span class="brief-k">Net framing</span>+1% weighted over 7 days, separating coverage volume from supportive/critical wording.</li><li><span class="brief-k">Main topic</span>Other leads recent coverage with 15 item(s).</li><li><span class="brief-k">Critical concentration</span>Other accounts for 1 recent critical item(s).</li><li><span class="brief-k">Leading outlet</span>Unknown has the most recent pickups with 14 item(s).</li></ul></div>
+    <div class="panel"><h3>Needs attention</h3><ul class="brief-list"><li class="attention-item">
+              <span><span class="brief-k">The Irish Times · 4 Jun, 11:32</span><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5" rel="noopener">A dozen questions still to be answered about the Government&#x27;s new savings plan</a></span>
+              <span class="attention-flags">Fast Reaction, Critical framing, High-reach outlet</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">Irish Independent · 4 Jun, 11:20</span><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5" rel="noopener">Call for urgent review as Wicklow council hit with EUR1m residential zoned land tax bill</a></span>
+              <span class="attention-flags">Fast Reaction, Critical framing, High-reach outlet</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">Irish Examiner · 10 Jun, 20:21</span><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5" rel="noopener">Aughinish Alumina: Ireland will not support any measures that help Putin’s war machine – Tánaiste</a></span>
+              <span class="attention-flags">Polling, High-reach outlet</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">Irish Independent · 6 Jun, 16:07</span><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5" rel="noopener">Sunday Independent/Ireland Thinks poll: By-election boost for Soc Dems and Fine Gael as support for Mary Lou McDonald drops</a></span>
+              <span class="attention-flags">Polling, High-reach outlet</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">Irish Mirror · 10 Jun, 12:12</span><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5" rel="noopener">Government accused of having &#x27;no back bone&#x27; over Ireland&#x27;s Israel football matches</a></span>
+              <span class="attention-flags">Fast Reaction, Critical framing</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">The Irish Times · 8 Jun, 12:18</span><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dkaFBOVjNOM0hySm5pUW91c1dPdjdrZVRqeEZjUmZkazd0bTZSNk8wMDBlWndZcWZSd3JJcTMtQXRuZFdLUjNBYUlCLUg4RFl2eE1WUmxxajJjNzhpTmFlcmNGTXlhM3ItODNISTkwa0o2YXZVdHVGN2dfQThITUk4b3FDbkRzZXhNc2hzY1NhVVZnVEJQOHNySmpiZ3BhWXU4WUZ4ZWRsUVR6Z2NkNi1jaXUyOVBkTUhn?oc=5" rel="noopener">Simon Harris insists investment savings plan is aimed at ‘middle Ireland’</a></span>
+              <span class="attention-flags">Policy, High-reach outlet</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">The Journal · 4 Jun, 11:12</span><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVGcl93TW9zLVJEYnBXMVRLc1BxSVdWUS1UaTVNQ3ZHdVFxeERqaFZHbUJVb09GVFM4b1RGQURDZlI5bk1PUEg0TlN0WWM4b2FMOWVsZWVva0xkRjc0a2k0YjJPRnVuYlFfdXIzU2laOWRJUFozbmZkVFY2SURqV0JYR3NLQXRJeUR4VnF2czFPZVo0S3MxYlFQMEZkVFZjX0oxakRB?oc=5" rel="noopener">Struggling to find an ATM near you? You&#x27;ll be able to tell the Central Bank under new rules</a></span>
+              <span class="attention-flags">Policy, High-reach outlet</span>
+            </li><li class="attention-item">
+              <span><span class="brief-k">MSN · 4 Jun, 12:19</span><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQkVUd3JobjJKT1V0WFlLa2RWNWFYby1iZTcwWUdMdms4SVA0N1lRZy1yOS1zTnJfdDFycFRJZkVoa3Uwak9aRU94OFRHVXRvNGtBc0JoMTFsblhxOVVoXzJFZ1p5ekZqem9PcWJYRHpMd1JEa0hkSTU4eFJUeDJFTU1sUmNXYmJRb2g2YnBCbGwxU3oxWS1mZ2JrWEJIOEVFQnlJME1kWV8yS3dHaDRnclJwX0ZGSXlwZWUtUURWVHRfSlVFRnQxd3JSZFZrMTNacVlWak9hMGRPQ2pNYnI2Y01jQm9DTWZ6V2FHbDBaS0ZwOEVaNVhLYw?oc=5" rel="noopener">Struggling to find an ATM near you? You&#x27;ll be able to tell the Central Bank under new rules</a></span>
+              <span class="attention-flags">Policy</span>
+            </li></ul></div>
+    
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search coverage..." autocomplete="off">
+      <div class="chips">
+        <button type="button" class="chip on" data-sig="0">All</button>
+        <button type="button" class="chip" data-sig="1">Significant</button>
+      </div>
+      <select id="outlet" aria-label="Filter by outlet"><option value="">All outlets</option><option value="belfast live">Belfast Live</option><option value="breakingnews.ie">BreakingNews.ie</option><option value="business post">Business Post</option><option value="clare echo">Clare Echo</option><option value="cork beo">Cork Beo</option><option value="dublin live">Dublin Live</option><option value="east coast fm">East Coast FM</option><option value="highland radio">Highland Radio</option><option value="irish examiner">Irish Examiner</option><option value="irish independent">Irish Independent</option><option value="irish mirror">Irish Mirror</option><option value="kclr 96fm">KCLR 96FM</option><option value="kilkenny live">Kilkenny Live</option><option value="limerick leader">Limerick Leader</option><option value="limerick&#x27;s live 95">Limerick&#x27;s Live 95</option><option value="msn">MSN</option><option value="rte.ie">RTE.ie</option><option value="the irish sun">The Irish Sun</option><option value="the irish times">The Irish Times</option><option value="the journal">The Journal</option><option value="unknown">Unknown</option><option value="westernpeople.ie">westernpeople.ie</option></select>
+      <span id="fcount"></span>
+    </div>
+
+    
+    <section class="day-section" data-day="2026-06-11">
+      <h3 class="day-head"><span>Today</span><span class="day-count">6 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish independent" data-text="simon-harris-slams-belfast-riots-as-racist-thuggery-and-intimidation other simon harris slams belfast riots as ‘racist thuggery and intimidation’ irish independent reports: simon harris slams belfast riots as ‘racist thuggery and intimidation’. irish independent neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-11T15:02:34+00:00">11 Jun, 15:02</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1dmNlpFUkZ2OHV0WXMyMHZGTHlLZVYtaVBuVGNmdERtQUZMR19XX1ZzSUlvaTg5NUNiSktmOHRwNkNva3JYVW1NcTNMckcyc0tteTl1YUQ2UVdQQjVOeU5fM0VFTmVjNS1CQmNBWkpYQjZubnl4SGlTMkhsYTUzemRZM1pEMVJNMjZfb2szRXNfTHo4ZVNpNDBjTGl1YkY2LW5XazVZcFFvTmRmNnkxNW9VaVBGTVd2aW9z?oc=5" rel="noopener">Simon Harris slams Belfast riots as ‘racist thuggery and intimidation’</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1dmNlpFUkZ2OHV0WXMyMHZGTHlLZVYtaVBuVGNmdERtQUZMR19XX1ZzSUlvaTg5NUNiSktmOHRwNkNva3JYVW1NcTNMckcyc0tteTl1YUQ2UVdQQjVOeU5fM0VFTmVjNS1CQmNBWkpYQjZubnl4SGlTMkhsYTUzemRZM1pEMVJNMjZfb2szRXNfTHo4ZVNpNDBjTGl1YkY2LW5XazVZcFFvTmRmNnkxNW9VaVBGTVd2aW9z?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="government-will-do-all-it-can-for-festivals-after-ticket-firm-collapse-minister- other government will do all it can for festivals after ticket firm collapse, minister says unknown reports: government will do all it can for festivals after ticket firm collapse, minister says. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-11T14:04:25+00:00">11 Jun, 14:04</time></div>
+        <h2><a href="https://www.thejournal.ie/tickets-ie-liquidation-7067865-Jun2026/" rel="noopener">Government will do all it can for festivals after ticket firm collapse, minister says</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/tickets-ie-liquidation-7067865-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="belfast live" data-text="joe-brolly-blasts-fai-and-irish-government-over-ireland-v-israel-nations-league- other joe brolly blasts fai and irish government over ireland v israel nations league game belfast live reports: joe brolly blasts fai and irish government over ireland v israel nations league game. belfast live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-11T14:04:00+00:00">11 Jun, 14:04</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV29tTi1fcmhOREVPc2REWHFBLXRrazlrN3lzendOdDRKU20wTzRwV2o3RG5jd0hKMnY5SkU3dTlDbjJZeEFIVXppOXR5TWZ4eGlZS0tQakUtUklQVmZZOWlXUE0tdTRtd29iNHBhY01BXzh6SHp6UXk3SGxnb290U1JJSXhibXhK0gGOAUFVX3lxTFBrbER6dXo4bXRkNWs5V3JIU0Nfam84c3pHYW1HUTlNWlJ0TFA0bFZPQ3BkWTlXVWR2WFEzZWx5SlJ2aHdiQWppcEo5VFpvSXUwTjZQczVFZHA5ZzlmaFZtSVNpR3RHME1lbGwwTTJVMlRhR2ZhRnpVTkZzWjVuT1VndVVHbk9EeDVYX01pX2c?oc=5" rel="noopener">Joe Brolly blasts FAI and Irish government over Ireland v Israel Nations League game</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV29tTi1fcmhOREVPc2REWHFBLXRrazlrN3lzendOdDRKU20wTzRwV2o3RG5jd0hKMnY5SkU3dTlDbjJZeEFIVXppOXR5TWZ4eGlZS0tQakUtUklQVmZZOWlXUE0tdTRtd29iNHBhY01BXzh6SHp6UXk3SGxnb290U1JJSXhibXhK0gGOAUFVX3lxTFBrbER6dXo4bXRkNWs5V3JIU0Nfam84c3pHYW1HUTlNWlJ0TFA0bFZPQ3BkWTlXVWR2WFEzZWx5SlJ2aHdiQWppcEo5VFpvSXUwTjZQczVFZHA5ZzlmaFZtSVNpR3RHME1lbGwwTTJVMlRhR2ZhRnpVTkZzWjVuT1VndVVHbk9EeDVYX01pX2c?oc=5" rel="noopener">Belfast Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the journal" data-text="simon-harris-threats-to-kill-my-children-made-me-consider-quitting-politics courts/security simon harris: threats to kill my children made me consider quitting politics the journal reports: simon harris: threats to kill my children made me consider quitting politics. the journal neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-11T05:01:00+00:00">11 Jun, 05:01</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjBTTWtMRTdVdWliUmpoYUNmQ1RrcU4wLXhCejVSWGY0Snpfa0dIOXRTNXpPeDlTMXJqZTNTTGpEZWd5OHotV0lBYUZsTTctc2RReFJQR1NQVGNvRTJYeC1Dd3VtMmhRZ1YtUmhSY1drUDV0LU9qU0hTQ19ESjFJTWR4bi1PWUs4ZmNqRG9R?oc=5" rel="noopener">Simon Harris: Threats to kill my children made me consider quitting politics</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (threat, threats) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjBTTWtMRTdVdWliUmpoYUNmQ1RrcU4wLXhCejVSWGY0Snpfa0dIOXRTNXpPeDlTMXJqZTNTTGpEZWd5OHotV0lBYUZsTTctc2RReFJQR1NQVGNvRTJYeC1Dd3VtMmhRZ1YtUmhSY1drUDV0LU9qU0hTQ19ESjFJTWR4bi1PWUs4ZmNqRG9R?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="simon-harris-threats-to-kill-my-children-made-me-consider-quitting-politics courts/security simon harris: threats to kill my children made me consider quitting politics unknown reports: simon harris: threats to kill my children made me consider quitting politics. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-11T05:00:15+00:00">11 Jun, 05:00</time></div>
+        <h2><a href="https://www.thejournal.ie/simon-harris-online-threats-against-family-7067143-Jun2026/" rel="noopener">Simon Harris: Threats to kill my children made me consider quitting politics</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (threat, threats) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/simon-harris-online-threats-against-family-7067143-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish independent" data-text="security-defence-and-ai-6-government-priorities-as-ireland-prepares-to-take-over courts/security security, defence and ai – 6 government priorities as ireland prepares to take over eu presidency with €180m programme irish independent reports: security, defence and ai – 6 government priorities as ireland prepares to take over eu presidency with €180m programme. irish independent neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-11T04:35:56+00:00">11 Jun, 04:35</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNOUVUTjlRMFNNLXZpX25NQS1ObW9aMUZrMzdYT25DOXVSandEOUJxazdpc183ajU2ODNMTXplOGttMFA5S0NSNTJHWkVENUNLdTVuV3puMWotQ2dDQVRlWWl6dy10dTNMb3hvX2pJVnFnaElva2NxaUNiRi1Jb1l6NFFlNXdJR1VjbDB6eXQ5dVZPMzV0YWVJY25Ec29iY3ktZXhTM0Z1aXY2eHZBYmNycFFHak8tVGVvbzNST1ZfQ1A2NnE2cWVQSVVzb3Q5aE9hUWdVeUpCSXFfd2RPSWl1MXA2TUJFakd3NnZLQU5fSkIxaUFmWk82TndFZWMxbEZuSjlTcmRpQlhHUQ?oc=5" rel="noopener">Security, defence and AI – 6 government priorities as Ireland prepares to take over EU presidency with €180m programme</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiigJBVV95cUxNOUVUTjlRMFNNLXZpX25NQS1ObW9aMUZrMzdYT25DOXVSandEOUJxazdpc183ajU2ODNMTXplOGttMFA5S0NSNTJHWkVENUNLdTVuV3puMWotQ2dDQVRlWWl6dy10dTNMb3hvX2pJVnFnaElva2NxaUNiRi1Jb1l6NFFlNXdJR1VjbDB6eXQ5dVZPMzV0YWVJY25Ec29iY3ktZXhTM0Z1aXY2eHZBYmNycFFHak8tVGVvbzNST1ZfQ1A2NnE2cWVQSVVzb3Q5aE9hUWdVeUpCSXFfd2RPSWl1MXA2TUJFakd3NnZLQU5fSkIxaUFmWk82TndFZWMxbEZuSjlTcmRpQlhHUQ?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-10">
+      <h3 class="day-head"><span>Wednesday, 10 June</span><span class="day-count">8 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="1" data-cat="polling" data-outlets="irish examiner" data-text="aughinish-alumina-ireland-will-not-support-any-measures-that-help-putin-s-war-ma polling aughinish alumina: ireland will not support any measures that help putin’s war machine – tánaiste irish examiner reports: aughinish alumina: ireland will not support any measures that help putin’s war machine – tánaiste. irish examiner neutral polling">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLLING</span><span class="pill topic">Polling</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T20:21:00+00:00">10 Jun, 20:21</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5" rel="noopener">Aughinish Alumina: Ireland will not support any measures that help Putin’s war machine – Tánaiste</a></h2>
+        <p class="why">Polling or party-support coverage may need a quick political readout.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5" rel="noopener">Irish Examiner <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="should-grey-squirrels-be-killed-in-dublin-and-wicklow-officials-want-to-hear-fro constituency/local should grey squirrels be killed in dublin and wicklow? officials want to hear from you unknown reports: should grey squirrels be killed in dublin and wicklow? officials want to hear from you. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Constituency/local</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T15:57:50+00:00">10 Jun, 15:57</time></div>
+        <h2><a href="https://www.thejournal.ie/dublin-wicklow-grey-squirrel-survey-red-squirrel-7066735-Jun2026/" rel="noopener">Should grey squirrels be killed in Dublin and Wicklow? Officials want to hear from you</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: unclear; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/dublin-wicklow-grey-squirrel-survey-red-squirrel-7066735-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="limerick&#x27;s live 95" data-text="t-naiste-praises-midwest-innovation-during-limerick-visit tax tánaiste praises midwest innovation during limerick visit limerick&#x27;s live 95 reports: tánaiste praises midwest innovation during limerick visit. limerick&#x27;s live 95 neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Tax</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T13:47:20+00:00">10 Jun, 13:47</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkhQblc0Qk1fSlpDY3lkU0hkM3kwV1U2b0g3YjkzTUxpc0pQSS11Zi0zSndnampERDlRNjFYa1R5MHMwblFnWDRQOWU3V0pudU1ISlhyMlBjekdfSEJ6am9QalRjSEJMTWtjblZjY1NZalhtdGZwNzVMUTY1X01XaldvRXhFX1cyck5TMWVWMFZYQ3ZZdzN1VTJFdlJQVFRW?oc=5" rel="noopener">Tánaiste praises Midwest innovation during Limerick visit</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkhQblc0Qk1fSlpDY3lkU0hkM3kwV1U2b0g3YjkzTUxpc0pQSS11Zi0zSndnampERDlRNjFYa1R5MHMwblFnWDRQOWU3V0pudU1ISlhyMlBjekdfSEJ6am9QalRjSEJMTWtjblZjY1NZalhtdGZwNzVMUTY1X01XaldvRXhFX1cyck5TMWVWMFZYQ3ZZdzN1VTJFdlJQVFRW?oc=5" rel="noopener">Limerick&#x27;s Live 95 <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="t-naiste-rules-out-stamp-duty-relief-for-first-time-buyers-but-says-budget-will- finance tánaiste rules out stamp duty relief for first-time-buyers but says budget will target childcare fees unknown reports: tánaiste rules out stamp duty relief for first-time-buyers but says budget will target childcare fees. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T13:38:58+00:00">10 Jun, 13:38</time></div>
+        <h2><a href="https://www.thejournal.ie/no-stamp-duty-relief-for-first-time-buyers-7066343-Jun2026/" rel="noopener">Tánaiste rules out stamp duty relief for first-time-buyers but says budget will target childcare fees</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/no-stamp-duty-relief-for-first-time-buyers-7066343-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="we-sat-down-with-t-naiste-simon-harris other we sat down with tánaiste simon harris unknown reports: we sat down with tánaiste simon harris. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T13:03:00+00:00">10 Jun, 13:03</time></div>
+        <h2><a href="https://www.thejournal.ie/simon-harris-fine-gael-tanaiste-interview-podcast-7066409-Jun2026/" rel="noopener">We sat down with Tánaiste Simon Harris</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/simon-harris-fine-gael-tanaiste-interview-podcast-7066409-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="fast reaction" data-outlets="irish mirror" data-text="government-accused-of-having-no-back-bone-over-ireland-s-israel-football-matches other government accused of having &#x27;no back bone&#x27; over ireland&#x27;s israel football matches irish mirror reports: government accused of having &#x27;no back bone&#x27; over ireland&#x27;s israel football matches. irish mirror unfavourable fast reaction">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">FAST REACTION</span><span class="pill topic">Other</span><span class="pill tone">Critical -1</span><time class="when rel" data-ts="2026-06-10T12:12:35+00:00">10 Jun, 12:12</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5" rel="noopener">Government accused of having &#x27;no back bone&#x27; over Ireland&#x27;s Israel football matches</a></h2>
+        <p class="why">The framing is critical or unresolved and may need a quick response.</p>
+        <p class="why"><strong>Framing:</strong> Headline uses critical or risk language: accused. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5" rel="noopener">Irish Mirror <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish independent" data-text="work-to-begin-on-12-classroom-primary-school-building-for-north-wicklow constituency/local work to begin on 12-classroom primary school building for north wicklow irish independent reports: work to begin on 12-classroom primary school building for north wicklow. irish independent neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Constituency/local</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T10:21:23+00:00">10 Jun, 10:21</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3lUazZjN2Y1WEhQb2xDR0UwUmgydmM0Uzk0QkNnYWJUdlE1ZUJWU2dzYm1aTEdkckxJNGVmSmpLRFJHZzNrdHZJTUxiMUVaX25VSk1iWlpNYkFGYU9XcDAzUUZKZndsZVBUZGhRQ1JUZ0NPV3Z0M0lmVzBlM3NWMm5Ka2x0bG54MzM2V05GOWlRcEdMVDJVNnM3aDFWUkZxUVpqTlJfTF9yMWxwVFk2d3BWSEFLellkUDhpSmVSV2EtNHFDMmp5RVN3?oc=5" rel="noopener">Work to begin on 12-classroom primary school building for north Wicklow</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: unclear; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3lUazZjN2Y1WEhQb2xDR0UwUmgydmM0Uzk0QkNnYWJUdlE1ZUJWU2dzYm1aTEdkckxJNGVmSmpLRFJHZzNrdHZJTUxiMUVaX25VSk1iWlpNYkFGYU9XcDAzUUZKZndsZVBUZGhRQ1JUZ0NPV3Z0M0lmVzBlM3NWMm5Ka2x0bG54MzM2V05GOWlRcEdMVDJVNnM3aDFWUkZxUVpqTlJfTF9yMWxwVFk2d3BWSEFLellkUDhpSmVSV2EtNHFDMmp5RVN3?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="ifac-warns-borrowing-needed-to-part-finance-saving-funds finance ifac warns borrowing needed to part-finance saving funds unknown reports: ifac warns borrowing needed to part-finance saving funds. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-10T01:23:28+00:00">10 Jun, 01:23</time></div>
+        <h2><a href="https://www.rte.ie/news/ireland/2026/0610/1577650-fiscal-advisory-council-savings-funds/" rel="noopener">IFAC warns borrowing needed to part-finance saving funds</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.rte.ie/news/ireland/2026/0610/1577650-fiscal-advisory-council-savings-funds/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-09">
+      <h3 class="day-head"><span>Tuesday, 9 June</span><span class="day-count">17 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the journal" data-text="savings plan finance the government will have to borrow to top up its new savings funds, spending watchdog warns the journal reports: the government will have to borrow to top up its new savings funds, spending watchdog warns. the journal neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T23:06:00+00:00">9 Jun, 23:06</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNSFNfU3BBYXZNS0Nla1M3bUZhQWJOY2pxV2x6SHBpN3VGck5XMF9QOWNycWRPSDhVQnd1Z3FxcVBRM01jXzY4UkNVLVpReWUyRmVDYjVNeTB1STNyOGN4cGZkdE1aUjlNSllKeXNMMU0wQ2lLRWJOV0xUV29qckFCLWk1RU5xQQ?oc=5" rel="noopener">The government will have to borrow to top up its new savings funds, spending watchdog warns</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNSFNfU3BBYXZNS0Nla1M3bUZhQWJOY2pxV2x6SHBpN3VGck5XMF9QOWNycWRPSDhVQnd1Z3FxcVBRM01jXzY4UkNVLVpReWUyRmVDYjVNeTB1STNyOGN4cGZkdE1aUjlNSllKeXNMMU0wQ2lLRWJOV0xUV29qckFCLWk1RU5xQQ?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="savings plan finance the government will have to borrow to top up its new savings funds, spending watchdog warns unknown reports: the government will have to borrow to top up its new savings funds, spending watchdog warns. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T23:05:53+00:00">9 Jun, 23:05</time></div>
+        <h2><a href="https://www.thejournal.ie/irish-government-will-borrow-to-save-7065086-Jun2026/" rel="noopener">The government will have to borrow to top up its new savings funds, spending watchdog warns</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/irish-government-will-borrow-to-save-7065086-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="minister-recommends-government-apology-for-kenneally-victims other minister recommends government apology for kenneally victims unknown reports: minister recommends government apology for kenneally victims. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T22:18:28+00:00">9 Jun, 22:18</time></div>
+        <h2><a href="https://www.breakingnews.ie/ireland/minister-recommends-government-apology-for-kenneally-victims-1911504.html" rel="noopener">Minister recommends government apology for Kenneally victims</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.breakingnews.ie/ireland/minister-recommends-government-apology-for-kenneally-victims-1911504.html" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="kilkenny live" data-text="t-naiste-lends-backing-to-kilkenny-as-kennedy-cup-quarter-final-place-secured constituency/local tánaiste lends backing to kilkenny as kennedy cup quarter-final place secured kilkenny live reports: tánaiste lends backing to kilkenny as kennedy cup quarter-final place secured. kilkenny live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Constituency/local</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T21:53:00+00:00">9 Jun, 21:53</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQTG96RzVVYmcxcnZGNVJrcTNPYXdtV3BZSVduYzZTQ3N4MjB4N3NJNXZ5cU1sb3BlTTNqSmlYVjROZEpGVktYSzYyR1dQNTIzeWowUnZGX0ZicFlaaVMwcG91UnU2S2pMX2Y2VG9lcWFOaFJKeGJ1NlNZdDdIdm10dm1DLXNFVm9uTkIxRGVtVDBhMzN5aXN6LXlDekNhSHg1bnNXYmNvSksyb21ZUzRsRGhIZzNlN2NqcjdIT0d3?oc=5" rel="noopener">Tánaiste lends backing to Kilkenny as Kennedy Cup Quarter-Final place secured</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQTG96RzVVYmcxcnZGNVJrcTNPYXdtV3BZSVduYzZTQ3N4MjB4N3NJNXZ5cU1sb3BlTTNqSmlYVjROZEpGVktYSzYyR1dQNTIzeWowUnZGX0ZicFlaaVMwcG91UnU2S2pMX2Y2VG9lcWFOaFJKeGJ1NlNZdDdIdm10dm1DLXNFVm9uTkIxRGVtVDBhMzN5aXN6LXlDekNhSHg1bnNXYmNvSksyb21ZUzRsRGhIZzNlN2NqcjdIT0d3?oc=5" rel="noopener">Kilkenny Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="justice-minister-secures-approval-from-government-to-publish-jennie-s-law polling justice minister secures approval from government to publish &#x27;jennie&#x27;s law&#x27; unknown reports: justice minister secures approval from government to publish &#x27;jennie&#x27;s law&#x27;. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Polling</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T17:22:14+00:00">9 Jun, 17:22</time></div>
+        <h2><a href="https://www.breakingnews.ie/ireland/justice-minister-secures-approval-from-government-to-publish-jennies-law-1911328.html" rel="noopener">Justice Minister secures approval from Government to publish &#x27;Jennie&#x27;s Law&#x27;</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.breakingnews.ie/ireland/justice-minister-secures-approval-from-government-to-publish-jennies-law-1911328.html" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="government-completely-gutting-otb-boyd-barrett-says other government &#x27;completely gutting&#x27; otb, boyd-barrett says unknown reports: government &#x27;completely gutting&#x27; otb, boyd-barrett says. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T13:54:36+00:00">9 Jun, 13:54</time></div>
+        <h2><a href="https://www.rte.ie/news/politics/2026/0609/1577571-occupied-territories-bill/" rel="noopener">Government &#x27;completely gutting&#x27; OTB, Boyd-Barrett says</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.rte.ie/news/politics/2026/0609/1577571-occupied-territories-bill/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="neutrality-a-strength-but-un-mandate-for-peacekeeping-not-working-t-naiste foreign affairs neutrality a ‘strength’ but un mandate for peacekeeping ‘not working’ – tánaiste unknown reports: neutrality a ‘strength’ but un mandate for peacekeeping ‘not working’ – tánaiste. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Foreign affairs</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T12:13:03+00:00">9 Jun, 12:13</time></div>
+        <h2><a href="https://www.breakingnews.ie/ireland/neutrality-a-strength-but-un-mandate-for-peacekeeping-not-working-tanaiste-1911151.html" rel="noopener">Neutrality a ‘strength’ but UN mandate for peacekeeping ‘not working’ – Tánaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.breakingnews.ie/ireland/neutrality-a-strength-but-un-mandate-for-peacekeeping-not-working-tanaiste-1911151.html" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="breakingnews.ie" data-text="neutrality-a-strength-but-un-mandate-for-peacekeeping-not-working-t-naiste foreign affairs neutrality a ‘strength’ but un mandate for peacekeeping ‘not working’ – tánaiste breakingnews.ie reports: neutrality a ‘strength’ but un mandate for peacekeeping ‘not working’ – tánaiste. breakingnews.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Foreign affairs</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T11:13:03+00:00">9 Jun, 11:13</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGZQWFR5NThJb3luaWE4b3JHUHRBOUlzUV9McExubmRhcEVHRWlYTGZFMldXMnpnZVVEU0F4VUJTM2NkLUZFQU0zeml4TWxhZldVaTVFVDNVTnJuSlhjTnBJZGxOdk4zdjk1OGdEaVlueXJtSlMwSEVuZFRpekRNSHhWcTVldlZleHVGNEFrQ1MzNlJrRk53by1KX1M0V2NmX0tPVjkxWGxnSVlUQl9HRDhxS1JZdjc0UTdfR3hQeHg?oc=5" rel="noopener">Neutrality a ‘strength’ but UN mandate for peacekeeping ‘not working’ – Tánaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGZQWFR5NThJb3luaWE4b3JHUHRBOUlzUV9McExubmRhcEVHRWlYTGZFMldXMnpnZVVEU0F4VUJTM2NkLUZFQU0zeml4TWxhZldVaTVFVDNVTnJuSlhjTnBJZGxOdk4zdjk1OGdEaVlueXJtSlMwSEVuZFRpekRNSHhWcTVldlZleHVGNEFrQ1MzNlJrRk53by1KX1M0V2NmX0tPVjkxWGxnSVlUQl9HRDhxS1JZdjc0UTdfR3hQeHg?oc=5" rel="noopener">BreakingNews.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="divisions-emerge-in-fine-gael-over-position-taken-by-health-minister-on-rotunda- fine gael divisions emerge in fine gael over position taken by health minister on rotunda consultants unknown reports: divisions emerge in fine gael over position taken by health minister on rotunda consultants. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Fine Gael</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T11:02:39+00:00">9 Jun, 11:02</time></div>
+        <h2><a href="https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/" rel="noopener">Divisions emerge in Fine Gael over position taken by health minister on Rotunda consultants</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the journal" data-text="divisions-emerge-in-fine-gael-over-position-taken-by-health-minister-on-rotunda- fine gael divisions emerge in fine gael over position taken by health minister on rotunda consultants the journal reports: divisions emerge in fine gael over position taken by health minister on rotunda consultants. the journal neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Fine Gael</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T11:02:00+00:00">9 Jun, 11:02</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5" rel="noopener">Divisions emerge in Fine Gael over position taken by health minister on Rotunda consultants</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="dublin live" data-text="gardai-to-consider-using-e-bikes-to-pursue-thugs-on-scramblers-as-grace-lynch-s- housing gardai to consider using e-bikes to pursue thugs on scramblers as grace lynch&#x27;s parents meet tanaiste dublin live reports: gardai to consider using e-bikes to pursue thugs on scramblers as grace lynch&#x27;s parents meet tanaiste. dublin live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Housing</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T08:58:52+00:00">9 Jun, 08:58</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9yd1BGRmY1STBldm5VR044NXhuOVBzNTBLemZvN3RyT0oxVlg3RXF6V3JjN0dnQ1YwMGVFLTY0SGNhMklxR3JUQjQwSHpINHcyVE9JWkNzVVNtSjBuOEkxOGp2VFJkUVIxbGNpZ3phbnlzWXdoeWZqX9IBfkFVX3lxTE1IVlhYb1VUVFRBeHloMmFRelVWenJjN0UyczlhMjlkZVRDZkJEb1ZLcUpjaFBnWlc3WDh6SWxrQmVLbEJ0UDlaV0kyMFpSOTJIUjVNSGNfRjdXemplN1QtZk05X3lIakFJRUFBaGJteFRldDdDN195elNMRms3Zw?oc=5" rel="noopener">Gardai to consider using e-bikes to pursue thugs on scramblers as Grace Lynch&#x27;s parents meet Tanaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9yd1BGRmY1STBldm5VR044NXhuOVBzNTBLemZvN3RyT0oxVlg3RXF6V3JjN0dnQ1YwMGVFLTY0SGNhMklxR3JUQjQwSHpINHcyVE9JWkNzVVNtSjBuOEkxOGp2VFJkUVIxbGNpZ3phbnlzWXdoeWZqX9IBfkFVX3lxTE1IVlhYb1VUVFRBeHloMmFRelVWenJjN0UyczlhMjlkZVRDZkJEb1ZLcUpjaFBnWlc3WDh6SWxrQmVLbEJ0UDlaV0kyMFpSOTJIUjVNSGNfRjdXemplN1QtZk05X3lIakFJRUFBaGJteFRldDdDN195elNMRms3Zw?oc=5" rel="noopener">Dublin Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte.ie" data-text="t-naiste-calls-for-clarity-and-finality-over-ireland-israel-game other tánaiste calls for &#x27;clarity&#x27; and &#x27;finality&#x27; over ireland-israel game rte.ie reports: tánaiste calls for &#x27;clarity&#x27; and &#x27;finality&#x27; over ireland-israel game. rte.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T08:43:46+00:00">9 Jun, 08:43</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeE1HZUJDT29jbTFta1FydUhhTnlTT2NDNzlZa0toUnRTTUVNREpCVnNzQklfVllocDg3ZC03VFA3WVRCY2dGY3BVNFhyUVJhWnhUbjA4WGljYm1yY3owMGJOd25EN0tRNlYyc0NZWVptSFp3YThtTHlzYXNBZw?oc=5" rel="noopener">Tánaiste calls for &#x27;clarity&#x27; and &#x27;finality&#x27; over Ireland-Israel game</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeE1HZUJDT29jbTFta1FydUhhTnlTT2NDNzlZa0toUnRTTUVNREpCVnNzQklfVllocDg3ZC03VFA3WVRCY2dGY3BVNFhyUVJhWnhUbjA4WGljYm1yY3owMGJOd25EN0tRNlYyc0NZWVptSFp3YThtTHlzYXNBZw?oc=5" rel="noopener">RTE.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="t-naiste-calls-for-clarity-over-ireland-israel-game other tánaiste calls for &#x27;clarity&#x27; over ireland-israel game unknown reports: tánaiste calls for &#x27;clarity&#x27; over ireland-israel game. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T08:43:46+00:00">9 Jun, 08:43</time></div>
+        <h2><a href="https://www.rte.ie/news/ireland/2026/0609/1577495-ireland-israel-fixture/" rel="noopener">Tánaiste calls for &#x27;clarity&#x27; over Ireland-Israel game</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.rte.ie/news/ireland/2026/0609/1577495-ireland-israel-fixture/" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="clare echo" data-text="the-t-naiste-s-private-secretary-has-responded-to-a-call-from-a-shannon-cllr-to- tax the tánaiste’s private secretary has responded to a call from a shannon cllr to tackle the rising cost of home insurance clare echo reports: the tánaiste’s private secretary has responded to a call from a shannon cllr to tackle the rising cost of home insurance. clare echo neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Tax</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T08:17:51+00:00">9 Jun, 08:17</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUE93TjFBMS1vb0FwWTJlRmE1aEhjaG9qalVMdXp4WFJlUGVxMTV1M3NnSlNrVnBVaHpheXBiT3NTQ21XQ0lYMEVsNmNmTU9qRlJHRGJ4dENEMjFJWmNueW1KTmRUa2Job1h6eGNiVUU4M2poWFpPM0cyeVZlb1ZKek9SZ19lMDBYUmZHTlo5RzYzc0NDV016cHFKS3dmTlZ0a3Y1S0RGSjMwbVRMUXhIeUVReHdjcS1MSFF3V3Vtdm9WX1lTT3k4ZjQ5eUlPdENCc1NVajItNDVlcXU4SkE?oc=5" rel="noopener">The Tánaiste’s Private Secretary has responded to a call from a Shannon cllr to tackle the rising cost of home insurance</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUE93TjFBMS1vb0FwWTJlRmE1aEhjaG9qalVMdXp4WFJlUGVxMTV1M3NnSlNrVnBVaHpheXBiT3NTQ21XQ0lYMEVsNmNmTU9qRlJHRGJ4dENEMjFJWmNueW1KTmRUa2Job1h6eGNiVUU4M2poWFpPM0cyeVZlb1ZKek9SZ19lMDBYUmZHTlo5RzYzc0NDV016cHFKS3dmTlZ0a3Y1S0RGSjMwbVRMUXhIeUVReHdjcS1MSFF3V3Vtdm9WX1lTT3k4ZjQ5eUlPdENCc1NVajItNDVlcXU4SkE?oc=5" rel="noopener">Clare Echo <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="unknown" data-text="t-naiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row other tánaiste urges fai to ‘bring clarity’ to ireland vs israel match venue row unknown reports: tánaiste urges fai to ‘bring clarity’ to ireland vs israel match venue row. unknown neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T06:11:42+00:00">9 Jun, 06:11</time></div>
+        <h2><a href="https://www.breakingnews.ie/ireland/tanaiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row-1910978.html" rel="noopener">Tánaiste urges FAI to ‘bring clarity’ to Ireland vs Israel match venue row</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.breakingnews.ie/ireland/tanaiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row-1910978.html" rel="noopener">Unknown <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the irish times" data-text="t-naiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row other tánaiste urges fai to ‘bring clarity’ to ireland vs israel match venue row the irish times reports: tánaiste urges fai to ‘bring clarity’ to ireland vs israel match venue row. the irish times neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T05:28:19+00:00">9 Jun, 05:28</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hya2U5ZUFVMWFIbFQ0eFdDZ3FHeDd1akVIS0xOVXFLYWotSDdBR1B3VTdXcG56dlB0VFN2VlM4c3JjbFRQdE9LQk5LQXR0TVRBbmg1TXVzLU12aDFzZjEwWEI5bUw3QmdRUXQ1Y3lwVUxOaGtid2VnUXBzQlV4WF9vRWlNM0o4b2dxNnBzRU0tUjh2YW1mQXA1OC1MSVhZWmEzekUzNXZpblFKNi1vMlo0RnBIcllqWHVoWg?oc=5" rel="noopener">Tánaiste urges FAI to ‘bring clarity’ to Ireland vs Israel match venue row</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hya2U5ZUFVMWFIbFQ0eFdDZ3FHeDd1akVIS0xOVXFLYWotSDdBR1B3VTdXcG56dlB0VFN2VlM4c3JjbFRQdE9LQk5LQXR0TVRBbmg1TXVzLU12aDFzZjEwWEI5bUw3QmdRUXQ1Y3lwVUxOaGtid2VnUXBzQlV4WF9vRWlNM0o4b2dxNnBzRU0tUjh2YW1mQXA1OC1MSVhZWmEzekUzNXZpblFKNi1vMlo0RnBIcllqWHVoWg?oc=5" rel="noopener">The Irish Times <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish examiner" data-text="ireland-v-israel-government-faces-further-pressure-to-back-boycott other ireland v israel: government faces further pressure to back boycott irish examiner reports: ireland v israel: government faces further pressure to back boycott. irish examiner neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-09T00:05:00+00:00">9 Jun, 00:05</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE42LTV0enBQNWYwaXlrMVFIRVZQZktSM1VENFRGa3hZWjEweGptSWZ5dHM5VWM4NXM1dlRqaXNNd1hUaHdqNlVtbjlHdndIMnF1dmtEb1JJMlZsdzZqdWJRcXJzQTk2eUY5SS0wbTBTNA?oc=5" rel="noopener">Ireland v Israel: Government faces further pressure to back boycott</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE42LTV0enBQNWYwaXlrMVFIRVZQZktSM1VENFRGa3hZWjEweGptSWZ5dHM5VWM4NXM1dlRqaXNNd1hUaHdqNlVtbjlHdndIMnF1dmtEb1JJMlZsdzZqdWJRcXJzQTk2eUY5SS0wbTBTNA?oc=5" rel="noopener">Irish Examiner <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-08">
+      <h3 class="day-head"><span>Monday, 8 June</span><span class="day-count">4 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="limerick leader" data-text="t-naiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row other tánaiste urges fai to ‘bring clarity’ to ireland vs israel match venue row limerick leader reports: tánaiste urges fai to ‘bring clarity’ to ireland vs israel match venue row. limerick leader neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-08T22:23:00+00:00">8 Jun, 22:23</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXF0dXdybDN5d0lEYW81QlVKOXE0Zlg0ZlBvNFFvQTdnUDZGbGdtWkVsdUF1d2ZiZlVWa054OVZ5ZjlFQ3g4ZjhodmNEUTdYS3RNVEhUNTYwS0NNRlk4N0c1WjUzaWlBUWZvNFl3VUR0NFh6OG5sdnlRZWptc25xVlJQSHY0SjhESUFUR3VSTU5kNWc1R043eXZqWDdzYTk3YU5KQjE5RWtfckN3VDRveUJnNm9oUWdMYkQ0?oc=5" rel="noopener">Tánaiste urges FAI to ‘bring clarity’ to Ireland vs Israel match venue row</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXF0dXdybDN5d0lEYW81QlVKOXE0Zlg0ZlBvNFFvQTdnUDZGbGdtWkVsdUF1d2ZiZlVWa054OVZ5ZjlFQ3g4ZjhodmNEUTdYS3RNVEhUNTYwS0NNRlk4N0c1WjUzaWlBUWZvNFl3VUR0NFh6OG5sdnlRZWptc25xVlJQSHY0SjhESUFUR3VSTU5kNWc1R043eXZqWDdzYTk3YU5KQjE5RWtfckN3VDRveUJnNm9oUWdMYkQ0?oc=5" rel="noopener">Limerick Leader <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="the irish times" data-text="savings plan finance simon harris insists investment savings plan is aimed at ‘middle ireland’ the irish times reports on unresolved details around the government&#x27;s new savings plan. the irish times neutral policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-08T12:18:45+00:00">8 Jun, 12:18</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dkaFBOVjNOM0hySm5pUW91c1dPdjdrZVRqeEZjUmZkazd0bTZSNk8wMDBlWndZcWZSd3JJcTMtQXRuZFdLUjNBYUlCLUg4RFl2eE1WUmxxajJjNzhpTmFlcmNGTXlhM3ItODNISTkwa0o2YXZVdHVGN2dfQThITUk4b3FDbkRzZXhNc2hzY1NhVVZnVEJQOHNySmpiZ3BhWXU4WUZ4ZWRsUVR6Z2NkNi1jaXUyOVBkTUhn?oc=5" rel="noopener">Simon Harris insists investment savings plan is aimed at ‘middle Ireland’</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dkaFBOVjNOM0hySm5pUW91c1dPdjdrZVRqeEZjUmZkazd0bTZSNk8wMDBlWndZcWZSd3JJcTMtQXRuZFdLUjNBYUlCLUg4RFl2eE1WUmxxajJjNzhpTmFlcmNGTXlhM3ItODNISTkwa0o2YXZVdHVGN2dfQThITUk4b3FDbkRzZXhNc2hzY1NhVVZnVEJQOHNySmpiZ3BhWXU4WUZ4ZWRsUVR6Z2NkNi1jaXUyOVBkTUhn?oc=5" rel="noopener">The Irish Times <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish independent" data-text="t-naiste-leads-tributes-to-late-ballina-senator-and-former-councillor-ernie-caff other tánaiste leads tributes to late ballina senator and former councillor, ernie caffrey irish independent reports: tánaiste leads tributes to late ballina senator and former councillor, ernie caffrey. irish independent neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-08T11:06:27+00:00">8 Jun, 11:06</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0VLaHdPLW1KZ2dkU1BvanVDUjNaWTlNV3VQOUl2V0FjTkRKdkk5Z1RSVnNxMldfbkhtaEtWaFNjSThseExpZHAxY2ZVSE1pSWgzN0RmcFI3eENkbU5HUDR6U29WRWpKSE8wWGZqc09Lb1ppdkI0bnE0Rmg5d2lQbUFoYkRaLTZLNHZvQ2gtc3RRcnRtM2dTa29VMGFDRzJWcVVxbDhTZERrRkNaODhHNEswUzMzdnNxT0RtWExrMGJiX0VFVkFUVlVUdGlKTndSY0w2ZHV3?oc=5" rel="noopener">Tánaiste leads tributes to late Ballina Senator and former councillor, Ernie Caffrey</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0VLaHdPLW1KZ2dkU1BvanVDUjNaWTlNV3VQOUl2V0FjTkRKdkk5Z1RSVnNxMldfbkhtaEtWaFNjSThseExpZHAxY2ZVSE1pSWgzN0RmcFI3eENkbU5HUDR6U29WRWpKSE8wWGZqc09Lb1ppdkI0bnE0Rmg5d2lQbUFoYkRaLTZLNHZvQ2gtc3RRcnRtM2dTa29VMGFDRzJWcVVxbDhTZERrRkNaODhHNEswUzMzdnNxT0RtWExrMGJiX0VFVkFUVlVUdGlKTndSY0w2ZHV3?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="business post" data-text="simon-harris-us-relationship-central-to-ireland-s-eu-presidency foreign affairs simon harris: us relationship central to ireland’s eu presidency business post reports: simon harris: us relationship central to ireland’s eu presidency. business post neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Foreign affairs</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-08T09:00:08+00:00">8 Jun, 09:00</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPM01OdGdub1RTT0JxYWtJZFYxVTN3UnFvSWdxZkhvMXpGRWpkRlRSTUdoZThBakhYYjczcGVpYUltcGFxQzU3TU9ydlJIOGROQldCUnNJNWpZVDlRQ2l4SUN2YXdZSV91QzdqSy1hcHhmV1NDQmREYjdjQ2I1ZVJST2pGY19TRmhfRTNhaGY4T2hqa2FwSTdsSUFfNHBFd0Z6dHc?oc=5" rel="noopener">Simon Harris: US relationship central to Ireland’s EU presidency</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPM01OdGdub1RTT0JxYWtJZFYxVTN3UnFvSWdxZkhvMXpGRWpkRlRSTUdoZThBakhYYjczcGVpYUltcGFxQzU3TU9ydlJIOGROQldCUnNJNWpZVDlRQ2l4SUN2YXdZSV91QzdqSy1hcHhmV1NDQmREYjdjQ2I1ZVJST2pGY19TRmhfRTNhaGY4T2hqa2FwSTdsSUFfNHBFd0Z6dHc?oc=5" rel="noopener">Business Post <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-07">
+      <h3 class="day-head"><span>Sunday, 7 June</span><span class="day-count">1 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="westernpeople.ie" data-text="t-naiste-leads-tributes-to-deceased-mayo-politician other tánaiste leads tributes to deceased mayo politician westernpeople.ie reports: tánaiste leads tributes to deceased mayo politician. westernpeople.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-07T16:29:00+00:00">7 Jun, 16:29</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFlyVUduMHljSjJYdVVpS1ZLSHFJTjFQMlJMTU56QU02a2k0VjBOQVptVldUVG93SnBCUGJwN3RIQmFaRlp0LWlqblJkLVJOdjUwcExrZUNxd0dXSzJBX09HSWpKX3hXQlp5dEMxdFYzYm9BVm9JQjltajZPTm1RRWFNakhXMkpGTTFKVzJLVUZtS2lsdG0yck5ua3JEekxJNlhjYkEyRkhXVG8?oc=5" rel="noopener">Tánaiste leads tributes to deceased Mayo politician</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFlyVUduMHljSjJYdVVpS1ZLSHFJTjFQMlJMTU56QU02a2k0VjBOQVptVldUVG93SnBCUGJwN3RIQmFaRlp0LWlqblJkLVJOdjUwcExrZUNxd0dXSzJBX09HSWpKX3hXQlp5dEMxdFYzYm9BVm9JQjltajZPTm1RRWFNakhXMkpGTTFKVzJLVUZtS2lsdG0yck5ua3JEekxJNlhjYkEyRkhXVG8?oc=5" rel="noopener">westernpeople.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-06">
+      <h3 class="day-head"><span>Saturday, 6 June</span><span class="day-count">3 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="business post" data-text="the-government-should-fully-embrace-ireland-s-eu-presidency foreign affairs the government should fully embrace ireland’s eu presidency business post reports: the government should fully embrace ireland’s eu presidency. business post neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Foreign affairs</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-06T20:04:45+00:00">6 Jun, 20:04</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmRrVGJJcFo0V3Atd3pLWWVVRjFseEVFbE9VZElibkd4OHE5Y01vRXJqcjd1cVFyZ21qeUtfOWgydTBVM0hRbzdDZ0tFV0UwX3JpcUN6by1pRmE0OWV0Y1BDX0wyaW9BSDNHbDlUcmd1NjF4UEdRUWRPYW1OaGJqVUJsZFZmZmVHV3Fwd3lvZWhUS3ZTNWpuX0tHZUFqVE1tQ0pHWHFmbmVwRTJubWlWRVBRSmk1T1AxM3RtWG5KZUE?oc=5" rel="noopener">The government should fully embrace Ireland’s EU presidency</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmRrVGJJcFo0V3Atd3pLWWVVRjFseEVFbE9VZElibkd4OHE5Y01vRXJqcjd1cVFyZ21qeUtfOWgydTBVM0hRbzdDZ0tFV0UwX3JpcUN6by1pRmE0OWV0Y1BDX0wyaW9BSDNHbDlUcmd1NjF4UEdRUWRPYW1OaGJqVUJsZFZmZmVHV3Fwd3lvZWhUS3ZTNWpuX0tHZUFqVE1tQ0pHWHFmbmVwRTJubWlWRVBRSmk1T1AxM3RtWG5KZUE?oc=5" rel="noopener">Business Post <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="business post" data-text="niamh-brennan-conflict-between-government-and-bank-on-ptsb-offer-impossible-to-e finance niamh brennan: ‘conflict’ between government and bank on ptsb offer ‘impossible’ to explain business post reports: niamh brennan: ‘conflict’ between government and bank on ptsb offer ‘impossible’ to explain. business post neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-06T20:04:41+00:00">6 Jun, 20:04</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVpidlZWR0JVNVVsX1F1a21GNmduRy1GY2M4dTlpM3NfRzVad3otWGxkcE00SmQ3SEEwTk5KRllvZ2UxaVV6b3JOeGZ2emNyMm9TZG1YYlllU1o3dS1kZ1RTXzZjR1BFbjIwenhpREY3emxtcno4QlBwMHFMMk1NTjU2eWs4cUZGeWZ3eTc5QUgtdGt2MVFUVUg4MVBkS2pQLVA2NnpRT1ZIMkpvY1FMdWFuTUt6MU1VRkdIQWZSQW8?oc=5" rel="noopener">Niamh Brennan: ‘Conflict’ between government and bank on PTSB offer ‘impossible’ to explain</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVpidlZWR0JVNVVsX1F1a21GNmduRy1GY2M4dTlpM3NfRzVad3otWGxkcE00SmQ3SEEwTk5KRllvZ2UxaVV6b3JOeGZ2emNyMm9TZG1YYlllU1o3dS1kZ1RTXzZjR1BFbjIwenhpREY3emxtcno4QlBwMHFMMk1NTjU2eWs4cUZGeWZ3eTc5QUgtdGt2MVFUVUg4MVBkS2pQLVA2NnpRT1ZIMkpvY1FMdWFuTUt6MU1VRkdIQWZSQW8?oc=5" rel="noopener">Business Post <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="polling" data-outlets="irish independent" data-text="sunday-independent-ireland-thinks-poll-by-election-boost-for-soc-dems-and-fine-g polling sunday independent/ireland thinks poll: by-election boost for soc dems and fine gael as support for mary lou mcdonald drops irish independent reports: sunday independent/ireland thinks poll: by-election boost for soc dems and fine gael as support for mary lou mcdonald drops. irish independent favourable polling">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLLING</span><span class="pill topic">Polling</span><span class="pill tone">Supportive +1</span><time class="when rel" data-ts="2026-06-06T16:07:04+00:00">6 Jun, 16:07</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5" rel="noopener">Sunday Independent/Ireland Thinks poll: By-election boost for Soc Dems and Fine Gael as support for Mary Lou McDonald drops</a></h2>
+        <p class="why">Polling or party-support coverage may need a quick political readout.</p>
+        <p class="why"><strong>Framing:</strong> Headline uses constructive delivery language: boost. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-05">
+      <h3 class="day-head"><span>Friday, 5 June</span><span class="day-count">3 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish independent" data-text="5-9m-project-to-upgrade-wastewater-network-in-wicklow-to-begin-on-monday constituency/local €5.9m project to upgrade wastewater network in wicklow to begin on monday irish independent reports: €5.9m project to upgrade wastewater network in wicklow to begin on monday. irish independent neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Constituency/local</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-05T15:28:09+00:00">5 Jun, 15:28</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPYThZcWRMMEtSdHlFcDRWZ1hySUlucjh2SV9XNFRYcHFYLUdGWVpjbHlPaEpnUzRULXptNGtFNWd0NzBBV0JkUzlzX2FJMEZ0c0dvRXphZmZwbmgwTEhJcjF3emY5bjZOMllVQTkxLUlxaDJ3M2VhcV9jejVHTkdNb2xlOEllaGpzR0lYTDlneEN6bkZDVDFpUzdiTUhiMWZIUmJWb0Fwd05TZGVHcG9SWHZ5M0FBX2ZOQ1hjY2dXOW4yVXJYdFhsWGNCRQ?oc=5" rel="noopener">€5.9m project to upgrade wastewater network in Wicklow to begin on Monday</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: unclear; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPYThZcWRMMEtSdHlFcDRWZ1hySUlucjh2SV9XNFRYcHFYLUdGWVpjbHlPaEpnUzRULXptNGtFNWd0NzBBV0JkUzlzX2FJMEZ0c0dvRXphZmZwbmgwTEhJcjF3emY5bjZOMllVQTkxLUlxaDJ3M2VhcV9jejVHTkdNb2xlOEllaGpzR0lYTDlneEN6bkZDVDFpUzdiTUhiMWZIUmJWb0Fwd05TZGVHcG9SWHZ5M0FBX2ZOQ1hjY2dXOW4yVXJYdFhsWGNCRQ?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="east coast fm" data-text="man-withdraws-appeal-against-severity-of-sentence-after-threatening-to-kill-simo courts/security man withdraws appeal against severity of sentence after threatening to kill simon harris and family east coast fm reports: man withdraws appeal against severity of sentence after threatening to kill simon harris and family. east coast fm neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-05T09:23:40+00:00">5 Jun, 09:23</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWk1aGtlekk3VUNMdGwyQnFMNEFzMDFQVzJEN0RqbU1sdGxVWWYwakJucXZFakJ1NUs1Y2xtWFNlR0h5YjdjRUx0RzVHN2p1MGZhcUFRNDdwbTRmRnN4VTZDaVZfYTNxNDVQWEdGbEVRamRpbG5tOVN3bmI2WnhOdVItdXl1cTdGOFFtZUljWXNuS3JrUUVQQmJaeVFtWmtKd1UzSzRuU1FKb1FUMTZJR2NMeEZjLXFIdkNjVm5Dek9FSFZwY0JzTVk2S3pkam1wakIwNnZoOGZrVms?oc=5" rel="noopener">Man Withdraws Appeal Against Severity Of Sentence After Threatening To Kill Simon Harris And Family</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (threat) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWk1aGtlekk3VUNMdGwyQnFMNEFzMDFQVzJEN0RqbU1sdGxVWWYwakJucXZFakJ1NUs1Y2xtWFNlR0h5YjdjRUx0RzVHN2p1MGZhcUFRNDdwbTRmRnN4VTZDaVZfYTNxNDVQWEdGbEVRamRpbG5tOVN3bmI2WnhOdVItdXl1cTdGOFFtZUljWXNuS3JrUUVQQmJaeVFtWmtKd1UzSzRuU1FKb1FUMTZJR2NMeEZjLXFIdkNjVm5Dek9FSFZwY0JzTVk2S3pkam1wakIwNnZoOGZrVms?oc=5" rel="noopener">East Coast FM <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish independent" data-text="kerry-fine-gael-in-constituency-shake-up-under-minister-o-donovan-but-who-will-l fine gael kerry fine gael in constituency shake-up under minister o’donovan — but who will land the dáil ticket? irish independent reports: kerry fine gael in constituency shake-up under minister o’donovan — but who will land the dáil ticket?. irish independent neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Fine Gael</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-05T06:05:16+00:00">5 Jun, 06:05</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTTl4aVJZejQyRmJmVy1JS192bUthclNhVTNHd1VoU1NyZEhPT19yZkY2cTNMWi1ZRi00Nm9LUzdvVXN6cEdMRFI3VlBKcmw0dnU1UTl6TXBqYkFVM0NSSDhBbzVWSTRrcEx5MkF2M0lfWlRtdFJudTl3Sy02V0c1ZFd6aXpONnFBaUI3YmJCNzBEc2NMY1V4RnlmaElSYzF6Q1piUEFvUGhkNmJvYkJfQmpEcHFYRTNhNFBPUTVWZkVjOXJpWk1aUVh4cnZqVmFzQ3oyRVprTnVldGFGTjVIbS11VHZvRFYwYzFJ?oc=5" rel="noopener">Kerry Fine Gael in constituency shake-up under Minister O’Donovan — But who will land the Dáil ticket?</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTTl4aVJZejQyRmJmVy1JS192bUthclNhVTNHd1VoU1NyZEhPT19yZkY2cTNMWi1ZRi00Nm9LUzdvVXN6cEdMRFI3VlBKcmw0dnU1UTl6TXBqYkFVM0NSSDhBbzVWSTRrcEx5MkF2M0lfWlRtdFJudTl3Sy02V0c1ZFd6aXpONnFBaUI3YmJCNzBEc2NMY1V4RnlmaElSYzF6Q1piUEFvUGhkNmJvYkJfQmpEcHFYRTNhNFBPUTVWZkVjOXJpWk1aUVh4cnZqVmFzQ3oyRVprTnVldGFGTjVIbS11VHZvRFYwYzFJ?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section>
+<section class="day-section" data-day="2026-06-04">
+      <h3 class="day-head"><span>Thursday, 4 June</span><span class="day-count">12 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the journal" data-text="connemara-man-begins-four-month-jail-term-for-threatening-to-kill-t-naiste courts/security connemara man begins four-month jail term for threatening to kill tánaiste the journal reports: connemara man begins four-month jail term for threatening to kill tánaiste. the journal neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-04T18:42:00+00:00">4 Jun, 18:42</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVGZWUE9NLU5fa01iT2hSZm5HQWdnSEQ1VWpSSnNYVHI4SmxsWlkycHozV0U4VkU4a0lHY2NpVm9xOFJTdk1vLU5CM3AzT3hRXzVPVF80d195M09UbEFSYUJ1Z3EtaFZXN1hJN0pxMkU0SkwyRU9yNVpZSWdmUQ?oc=5" rel="noopener">Connemara man begins four-month jail term for threatening to kill Tánaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (threat) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBYVGZWUE9NLU5fa01iT2hSZm5HQWdnSEQ1VWpSSnNYVHI4SmxsWlkycHozV0U4VkU4a0lHY2NpVm9xOFJTdk1vLU5CM3AzT3hRXzVPVF80d195M09UbEFSYUJ1Z3EtaFZXN1hJN0pxMkU0SkwyRU9yNVpZSWdmUQ?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="the irish times" data-text="man-convicted-over-threats-to-simon-harris-and-family-withdraws-appeal-against-j courts/security man convicted over threats to simon harris and family withdraws appeal against jailing the irish times reports: man convicted over threats to simon harris and family withdraws appeal against jailing. the irish times neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-04T18:13:49+00:00">4 Jun, 18:13</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlowRzQ5SmZUMENpakxTRTg1U3BtVG1Pc3JkUktYQzlzUXNnbjNvWl9DVG5DeS1fMk5hSFg2UTZ3eUpyOGZpc0VEMUMtS096SUdPcHBuUkxGaTJ5eVViY1FjWnEwRFJ1d25pV0sySlZ2bkZiOHptc1FjMEhfU2xDYUxBbFl4ZHplUTUzZjNyeDN3ZGN6NlFTNnBuWXM2TmcwYV83NnpvRUNlWnJ2SnlBLVI5d3pVRVpEQkZqWFpHYVBPTVJxTklhRkg2YjdDdEdEdDEzRXFZY0ZzQQ?oc=5" rel="noopener">Man convicted over threats to Simon Harris and family withdraws appeal against jailing</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (threat, threats) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlowRzQ5SmZUMENpakxTRTg1U3BtVG1Pc3JkUktYQzlzUXNnbjNvWl9DVG5DeS1fMk5hSFg2UTZ3eUpyOGZpc0VEMUMtS096SUdPcHBuUkxGaTJ5eVViY1FjWnEwRFJ1d25pV0sySlZ2bkZiOHptc1FjMEhfU2xDYUxBbFl4ZHplUTUzZjNyeDN3ZGN6NlFTNnBuWXM2TmcwYV83NnpvRUNlWnJ2SnlBLVI5d3pVRVpEQkZqWFpHYVBPTVJxTklhRkg2YjdDdEdEdDEzRXFZY0ZzQQ?oc=5" rel="noopener">The Irish Times <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte.ie" data-text="man-begins-sentence-for-threat-to-t-naiste-and-family courts/security man begins sentence for threat to tánaiste and family rte.ie reports: man begins sentence for threat to tánaiste and family. rte.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Courts/security</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-04T16:10:38+00:00">4 Jun, 16:10</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9jQk40WGtSNWRjOUNFbTdQUlJjUWhxY0NsNmFUdTB6UUw1Y1ZoUm9TNXVCVmhXbllqYWI5c0pnVkpaRVJ1elphMEdRTkR2NkI2b2JwVWRWNEtCX3FkcEtGTHgxUmJkMW50MXV4Z3lDZUVpYW8?oc=5" rel="noopener">Man begins sentence for threat to Tánaiste and family</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (threat) rather than approval or criticism of Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9jQk40WGtSNWRjOUNFbTdQUlJjUWhxY0NsNmFUdTB6UUw1Y1ZoUm9TNXVCVmhXbllqYWI5c0pnVkpaRVJ1elphMEdRTkR2NkI2b2JwVWRWNEtCX3FkcEtGTHgxUmJkMW50MXV4Z3lDZUVpYW8?oc=5" rel="noopener">RTE.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="irish examiner" data-text="government-worried-russia-using-aughinish-alumina-products-in-ukraine-war foreign affairs government worried russia using aughinish alumina products in ukraine war irish examiner reports: government worried russia using aughinish alumina products in ukraine war. irish examiner neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Foreign affairs</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-06-04T16:10:00+00:00">4 Jun, 16:10</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE91OEktN2FqRDBZdVk4Ni1GTnBRcS1SS3F4dVAyalhwazRpVFU3X1Z3UWhYaWczNTdPMHZHSWJCY1JsSHBpZ21pMURzUWRJbXFQNzRSVXZuNnFvNUhxRzVkWEFxam5NUzVNWjN6ZDJhbw?oc=5" rel="noopener">Government worried Russia using Aughinish Alumina products in Ukraine war</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline describes an adverse event or risk (worried) rather than approval or criticism of Simon Harris. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE91OEktN2FqRDBZdVk4Ni1GTnBRcS1SS3F4dVAyalhwazRpVFU3X1Z3UWhYaWczNTdPMHZHSWJCY1JsSHBpZ21pMURzUWRJbXFQNzRSVXZuNnFvNUhxRzVkWEFxam5NUzVNWjN6ZDJhbw?oc=5" rel="noopener">Irish Examiner <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="msn" data-text="access to cash finance struggling to find an atm near you? you&#x27;ll be able to tell the central bank under new rules msn reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. msn mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill topic">Finance</span><span class="pill tone">Mixed Framing +0</span><time class="when rel" data-ts="2026-06-04T12:19:16+00:00">4 Jun, 12:19</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQkVUd3JobjJKT1V0WFlLa2RWNWFYby1iZTcwWUdMdms4SVA0N1lRZy1yOS1zTnJfdDFycFRJZkVoa3Uwak9aRU94OFRHVXRvNGtBc0JoMTFsblhxOVVoXzJFZ1p5ekZqem9PcWJYRHpMd1JEa0hkSTU4eFJUeDJFTU1sUmNXYmJRb2g2YnBCbGwxU3oxWS1mZ2JrWEJIOEVFQnlJME1kWV8yS3dHaDRnclJwX0ZGSXlwZWUtUURWVHRfSlVFRnQxd3JSZFZrMTNacVlWak9hMGRPQ2pNYnI2Y01jQm9DTWZ6V2FHbDBaS0ZwOEVaNVhLYw?oc=5" rel="noopener">Struggling to find an ATM near you? You&#x27;ll be able to tell the Central Bank under new rules</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Framing:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQkVUd3JobjJKT1V0WFlLa2RWNWFYby1iZTcwWUdMdms4SVA0N1lRZy1yOS1zTnJfdDFycFRJZkVoa3Uwak9aRU94OFRHVXRvNGtBc0JoMTFsblhxOVVoXzJFZ1p5ekZqem9PcWJYRHpMd1JEa0hkSTU4eFJUeDJFTU1sUmNXYmJRb2g2YnBCbGwxU3oxWS1mZ2JrWEJIOEVFQnlJME1kWV8yS3dHaDRnclJwX0ZGSXlwZWUtUURWVHRfSlVFRnQxd3JSZFZrMTNacVlWak9hMGRPQ2pNYnI2Y01jQm9DTWZ6V2FHbDBaS0ZwOEVaNVhLYw?oc=5" rel="noopener">MSN <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="highland radio" data-text="access to cash finance government announces safeguards for access to cash in local communities highland radio reports: government announces safeguards for access to cash in local communities. highland radio favourable mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Supportive +1</span><time class="when rel" data-ts="2026-06-04T12:00:00+00:00">4 Jun, 12:00</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC1XTFozMEROeG9RSUlydk5lelQzQnJZbkhaelJPZjJZUldfSXRFY21ndGFvUjhXQm1wNTdQUEgxY2R3c3BleVM0VWhyZEhtZ2JxVHNubmNXUDhUNnd6WFFQOXExOV9fZ0Z5STFDMWlrRVJTSjRkbTFPdXIxQkVXcHh4Ni1hcG82T2J1WHFRZEhCWmFRbVl4bFlOQlRLalI3bTNHbW9kOW10OS1UQXc?oc=5" rel="noopener">Government announces safeguards for access to cash in local communities</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Headline uses constructive delivery language: announces, safeguards. Target: Government/policy; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC1XTFozMEROeG9RSUlydk5lelQzQnJZbkhaelJPZjJZUldfSXRFY21ndGFvUjhXQm1wNTdQUEgxY2R3c3BleVM0VWhyZEhtZ2JxVHNubmNXUDhUNnd6WFFQOXExOV9fZ0Z5STFDMWlrRVJTSjRkbTFPdXIxQkVXcHh4Ni1hcG82T2J1WHFRZEhCWmFRbVl4bFlOQlRLalI3bTNHbW9kOW10OS1UQXc?oc=5" rel="noopener">Highland Radio <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="fast reaction" data-outlets="the irish times" data-text="savings plan finance a dozen questions still to be answered about the government&#x27;s new savings plan the irish times reports on unresolved details around the government&#x27;s new savings plan. the irish times unfavourable fast reaction">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">FAST REACTION</span><span class="pill topic">Finance</span><span class="pill tone">Critical -1</span><time class="when rel" data-ts="2026-06-04T11:32:10+00:00">4 Jun, 11:32</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5" rel="noopener">A dozen questions still to be answered about the Government&#x27;s new savings plan</a></h2>
+        <p class="why">The framing is critical or unresolved and may need a quick response.</p>
+        <p class="why"><strong>Framing:</strong> Headline uses critical or risk language: questions still. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5" rel="noopener">The Irish Times <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="fast reaction" data-outlets="irish independent" data-text="residential zoned land tax tax call for urgent review as wicklow council hit with eur1m residential zoned land tax bill irish independent reports on calls for review or concern around a residential zoned land tax bill. irish independent unfavourable fast reaction">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">FAST REACTION</span><span class="pill topic">Tax</span><span class="pill tone">Critical -1</span><time class="when rel" data-ts="2026-06-04T11:20:00+00:00">4 Jun, 11:20</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5" rel="noopener">Call for urgent review as Wicklow council hit with EUR1m residential zoned land tax bill</a></h2>
+        <p class="why">The framing is critical or unresolved and may need a quick response.</p>
+        <p class="why"><strong>Framing:</strong> Headline uses critical or risk language: urgent review, hit with. Target: unclear; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="the irish sun" data-text="access to cash finance public to be enabled to raise concerns to central bank under new law the irish sun reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. the irish sun mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill topic">Finance</span><span class="pill tone">Mixed Framing +0</span><time class="when rel" data-ts="2026-06-04T11:17:06+00:00">4 Jun, 11:17</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2F1dzZMSmxXXzhMUEJlSFB2SmNMM3Z5cU1WZGhoVDYyRUJFWWxMOFpMY1BvMVZhVjR5TDh5N2hJeWdNejB1eE9GMkRTQXZ6NzBXbWtFUF9wV3p2bEJxUUN5WnE2VDdDN3ltREtIdGJOTWdPR014c0U2WE9ieUJyWjdvVXlubGUtMW5sZmVB?oc=5" rel="noopener">Public to be enabled to raise concerns to Central Bank under new law</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Framing:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2F1dzZMSmxXXzhMUEJlSFB2SmNMM3Z5cU1WZGhoVDYyRUJFWWxMOFpMY1BvMVZhVjR5TDh5N2hJeWdNejB1eE9GMkRTQXZ6NzBXbWtFUF9wV3p2bEJxUUN5WnE2VDdDN3ltREtIdGJOTWdPR014c0U2WE9ieUJyWjdvVXlubGUtMW5sZmVB?oc=5" rel="noopener">The Irish Sun <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="cork beo" data-text="access to cash finance new rules to allow people to raise &#x27;cashless society&#x27; concerns with central bank cork beo reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. cork beo mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill topic">Finance</span><span class="pill tone">Mixed Framing +0</span><time class="when rel" data-ts="2026-06-04T11:13:24+00:00">4 Jun, 11:13</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1TQWtEdW5hMmMzdXRNTUFQTnBGbkZLdmFHUzhfclRkOW1BWGNGQ21FNXczUlVjUVhtd0FhS2kxWmhHeXRKTlNkUFhuR0NuQUhYREozVGVJMS1UZFVhOVlmVi1BcUJWeGFra3VzOTlwRlF1VmhocDZMSW1vbjRRNlVB?oc=5" rel="noopener">New rules to allow people to raise &#x27;cashless society&#x27; concerns with Central Bank</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Framing:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG1TQWtEdW5hMmMzdXRNTUFQTnBGbkZLdmFHUzhfclRkOW1BWGNGQ21FNXczUlVjUVhtd0FhS2kxWmhHeXRKTlNkUFhuR0NuQUhYREozVGVJMS1UZFVhOVlmVi1BcUJWeGFra3VzOTlwRlF1VmhocDZMSW1vbjRRNlVB?oc=5" rel="noopener">Cork Beo <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="the journal" data-text="access to cash finance struggling to find an atm near you? you&#x27;ll be able to tell the central bank under new rules the journal reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. the journal mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill topic">Finance</span><span class="pill tone">Mixed Framing +0</span><time class="when rel" data-ts="2026-06-04T11:12:00+00:00">4 Jun, 11:12</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVGcl93TW9zLVJEYnBXMVRLc1BxSVdWUS1UaTVNQ3ZHdVFxeERqaFZHbUJVb09GVFM4b1RGQURDZlI5bk1PUEg0TlN0WWM4b2FMOWVsZWVva0xkRjc0a2k0YjJPRnVuYlFfdXIzU2laOWRJUFozbmZkVFY2SURqV0JYR3NLQXRJeUR4VnF2czFPZVo0S3MxYlFQMEZkVFZjX0oxakRB?oc=5" rel="noopener">Struggling to find an ATM near you? You&#x27;ll be able to tell the Central Bank under new rules</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Framing:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWVGcl93TW9zLVJEYnBXMVRLc1BxSVdWUS1UaTVNQ3ZHdVFxeERqaFZHbUJVb09GVFM4b1RGQURDZlI5bk1PUEg0TlN0WWM4b2FMOWVsZWVva0xkRjc0a2k0YjJPRnVuYlFfdXIzU2laOWRJUFozbmZkVFY2SURqV0JYR3NLQXRJeUR4VnF2czFPZVo0S3MxYlFQMEZkVFZjX0oxakRB?oc=5" rel="noopener">The Journal <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="policy" data-outlets="kclr 96fm" data-text="access to cash finance new guidelines to protect access to cash services in communities in carlow, kilkenny and across the country kclr 96fm reports on new rules or guidelines for raising local access-to-cash concerns with the central bank. kclr 96fm mixed policy">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLICY</span><span class="pill topic">Finance</span><span class="pill tone">Mixed Framing +0</span><time class="when rel" data-ts="2026-06-04T11:08:21+00:00">4 Jun, 11:08</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0daWE9sYXRzVkJQU2lRUDVaMnVnVENCa0ZmN3UyQWpka1I5cEhGNnIxeFNkLTNLM2plVVlXZlBoNUhfeXZqOUxqb1NHOFFCQ2JtYzIwQTZoQ2t2SWl1aGdUQVJuQXdCUXFMTzVFRmtEODdXUlZxenY2MWhLQVQ4WlhxZHZJTks3NmtIVHA3bmJlWHJqRHZSbEExd3B6X3lYQmpBVk5xeC11TWJEUHZhdVJTTEFvblJpZHNTSUtxM0laX29rMzFF?oc=5" rel="noopener">New guidelines to protect access to cash services in communities in Carlow, Kilkenny and across the country</a></h2>
+        <p class="why">This is policy coverage connected to Finance or Government delivery.</p>
+        <p class="why"><strong>Framing:</strong> Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns. Target: Government/policy; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0daWE9sYXRzVkJQU2lRUDVaMnVnVENCa0ZmN3UyQWpka1I5cEhGNnIxeFNkLTNLM2plVVlXZlBoNUhfeXZqOUxqb1NHOFFCQ2JtYzIwQTZoQ2t2SWl1aGdUQVJuQXdCUXFMTzVFRmtEODdXUlZxenY2MWhLQVQ4WlhxZHZJTks3NmtIVHA3bmJlWHJqRHZSbEExd3B6X3lYQmpBVk5xeC11TWJEUHZhdVJTTEFvblJpZHNTSUtxM0laX29rMzFF?oc=5" rel="noopener">KCLR 96FM <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section><div id="feed-empty" class="empty" style="display:none">No stories match your filter.</div>
+    <details>
+      <summary>Plain-text output</summary>
+      <pre>NONE</pre>
+    </details>
+    <footer>
+      <p>Automated media monitor · feeds checked every 30 minutes · <a href="dashboard.html">dashboard</a> · <a href="weekly-briefing.html">weekly briefing</a> · <a href="calendar.html">archive</a> · <a href="history.html">run history</a></p>
+      <p>all feeds healthy · last check Thu, 11 Jun 2026 23:31 GMT</p>
+    </footer>
+
+  </main>
+  
+  <script>
+  (function () {
+    function rel(ts) {
+      var d = new Date(ts);
+      if (isNaN(d)) return null;
+      var s = Math.max(0, Math.round((Date.now() - d.getTime()) / 1000));
+      var m = Math.round(s / 60), h = Math.round(m / 60), day = Math.round(h / 24);
+      if (s < 45) return "just now";
+      if (m < 60) return m + " min" + (m !== 1 ? "s" : "") + " ago";
+      if (h < 24) return h + " hr" + (h !== 1 ? "s" : "") + " ago";
+      if (day < 7) return day + " day" + (day !== 1 ? "s" : "") + " ago";
+      return d.toLocaleDateString();
+    }
+    function tick() {
+      document.querySelectorAll("time.rel[data-ts]").forEach(function (el) {
+        var r = rel(el.getAttribute("data-ts"));
+        if (!r) return;
+        if (!el.dataset.abs) el.dataset.abs = el.textContent;
+        el.textContent = r;
+        el.title = el.dataset.abs;
+      });
+    }
+    tick();
+    setInterval(tick, 30000);
+    var sb = document.getElementById("share");
+    if (sb) {
+      sb.addEventListener("click", function () {
+        var data = { title: document.title, url: location.href };
+        if (navigator.share) { navigator.share(data).catch(function () {}); }
+        else if (navigator.clipboard) {
+          navigator.clipboard.writeText(location.href);
+          sb.textContent = "Link copied";
+          setTimeout(function () { sb.textContent = "Share"; }, 1600);
+        }
+      });
+    }
+    var tb = document.getElementById("theme");
+    function label() { return document.documentElement.classList.contains("theme-light") ? "Dark mode" : "Light mode"; }
+    if (tb) {
+      tb.textContent = label();
+      tb.addEventListener("click", function () {
+        var light = document.documentElement.classList.toggle("theme-light");
+        try { localStorage.setItem("hm-theme", light ? "light" : "dark"); } catch (e) {}
+        tb.textContent = label();
+      });
+    }
+  })();
+  </script>
+
+  <script>
+  (function () {
+    var q = document.getElementById("q");
+    var outletSel = document.getElementById("outlet");
+    var count = document.getElementById("fcount");
+    var empty = document.getElementById("feed-empty");
+    var cards = [].slice.call(document.querySelectorAll(".feed .card"));
+    var chips = [].slice.call(document.querySelectorAll(".chip"));
+    var sigOnly = false;
+    function apply() {
+      var term = ((q && q.value) || "").trim().toLowerCase();
+      var outlet = ((outletSel && outletSel.value) || "").toLowerCase();
+      var shown = 0;
+      cards.forEach(function (c) {
+        var ok = true;
+        if (sigOnly && c.getAttribute("data-sig") !== "1") ok = false;
+        if (ok && term && (c.getAttribute("data-text") || "").indexOf(term) < 0) ok = false;
+        if (ok && outlet && (c.getAttribute("data-outlets") || "").indexOf(outlet) < 0) ok = false;
+        c.style.display = ok ? "" : "none";
+        if (ok) shown++;
+      });
+      document.querySelectorAll(".day-section").forEach(function (sec) {
+        var vis = [].slice.call(sec.querySelectorAll(".card")).some(function (c) { return c.style.display !== "none"; });
+        sec.style.display = vis ? "" : "none";
+      });
+      if (count) count.textContent = shown + " of " + cards.length + " stories";
+      if (empty) empty.style.display = shown ? "none" : "";
+    }
+    if (q) q.addEventListener("input", apply);
+    if (outletSel) outletSel.addEventListener("change", apply);
+    chips.forEach(function (ch) {
+      ch.addEventListener("click", function () {
+        chips.forEach(function (x) { x.classList.remove("on"); });
+        ch.classList.add("on");
+        sigOnly = ch.getAttribute("data-sig") === "1";
+        apply();
+      });
+    });
+    apply();
+  })();
+  </script>
+
+</body>
+</html>

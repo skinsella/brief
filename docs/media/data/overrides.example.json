@@ -1,0 +1,12 @@
+{
+  "https://example.com/story": {
+    "favourability": "neutral",
+    "topic": "Finance",
+    "tag": "SIGNIFICANT",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Manual correction after press-office review.",
+    "attention": [
+      "Manual review"
+    ]
+  }
+}

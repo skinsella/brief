@@ -1,0 +1,2786 @@
+{
+  "chemical-biological-physical-scientists": {
+    "aioe_raw": 0.9573,
+    "aioe_0_10": 6.6,
+    "n_matched": 6,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "19-4031",
+        "us_title": "Chemical Technicians",
+        "uk_desc": "Chemical scientists",
+        "aioe": 0.0628057
+      },
+      {
+        "us_soc": "19-1029",
+        "us_title": "Biological Scientists, All Other",
+        "uk_desc": "Biological scientists and biochemists",
+        "aioe": 1.010193
+      },
+      {
+        "us_soc": "19-2099",
+        "us_title": "Physical Scientists, All Other",
+        "uk_desc": "Physical scientists",
+        "aioe": 1.140157
+      },
+      {
+        "us_soc": "19-1011",
+        "us_title": "Animal Scientists",
+        "uk_desc": "Social and humanities scientists",
+        "aioe": 1.041358
+      },
+      {
+        "us_soc": "19-4061",
+        "us_title": "Social Science Research Assistants",
+        "uk_desc": "Natural and social science professionals n.e.c.",
+        "aioe": 1.204652
+      },
+      {
+        "us_soc": "11-3131",
+        "us_title": "Training and Development Managers",
+        "uk_desc": "Research and development managers",
+        "aioe": 1.284423
+      }
+    ]
+  },
+  "environmental-conservation-specialists": {
+    "aioe_raw": 0.735,
+    "aioe_0_10": 6.23,
+    "n_matched": 5,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "17-2081",
+        "us_title": "Environmental Engineers",
+        "uk_desc": "Conservation and environmental associate professionals",
+        "aioe": 1.343561
+      },
+      {
+        "us_soc": "19-1031",
+        "us_title": "Conservation Scientists",
+        "uk_desc": "Conservation professionals",
+        "aioe": 0.0690313
+      },
+      {
+        "us_soc": "11-3051",
+        "us_title": "Industrial Production Managers",
+        "uk_desc": "Production managers and directors in mining and energy",
+        "aioe": 0.5086878
+      },
+      {
+        "us_soc": "11-3011",
+        "us_title": "Administrative Services Managers",
+        "uk_desc": "Waste disposal and environmental services managers",
+        "aioe": 0.7398278
+      },
+      {
+        "us_soc": "19-2041",
+        "us_title": "Environmental Scientists and Specialists, Including Health",
+        "uk_desc": "Environmental health professionals",
+        "aioe": 1.014113
+      }
+    ]
+  },
+  "health-and-safety-officers": {
+    "aioe_raw": 0.3997,
+    "aioe_0_10": 5.67,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "29-9012",
+        "us_title": "Occupational Health and Safety Technicians",
+        "uk_desc": "Health and safety officers",
+        "aioe": 0.3996866
+      }
+    ]
+  },
+  "other-engineering-professionals": {
+    "aioe_raw": 0.9085,
+    "aioe_0_10": 6.51,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "17-2141",
+        "us_title": "Mechanical Engineers",
+        "uk_desc": "Mechanical engineers",
+        "aioe": 1.004709
+      },
+      {
+        "us_soc": "17-2071",
+        "us_title": "Electrical Engineers",
+        "uk_desc": "Electrical engineers",
+        "aioe": 1.126725
+      },
+      {
+        "us_soc": "17-2072",
+        "us_title": "Electronics Engineers, Except Computer",
+        "uk_desc": "Electronics engineers",
+        "aioe": 0.6654578
+      },
+      {
+        "us_soc": "11-9041",
+        "us_title": "Engineering Managers",
+        "uk_desc": "Engineering professionals n.e.c.",
+        "aioe": 0.8370105
+      }
+    ]
+  },
+  "production-managers-in-manufacturing": {
+    "aioe_raw": 0.5087,
+    "aioe_0_10": 5.85,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "11-3051",
+        "us_title": "Industrial Production Managers",
+        "uk_desc": "Production managers and directors in manufacturing",
+        "aioe": 0.5086878
+      }
+    ]
+  },
+  "production-design-qc-engineers": {
+    "aioe_raw": 0.1094,
+    "aioe_0_10": 5.18,
+    "n_matched": 3,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Production and process engineers",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "11-3131",
+        "us_title": "Training and Development Managers",
+        "uk_desc": "Design and development engineers",
+        "aioe": 1.284423
+      },
+      {
+        "us_soc": "33-9011",
+        "us_title": "Animal Control Workers",
+        "uk_desc": "Quality control and planning engineers",
+        "aioe": -0.5946321
+      }
+    ]
+  },
+  "science-engineering-technicians": {
+    "aioe_raw": 0.3895,
+    "aioe_0_10": 5.65,
+    "n_matched": 6,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "51-9081",
+        "us_title": "Dental Laboratory Technicians",
+        "uk_desc": "Laboratory technicians",
+        "aioe": 0.0013206
+      },
+      {
+        "us_soc": "17-3023",
+        "us_title": "Electrical and Electronic Engineering Technicians",
+        "uk_desc": "Electrical and electronic technicians",
+        "aioe": 0.3515252
+      },
+      {
+        "us_soc": "17-3026",
+        "us_title": "Industrial Engineering Technicians",
+        "uk_desc": "Engineering technicians",
+        "aioe": 0.6106679
+      },
+      {
+        "us_soc": "19-4031",
+        "us_title": "Chemical Technicians",
+        "uk_desc": "Quality assurance technicians",
+        "aioe": 0.0628057
+      },
+      {
+        "us_soc": "43-5061",
+        "us_title": "Production, Planning, and Expediting Clerks",
+        "uk_desc": "Planning, process and production technicians",
+        "aioe": 0.6999103
+      },
+      {
+        "us_soc": "17-3026",
+        "us_title": "Industrial Engineering Technicians",
+        "uk_desc": "Science, engineering and production technicians n.e.c.",
+        "aioe": 0.6106679
+      }
+    ]
+  },
+  "ict-professionals-n-e-c": {
+    "aioe_raw": 0.4012,
+    "aioe_0_10": 5.67,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "15-1121",
+        "us_title": "Computer Systems Analysts",
+        "uk_desc": "IT business analysts, architects and systems designers",
+        "aioe": 1.19815
+      },
+      {
+        "us_soc": "15-1134",
+        "us_title": "Web Developers",
+        "uk_desc": "Web design and development professionals",
+        "aioe": 1.089463
+      },
+      {
+        "us_soc": "49-9052",
+        "us_title": "Telecommunications Line Installers and Repairers",
+        "uk_desc": "Information technology & telecommunications professionals n.e.c.",
+        "aioe": -1.083883
+      }
+    ]
+  },
+  "ict-specialist-project-managers": {
+    "aioe_raw": 0.9682,
+    "aioe_0_10": 6.61,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "11-9061",
+        "us_title": "Funeral Directors",
+        "uk_desc": "Information technology and telecommunications directors",
+        "aioe": 0.3719018
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "IT specialist managers",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "IT project and programme managers",
+        "aioe": 1.26628
+      }
+    ]
+  },
+  "it-technicians": {
+    "aioe_raw": 0.3451,
+    "aioe_0_10": 5.58,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "17-3021",
+        "us_title": "Aerospace Engineering and Operations Technicians",
+        "uk_desc": "IT operations technicians",
+        "aioe": 0.3909402
+      },
+      {
+        "us_soc": "15-1151",
+        "us_title": "Computer User Support Specialists",
+        "uk_desc": "IT user support technicians",
+        "aioe": 0.299343
+      }
+    ]
+  },
+  "programmers-software-developers": {
+    "aioe_raw": 1.2833,
+    "aioe_0_10": 7.14,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "15-1133",
+        "us_title": "Software Developers, Systems Software",
+        "uk_desc": "Programmers and software development professionals",
+        "aioe": 1.283308
+      }
+    ]
+  },
+  "accountants-tax-experts": {
+    "aioe_raw": 1.482,
+    "aioe_0_10": 7.47,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "13-2011",
+        "us_title": "Accountants and Auditors",
+        "uk_desc": "Chartered and certified accountants and taxation experts",
+        "aioe": 1.481956
+      }
+    ]
+  },
+  "actuaries-economists-statisticians-other-business-professionals": {
+    "aioe_raw": 1.405,
+    "aioe_0_10": 7.34,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "15-2011",
+        "us_title": "Actuaries",
+        "uk_desc": "Actuaries, economists and statisticians",
+        "aioe": 1.516474
+      },
+      {
+        "us_soc": "25-1011",
+        "us_title": "Business Teachers, Postsecondary",
+        "uk_desc": "Business and related research professionals",
+        "aioe": 1.349314
+      },
+      {
+        "us_soc": "25-1011",
+        "us_title": "Business Teachers, Postsecondary",
+        "uk_desc": "Business, research and administrative professionals n.e.c.",
+        "aioe": 1.349314
+      }
+    ]
+  },
+  "financial-accounts-managers": {
+    "aioe_raw": 1.4462,
+    "aioe_0_10": 7.41,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "11-3031",
+        "us_title": "Financial Managers",
+        "uk_desc": "Financial accounts managers",
+        "aioe": 1.446232
+      }
+    ]
+  },
+  "financial-administrative-occupations": {
+    "aioe_raw": 1.2773,
+    "aioe_0_10": 7.13,
+    "n_matched": 6,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "13-2041",
+        "us_title": "Credit Analysts",
+        "uk_desc": "Credit controllers",
+        "aioe": 1.345268
+      },
+      {
+        "us_soc": "43-3051",
+        "us_title": "Payroll and Timekeeping Clerks",
+        "uk_desc": "Book-keepers, payroll managers and wages clerks",
+        "aioe": 1.257632
+      },
+      {
+        "us_soc": "43-9061",
+        "us_title": "Office Clerks, General",
+        "uk_desc": "Bank and post office clerks",
+        "aioe": 0.9888986
+      },
+      {
+        "us_soc": "13-2072",
+        "us_title": "Loan Officers",
+        "uk_desc": "Finance officers",
+        "aioe": 1.385739
+      },
+      {
+        "us_soc": "11-3031",
+        "us_title": "Financial Managers",
+        "uk_desc": "Financial administrative occupations n.e.c.",
+        "aioe": 1.446232
+      },
+      {
+        "us_soc": "43-9041",
+        "us_title": "Insurance Claims and Policy Processing Clerks",
+        "uk_desc": "Pensions and insurance clerks and assistants",
+        "aioe": 1.240201
+      }
+    ]
+  },
+  "financial-analysts-insurance-underwriters": {
+    "aioe_raw": 1.2856,
+    "aioe_0_10": 7.14,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "41-9021",
+        "us_title": "Real Estate Brokers",
+        "uk_desc": "Brokers",
+        "aioe": 1.149681
+      },
+      {
+        "us_soc": "13-2053",
+        "us_title": "Insurance Underwriters",
+        "uk_desc": "Insurance underwriters",
+        "aioe": 1.326652
+      },
+      {
+        "us_soc": "13-2051",
+        "us_title": "Financial Analysts",
+        "uk_desc": "Finance and investment analysts and advisers",
+        "aioe": 1.380615
+      }
+    ]
+  },
+  "financial-managers-directors": {
+    "aioe_raw": 1.4462,
+    "aioe_0_10": 7.41,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "11-3031",
+        "us_title": "Financial Managers",
+        "uk_desc": "Financial managers and directors",
+        "aioe": 1.446232
+      },
+      {
+        "us_soc": "11-3031",
+        "us_title": "Financial Managers",
+        "uk_desc": "Financial institution managers and directors",
+        "aioe": 1.446232
+      }
+    ]
+  },
+  "hr-managers-officers": {
+    "aioe_raw": 1.3204,
+    "aioe_0_10": 7.2,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "11-3121",
+        "us_title": "Human Resources Managers",
+        "uk_desc": "Human resource managers and directors",
+        "aioe": 1.320417
+      },
+      {
+        "us_soc": "11-3121",
+        "us_title": "Human Resources Managers",
+        "uk_desc": "Human resources and industrial relations officers",
+        "aioe": 1.320417
+      }
+    ]
+  },
+  "mgt-consultants-business-analysts-project-managers": {
+    "aioe_raw": 1.4393,
+    "aioe_0_10": 7.4,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "13-1111",
+        "us_title": "Management Analysts",
+        "uk_desc": "Management consultants and business analysts",
+        "aioe": 1.432417
+      },
+      {
+        "us_soc": "11-3031",
+        "us_title": "Financial Managers",
+        "uk_desc": "Business and financial project management professionals",
+        "aioe": 1.446232
+      }
+    ]
+  },
+  "other-business-associate-professionals": {
+    "aioe_raw": 1.2944,
+    "aioe_0_10": 7.16,
+    "n_matched": 4,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "13-1051",
+        "us_title": "Cost Estimators",
+        "uk_desc": "Estimators, valuers and assessors",
+        "aioe": 1.367669
+      },
+      {
+        "us_soc": "11-3031",
+        "us_title": "Financial Managers",
+        "uk_desc": "Financial and accounting technicians",
+        "aioe": 1.446232
+      },
+      {
+        "us_soc": "25-1011",
+        "us_title": "Business Teachers, Postsecondary",
+        "uk_desc": "Business and related associate professionals n.e.c.",
+        "aioe": 1.349314
+      },
+      {
+        "us_soc": "43-6012",
+        "us_title": "Legal Secretaries",
+        "uk_desc": "Legal associate professionals",
+        "aioe": 1.014541
+      }
+    ]
+  },
+  "health-associate-professionals": {
+    "aioe_raw": -0.0686,
+    "aioe_0_10": 4.89,
+    "n_matched": 6,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "29-2041",
+        "us_title": "Emergency Medical Technicians and Paramedics",
+        "uk_desc": "Paramedics",
+        "aioe": -0.6863446
+      },
+      {
+        "us_soc": "29-2052",
+        "us_title": "Pharmacy Technicians",
+        "uk_desc": "Pharmaceutical technicians",
+        "aioe": 0.0070256
+      },
+      {
+        "us_soc": "51-9081",
+        "us_title": "Dental Laboratory Technicians",
+        "uk_desc": "Medical and dental technicians",
+        "aioe": 0.0013206
+      },
+      {
+        "us_soc": "21-1091",
+        "us_title": "Health Educators",
+        "uk_desc": "Health associate professionals n.e.c.",
+        "aioe": 0.691658
+      },
+      {
+        "us_soc": "29-2081",
+        "us_title": "Opticians, Dispensing",
+        "uk_desc": "Dispensing opticians",
+        "aioe": 0.1013966
+      },
+      {
+        "us_soc": "31-9091",
+        "us_title": "Dental Assistants",
+        "uk_desc": "Dental nurses",
+        "aioe": -0.5268759
+      }
+    ]
+  },
+  "medical-practitioners": {
+    "aioe_raw": 0.1901,
+    "aioe_0_10": 5.32,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "29-1171",
+        "us_title": "Nurse Practitioners",
+        "uk_desc": "Medical practitioners",
+        "aioe": 0.1900572
+      }
+    ]
+  },
+  "nurses-midwives": {
+    "aioe_raw": 0.1966,
+    "aioe_0_10": 5.33,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "29-1161",
+        "us_title": "Nurse Midwives",
+        "uk_desc": "Nurses and midwives",
+        "aioe": 0.1966265
+      }
+    ]
+  },
+  "other-healthcare-professionals": {
+    "aioe_raw": 0.5659,
+    "aioe_0_10": 5.94,
+    "n_matched": 11,
+    "n_uk_socs": 11,
+    "matched": [
+      {
+        "us_soc": "19-3039",
+        "us_title": "Psychologists, All Other",
+        "uk_desc": "Psychologists",
+        "aioe": 1.389854
+      },
+      {
+        "us_soc": "29-1051",
+        "us_title": "Pharmacists",
+        "uk_desc": "Pharmacists",
+        "aioe": 0.6058705
+      },
+      {
+        "us_soc": "29-2081",
+        "us_title": "Opticians, Dispensing",
+        "uk_desc": "Opticians (including dispensing opticians)",
+        "aioe": 0.1013966
+      },
+      {
+        "us_soc": "31-9091",
+        "us_title": "Dental Assistants",
+        "uk_desc": "Dental practitioners",
+        "aioe": -0.5268759
+      },
+      {
+        "us_soc": "29-1131",
+        "us_title": "Veterinarians",
+        "uk_desc": "Veterinarians",
+        "aioe": -0.0749958
+      },
+      {
+        "us_soc": "31-9092",
+        "us_title": "Medical Assistants",
+        "uk_desc": "Medical radiographers",
+        "aioe": 0.1497917
+      },
+      {
+        "us_soc": "29-1081",
+        "us_title": "Podiatrists",
+        "uk_desc": "Podiatrists",
+        "aioe": 0.6279185
+      },
+      {
+        "us_soc": "21-1091",
+        "us_title": "Health Educators",
+        "uk_desc": "Health professionals n.e.c.",
+        "aioe": 0.691658
+      },
+      {
+        "us_soc": "11-9111",
+        "us_title": "Medical and Health Services Managers",
+        "uk_desc": "Health services and public health managers and directors",
+        "aioe": 1.260259
+      },
+      {
+        "us_soc": "11-3011",
+        "us_title": "Administrative Services Managers",
+        "uk_desc": "Social services managers and directors",
+        "aioe": 0.7398278
+      },
+      {
+        "us_soc": "11-9111",
+        "us_title": "Medical and Health Services Managers",
+        "uk_desc": "Health care practice managers",
+        "aioe": 1.260259
+      }
+    ]
+  },
+  "therapy-professionals": {
+    "aioe_raw": 0.3851,
+    "aioe_0_10": 5.64,
+    "n_matched": 3,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "29-1122",
+        "us_title": "Occupational Therapists",
+        "uk_desc": "Occupational therapists",
+        "aioe": 0.1151615
+      },
+      {
+        "us_soc": "29-1127",
+        "us_title": "Speech-Language Pathologists",
+        "uk_desc": "Speech and language therapists",
+        "aioe": 1.146267
+      },
+      {
+        "us_soc": "29-2054",
+        "us_title": "Respiratory Therapy Technicians",
+        "uk_desc": "Therapy professionals n.e.c.",
+        "aioe": -0.1060473
+      }
+    ]
+  },
+  "educational-support-assistants": {
+    "aioe_raw": 0.6306,
+    "aioe_0_10": 6.05,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "25-1191",
+        "us_title": "Graduate Teaching Assistants",
+        "uk_desc": "Teaching assistants",
+        "aioe": 1.111356
+      },
+      {
+        "us_soc": "31-9092",
+        "us_title": "Medical Assistants",
+        "uk_desc": "Educational support assistants",
+        "aioe": 0.1497917
+      }
+    ]
+  },
+  "higher-further-education-teaching-professionals": {
+    "aioe_raw": 1.1114,
+    "aioe_0_10": 6.85,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "25-1191",
+        "us_title": "Graduate Teaching Assistants",
+        "uk_desc": "Further and higher education teaching professionals",
+        "aioe": 1.111356
+      }
+    ]
+  },
+  "primary-nursery-teachers": {
+    "aioe_raw": 1.1114,
+    "aioe_0_10": 6.85,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "25-1191",
+        "us_title": "Graduate Teaching Assistants",
+        "uk_desc": "Primary and nursery education teaching professionals",
+        "aioe": 1.111356
+      }
+    ]
+  },
+  "secondary-teachers": {
+    "aioe_raw": 0.9588,
+    "aioe_0_10": 6.6,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "25-2054",
+        "us_title": "Special Education Teachers, Secondary School",
+        "uk_desc": "Secondary education teaching professionals",
+        "aioe": 0.9587653
+      }
+    ]
+  },
+  "teaching-other-educational-professionals": {
+    "aioe_raw": 0.6707,
+    "aioe_0_10": 6.12,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "21-1012",
+        "us_title": "Educational, Vocational, and School Counselors",
+        "uk_desc": "Senior professionals of educational establishments",
+        "aioe": 0.9739287
+      },
+      {
+        "us_soc": "25-2051",
+        "us_title": "Special Education Teachers, Preschool",
+        "uk_desc": "Special education teaching professionals",
+        "aioe": 0.3750564
+      },
+      {
+        "us_soc": "25-2054",
+        "us_title": "Special Education Teachers, Secondary School",
+        "uk_desc": "Education advisers and school inspectors",
+        "aioe": 0.9587653
+      },
+      {
+        "us_soc": "25-2051",
+        "us_title": "Special Education Teachers, Preschool",
+        "uk_desc": "Teaching, special needs, & other educational professionals n.e.c.",
+        "aioe": 0.3750564
+      }
+    ]
+  },
+  "trainers-instructors-career-guidance": {
+    "aioe_raw": -0.4776,
+    "aioe_0_10": 4.2,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "39-9031",
+        "us_title": "Fitness Trainers and Aerobics Instructors",
+        "uk_desc": "Vocational and industrial trainers and instructors",
+        "aioe": -2.111948
+      },
+      {
+        "us_soc": "25-1194",
+        "us_title": "Vocational Education Teachers, Postsecondary",
+        "uk_desc": "Careers advisers and vocational guidance specialists",
+        "aioe": 0.1622185
+      },
+      {
+        "us_soc": "25-1072",
+        "us_title": "Nursing Instructors and Teachers, Postsecondary",
+        "uk_desc": "Driving instructors",
+        "aioe": 0.5170682
+      }
+    ]
+  },
+  "care-workers-home-carers-etc": {
+    "aioe_raw": -0.0402,
+    "aioe_0_10": 4.93,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "39-9041",
+        "us_title": "Residential Advisors",
+        "uk_desc": "Houseparents and residential wardens",
+        "aioe": 0.4746119
+      },
+      {
+        "us_soc": "39-9011",
+        "us_title": "Child Care Workers",
+        "uk_desc": "Care workers and home carers",
+        "aioe": -0.3834794
+      },
+      {
+        "us_soc": "39-9041",
+        "us_title": "Residential Advisors",
+        "uk_desc": "Residential, day and domiciliary care managers and proprietors",
+        "aioe": 0.4746119
+      },
+      {
+        "us_soc": "39-9011",
+        "us_title": "Child Care Workers",
+        "uk_desc": "Senior care workers",
+        "aioe": -0.3834794
+      },
+      {
+        "us_soc": "39-9011",
+        "us_title": "Child Care Workers",
+        "uk_desc": "Care escorts",
+        "aioe": -0.3834794
+      }
+    ]
+  },
+  "childminders-etc": {
+    "aioe_raw": 0.7311,
+    "aioe_0_10": 6.22,
+    "n_matched": 2,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "29-1141",
+        "us_title": "Registered Nurses",
+        "uk_desc": "Nursery nurses and assistants and playworkers",
+        "aioe": 0.2294097
+      },
+      {
+        "us_soc": "15-1199",
+        "us_title": "Computer Occupations, All Other",
+        "uk_desc": "Childminders and related occupations",
+        "aioe": 1.232705
+      }
+    ]
+  },
+  "other-caring-services": {
+    "aioe_raw": -0.4802,
+    "aioe_0_10": 4.2,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "31-1014",
+        "us_title": "Nursing Assistants",
+        "uk_desc": "Nursing auxiliaries and assistants",
+        "aioe": -0.9040212
+      },
+      {
+        "us_soc": "29-2041",
+        "us_title": "Emergency Medical Technicians and Paramedics",
+        "uk_desc": "Ambulance staff (excluding paramedics)",
+        "aioe": -0.6863446
+      },
+      {
+        "us_soc": "31-9092",
+        "us_title": "Medical Assistants",
+        "uk_desc": "Undertakers, mortuary and crematorium assistants",
+        "aioe": 0.1497917
+      }
+    ]
+  },
+  "social-workers-welfare-professionals": {
+    "aioe_raw": 0.9146,
+    "aioe_0_10": 6.52,
+    "n_matched": 3,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "21-1022",
+        "us_title": "Medical and Public Health Social Workers",
+        "uk_desc": "Social workers",
+        "aioe": 0.9339648
+      },
+      {
+        "us_soc": "21-1092",
+        "us_title": "Probation Officers and Correctional Treatment Specialists",
+        "uk_desc": "Probation officers",
+        "aioe": 0.5272448
+      },
+      {
+        "us_soc": "21-2011",
+        "us_title": "Clergy",
+        "uk_desc": "Clergy",
+        "aioe": 1.282559
+      }
+    ]
+  },
+  "welfare-housing-associate-professionals": {
+    "aioe_raw": 0.9362,
+    "aioe_0_10": 6.56,
+    "n_matched": 3,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "21-1094",
+        "us_title": "Community Health Workers",
+        "uk_desc": "Youth and community workers",
+        "aioe": 0.0371229
+      },
+      {
+        "us_soc": "13-2072",
+        "us_title": "Loan Officers",
+        "uk_desc": "Child and early years officers",
+        "aioe": 1.385739
+      },
+      {
+        "us_soc": "13-2072",
+        "us_title": "Loan Officers",
+        "uk_desc": "Housing officers",
+        "aioe": 1.385739
+      }
+    ]
+  },
+  "barristers-judges-solicitors-related-professionals": {
+    "aioe_raw": 1.2555,
+    "aioe_0_10": 7.09,
+    "n_matched": 2,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "23-1023",
+        "us_title": "Judges, Magistrate Judges, and Magistrates",
+        "uk_desc": "Barristers and judges",
+        "aioe": 1.496494
+      },
+      {
+        "us_soc": "43-6012",
+        "us_title": "Legal Secretaries",
+        "uk_desc": "Legal professionals n.e.c.",
+        "aioe": 1.014541
+      }
+    ]
+  },
+  "other-protective-service-occupations": {
+    "aioe_raw": 0.4791,
+    "aioe_0_10": 5.8,
+    "n_matched": 6,
+    "n_uk_socs": 7,
+    "matched": [
+      {
+        "us_soc": "13-2072",
+        "us_title": "Loan Officers",
+        "uk_desc": "Officers in armed forces",
+        "aioe": 1.385739
+      },
+      {
+        "us_soc": "43-5031",
+        "us_title": "Police, Fire, and Ambulance Dispatchers",
+        "uk_desc": "Senior officers in fire, ambulance, prison and related services",
+        "aioe": 0.9074452
+      },
+      {
+        "us_soc": "49-9064",
+        "us_title": "Watch Repairers",
+        "uk_desc": "Fire service officers (watch manager and below)",
+        "aioe": -0.2123996
+      },
+      {
+        "us_soc": "13-2072",
+        "us_title": "Loan Officers",
+        "uk_desc": "Prison service officers (below principal officer)",
+        "aioe": 1.385739
+      },
+      {
+        "us_soc": "33-3051",
+        "us_title": "Police and Sheriff's Patrol Officers",
+        "uk_desc": "Police community support officers",
+        "aioe": -0.6681123
+      },
+      {
+        "us_soc": "33-9099",
+        "us_title": "Protective Service Workers, All Other",
+        "uk_desc": "Protective service associate professionals n.e.c.",
+        "aioe": 0.0764088
+      }
+    ]
+  },
+  "police-officers-e-g-garda": {
+    "aioe_raw": -0.6681,
+    "aioe_0_10": 3.89,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "33-3051",
+        "us_title": "Police and Sheriff's Patrol Officers",
+        "uk_desc": "Senior police officers",
+        "aioe": -0.6681123
+      },
+      {
+        "us_soc": "33-3051",
+        "us_title": "Police and Sheriff's Patrol Officers",
+        "uk_desc": "Police officers (sergeant and below)",
+        "aioe": -0.6681123
+      }
+    ]
+  },
+  "security-guards": {
+    "aioe_raw": -0.4939,
+    "aioe_0_10": 4.18,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "33-9032",
+        "us_title": "Security Guards",
+        "uk_desc": "Security guards and related occupations",
+        "aioe": -0.3908421
+      },
+      {
+        "us_soc": "33-3041",
+        "us_title": "Parking Enforcement Workers",
+        "uk_desc": "Parking and civil enforcement occupations",
+        "aioe": -0.6239931
+      },
+      {
+        "us_soc": "33-9091",
+        "us_title": "Crossing Guards",
+        "uk_desc": "School midday and crossing patrol occupations",
+        "aioe": -0.5699511
+      },
+      {
+        "us_soc": "33-9032",
+        "us_title": "Security Guards",
+        "uk_desc": "Elementary security occupations n.e.c.",
+        "aioe": -0.3908421
+      }
+    ]
+  },
+  "architects-town-planners-architectural-technologists-surveyors": {
+    "aioe_raw": 0.2676,
+    "aioe_0_10": 5.45,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "17-1012",
+        "us_title": "Landscape Architects",
+        "uk_desc": "Architects",
+        "aioe": 1.034388
+      },
+      {
+        "us_soc": "17-1022",
+        "us_title": "Surveyors",
+        "uk_desc": "Quantity surveyors",
+        "aioe": 0.1460606
+      },
+      {
+        "us_soc": "13-1121",
+        "us_title": "Meeting and Convention Planners",
+        "uk_desc": "Town planners",
+        "aioe": 0.3740207
+      },
+      {
+        "us_soc": "17-1022",
+        "us_title": "Surveyors",
+        "uk_desc": "Chartered surveyors",
+        "aioe": 0.1460606
+      },
+      {
+        "us_soc": "29-2056",
+        "us_title": "Veterinary Technologists and Technicians",
+        "uk_desc": "Chartered architectural technologists",
+        "aioe": -0.3623179
+      }
+    ]
+  },
+  "bricklayers-plasterers": {
+    "aioe_raw": -1.7556,
+    "aioe_0_10": 2.07,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "47-2161",
+        "us_title": "Plasterers and Stucco Masons",
+        "uk_desc": "Bricklayers and masons",
+        "aioe": -1.755588
+      },
+      {
+        "us_soc": "47-2161",
+        "us_title": "Plasterers and Stucco Masons",
+        "uk_desc": "Plasterers",
+        "aioe": -1.755588
+      }
+    ]
+  },
+  "carpenters-joiners": {
+    "aioe_raw": -1.3236,
+    "aioe_0_10": 2.79,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "47-2031",
+        "us_title": "Carpenters",
+        "uk_desc": "Carpenters and joiners",
+        "aioe": -1.323631
+      }
+    ]
+  },
+  "civil-engineers-construction-project-managers": {
+    "aioe_raw": 1.1137,
+    "aioe_0_10": 6.86,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "17-2051",
+        "us_title": "Civil Engineers",
+        "uk_desc": "Civil engineers",
+        "aioe": 1.282867
+      },
+      {
+        "us_soc": "11-9021",
+        "us_title": "Construction Managers",
+        "uk_desc": "Construction project managers and related professionals",
+        "aioe": 1.029139
+      },
+      {
+        "us_soc": "11-9021",
+        "us_title": "Construction Managers",
+        "uk_desc": "Production managers and directors in construction",
+        "aioe": 1.029139
+      }
+    ]
+  },
+  "construction-operatives-elementary": {
+    "aioe_raw": -0.1878,
+    "aioe_0_10": 4.69,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "49-9096",
+        "us_title": "Riggers",
+        "uk_desc": "Scaffolders, stagers and riggers",
+        "aioe": -1.221519
+      },
+      {
+        "us_soc": "11-9021",
+        "us_title": "Construction Managers",
+        "uk_desc": "Road construction operatives",
+        "aioe": 1.029139
+      },
+      {
+        "us_soc": "47-2141",
+        "us_title": "Painters, Construction and Maintenance",
+        "uk_desc": "Rail construction and maintenance operatives",
+        "aioe": -1.58799
+      },
+      {
+        "us_soc": "11-9021",
+        "us_title": "Construction Managers",
+        "uk_desc": "Construction operatives n.e.c.",
+        "aioe": 1.029139
+      }
+    ]
+  },
+  "construction-related-technicians": {
+    "aioe_raw": 0.9279,
+    "aioe_0_10": 6.55,
+    "n_matched": 2,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "17-3022",
+        "us_title": "Civil Engineering Technicians",
+        "uk_desc": "Building and civil engineering technicians",
+        "aioe": 0.9323219
+      },
+      {
+        "us_soc": "17-3011",
+        "us_title": "Architectural and Civil Drafters",
+        "uk_desc": "Architectural and town planning technicians",
+        "aioe": 0.9233925
+      }
+    ]
+  },
+  "other-construction-trades": {
+    "aioe_raw": -0.6784,
+    "aioe_0_10": 3.87,
+    "n_matched": 7,
+    "n_uk_socs": 7,
+    "matched": [
+      {
+        "us_soc": "47-4031",
+        "us_title": "Fence Erectors",
+        "uk_desc": "Steel erectors",
+        "aioe": -1.902113
+      },
+      {
+        "us_soc": "47-2181",
+        "us_title": "Roofers",
+        "uk_desc": "Roofers, roof tilers and slaters",
+        "aioe": -1.752941
+      },
+      {
+        "us_soc": "51-2041",
+        "us_title": "Structural Metal Fabricators and Fitters",
+        "uk_desc": "Glaziers, window fabricators and fitters",
+        "aioe": -1.076307
+      },
+      {
+        "us_soc": "47-4011",
+        "us_title": "Construction and Building Inspectors",
+        "uk_desc": "Construction and building trades n.e.c.",
+        "aioe": 0.2860245
+      },
+      {
+        "us_soc": "47-2131",
+        "us_title": "Insulation Workers, Floor, Ceiling, and Wall",
+        "uk_desc": "Floorers and wall tilers",
+        "aioe": -1.618772
+      },
+      {
+        "us_soc": "47-4011",
+        "us_title": "Construction and Building Inspectors",
+        "uk_desc": "Construction and building trades supervisors",
+        "aioe": 0.2860245
+      },
+      {
+        "us_soc": "11-9021",
+        "us_title": "Construction Managers",
+        "uk_desc": "Elementary construction occupations",
+        "aioe": 1.029139
+      }
+    ]
+  },
+  "painters-decorators": {
+    "aioe_raw": -1.4476,
+    "aioe_0_10": 2.59,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "51-9122",
+        "us_title": "Painters, Transportation Equipment",
+        "uk_desc": "Painters and decorators",
+        "aioe": -1.447553
+      }
+    ]
+  },
+  "plumbers": {
+    "aioe_raw": -1.1212,
+    "aioe_0_10": 3.13,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "47-2152",
+        "us_title": "Plumbers, Pipefitters, and Steamfitters",
+        "uk_desc": "Plumbers and heating and ventilating engineers",
+        "aioe": -1.121219
+      }
+    ]
+  },
+  "butchers-fishmongers-bakers-etc": {
+    "aioe_raw": -0.8206,
+    "aioe_0_10": 3.63,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "51-3021",
+        "us_title": "Butchers and Meat Cutters",
+        "uk_desc": "Butchers",
+        "aioe": -0.9709924
+      },
+      {
+        "us_soc": "51-3011",
+        "us_title": "Bakers",
+        "uk_desc": "Bakers and flour confectioners",
+        "aioe": -0.3852989
+      },
+      {
+        "us_soc": "51-3022",
+        "us_title": "Meat, Poultry, and Fish Cutters and Trimmers",
+        "uk_desc": "Fishmongers and poultry dressers",
+        "aioe": -1.10563
+      }
+    ]
+  },
+  "electrical-electronic-trades-etc": {
+    "aioe_raw": 0.3671,
+    "aioe_0_10": 5.61,
+    "n_matched": 6,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "47-2111",
+        "us_title": "Electricians",
+        "uk_desc": "Electricians and electrical fitters",
+        "aioe": -0.7796905
+      },
+      {
+        "us_soc": "41-9031",
+        "us_title": "Sales Engineers",
+        "uk_desc": "Telecommunications engineers",
+        "aioe": 1.145416
+      },
+      {
+        "us_soc": "27-4011",
+        "us_title": "Audio and Video Equipment Technicians",
+        "uk_desc": "TV, video and audio engineers",
+        "aioe": -0.0117747
+      },
+      {
+        "us_soc": "41-9031",
+        "us_title": "Sales Engineers",
+        "uk_desc": "IT engineers",
+        "aioe": 1.145416
+      },
+      {
+        "us_soc": "17-3023",
+        "us_title": "Electrical and Electronic Engineering Technicians",
+        "uk_desc": "Electrical and electronic trades n.e.c.",
+        "aioe": 0.3515252
+      },
+      {
+        "us_soc": "17-3023",
+        "us_title": "Electrical and Electronic Engineering Technicians",
+        "uk_desc": "Skilled metal, electrical and electronic trades supervisors",
+        "aioe": 0.3515252
+      }
+    ]
+  },
+  "other-metal-related-trades": {
+    "aioe_raw": -0.7687,
+    "aioe_0_10": 3.72,
+    "n_matched": 9,
+    "n_uk_socs": 9,
+    "matched": [
+      {
+        "us_soc": "39-9032",
+        "us_title": "Recreation Workers",
+        "uk_desc": "Smiths and forge workers",
+        "aioe": -0.2441154
+      },
+      {
+        "us_soc": "51-4111",
+        "us_title": "Tool and Die Makers",
+        "uk_desc": "Moulders, core makers and die casters",
+        "aioe": -0.5317897
+      },
+      {
+        "us_soc": "47-2211",
+        "us_title": "Sheet Metal Workers",
+        "uk_desc": "Sheet metal workers",
+        "aioe": -1.174972
+      },
+      {
+        "us_soc": "47-2211",
+        "us_title": "Sheet Metal Workers",
+        "uk_desc": "Metal plate workers, and riveters",
+        "aioe": -1.174972
+      },
+      {
+        "us_soc": "49-9021",
+        "us_title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+        "uk_desc": "Air-conditioning and refrigeration engineers",
+        "aioe": -0.8491117
+      },
+      {
+        "us_soc": "51-4022",
+        "us_title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+        "uk_desc": "Metal machining setters and setter-operators",
+        "aioe": -0.8046677
+      },
+      {
+        "us_soc": "51-4111",
+        "us_title": "Tool and Die Makers",
+        "uk_desc": "Tool makers, tool fitters and markers-out",
+        "aioe": -0.5317897
+      },
+      {
+        "us_soc": "49-9063",
+        "us_title": "Musical Instrument Repairers and Tuners",
+        "uk_desc": "Precision instrument makers and repairers",
+        "aioe": -0.5306271
+      },
+      {
+        "us_soc": "51-2041",
+        "us_title": "Structural Metal Fabricators and Fitters",
+        "uk_desc": "Pipe fitters",
+        "aioe": -1.076307
+      }
+    ]
+  },
+  "other-skilled-trades": {
+    "aioe_raw": -1.0535,
+    "aioe_0_10": 3.24,
+    "n_matched": 8,
+    "n_uk_socs": 12,
+    "matched": [
+      {
+        "us_soc": "51-6093",
+        "us_title": "Upholsterers",
+        "uk_desc": "Upholsterers",
+        "aioe": -1.313735
+      },
+      {
+        "us_soc": "51-6041",
+        "us_title": "Shoe and Leather Workers and Repairers",
+        "uk_desc": "Footwear and leather working trades",
+        "aioe": -0.990912
+      },
+      {
+        "us_soc": "51-6052",
+        "us_title": "Tailors, Dressmakers, and Custom Sewers",
+        "uk_desc": "Tailors and dressmakers",
+        "aioe": -0.4305268
+      },
+      {
+        "us_soc": "51-6021",
+        "us_title": "Pressers, Textile, Garment, and Related Materials",
+        "uk_desc": "Textiles, garments and related trades n.e.c.",
+        "aioe": -1.950063
+      },
+      {
+        "us_soc": "51-5112",
+        "us_title": "Printing Press Operators",
+        "uk_desc": "Pre-press technicians",
+        "aioe": -0.7093881
+      },
+      {
+        "us_soc": "51-5113",
+        "us_title": "Print Binding and Finishing Workers",
+        "uk_desc": "Print finishing and binding workers",
+        "aioe": -0.9062089
+      },
+      {
+        "us_soc": "51-7021",
+        "us_title": "Furniture Finishers",
+        "uk_desc": "Glass and ceramics makers, decorators and finishers",
+        "aioe": -1.197727
+      },
+      {
+        "us_soc": "27-1012",
+        "us_title": "Craft Artists",
+        "uk_desc": "Furniture makers and other craft woodworkers",
+        "aioe": -0.9295284
+      }
+    ]
+  },
+  "vehicle-trades": {
+    "aioe_raw": -1.0008,
+    "aioe_0_10": 3.33,
+    "n_matched": 5,
+    "n_uk_socs": 6,
+    "matched": [
+      {
+        "us_soc": "49-3092",
+        "us_title": "Recreational Vehicle Service Technicians",
+        "uk_desc": "Vehicle technicians, mechanics and electricians",
+        "aioe": -0.9244052
+      },
+      {
+        "us_soc": "49-3021",
+        "us_title": "Automotive Body and Related Repairers",
+        "uk_desc": "Vehicle body builders and repairers",
+        "aioe": -1.180589
+      },
+      {
+        "us_soc": "49-3092",
+        "us_title": "Recreational Vehicle Service Technicians",
+        "uk_desc": "Vehicle paint technicians",
+        "aioe": -0.9244052
+      },
+      {
+        "us_soc": "53-5031",
+        "us_title": "Ship Engineers",
+        "uk_desc": "Boat and ship builders and repairers",
+        "aioe": -0.5264951
+      },
+      {
+        "us_soc": "49-3043",
+        "us_title": "Rail Car Repairers",
+        "uk_desc": "Rail and rolling stock builders and repairers",
+        "aioe": -1.448102
+      }
+    ]
+  },
+  "welding-and-fabricators": {
+    "aioe_raw": -1.0763,
+    "aioe_0_10": 3.21,
+    "n_matched": 1,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "51-2041",
+        "us_title": "Structural Metal Fabricators and Fitters",
+        "uk_desc": "Metal working production and maintenance fitters",
+        "aioe": -1.076307
+      }
+    ]
+  },
+  "animal-carers": {
+    "aioe_raw": 0.1176,
+    "aioe_0_10": 5.2,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "29-1141",
+        "us_title": "Registered Nurses",
+        "uk_desc": "Veterinary nurses",
+        "aioe": 0.2294097
+      },
+      {
+        "us_soc": "37-2021",
+        "us_title": "Pest Control Workers",
+        "uk_desc": "Pest control officers",
+        "aioe": -0.7255374
+      },
+      {
+        "us_soc": "29-1131",
+        "us_title": "Veterinarians",
+        "uk_desc": "Veterinarians",
+        "aioe": -0.0749958
+      },
+      {
+        "us_soc": "19-1011",
+        "us_title": "Animal Scientists",
+        "uk_desc": "Animal care services occupations n.e.c.",
+        "aioe": 1.041358
+      }
+    ]
+  },
+  "elementary-agriculture-occupations": {
+    "aioe_raw": -0.8431,
+    "aioe_0_10": 3.59,
+    "n_matched": 2,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "49-3041",
+        "us_title": "Farm Equipment Mechanics",
+        "uk_desc": "Farm workers",
+        "aioe": -1.20703
+      },
+      {
+        "us_soc": "45-1011",
+        "us_title": "First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers",
+        "uk_desc": "Forestry workers",
+        "aioe": -0.4791843
+      }
+    ]
+  },
+  "farmers": {
+    "aioe_raw": -0.1444,
+    "aioe_0_10": 4.76,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "11-9013",
+        "us_title": "Farmers, Ranchers, and Other Agricultural Managers",
+        "uk_desc": "Farmers",
+        "aioe": -0.1443684
+      }
+    ]
+  },
+  "horticultural-agricultural-fishing-trades-n-e-c": {
+    "aioe_raw": 0.154,
+    "aioe_0_10": 5.26,
+    "n_matched": 3,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "17-1012",
+        "us_title": "Landscape Architects",
+        "uk_desc": "Gardeners and landscape gardeners",
+        "aioe": 1.034388
+      },
+      {
+        "us_soc": "45-3011",
+        "us_title": "Fishers and Related Fishing Workers",
+        "uk_desc": "Skilled workers in horse racing and related industries",
+        "aioe": -1.513249
+      },
+      {
+        "us_soc": "17-2021",
+        "us_title": "Agricultural Engineers",
+        "uk_desc": "Agricultural and fishing trades n.e.c.",
+        "aioe": 0.9409636
+      }
+    ]
+  },
+  "managers-in-horticulture-agriculture-fishing": {
+    "aioe_raw": 0.6936,
+    "aioe_0_10": 6.16,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Managers and proprietors in agriculture and horticulture",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "45-1011",
+        "us_title": "First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers",
+        "uk_desc": "Managers and proprietors in forestry, fishing and related services",
+        "aioe": -0.4791843
+      },
+      {
+        "us_soc": "11-2031",
+        "us_title": "Public Relations Managers",
+        "uk_desc": "Managers and proprietors in horse-racing and related industries",
+        "aioe": 1.293689
+      }
+    ]
+  },
+  "catering-bar-managers": {
+    "aioe_raw": 1.2663,
+    "aioe_0_10": 7.11,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Catering & bar managers",
+        "aioe": 1.26628
+      }
+    ]
+  },
+  "chefs-cooks": {
+    "aioe_raw": -0.5047,
+    "aioe_0_10": 4.16,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "35-1011",
+        "us_title": "Chefs and Head Cooks",
+        "uk_desc": "Chefs",
+        "aioe": -0.2676433
+      },
+      {
+        "us_soc": "35-2014",
+        "us_title": "Cooks, Restaurant",
+        "uk_desc": "Cooks",
+        "aioe": -0.7418264
+      }
+    ]
+  },
+  "hospitality-managers": {
+    "aioe_raw": 0.606,
+    "aioe_0_10": 6.01,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Hotel and accommodation managers and proprietors",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "35-2014",
+        "us_title": "Cooks, Restaurant",
+        "uk_desc": "Restaurant and catering establishment managers and proprietors",
+        "aioe": -0.7418264
+      },
+      {
+        "us_soc": "11-2031",
+        "us_title": "Public Relations Managers",
+        "uk_desc": "Publicans and managers of licensed premises",
+        "aioe": 1.293689
+      }
+    ]
+  },
+  "housekeepers-etc": {
+    "aioe_raw": 0.3236,
+    "aioe_0_10": 5.54,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "15-1199",
+        "us_title": "Computer Occupations, All Other",
+        "uk_desc": "Housekeepers and related occupations",
+        "aioe": 1.232705
+      },
+      {
+        "us_soc": "37-1011",
+        "us_title": "First-Line Supervisors/Managers of Housekeeping and Janitorial Workers",
+        "uk_desc": "Cleaning and housekeeping managers and supervisors",
+        "aioe": -0.5854128
+      }
+    ]
+  },
+  "kitchen-catering-assistants": {
+    "aioe_raw": 0.1498,
+    "aioe_0_10": 5.25,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "31-9092",
+        "us_title": "Medical Assistants",
+        "uk_desc": "Kitchen and catering assistants",
+        "aioe": 0.1497917
+      }
+    ]
+  },
+  "waiters-waitresses": {
+    "aioe_raw": -0.9481,
+    "aioe_0_10": 3.42,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "35-3031",
+        "us_title": "Waiters and Waitresses",
+        "uk_desc": "Waiters and waitresses",
+        "aioe": -0.9481003
+      }
+    ]
+  },
+  "artistic-literary-media-associate-professionals": {
+    "aioe_raw": 0.0255,
+    "aioe_0_10": 5.04,
+    "n_matched": 9,
+    "n_uk_socs": 9,
+    "matched": [
+      {
+        "us_soc": "27-1012",
+        "us_title": "Craft Artists",
+        "uk_desc": "Artists",
+        "aioe": -0.9295284
+      },
+      {
+        "us_soc": "27-3043",
+        "us_title": "Writers and Authors",
+        "uk_desc": "Authors, writers and translators",
+        "aioe": 0.9879274
+      },
+      {
+        "us_soc": "27-2011",
+        "us_title": "Actors",
+        "uk_desc": "Actors, entertainers and presenters",
+        "aioe": 0.1590935
+      },
+      {
+        "us_soc": "27-2031",
+        "us_title": "Dancers",
+        "uk_desc": "Dancers and choreographers",
+        "aioe": -2.669758
+      },
+      {
+        "us_soc": "27-2042",
+        "us_title": "Musicians and Singers",
+        "uk_desc": "Musicians",
+        "aioe": -0.0040058
+      },
+      {
+        "us_soc": "27-2012",
+        "us_title": "Producers and Directors",
+        "uk_desc": "Arts officers, producers and directors",
+        "aioe": 0.9388108
+      },
+      {
+        "us_soc": "25-9011",
+        "us_title": "Audio-Visual Collections Specialists",
+        "uk_desc": "Photographers, audio-visual and broadcasting equipment operators",
+        "aioe": 0.4508702
+      },
+      {
+        "us_soc": "27-1024",
+        "us_title": "Graphic Designers",
+        "uk_desc": "Graphic designers",
+        "aioe": 0.7156958
+      },
+      {
+        "us_soc": "27-1022",
+        "us_title": "Fashion Designers",
+        "uk_desc": "Product, clothing and related designers",
+        "aioe": 0.5801539
+      }
+    ]
+  },
+  "hairdressers-beauticians-etc": {
+    "aioe_raw": -0.7295,
+    "aioe_0_10": 3.78,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "39-5011",
+        "us_title": "Barbers",
+        "uk_desc": "Hairdressers, barbers, beauticians and related occupations H airdressing and beauty salon managers and proprietors",
+        "aioe": -0.7294621
+      }
+    ]
+  },
+  "leisure-travel-service-occupations": {
+    "aioe_raw": 0.7533,
+    "aioe_0_10": 6.26,
+    "n_matched": 7,
+    "n_uk_socs": 7,
+    "matched": [
+      {
+        "us_soc": "31-9092",
+        "us_title": "Medical Assistants",
+        "uk_desc": "Sports and leisure assistants",
+        "aioe": 0.1497917
+      },
+      {
+        "us_soc": "41-3041",
+        "us_title": "Travel Agents",
+        "uk_desc": "Travel agents",
+        "aioe": 1.133598
+      },
+      {
+        "us_soc": "41-3041",
+        "us_title": "Travel Agents",
+        "uk_desc": "Air travel assistants",
+        "aioe": 1.133598
+      },
+      {
+        "us_soc": "41-3041",
+        "us_title": "Travel Agents",
+        "uk_desc": "Rail travel assistants",
+        "aioe": 1.133598
+      },
+      {
+        "us_soc": "39-4021",
+        "us_title": "Funeral Attendants",
+        "uk_desc": "Leisure and theme park attendants",
+        "aioe": -0.5445412
+      },
+      {
+        "us_soc": "41-3041",
+        "us_title": "Travel Agents",
+        "uk_desc": "Travel agency managers and proprietors",
+        "aioe": 1.133598
+      },
+      {
+        "us_soc": "41-3041",
+        "us_title": "Travel Agents",
+        "uk_desc": "Leisure and travel service occupations n.e.c.",
+        "aioe": 1.133598
+      }
+    ]
+  },
+  "media-profs-librarians": {
+    "aioe_raw": 1.086,
+    "aioe_0_10": 6.81,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "25-4021",
+        "us_title": "Librarians",
+        "uk_desc": "Librarians",
+        "aioe": 1.037039
+      },
+      {
+        "us_soc": "25-4011",
+        "us_title": "Archivists",
+        "uk_desc": "Archivists and curators",
+        "aioe": 0.6765602
+      },
+      {
+        "us_soc": "27-3041",
+        "us_title": "Editors",
+        "uk_desc": "Journalists, newspaper and periodical editors",
+        "aioe": 1.128221
+      },
+      {
+        "us_soc": "11-2031",
+        "us_title": "Public Relations Managers",
+        "uk_desc": "Public relations professionals",
+        "aioe": 1.293689
+      },
+      {
+        "us_soc": "11-2011",
+        "us_title": "Advertising and Promotions Managers",
+        "uk_desc": "Advertising account managers and creative directors",
+        "aioe": 1.294387
+      }
+    ]
+  },
+  "sports-fitness-occupations": {
+    "aioe_raw": -1.4433,
+    "aioe_0_10": 2.59,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "27-2021",
+        "us_title": "Athletes and Sports Competitors",
+        "uk_desc": "Leisure and sports managers",
+        "aioe": -1.814336
+      },
+      {
+        "us_soc": "27-2021",
+        "us_title": "Athletes and Sports Competitors",
+        "uk_desc": "Sports players",
+        "aioe": -1.814336
+      },
+      {
+        "us_soc": "27-2023",
+        "us_title": "Umpires, Referees, and Other Sports Officials",
+        "uk_desc": "Sports coaches, instructors and officials",
+        "aioe": -0.0325617
+      },
+      {
+        "us_soc": "39-9031",
+        "us_title": "Fitness Trainers and Aerobics Instructors",
+        "uk_desc": "Fitness instructors",
+        "aioe": -2.111948
+      }
+    ]
+  },
+  "aircraft-pilots-ship-officers-air-traffic-controllers": {
+    "aioe_raw": 0.2898,
+    "aioe_0_10": 5.48,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "53-2021",
+        "us_title": "Air Traffic Controllers",
+        "uk_desc": "Air traffic controllers",
+        "aioe": 1.152798
+      },
+      {
+        "us_soc": "53-2011",
+        "us_title": "Airline Pilots, Copilots, and Flight Engineers",
+        "uk_desc": "Aircraft pilots and flight engineers",
+        "aioe": -0.2070626
+      },
+      {
+        "us_soc": "53-5031",
+        "us_title": "Ship Engineers",
+        "uk_desc": "Ship and hovercraft officers",
+        "aioe": -0.5264951
+      },
+      {
+        "us_soc": "11-3011",
+        "us_title": "Administrative Services Managers",
+        "uk_desc": "National government administrative occupations",
+        "aioe": 0.7398278
+      }
+    ]
+  },
+  "large-goods-vehicle-drivers": {
+    "aioe_raw": -0.9244,
+    "aioe_0_10": 3.46,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "49-3092",
+        "us_title": "Recreational Vehicle Service Technicians",
+        "uk_desc": "Large goods vehicle drivers",
+        "aioe": -0.9244052
+      }
+    ]
+  },
+  "managers-directors-in-transport-logistics": {
+    "aioe_raw": 0.8908,
+    "aioe_0_10": 6.48,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "11-3071",
+        "us_title": "Transportation, Storage, and Distribution Managers",
+        "uk_desc": "Managers and directors in transport and distribution",
+        "aioe": 0.8907923
+      },
+      {
+        "us_soc": "11-3071",
+        "us_title": "Transportation, Storage, and Distribution Managers",
+        "uk_desc": "Managers and directors in storage and warehousing",
+        "aioe": 0.8907923
+      }
+    ]
+  },
+  "mobile-machine-drivers-operatives": {
+    "aioe_raw": -0.377,
+    "aioe_0_10": 4.37,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "53-7021",
+        "us_title": "Crane and Tower Operators",
+        "uk_desc": "Crane drivers",
+        "aioe": -1.030619
+      },
+      {
+        "us_soc": "53-3033",
+        "us_title": "Truck Drivers, Light or Delivery Services",
+        "uk_desc": "Fork-lift truck drivers",
+        "aioe": -1.120501
+      },
+      {
+        "us_soc": "17-2021",
+        "us_title": "Agricultural Engineers",
+        "uk_desc": "Agricultural machinery drivers",
+        "aioe": 0.9409636
+      },
+      {
+        "us_soc": "53-3022",
+        "us_title": "Bus Drivers, School",
+        "uk_desc": "Mobile machine drivers and operatives n.e.c.",
+        "aioe": -0.2977046
+      }
+    ]
+  },
+  "other-drivers-transport-operatives": {
+    "aioe_raw": -0.3766,
+    "aioe_0_10": 4.37,
+    "n_matched": 7,
+    "n_uk_socs": 7,
+    "matched": [
+      {
+        "us_soc": "53-5011",
+        "us_title": "Sailors and Marine Oilers",
+        "uk_desc": "Marine and waterways transport operatives",
+        "aioe": -1.150001
+      },
+      {
+        "us_soc": "53-2021",
+        "us_title": "Air Traffic Controllers",
+        "uk_desc": "Air transport operatives",
+        "aioe": 1.152798
+      },
+      {
+        "us_soc": "49-3043",
+        "us_title": "Rail Car Repairers",
+        "uk_desc": "Rail transport operatives",
+        "aioe": -1.448102
+      },
+      {
+        "us_soc": "53-3022",
+        "us_title": "Bus Drivers, School",
+        "uk_desc": "Bus and coach drivers",
+        "aioe": -0.2977046
+      },
+      {
+        "us_soc": "53-3022",
+        "us_title": "Bus Drivers, School",
+        "uk_desc": "Train and tram drivers",
+        "aioe": -0.2977046
+      },
+      {
+        "us_soc": "53-3022",
+        "us_title": "Bus Drivers, School",
+        "uk_desc": "Van drivers",
+        "aioe": -0.2977046
+      },
+      {
+        "us_soc": "53-3022",
+        "us_title": "Bus Drivers, School",
+        "uk_desc": "Other drivers and transport operatives n.e.c.",
+        "aioe": -0.2977046
+      }
+    ]
+  },
+  "stock-control-transport-distribution-administrative-occupations": {
+    "aioe_raw": 0.0507,
+    "aioe_0_10": 5.08,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "43-5081",
+        "us_title": "Stock Clerks and Order Fillers",
+        "uk_desc": "Stock control clerks and assistants",
+        "aioe": -0.7892948
+      },
+      {
+        "us_soc": "11-3071",
+        "us_title": "Transportation, Storage, and Distribution Managers",
+        "uk_desc": "Transport and distribution clerks and assistants",
+        "aioe": 0.8907923
+      }
+    ]
+  },
+  "taxi-cab-drivers-chauffeurs": {
+    "aioe_raw": -0.6323,
+    "aioe_0_10": 3.95,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "53-3041",
+        "us_title": "Taxi Drivers and Chauffeurs",
+        "uk_desc": "Taxi and cab drivers and chauffeurs",
+        "aioe": -0.6322603
+      }
+    ]
+  },
+  "elementary-administrative": {
+    "aioe_raw": 0.0448,
+    "aioe_0_10": 5.07,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "43-5021",
+        "us_title": "Couriers and Messengers",
+        "uk_desc": "Postal workers, mail sorters, messengers and couriers",
+        "aioe": -0.9591126
+      },
+      {
+        "us_soc": "11-9032",
+        "us_title": "Education Administrators, Elementary and Secondary School",
+        "uk_desc": "Elementary administration occupations n.e.c.",
+        "aioe": 1.048811
+      }
+    ]
+  },
+  "government-administrative-occupations": {
+    "aioe_raw": 1.0628,
+    "aioe_0_10": 6.77,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "11-3011",
+        "us_title": "Administrative Services Managers",
+        "uk_desc": "Local government administrative occupations",
+        "aioe": 0.7398278
+      },
+      {
+        "us_soc": "13-2072",
+        "us_title": "Loan Officers",
+        "uk_desc": "Officers of non-governmental organisations",
+        "aioe": 1.385739
+      }
+    ]
+  },
+  "office-managers-supervisors-administrative-occupations": {
+    "aioe_raw": 0.9889,
+    "aioe_0_10": 6.65,
+    "n_matched": 2,
+    "n_uk_socs": 2,
+    "matched": [
+      {
+        "us_soc": "43-9061",
+        "us_title": "Office Clerks, General",
+        "uk_desc": "Office managers",
+        "aioe": 0.9888986
+      },
+      {
+        "us_soc": "43-9061",
+        "us_title": "Office Clerks, General",
+        "uk_desc": "Office supervisors",
+        "aioe": 0.9888986
+      }
+    ]
+  },
+  "other-administrators": {
+    "aioe_raw": 0.736,
+    "aioe_0_10": 6.23,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "31-9092",
+        "us_title": "Medical Assistants",
+        "uk_desc": "Records clerks and assistants",
+        "aioe": 0.1497917
+      },
+      {
+        "us_soc": "43-4121",
+        "us_title": "Library Assistants, Clerical",
+        "uk_desc": "Library clerks and assistants",
+        "aioe": 0.2038919
+      },
+      {
+        "us_soc": "11-3121",
+        "us_title": "Human Resources Managers",
+        "uk_desc": "Human resources administrative occupations",
+        "aioe": 1.320417
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Sales administrators",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "11-3011",
+        "us_title": "Administrative Services Managers",
+        "uk_desc": "Other administrative occupations n.e.c.",
+        "aioe": 0.7398278
+      }
+    ]
+  },
+  "pas-other-secretaries-etc": {
+    "aioe_raw": 0.9835,
+    "aioe_0_10": 6.64,
+    "n_matched": 4,
+    "n_uk_socs": 4,
+    "matched": [
+      {
+        "us_soc": "43-6013",
+        "us_title": "Medical Secretaries",
+        "uk_desc": "Medical secretaries",
+        "aioe": 1.217982
+      },
+      {
+        "us_soc": "43-6012",
+        "us_title": "Legal Secretaries",
+        "uk_desc": "Legal secretaries",
+        "aioe": 1.014541
+      },
+      {
+        "us_soc": "43-6011",
+        "us_title": "Executive Secretaries and Administrative Assistants",
+        "uk_desc": "Personal assistants and other secretaries",
+        "aioe": 1.079643
+      },
+      {
+        "us_soc": "43-9022",
+        "us_title": "Word Processors and Typists",
+        "uk_desc": "Typists and related keyboard occupations",
+        "aioe": 0.6219606
+      }
+    ]
+  },
+  "receptionists": {
+    "aioe_raw": 1.0132,
+    "aioe_0_10": 6.69,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "43-4171",
+        "us_title": "Receptionists and Information Clerks",
+        "uk_desc": "Receptionists",
+        "aioe": 1.013186
+      }
+    ]
+  },
+  "advertising-marketing-sales-directors": {
+    "aioe_raw": 1.344,
+    "aioe_0_10": 7.24,
+    "n_matched": 3,
+    "n_uk_socs": 3,
+    "matched": [
+      {
+        "us_soc": "11-2021",
+        "us_title": "Marketing Managers",
+        "uk_desc": "Marketing and sales directors",
+        "aioe": 1.315032
+      },
+      {
+        "us_soc": "11-3061",
+        "us_title": "Purchasing Managers",
+        "uk_desc": "Purchasing managers and directors",
+        "aioe": 1.423426
+      },
+      {
+        "us_soc": "11-2031",
+        "us_title": "Public Relations Managers",
+        "uk_desc": "Advertising and public relations directors",
+        "aioe": 1.293689
+      }
+    ]
+  },
+  "business-sales-executives": {
+    "aioe_raw": 1.3342,
+    "aioe_0_10": 7.22,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "11-1011",
+        "us_title": "Chief Executives",
+        "uk_desc": "Business sales executives",
+        "aioe": 1.334246
+      }
+    ]
+  },
+  "customer-service-occupations": {
+    "aioe_raw": 1.0108,
+    "aioe_0_10": 6.68,
+    "n_matched": 4,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "43-9011",
+        "us_title": "Computer Operators",
+        "uk_desc": "Communication operators",
+        "aioe": 0.7040519
+      },
+      {
+        "us_soc": "13-1161",
+        "us_title": "Market Research Analysts and Marketing Specialists",
+        "uk_desc": "Market research interviewers",
+        "aioe": 1.426757
+      },
+      {
+        "us_soc": "43-4051",
+        "us_title": "Customer Service Representatives",
+        "uk_desc": "Customer service occupations n.e.c.",
+        "aioe": 0.9562519
+      },
+      {
+        "us_soc": "43-4051",
+        "us_title": "Customer Service Representatives",
+        "uk_desc": "Customer service managers and supervisors",
+        "aioe": 0.9562519
+      }
+    ]
+  },
+  "managers-directors-in-retail-wholesale": {
+    "aioe_raw": 0.8188,
+    "aioe_0_10": 6.36,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "13-1022",
+        "us_title": "Wholesale and Retail Buyers, Except Farm Products",
+        "uk_desc": "Managers and directors in retail and wholesale",
+        "aioe": 0.8188258
+      }
+    ]
+  },
+  "other-sales-marketing-associate-professionals": {
+    "aioe_raw": 1.2299,
+    "aioe_0_10": 7.05,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "43-3061",
+        "us_title": "Procurement Clerks",
+        "uk_desc": "Buyers and procurement officers",
+        "aioe": 1.487838
+      },
+      {
+        "us_soc": "11-2021",
+        "us_title": "Marketing Managers",
+        "uk_desc": "Marketing associate professionals",
+        "aioe": 1.315032
+      },
+      {
+        "us_soc": "41-9022",
+        "us_title": "Real Estate Sales Agents",
+        "uk_desc": "Estate agents and auctioneers",
+        "aioe": 0.8649445
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Conference and exhibition managers and organisers",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "11-9141",
+        "us_title": "Property, Real Estate, and Community Association Managers",
+        "uk_desc": "Property, housing and estate managers",
+        "aioe": 1.215396
+      }
+    ]
+  },
+  "sales-accounts-business-development-managers": {
+    "aioe_raw": 1.2663,
+    "aioe_0_10": 7.11,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Sales accounts and business development managers",
+        "aioe": 1.26628
+      }
+    ]
+  },
+  "sales-assistants": {
+    "aioe_raw": 0.1495,
+    "aioe_0_10": 5.25,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "41-2011",
+        "us_title": "Cashiers",
+        "uk_desc": "Sales and retail assistants, cashiers and checkout operators",
+        "aioe": -0.2480887
+      },
+      {
+        "us_soc": "41-2031",
+        "us_title": "Retail Salespersons",
+        "uk_desc": "Retail cash desk and check-out operators",
+        "aioe": 0.0873069
+      },
+      {
+        "us_soc": "43-2021",
+        "us_title": "Telephone Operators",
+        "uk_desc": "Telephone salespersons",
+        "aioe": 1.019712
+      },
+      {
+        "us_soc": "29-2052",
+        "us_title": "Pharmacy Technicians",
+        "uk_desc": "Pharmacy and other dispensing assistants",
+        "aioe": 0.0070256
+      },
+      {
+        "us_soc": "41-2022",
+        "us_title": "Parts Salespersons",
+        "uk_desc": "Vehicle and parts salespersons and advisers",
+        "aioe": -0.1184909
+      }
+    ]
+  },
+  "sales-related-occupations": {
+    "aioe_raw": 0.8619,
+    "aioe_0_10": 6.44,
+    "n_matched": 8,
+    "n_uk_socs": 8,
+    "matched": [
+      {
+        "us_soc": "13-2041",
+        "us_title": "Credit Analysts",
+        "uk_desc": "Collector salespersons and credit agents",
+        "aioe": 1.345268
+      },
+      {
+        "us_soc": "43-3011",
+        "us_title": "Bill and Account Collectors",
+        "uk_desc": "Debt, rent and other cash collectors",
+        "aioe": 1.271991
+      },
+      {
+        "us_soc": "41-2031",
+        "us_title": "Retail Salespersons",
+        "uk_desc": "Roundspersons and van salespersons",
+        "aioe": 0.0873069
+      },
+      {
+        "us_soc": "13-1161",
+        "us_title": "Market Research Analysts and Marketing Specialists",
+        "uk_desc": "Market and street traders and assistants",
+        "aioe": 1.426757
+      },
+      {
+        "us_soc": "27-1026",
+        "us_title": "Merchandise Displayers and Window Trimmers",
+        "uk_desc": "Merchandisers and window dressers",
+        "aioe": -1.001413
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Sales related occupations n.e.c.",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Sales supervisors",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "15-1199",
+        "us_title": "Computer Occupations, All Other",
+        "uk_desc": "Call and contact centre occupations",
+        "aioe": 1.232705
+      }
+    ]
+  },
+  "assemblers-routine-operatives": {
+    "aioe_raw": -0.9185,
+    "aioe_0_10": 3.47,
+    "n_matched": 7,
+    "n_uk_socs": 7,
+    "matched": [
+      {
+        "us_soc": "51-2022",
+        "us_title": "Electrical and Electronic Equipment Assemblers",
+        "uk_desc": "Assemblers (electrical and electronic products)",
+        "aioe": -0.6248807
+      },
+      {
+        "us_soc": "53-7061",
+        "us_title": "Cleaners of Vehicles and Equipment",
+        "uk_desc": "Assemblers (vehicles and metal goods)",
+        "aioe": -1.629897
+      },
+      {
+        "us_soc": "51-9061",
+        "us_title": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+        "uk_desc": "Routine inspectors and testers",
+        "aioe": -0.0293395
+      },
+      {
+        "us_soc": "45-2041",
+        "us_title": "Graders and Sorters, Agricultural Products",
+        "uk_desc": "Weighers, graders and sorters",
+        "aioe": -1.370968
+      },
+      {
+        "us_soc": "51-2041",
+        "us_title": "Structural Metal Fabricators and Fitters",
+        "uk_desc": "Tyre, exhaust and windscreen fitters",
+        "aioe": -1.076307
+      },
+      {
+        "us_soc": "51-4041",
+        "us_title": "Machinists",
+        "uk_desc": "Sewing machinists",
+        "aioe": -0.8675535
+      },
+      {
+        "us_soc": "51-2092",
+        "us_title": "Team Assemblers",
+        "uk_desc": "Assemblers and routine operatives n.e.c.",
+        "aioe": -0.8305441
+      }
+    ]
+  },
+  "chemical-related-process": {
+    "aioe_raw": -0.3616,
+    "aioe_0_10": 4.4,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Chemical and related process operatives",
+        "aioe": -0.3615806
+      }
+    ]
+  },
+  "cleaning": {
+    "aioe_raw": -1.4762,
+    "aioe_0_10": 2.54,
+    "n_matched": 6,
+    "n_uk_socs": 7,
+    "matched": [
+      {
+        "us_soc": "53-7061",
+        "us_title": "Cleaners of Vehicles and Equipment",
+        "uk_desc": "Window cleaners",
+        "aioe": -1.629897
+      },
+      {
+        "us_soc": "53-7061",
+        "us_title": "Cleaners of Vehicles and Equipment",
+        "uk_desc": "Street cleaners",
+        "aioe": -1.629897
+      },
+      {
+        "us_soc": "53-7061",
+        "us_title": "Cleaners of Vehicles and Equipment",
+        "uk_desc": "Cleaners and domestics",
+        "aioe": -1.629897
+      },
+      {
+        "us_soc": "51-6011",
+        "us_title": "Laundry and Dry-Cleaning Workers",
+        "uk_desc": "Launderers, dry cleaners and pressers",
+        "aioe": -1.054399
+      },
+      {
+        "us_soc": "53-7081",
+        "us_title": "Refuse and Recyclable Material Collectors",
+        "uk_desc": "Refuse and salvage occupations",
+        "aioe": -1.283373
+      },
+      {
+        "us_soc": "53-7061",
+        "us_title": "Cleaners of Vehicles and Equipment",
+        "uk_desc": "Vehicle valeters and cleaners",
+        "aioe": -1.629897
+      }
+    ]
+  },
+  "food-drink-tobacco-operatives": {
+    "aioe_raw": -0.7589,
+    "aioe_0_10": 3.74,
+    "n_matched": 1,
+    "n_uk_socs": 1,
+    "matched": [
+      {
+        "us_soc": "51-3091",
+        "us_title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+        "uk_desc": "Food, drink and tobacco process operatives",
+        "aioe": -0.758859
+      }
+    ]
+  },
+  "other-process-operatives-process-plant-occupations": {
+    "aioe_raw": -0.5708,
+    "aioe_0_10": 4.05,
+    "n_matched": 9,
+    "n_uk_socs": 10,
+    "matched": [
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Glass and ceramics process operatives",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Textile process operatives",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Rubber process operatives",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Plastics process operatives",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "51-4191",
+        "us_title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+        "uk_desc": "Metal making and treating process operatives",
+        "aioe": -1.092486
+      },
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Process operatives n.e.c.",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Industrial cleaning process occupations",
+        "aioe": -0.3615806
+      },
+      {
+        "us_soc": "53-7064",
+        "us_title": "Packers and Packagers, Hand",
+        "uk_desc": "Packers, bottlers, canners and fillers",
+        "aioe": -1.51362
+      },
+      {
+        "us_soc": "51-9151",
+        "us_title": "Photographic Process Workers and Processing Machine Operators",
+        "uk_desc": "Elementary process plant occupations n.e.c.",
+        "aioe": -0.3615806
+      }
+    ]
+  },
+  "plant-machine-operatives": {
+    "aioe_raw": -0.7679,
+    "aioe_0_10": 3.72,
+    "n_matched": 8,
+    "n_uk_socs": 8,
+    "matched": [
+      {
+        "us_soc": "51-9196",
+        "us_title": "Paper Goods Machine Setters, Operators, and Tenders",
+        "uk_desc": "Paper and wood machine operatives",
+        "aioe": -0.8740445
+      },
+      {
+        "us_soc": "47-5042",
+        "us_title": "Mine Cutting and Channeling Machine Operators",
+        "uk_desc": "Coal mine operatives",
+        "aioe": -1.200425
+      },
+      {
+        "us_soc": "45-3011",
+        "us_title": "Fishers and Related Fishing Workers",
+        "uk_desc": "Quarry workers and related operatives",
+        "aioe": -1.513249
+      },
+      {
+        "us_soc": "51-8092",
+        "us_title": "Gas Plant Operators",
+        "uk_desc": "Energy plant operatives",
+        "aioe": -0.2982082
+      },
+      {
+        "us_soc": "51-4022",
+        "us_title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+        "uk_desc": "Metal working machine operatives",
+        "aioe": -0.8046677
+      },
+      {
+        "us_soc": "51-8031",
+        "us_title": "Water and Liquid Waste Treatment Plant and System Operators",
+        "uk_desc": "Water and sewerage plant operatives",
+        "aioe": -0.44501
+      },
+      {
+        "us_soc": "51-5112",
+        "us_title": "Printing Press Operators",
+        "uk_desc": "Printing machine assistants",
+        "aioe": -0.7093881
+      },
+      {
+        "us_soc": "51-8092",
+        "us_title": "Gas Plant Operators",
+        "uk_desc": "Plant and machine operatives n.e.c.",
+        "aioe": -0.2982082
+      }
+    ]
+  },
+  "sales-storage-services": {
+    "aioe_raw": 0.1671,
+    "aioe_0_10": 5.28,
+    "n_matched": 5,
+    "n_uk_socs": 5,
+    "matched": [
+      {
+        "us_soc": "43-5081",
+        "us_title": "Stock Clerks and Order Fillers",
+        "uk_desc": "Shelf fillers",
+        "aioe": -0.7892948
+      },
+      {
+        "us_soc": "11-2022",
+        "us_title": "Sales Managers",
+        "uk_desc": "Elementary sales occupations n.e.c.",
+        "aioe": 1.26628
+      },
+      {
+        "us_soc": "11-3071",
+        "us_title": "Transportation, Storage, and Distribution Managers",
+        "uk_desc": "Elementary storage occupations",
+        "aioe": 0.8907923
+      },
+      {
+        "us_soc": "39-6011",
+        "us_title": "Baggage Porters and Bellhops",
+        "uk_desc": "Hospital porters",
+        "aioe": -1.272015
+      },
+      {
+        "us_soc": "11-3011",
+        "us_title": "Administrative Services Managers",
+        "uk_desc": "Other elementary services occupations n.e.c.",
+        "aioe": 0.7398278
+      }
+    ]
+  }
+}

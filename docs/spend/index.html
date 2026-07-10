@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ireland: Who Pays, Who Benefits?</title>
+<link rel="stylesheet" href="../assets/brief.css">
+<link rel="icon" href="../assets/icon.svg">
+<script src="../assets/header.js"></script>
+<script src="../assets/vendor/chart.umd.js"></script>
+<style>
+  /* Page-specific layout on top of brief.css tokens */
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  /* Title block */
+  .hero {
+    padding: var(--s6) 0 var(--s5);
+    border-bottom: 1px solid var(--rule);
+    background: var(--bg);
+  }
+  .hero h1 { margin-bottom: var(--s2); }
+  .hero .lede { font-size: 1.05rem; color: var(--ink-soft); max-width: 700px; }
+  .hero .subtitle {
+    font-family: var(--font-mono); font-size: 0.78rem;
+    color: var(--ink-faint); margin-top: var(--s3);
+  }
+
+  /* Sections */
+  section { padding: var(--s6) 0; }
+  section + section { border-top: 1px solid var(--rule-soft); }
+  h2 { margin-bottom: var(--s2); }
+  .section-desc { color: var(--ink-soft); margin-bottom: 28px; font-size: 0.95rem; }
+
+  /* Cards */
+  .card { margin-bottom: var(--s4); }
+  .card h3 { font-size: 1.15rem; margin-bottom: var(--s3); }
+
+  /* Figures read with tabular numerals */
+  .amount, .payment-amount, .yt-amount, .gini-step .value,
+  .cat-amount, .result-row, .spending-sub-row, .your-tax-item .yt-amount {
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Chart containers */
+  .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .chart-container { position: relative; width: 100%; }
+  @media (max-width: 768px) { .chart-row { grid-template-columns: 1fr; } }
+
+  /* Data note */
+  .data-note {
+    background: color-mix(in srgb, var(--warn) 10%, var(--bg-panel));
+    border: 1px solid color-mix(in srgb, var(--warn) 45%, transparent);
+    border-radius: var(--radius-sm);
+    padding: 14px 18px; font-size: 0.88rem; color: var(--ink-soft); margin-bottom: var(--s4);
+  }
+  .data-note strong { color: var(--ink); }
+  .data-note-neg {
+    background: color-mix(in srgb, var(--neg) 8%, var(--bg-panel));
+    border-color: color-mix(in srgb, var(--neg) 40%, transparent);
+  }
+  .caveat { color: var(--warn); }
+
+  /* Calculator */
+  .calc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
+  @media (max-width: 768px) { .calc-grid { grid-template-columns: 1fr; } }
+  .slider-group { margin-bottom: 20px; }
+  .slider-group label {
+    display: flex; justify-content: space-between; font-size: 0.9rem;
+    font-weight: 500; margin-bottom: 6px;
+  }
+  .slider-group label span { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; }
+  input[type="range"] {
+    width: 100%; height: 6px; border-radius: 3px;
+    -webkit-appearance: none; appearance: none;
+    background: var(--bg-inset); outline: none;
+  }
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none; width: 20px; height: 20px;
+    border-radius: 50%; background: var(--accent); cursor: pointer;
+  }
+  .result-box {
+    background: var(--bg-inset); border-radius: var(--radius); padding: 20px;
+  }
+  .result-row {
+    display: flex; justify-content: space-between; padding: 8px 0;
+    border-bottom: 1px solid var(--rule-soft); font-size: 0.92rem;
+  }
+  .result-row:last-child { border-bottom: none; }
+  .result-row.total { font-weight: 700; font-size: 1rem; border-top: 2px solid var(--rule); }
+  .result-row .amount { font-weight: 600; }
+  .result-row .negative { color: var(--neg); }
+  .result-row .positive { color: var(--pos); }
+
+  /* Toggle group */
+  .toggle-group { display: inline-flex; flex-wrap: wrap; border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--rule); margin-bottom: 20px; }
+  .toggle-btn {
+    padding: 8px 18px; font-size: 0.85rem; border: none; cursor: pointer;
+    background: var(--bg-panel); color: var(--ink-soft); font-weight: 500;
+    transition: background 0.2s;
+  }
+  .toggle-btn.active { background: var(--accent); color: var(--bg-panel); }
+  .toggle-btn + .toggle-btn { border-left: 1px solid var(--rule); }
+
+  /* Gini steps */
+  .gini-steps { display: flex; align-items: center; justify-content: center; gap: 0; flex-wrap: wrap; margin: 20px 0; }
+  .gini-step {
+    text-align: center; padding: 20px 28px; border-radius: 12px;
+    min-width: 180px;
+  }
+  .gini-step .value { font-size: 2rem; font-weight: 700; font-family: var(--font-display); }
+  .gini-step .label { font-size: 0.82rem; color: var(--ink-soft); margin-top: 4px; }
+  .gini-arrow { font-size: 1.8rem; color: var(--ink-faint); padding: 0 4px; }
+  .gini-step:nth-child(1) { background: color-mix(in srgb, var(--neg) 14%, var(--bg-panel)); }
+  .gini-step:nth-child(1) .value { color: var(--neg); }
+  .gini-step:nth-child(3) { background: color-mix(in srgb, var(--warn) 16%, var(--bg-panel)); }
+  .gini-step:nth-child(3) .value { color: var(--warn); }
+  .gini-step:nth-child(5) { background: var(--accent-soft); }
+  .gini-step:nth-child(5) .value { color: var(--accent); }
+
+  /* Welfare table */
+  .welfare-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+  .welfare-card {
+    background: var(--bg-panel); border-radius: var(--radius); padding: 18px;
+    border: 1px solid var(--rule-soft); box-shadow: var(--shadow);
+  }
+  .welfare-card .payment-name { font-weight: 600; font-size: 0.95rem; margin-bottom: 4px; }
+  .welfare-card .payment-amount { font-size: 1.3rem; font-weight: 700; color: var(--accent); font-family: var(--font-display); font-variant-numeric: tabular-nums; }
+  .welfare-card .payment-note { font-size: 0.8rem; color: var(--ink-soft); margin-top: 4px; }
+
+  /* Sources */
+  .sources { background: var(--bg-inset); padding: 36px 0; }
+  .source-list { list-style: none; }
+  .source-list li { padding: 6px 0; font-size: 0.88rem; }
+  .source-tag {
+    display: inline-block; font-size: 0.72rem; font-weight: 600;
+    padding: 2px 8px; border-radius: 4px; margin-right: 6px;
+    text-transform: uppercase;
+  }
+  .tag-cso { background: color-mix(in srgb, var(--series) 15%, transparent); color: var(--series); }
+  .tag-revenue { background: color-mix(in srgb, var(--accent) 15%, transparent); color: var(--accent); }
+  .tag-gov { background: color-mix(in srgb, var(--warn) 15%, transparent); color: var(--warn); }
+
+  /* Policy simulator */
+  .sim-panel { background: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); border-radius: var(--radius); padding: var(--s4); }
+  .sim-panel h3 { color: var(--accent); margin-bottom: var(--s3); }
+
+  /* Net position bar */
+  .net-bar-container { margin-top: 12px; }
+  .net-bar-label { display: flex; justify-content: space-between; font-size: 0.82rem; color: var(--ink-soft); margin-bottom: 4px; }
+  .net-bar-track { height: 28px; background: var(--bg-inset); border-radius: 14px; position: relative; overflow: hidden; }
+  .net-bar-fill { height: 100%; border-radius: 14px; transition: width 0.4s ease; }
+  .net-bar-fill.recipient { background: var(--pos); }
+  .net-bar-fill.contributor { background: var(--neg); }
+
+  footer { text-align: center; padding: var(--s4); font-size: 0.8rem; color: var(--ink-faint); border-top: 1px solid var(--rule); }
+
+  /* Where Your Tax Goes */
+  .spending-bar-container { margin-bottom: 12px; }
+  .spending-bar-header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 4px; font-size: 0.9rem;
+  }
+  .spending-bar-header .cat-name { font-weight: 600; }
+  .spending-bar-header .cat-amount { font-weight: 500; color: var(--ink-soft); }
+  .spending-bar-track {
+    height: 28px; background: var(--bg-inset); border-radius: var(--radius-sm);
+    position: relative; overflow: hidden; cursor: pointer;
+  }
+  .spending-bar-fill {
+    height: 100%; border-radius: var(--radius-sm); transition: width 0.5s ease;
+    display: flex; align-items: center; padding-left: 10px;
+    font-size: 0.78rem; font-weight: 600; color: var(--bg-panel); white-space: nowrap;
+    min-width: 0;
+  }
+  .spending-bar-fill span { overflow: hidden; text-overflow: ellipsis; }
+  .spending-subs {
+    display: none; padding: 8px 0 4px 16px;
+    border-left: 3px solid var(--rule-soft); margin: 4px 0 8px 12px;
+  }
+  .spending-subs.open { display: block; }
+  .spending-sub-row {
+    display: flex; justify-content: space-between; padding: 3px 0;
+    font-size: 0.82rem; color: var(--ink-soft);
+  }
+  .spending-sub-row .sub-bar {
+    flex: 1; margin: 0 12px; height: 6px; background: var(--bg-inset);
+    border-radius: 3px; align-self: center; position: relative; overflow: hidden;
+  }
+  .spending-sub-row .sub-bar-fill { height: 100%; border-radius: 3px; }
+  .your-tax-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+    margin-top: 16px;
+  }
+  @media (max-width: 768px) { .your-tax-grid { grid-template-columns: 1fr; } }
+  .your-tax-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 10px 14px; background: var(--bg-inset); border-radius: var(--radius-sm);
+    border: 1px solid var(--rule-soft); font-size: 0.88rem;
+  }
+  .your-tax-item .yt-label { font-weight: 500; }
+  .your-tax-item .yt-amount { font-weight: 700; color: var(--accent); }
+  .your-tax-total {
+    margin-top: 12px; padding: 14px 18px; background: var(--accent);
+    border-radius: var(--radius); color: var(--bg-panel); display: flex; justify-content: space-between;
+    align-items: center; font-size: 1rem;
+  }
+  .your-tax-total .yt-label { font-weight: 600; }
+  .your-tax-total .yt-amount { font-weight: 700; font-size: 1.2rem; }
+  .per-day-note {
+    text-align: center; margin-top: 12px; font-size: 0.92rem;
+    color: var(--ink-soft); font-style: italic;
+  }
+</style>
+</head>
+<body>
+<brief-header current="spend" root="../"></brief-header>
+
+<!-- TITLE BLOCK -->
+<header class="hero">
+  <div class="container">
+    <h1>Ireland: Who Pays, Who Benefits?</h1>
+    <p class="lede">How Ireland's tax and social welfare systems redistribute income across households, from the lowest to the highest incomes.</p>
+    <p class="subtitle">Built on CSO SILC 2024 survey data &middot; Revenue 2026 tax parameters &middot; Budget 2026 welfare rates</p>
+  </div>
+</header>
+
+<!-- SECTION 1: FISCAL INCIDENCE -->
+<section id="fiscal">
+  <div class="container">
+    <h2>Fiscal Incidence by Income Decile</h2>
+    <p class="section-desc">What households receive in cash social transfers versus what they pay in income tax and social insurance, by position in the income distribution. Weekly amounts from CSO SILC 2024.</p>
+
+    <div class="data-note">
+      <strong>Data source:</strong> All decile figures are from CSO SILC 2024, Table 2.3a — "Average weekly nominal household income by net disposable household income deciles." Income reference period: calendar year 2023. Deciles are ranked by <em>net disposable</em> household income. Downloaded from <a href="https://www.cso.ie/en/releasesandpublications/ep/p-silc/surveyonincomeandlivingconditionssilc2024/householdincome/" target="_blank">cso.ie</a>.
+    </div>
+
+    <div class="data-note data-note-neg">
+      <strong>What this does NOT capture:</strong> The "benefits" side shows only <em>cash</em> social transfers (pensions, jobseeker's, child payments, etc.). It excludes the value of public services received — health, education, social housing, and subsidised childcare — which disproportionately benefit lower-income households. It also excludes indirect taxes (VAT, excise, carbon tax) which are regressive and fall more heavily on lower deciles as a share of income. The true net fiscal transfer to the bottom deciles is substantially larger than shown. See Callan &amp; Keane (2009, ESRI) for Irish estimates of non-cash benefit incidence — though now 17 years old, this remains the most recent study.<br><br>
+      <strong>SILC coverage:</strong> The survey covers private households only. People in direct provision, nursing homes, hospitals, prisons, and those who are homeless are excluded — these populations, among the most dependent on state services, would sit below Decile 1 if captured. Means within deciles (especially D10) are pulled by outliers; medians would tell a different story.
+    </div>
+
+    <div class="chart-row">
+      <div class="card">
+        <h3>Transfers Received vs. Tax Paid (€/week)</h3>
+        <div class="chart-container">
+          <canvas id="fiscalChart"></canvas>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Net Fiscal Position (€/week) — Cash Only</h3>
+        <div class="chart-container">
+          <canvas id="netChart"></canvas>
+        </div>
+        <p style="font-size:0.82rem;color:var(--ink-soft);margin-top:8px;">Net = cash social transfers received minus personal income tax &amp; social insurance paid. Positive = net recipient. Negative = net contributor.</p>
+        <p style="font-size:0.82rem;color:var(--warn);margin-top:4px;"><strong>This chart understates transfers to lower deciles.</strong> It excludes non-cash public services (health, education, housing) worth ~€40bn/year, which disproportionately benefit D1–D5. If included, the green bars would be substantially taller and the crossover point would shift right.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Income Composition: Where Does the Money Come From?</h3>
+      <div class="toggle-group">
+        <button class="toggle-btn active" onclick="setView('euro', this)">€ Amounts</button>
+        <button class="toggle-btn" onclick="setView('pct', this)">% of Gross</button>
+      </div>
+      <div class="chart-container" style="max-height:360px;">
+        <canvas id="compositionChart"></canvas>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 2: GINI REDISTRIBUTION -->
+<section id="gini">
+  <div class="container">
+    <h2>How Redistribution Compresses Inequality</h2>
+    <p class="section-desc">The Gini coefficient measures inequality from 0% (perfect equality) to 100% (one household has everything). Ireland's tax and welfare system reduces the Gini by 18.1 percentage points.</p>
+
+    <div class="card">
+      <div class="gini-steps">
+        <div class="gini-step">
+          <div class="value">45.0%</div>
+          <div class="label">Market Income Only</div>
+        </div>
+        <div class="gini-arrow">→</div>
+        <div class="gini-step">
+          <div class="value">35.6%</div>
+          <div class="label">After Social Transfers</div>
+        </div>
+        <div class="gini-arrow">→</div>
+        <div class="gini-step">
+          <div class="value">26.9%</div>
+          <div class="label">After Tax &amp; Transfers</div>
+        </div>
+      </div>
+      <p style="text-align:center;font-size:0.88rem;color:var(--ink-soft);margin-top:8px;">
+        Adding social transfers reduces the Gini by 9.4pp. Deducting tax, social insurance, pensions, and inter-household transfers reduces it by a further 8.7pp.<br>
+        Note: Gini coefficients are computed on <em>equivalised</em> income (adjusted for household size), while the bar charts above show raw household-level amounts.<br>
+        Quintile share ratio: 3.8 — the richest 20% have 3.8× the income of the poorest 20%.<br>
+        <em>Source: CSO SILC 2024 — Equality of Income</em>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 3: TAX CALCULATOR -->
+<section id="calculator" style="background: var(--bg-panel);">
+  <div class="container">
+    <h2>Tax Calculator: Where Do You Sit?</h2>
+    <p class="section-desc">Enter a gross annual income to see the tax breakdown under 2026 rates. All rates from Revenue.ie and Budget 2026. This is a simplified PAYE employee calculator — it does not cover the self-employed USC surcharge (3% above €100k), BIK, rental income, or capital gains. For married couples with two incomes, it treats the combined income as a single assessment; in reality each spouse is assessed separately for USC and PRSI.</p>
+
+    <div class="calc-grid">
+      <div>
+        <div class="card">
+          <h3>Your Income</h3>
+          <div class="slider-group">
+            <label>Gross Annual Income <span id="incomeDisplay">€45,000</span></label>
+            <input type="range" id="incomeSlider" min="0" max="250000" step="500" value="45000" oninput="updateCalc()">
+          </div>
+          <div class="slider-group">
+            <label>Status</label>
+            <div class="toggle-group" style="margin-bottom:0;">
+              <button class="toggle-btn active" id="btnSingle" onclick="setStatus('single')">Single</button>
+              <button class="toggle-btn" id="btnMarried1" onclick="setStatus('married1')">Married (1 income)</button>
+              <button class="toggle-btn" id="btnMarried2" onclick="setStatus('married2')">Married (2 incomes)</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="sim-panel">
+          <h3>Policy Simulator</h3>
+          <p style="font-size:0.85rem;color:var(--ink-soft);margin-bottom:16px;">Adjust tax parameters to see the impact. Default values are the 2026 rates. Note: married bands are derived mechanically from the single band here; in reality Revenue sets them independently.</p>
+          <div class="slider-group">
+            <label>Higher Rate <span id="higherRateDisplay">40%</span></label>
+            <input type="range" id="higherRateSlider" min="30" max="50" step="1" value="40" oninput="updateCalc()">
+          </div>
+          <div class="slider-group">
+            <label>Standard Rate Band (Single) <span id="bandDisplay">€44,000</span></label>
+            <input type="range" id="bandSlider" min="30000" max="60000" step="1000" value="44000" oninput="updateCalc()">
+          </div>
+          <div class="slider-group">
+            <label>USC Mid Rate (€28.7k–€70k) <span id="uscMidDisplay">3%</span></label>
+            <input type="range" id="uscMidSlider" min="1" max="6" step="0.5" value="3" oninput="updateCalc()">
+          </div>
+          <div class="slider-group">
+            <label>USC Top Rate (above €70k) <span id="uscDisplay">8%</span></label>
+            <input type="range" id="uscSlider" min="4" max="12" step="0.5" value="8" oninput="updateCalc()">
+          </div>
+          <div class="slider-group">
+            <label>Employee PRSI Rate <span id="prsiDisplay">4.2%</span></label>
+            <input type="range" id="prsiSlider" min="2" max="8" step="0.1" value="4.2" oninput="updateCalc()">
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="card">
+          <h3>Tax Breakdown</h3>
+          <div class="result-box">
+            <div class="result-row">
+              <span>Gross Income</span>
+              <span class="amount" id="resGross">€45,000</span>
+            </div>
+            <div class="result-row">
+              <span>Income Tax (20% band)</span>
+              <span class="amount negative" id="resTax20">−€6,800</span>
+            </div>
+            <div class="result-row">
+              <span>Income Tax (40% band)</span>
+              <span class="amount negative" id="resTax40">−€400</span>
+            </div>
+            <div class="result-row">
+              <span>Tax Credits</span>
+              <span class="amount positive" id="resCredits">+€4,000</span>
+            </div>
+            <div class="result-row" style="font-weight:600;">
+              <span>Net Income Tax</span>
+              <span class="amount negative" id="resNetTax">−€3,200</span>
+            </div>
+            <div class="result-row">
+              <span>USC</span>
+              <span class="amount negative" id="resUSC">−€1,049</span>
+            </div>
+            <div class="result-row">
+              <span>Employee PRSI</span>
+              <span class="amount negative" id="resPRSI">−€1,890</span>
+            </div>
+            <div class="result-row total">
+              <span>Total Deductions</span>
+              <span class="amount negative" id="resTotalDed">−€6,139</span>
+            </div>
+            <div class="result-row total" style="border-top:3px solid var(--accent);">
+              <span>Net Take-Home Pay</span>
+              <span class="amount positive" id="resNet">€38,861</span>
+            </div>
+            <div class="result-row">
+              <span>Effective Tax Rate</span>
+              <span class="amount" id="resEffective">13.6%</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Your Tax Composition</h3>
+          <div class="chart-container" style="max-height:240px;">
+            <canvas id="taxPieChart"></canvas>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Where You Sit in the Distribution</h3>
+          <p style="font-size:0.88rem;color:var(--ink-soft);margin-bottom:12px;">Based on CSO SILC 2024: median household disposable income is €58,922/year (€1,133/week).</p>
+          <p style="font-size:0.82rem;color:var(--warn);margin-bottom:8px;"><strong>Caveat:</strong> SILC decile thresholds are based on total <em>household</em> disposable income (all earners combined). Comparing a single earner's take-home pay against household thresholds will understate where a multi-earner household actually sits.</p>
+          <p style="font-size:0.82rem;color:var(--warn);margin-bottom:12px;"><strong>Temporal mismatch:</strong> The decile thresholds reflect 2023 incomes (SILC 2024). The tax calculator uses 2026 rates. With ~5%/year wage growth since 2023, today's thresholds would be higher — so this comparison may place you in a higher decile than you'd actually occupy in 2026.</p>
+          <div id="decilePosition" style="font-size:0.95rem;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 4: WHERE YOUR TAX GOES -->
+<section id="yourtax">
+  <div class="container">
+    <h2>Where Your Tax Goes</h2>
+    <p class="section-desc">Total government expenditure in 2026: €133.3 billion. This shows how spending is allocated across sectors — and how your personal tax contribution divides up proportionally. Click any bar to see subcategories.</p>
+
+    <div class="data-note">
+      <strong>Source:</strong> <a href="https://www.whereyourmoneygoes.gov.ie/en/2026/" target="_blank">whereyourmoneygoes.gov.ie</a> — Department of Finance, 2026. Figures include both current (€98.3bn) and capital (€19.1bn) expenditure. "Your share" is computed as your total tax deductions (income tax + USC + PRSI) as a proportion of total government revenue, applied to each spending category. This is illustrative — your taxes don't literally fund specific services.
+    </div>
+
+    <div class="chart-row">
+      <div class="card">
+        <h3>Government Spending by Sector (2026)</h3>
+        <div id="spendingBars"></div>
+      </div>
+      <div class="card">
+        <h3>Your Personal Tax Allocation</h3>
+        <p style="font-size:0.85rem;color:var(--ink-soft);margin-bottom:12px;">Based on your income from the tax calculator above. Adjust your income to see how your contribution changes.</p>
+        <div id="yourTaxBreakdown">
+          <div class="your-tax-grid" id="yourTaxGrid"></div>
+          <div class="your-tax-total" id="yourTaxTotal">
+            <span class="yt-label">Your Total Tax</span>
+            <span class="yt-amount" id="yourTaxTotalAmt">€0</span>
+          </div>
+          <div class="per-day-note" id="perDayNote"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 5: SOCIAL WELFARE RATES (renumbered) -->
+<section id="welfare">
+  <div class="container">
+    <h2>Key Social Welfare Rates (2026)</h2>
+    <p class="section-desc">Weekly personal rates from Budget 2026, effective January 2026. Source: gov.ie Department of Social Protection & Citizens Information.</p>
+
+    <div class="welfare-grid">
+      <div class="welfare-card">
+        <div class="payment-name">State Pension (Non-Contributory)</div>
+        <div class="payment-amount">€288/week</div>
+        <div class="payment-note">Age 66–79. €298/week for age 80+.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Jobseeker's Allowance</div>
+        <div class="payment-amount">€254/week</div>
+        <div class="payment-note">Personal rate, age 25+. Means-tested.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Disability Allowance</div>
+        <div class="payment-amount">€254/week</div>
+        <div class="payment-note">Personal rate. Means-tested.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Carer's Allowance</div>
+        <div class="payment-amount">€270/week</div>
+        <div class="payment-note">Under 66. €308/week for 66+.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Maternity / Paternity Benefit</div>
+        <div class="payment-amount">€299/week</div>
+        <div class="payment-note">Also applies to Adoptive and Parent's Benefit.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Child Support Payment</div>
+        <div class="payment-amount">€58/week</div>
+        <div class="payment-note">Under 12. €78/week for age 12+.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Child Benefit</div>
+        <div class="payment-amount">€140/month</div>
+        <div class="payment-note">Per child. Universal (not means-tested). ~€2.5bn/year total.</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Fuel Allowance</div>
+        <div class="payment-amount">€38/week</div>
+        <div class="payment-note">Paid during heating season (28 weeks).</div>
+      </div>
+      <div class="welfare-card">
+        <div class="payment-name">Invalidity Pension</div>
+        <div class="payment-amount">€259.50/week</div>
+        <div class="payment-note">Personal rate. Qualified adult: €185.40.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION 6: SPENDING OVERVIEW -->
+<section id="spending" style="background:var(--bg-panel);">
+  <div class="container">
+    <h2>Where the State Spends on Social Protection</h2>
+    <p class="section-desc">Total social benefits expenditure in 2024: €67.6 billion. Source: CSO Social Protection Expenditure in Ireland 2024.</p>
+    <div class="chart-row">
+      <div class="card">
+        <h3>Social Protection Spending by Function (2024)</h3>
+        <div class="chart-container">
+          <canvas id="spendingChart"></canvas>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Tax Revenue Composition (2024)</h3>
+        <div class="chart-container">
+          <canvas id="revenueChart"></canvas>
+        </div>
+        <p style="font-size:0.82rem;color:var(--ink-soft);margin-top:12px;">Exchequer net tax receipts ~€107bn. Top 3 heads from CSO Tax Statistics 2024 &amp; Revenue Annual Report 2024. "Other" is the residual (Excise, Stamps, CGT, etc.).</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SOURCES -->
+<section class="sources" id="sources">
+  <div class="container">
+    <h2>Data Sources</h2>
+    <p class="section-desc">All figures are sourced from the following official publications unless marked as derived. The tax revenue "Other" category is a residual (total minus top 3 heads).</p>
+    <ul class="source-list">
+      <li><span class="source-tag tag-cso">CSO</span> <a href="https://www.cso.ie/en/releasesandpublications/ep/p-silc/surveyonincomeandlivingconditionssilc2024/householdincome/" target="_blank">SILC 2024 — Household Income</a> — Decile-level income composition, deductions, and disposable income</li>
+      <li><span class="source-tag tag-cso">CSO</span> <a href="https://www.cso.ie/en/releasesandpublications/ep/p-silc/surveyonincomeandlivingconditionssilc2024/equivalisedincome/" target="_blank">SILC 2024 — Equivalised Income</a> — Per-person adjusted income by decile</li>
+      <li><span class="source-tag tag-cso">CSO</span> <a href="https://www.cso.ie/en/releasesandpublications/ep/p-silc/surveyonincomeandlivingconditionssilc2024/equalityofincome/" target="_blank">SILC 2024 — Equality of Income</a> — Gini coefficients and quintile share ratio</li>
+      <li><span class="source-tag tag-cso">CSO</span> <a href="https://www.cso.ie/en/releasesandpublications/ep/p-silc/surveyonincomeandlivingconditionssilc2024/keyfindings/" target="_blank">SILC 2024 — Key Findings</a></li>
+      <li><span class="source-tag tag-cso">CSO</span> <a href="https://www.cso.ie/en/releasesandpublications/ep/p-spei/socialprotectionexpenditureinireland2024/mainresults/" target="_blank">Social Protection Expenditure in Ireland 2024</a> — €67.6bn spending breakdown</li>
+      <li><span class="source-tag tag-cso">CSO</span> <a href="https://www.cso.ie/en/releasesandpublications/ep/p-itxs/irelandstaxstatistics2024/keyfindings/" target="_blank">Ireland's Tax Statistics 2024</a> — Tax revenue breakdown</li>
+      <li><span class="source-tag tag-revenue">Revenue</span> <a href="https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/tax-relief-charts/index.aspx" target="_blank">Tax rates, bands and reliefs 2026</a> — Income tax bands and credits</li>
+      <li><span class="source-tag tag-revenue">Revenue</span> <a href="https://www.revenue.ie/en/jobs-and-pensions/usc/standard-rates-thresholds.aspx" target="_blank">USC Standard Rates and Thresholds 2026</a></li>
+      <li><span class="source-tag tag-revenue">Revenue</span> <a href="https://www.revenue.ie/en/corporate/documents/statistics/ready-reckoner.pdf" target="_blank">Revenue Ready Reckoner — Post Budget 2026</a></li>
+      <li><span class="source-tag tag-gov">Gov.ie</span> <a href="https://www.whereyourmoneygoes.gov.ie/en/2026/" target="_blank">Where Your Money Goes 2026</a> — Department of Finance — Full government expenditure breakdown (€133.3bn)</li>
+      <li><span class="source-tag tag-gov">Gov.ie</span> <a href="https://www.gov.ie/en/department-of-social-protection/publications/budget-2026/" target="_blank">Budget 2026 — Department of Social Protection</a> — Welfare rate increases</li>
+      <li><span class="source-tag tag-gov">Gov.ie</span> <a href="https://www.citizensinformation.ie/en/money-and-tax/budgets/social-welfare-rates-announced-in-budget-2026/" target="_blank">Citizens Information — Social Welfare Rates 2026</a></li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>Built by Stephen Kinsella. Data as of SILC 2024 (income reference year 2023) and Budget 2026. Last updated February 2026.</p>
+  </div>
+</footer>
+
+<script>
+// ====================================================
+// DATA — All figures sourced from CSO SILC 2024
+// ====================================================
+
+// CSO SILC 2024 — Household Income, Table 2.3a
+// "Average weekly nominal household income by net disposable household
+//  income deciles and composition of net household disposable income, 2024"
+// Source: CSO P-SILC2024TBL2.3a.xls (downloaded from cso.ie)
+// All figures: mean weekly € per household
+const silcData = {
+  labels: ['D1','D2','D3','D4','D5','D6','D7','D8','D9','D10'],
+  // Weekly disposable income thresholds defining each decile (€)
+  thresholds: ['<409.73','<626.74','<798.98','<955.34','<1129.21','<1314.52','<1534.16','<1793.76','<2193.07','≥2193.07'],
+  // Row 18: Gross Income
+  grossIncome:     [325.04, 587.91, 863.98, 1088.07, 1351.91, 1620.97, 1989.25, 2426.75, 3092.32, 5556.84],
+  // Row 10: Total Market Income
+  marketIncome:    [63.52, 274.98, 584.99, 797.98, 1089.60, 1398.93, 1796.93, 2253.24, 2953.11, 5416.16],
+  // Row 17: Total Social Transfers
+  socialTransfers: [261.52, 312.94, 279.00, 290.09, 262.31, 222.03, 192.32, 173.51, 139.22, 140.68],
+  // Row 20: Tax on income and social contributions
+  taxAndSI:        [7.50, 31.96, 82.33, 122.86, 187.52, 231.47, 335.00, 457.49, 690.72, 1616.23],
+  // Row 24: Total Tax and Social Contributions (incl. employer SI, pensions, inter-HH)
+  totalDeductions: [16.12, 57.47, 145.83, 215.73, 309.20, 401.23, 565.67, 773.06, 1116.68, 2299.62],
+  // Row 25: Net Disposable Income
+  disposable:      [308.92, 530.45, 718.15, 872.34, 1042.71, 1219.74, 1423.57, 1653.68, 1975.65, 3257.23],
+  // State averages
+  stateAvg: { gross: 1891.01, market: 1663.66, transfers: 227.34, taxSI: 376.59, totalDed: 590.43, disposable: 1300.58 },
+  // Derived: net cash fiscal position = transfers received - personal tax & SI paid
+  get netPosition() { return this.socialTransfers.map((t, i) => t - this.taxAndSI[i]); }
+};
+
+// CSO SILC 2024 — Gini coefficients
+const gini = { market: 45.0, afterTransfers: 35.6, disposable: 26.9 };
+
+// CSO Social Protection Expenditure 2024 (€ billions)
+const socialSpending = {
+  labels: ['Health\n(incl. HSE)', 'Old Age', 'Family/\nChildren', 'Housing', 'Disability', 'Unemployment', 'Other'],
+  values: [30.0, 18.4, 5.9, 4.1, 3.6, 2.5, 3.1]
+};
+
+// Tax revenue 2024 — Corporation Tax, Income Tax (incl. USC), VAT from
+// CSO Ireland's Tax Statistics 2024 & Revenue Annual Report 2024.
+// "Other" is residual (Excise, Stamps, CGT, CAT, Customs, etc.)
+const taxRevenue = {
+  labels: ['Corporation Tax', 'Income Tax\n(incl. USC)', 'VAT', 'Other'],
+  values: [39.1, 35.1, 21.9, 10.9]
+};
+
+// ====================================================
+// GOVERNMENT EXPENDITURE 2026 — whereyourmoneygoes.gov.ie
+// ====================================================
+const govSpending2026 = {
+  total: 133.3, // € billion
+  current: 98.28,
+  capital: 19.11,
+  sectors: [
+    {
+      name: 'Social Protection', amount: 28.90, color: 'var(--accent)',
+      subs: [
+        { name: 'Pensions', amount: 10.70 },
+        { name: 'Illness, Disability, Carers', amount: 6.51 },
+        { name: 'Working Age Income Supports', amount: 4.46 },
+        { name: 'Children', amount: 3.15 },
+        { name: 'Working Age Employment', amount: 0.73 },
+        { name: 'Other Social Protection', amount: 3.35 },
+      ]
+    },
+    {
+      name: 'Health', amount: 27.40, color: 'var(--series)',
+      subs: [
+        { name: 'Care Programmes', amount: 6.16 },
+        { name: 'Regional Health Areas', amount: 12.60 },
+        { name: 'Capital Services', amount: 1.97 },
+        { name: 'Admin & Other', amount: 6.67 },
+      ]
+    },
+    {
+      name: 'Debt Servicing & EU', amount: 15.90, color: 'var(--ink-faint)',
+      subs: [
+        { name: 'Other Non-Voted', amount: 8.49 },
+        { name: 'EU Contribution', amount: 4.36 },
+        { name: 'National Debt Service', amount: 3.06 },
+      ]
+    },
+    {
+      name: 'Education', amount: 13.50, color: 'var(--pos)',
+      subs: [
+        { name: 'Primary & Secondary', amount: 8.90 },
+        { name: 'Higher Education & Research', amount: 3.20 },
+        { name: 'Other Education', amount: 1.40 },
+      ]
+    },
+    {
+      name: 'Housing', amount: 11.40, color: 'var(--warn)',
+      subs: [
+        { name: 'Housing & Local Government', amount: 9.03 },
+        { name: 'Uisce Éireann (Water)', amount: 2.25 },
+        { name: 'Other', amount: 0.12 },
+      ]
+    },
+    {
+      name: 'Justice', amount: 6.30, color: 'var(--neg)',
+      subs: [
+        { name: 'Garda Síochána', amount: 2.74 },
+        { name: 'Justice, Home Affairs, Migration', amount: 2.73 },
+        { name: 'Prisons', amount: 0.58 },
+        { name: 'Courts', amount: 0.22 },
+      ]
+    },
+    {
+      name: 'Transport', amount: 4.80, color: 'color-mix(in srgb, var(--series) 45%, var(--pos))',
+      subs: [
+        { name: 'Public Transport', amount: 2.39 },
+        { name: 'Road Networks', amount: 1.73 },
+        { name: 'Active Travel & Greenways', amount: 0.36 },
+        { name: 'Other Transport', amount: 0.32 },
+      ]
+    },
+    {
+      name: 'Other Departments', amount: 25.10, color: 'var(--ink-soft)',
+      subs: [
+        { name: 'Defence, Foreign Affairs', amount: 5.20 },
+        { name: 'Agriculture, Marine', amount: 4.10 },
+        { name: 'Enterprise, Innovation', amount: 3.80 },
+        { name: 'Environment, Climate', amount: 3.50 },
+        { name: 'Other Govt. Services', amount: 8.50 },
+      ]
+    },
+  ]
+};
+
+// Approximate total tax revenue 2026 (used to compute personal share)
+// Net exchequer tax receipts + PRSI + other social contributions
+const totalGovRevenue2026 = 133.3; // matched to expenditure for simplicity
+
+// ====================================================
+// TAX CALCULATOR — 2026 parameters from Revenue.ie
+// ====================================================
+const defaultTaxParams = {
+  // Income Tax
+  standardRate: 0.20,         // 20%
+  higherRate: 0.40,           // 40%
+  singleBand: 44000,          // Standard rate band — single
+  married1Band: 53000,        // Married, 1 income
+  married2Band: 88000,        // Married, 2 incomes (max €44k each)
+  // Tax Credits (annual)
+  singleCredit: 2000,
+  employeeCredit: 2000,
+  marriedCredit: 4000,
+  // USC bands (annual)
+  uscExempt: 13000,
+  uscBand1Limit: 12012,   uscRate1: 0.005,   // 0.5%
+  uscBand2Limit: 28700,   uscRate2: 0.02,    // 2%
+  uscBand3Limit: 70044,   uscRate3: 0.03,    // 3%  (was 4%, reduced in Budget 2025)
+                           uscRate4: 0.08,    // 8%
+  // PRSI
+  prsiRate: 0.042,            // 4.2% (rising to 4.35% from Oct 2026)
+  prsiExemptWeekly: 352,      // €352/week exempt
+};
+
+let currentStatus = 'single';
+
+function setStatus(s) {
+  currentStatus = s;
+  document.querySelectorAll('#btnSingle,#btnMarried1,#btnMarried2').forEach(b => b.classList.remove('active'));
+  if (s === 'single') document.getElementById('btnSingle').classList.add('active');
+  else if (s === 'married1') document.getElementById('btnMarried1').classList.add('active');
+  else document.getElementById('btnMarried2').classList.add('active');
+  updateCalc();
+}
+
+function calculateTax(gross) {
+  const higherRate = parseFloat(document.getElementById('higherRateSlider').value) / 100;
+  const singleBand = parseInt(document.getElementById('bandSlider').value);
+  const midUSC = parseFloat(document.getElementById('uscMidSlider').value) / 100;
+  const topUSC = parseFloat(document.getElementById('uscSlider').value) / 100;
+  const prsiRate = parseFloat(document.getElementById('prsiSlider').value) / 100;
+
+  // Determine band and credits based on status
+  let band, credits;
+  if (currentStatus === 'single') {
+    band = singleBand;
+    credits = defaultTaxParams.singleCredit + defaultTaxParams.employeeCredit; // €4,000
+  } else if (currentStatus === 'married1') {
+    band = singleBand + 9000; // married 1-income band is €9k higher than single
+    credits = defaultTaxParams.marriedCredit + defaultTaxParams.employeeCredit; // €6,000
+  } else {
+    band = singleBand * 2; // married 2-income
+    credits = defaultTaxParams.marriedCredit + defaultTaxParams.employeeCredit * 2; // €8,000
+  }
+
+  // Income Tax
+  const tax20 = Math.min(gross, band) * defaultTaxParams.standardRate;
+  const tax40 = Math.max(0, gross - band) * higherRate;
+  const grossTax = tax20 + tax40;
+  const netTax = Math.max(0, grossTax - credits);
+
+  // USC
+  let usc = 0;
+  if (gross > defaultTaxParams.uscExempt) {
+    const b1 = defaultTaxParams.uscBand1Limit;
+    const b2 = defaultTaxParams.uscBand2Limit;
+    const b3 = defaultTaxParams.uscBand3Limit;
+    usc += Math.min(gross, b1) * defaultTaxParams.uscRate1;
+    usc += Math.max(0, Math.min(gross, b2) - b1) * defaultTaxParams.uscRate2;
+    usc += Math.max(0, Math.min(gross, b3) - b2) * midUSC;
+    usc += Math.max(0, gross - b3) * topUSC;
+  }
+
+  // PRSI
+  let prsi = 0;
+  const prsiExemptAnnual = defaultTaxParams.prsiExemptWeekly * 52; // €18,304
+  if (gross > prsiExemptAnnual) {
+    const weeklyGross = gross / 52;
+    const grossPrsi = gross * prsiRate;
+    // PRSI credit: max €12/week, tapers to zero between €352-€424/week
+    // Credit = max(0, €12 - (weeklyGross - €352) * 1/6)
+    let weeklyCredit = 0;
+    if (weeklyGross <= 424) {
+      weeklyCredit = Math.max(0, 12 - ((weeklyGross - 352) * (1/6)));
+    }
+    prsi = Math.max(0, grossPrsi - (weeklyCredit * 52));
+  }
+
+  const totalDed = netTax + usc + prsi;
+  const netPay = gross - totalDed;
+  const effectiveRate = gross > 0 ? (totalDed / gross * 100) : 0;
+
+  return { tax20, tax40, credits, grossTax, netTax, usc, prsi, totalDed, netPay, effectiveRate };
+}
+
+function fmt(n) {
+  return '€' + Math.round(n).toLocaleString('en-IE');
+}
+
+function updateCalc() {
+  const gross = parseInt(document.getElementById('incomeSlider').value);
+  document.getElementById('incomeDisplay').textContent = fmt(gross);
+  document.getElementById('higherRateDisplay').textContent = document.getElementById('higherRateSlider').value + '%';
+  document.getElementById('bandDisplay').textContent = fmt(parseInt(document.getElementById('bandSlider').value));
+  document.getElementById('uscMidDisplay').textContent = document.getElementById('uscMidSlider').value + '%';
+  document.getElementById('uscDisplay').textContent = document.getElementById('uscSlider').value + '%';
+  document.getElementById('prsiDisplay').textContent = document.getElementById('prsiSlider').value + '%';
+
+  const r = calculateTax(gross);
+
+  const fmtDed = v => v > 0.5 ? ('−' + fmt(v)) : '€0';
+  document.getElementById('resGross').textContent = fmt(gross);
+  document.getElementById('resTax20').textContent = fmtDed(r.tax20);
+  document.getElementById('resTax40').textContent = fmtDed(r.tax40);
+  document.getElementById('resCredits').textContent = r.credits > 0 ? ('+' + fmt(r.credits)) : '€0';
+  document.getElementById('resNetTax').textContent = fmtDed(r.netTax);
+  document.getElementById('resUSC').textContent = fmtDed(r.usc);
+  document.getElementById('resPRSI').textContent = fmtDed(r.prsi);
+  document.getElementById('resTotalDed').textContent = fmtDed(r.totalDed);
+  document.getElementById('resNet').textContent = fmt(r.netPay);
+  document.getElementById('resEffective').textContent = r.effectiveRate.toFixed(1) + '%';
+
+  // Update pie chart
+  taxPieChart.data.datasets[0].data = [r.netTax, r.usc, r.prsi, r.netPay];
+  taxPieChart.update();
+
+  // Decile position based on SILC 2024 weekly disposable income thresholds
+  // Thresholds: D1 <€409.73, D2 <€626.74, D3 <€798.98, D4 <€955.34,
+  // D5 <€1,129.21, D6 <€1,314.52, D7 <€1,534.16, D8 <€1,793.76, D9 <€2,193.07, D10 ≥€2,193.07
+  const thresholds = [409.73, 626.74, 798.98, 955.34, 1129.21, 1314.52, 1534.16, 1793.76, 2193.07];
+  const weeklyDisp = r.netPay / 52;
+  let decile = 10;
+  for (let i = 0; i < thresholds.length; i++) {
+    if (weeklyDisp < thresholds[i]) { decile = i + 1; break; }
+  }
+  const posDiv = document.getElementById('decilePosition');
+  const avgDisp = silcData.disposable[decile - 1];
+  const annualAvg = fmt(Math.round(avgDisp * 52));
+  posDiv.innerHTML = `At <strong>${fmt(r.netPay)}</strong>/year (€${weeklyDisp.toFixed(0)}/week) disposable, a single-earner household would sit in <strong>Decile ${decile}</strong> of the income distribution. Average disposable in D${decile}: €${avgDisp.toFixed(0)}/week (${annualAvg}/year).`;
+
+  // Update "Where Your Tax Goes" personal allocation
+  updateYourTax(r.totalDed);
+}
+
+// ====================================================
+// CHARTS
+// ====================================================
+
+// Theme helper — resolve brief.css tokens for canvas chart colours
+const T = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+
+function applyChartDefaults() {
+  Chart.defaults.color = T('--ink-soft');
+  Chart.defaults.borderColor = T('--rule');
+  Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
+}
+applyChartDefaults();
+
+// Chart 1: Fiscal Incidence — Transfers vs Tax
+const fiscalChart = new Chart(document.getElementById('fiscalChart'), {
+  type: 'bar',
+  data: {
+    labels: silcData.labels,
+    datasets: [
+      {
+        label: 'Social Transfers Received',
+        data: silcData.socialTransfers,
+        backgroundColor: T('--pos'),
+        borderRadius: 4,
+      },
+      {
+        label: 'Tax & Social Insurance Paid',
+        data: silcData.taxAndSI,
+        backgroundColor: T('--neg'),
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 14, font: { size: 12 } } },
+      tooltip: { callbacks: { label: ctx => ctx.dataset.label + ': €' + ctx.raw.toFixed(0) + '/week' } }
+    },
+    scales: {
+      y: {
+        beginAtZero: true,
+        title: { display: true, text: '€ per week' },
+        ticks: { callback: v => '€' + v }
+      }
+    }
+  }
+});
+
+// Chart 2: Net Fiscal Position
+// Uses taxAndSI (Row 20: personal tax on income + social contributions) — NOT totalDeductions
+// which also includes employer SI, pension contributions, and inter-household transfers.
+const netPositionData = silcData.socialTransfers.map((t, i) => t - silcData.taxAndSI[i]);
+const netChart = new Chart(document.getElementById('netChart'), {
+  type: 'bar',
+  data: {
+    labels: silcData.labels,
+    datasets: [{
+      label: 'Net Position (Transfers − Deductions)',
+      data: netPositionData,
+      backgroundColor: netPositionData.map(v => v >= 0 ? T('--pos') : T('--neg')),
+      borderRadius: 4,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { display: false },
+      tooltip: { callbacks: { label: ctx => (ctx.raw >= 0 ? '+€' : '−€') + Math.abs(ctx.raw).toFixed(0) + '/week' } }
+    },
+    scales: {
+      y: {
+        title: { display: true, text: '€ per week (net)' },
+        ticks: { callback: v => (v >= 0 ? '+€' : '−€') + Math.abs(v) }
+      }
+    }
+  }
+});
+
+// Chart 3: Income Composition
+let compositionMode = 'euro';
+const compositionChart = new Chart(document.getElementById('compositionChart'), {
+  type: 'bar',
+  data: {
+    labels: silcData.labels,
+    datasets: [
+      {
+        label: 'Market Income',
+        data: silcData.marketIncome,
+        backgroundColor: T('--series'),
+      },
+      {
+        label: 'Social Transfers',
+        data: silcData.socialTransfers,
+        backgroundColor: T('--pos'),
+      },
+      {
+        label: 'Tax & SI (personal)',
+        data: silcData.taxAndSI.map(d => -d),
+        backgroundColor: T('--neg'),
+      },
+      {
+        label: 'Employer SI, Pensions, Other',
+        data: silcData.totalDeductions.map((d, i) => -(d - silcData.taxAndSI[i])),
+        backgroundColor: T('--neg') + '80',
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 14, font: { size: 12 } } },
+      tooltip: {
+        callbacks: {
+          label: ctx => {
+            const v = ctx.raw;
+            if (compositionMode === 'euro') return ctx.dataset.label + ': €' + Math.abs(v).toFixed(0) + '/week';
+            return ctx.dataset.label + ': ' + Math.abs(v).toFixed(1) + '%';
+          }
+        }
+      }
+    },
+    scales: {
+      x: { stacked: false },
+      y: {
+        title: { display: true, text: '€ per week' },
+        ticks: { callback: v => (v < 0 ? '−€' : '€') + Math.abs(Math.round(v)) }
+      }
+    }
+  }
+});
+
+function setView(mode, btn) {
+  compositionMode = mode;
+  document.querySelectorAll('.toggle-group .toggle-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  if (mode === 'pct') {
+    compositionChart.data.datasets[0].data = silcData.marketIncome.map((m, i) => (m / silcData.grossIncome[i] * 100));
+    compositionChart.data.datasets[1].data = silcData.socialTransfers.map((t, i) => (t / silcData.grossIncome[i] * 100));
+    compositionChart.data.datasets[2].data = silcData.taxAndSI.map((d, i) => -(d / silcData.grossIncome[i] * 100));
+    compositionChart.data.datasets[3].data = silcData.totalDeductions.map((d, i) => -((d - silcData.taxAndSI[i]) / silcData.grossIncome[i] * 100));
+    compositionChart.options.scales.y.title.text = '% of Gross Income';
+    compositionChart.options.scales.y.ticks.callback = v => (v < 0 ? '−' : '') + Math.abs(v).toFixed(0) + '%';
+  } else {
+    compositionChart.data.datasets[0].data = silcData.marketIncome;
+    compositionChart.data.datasets[1].data = silcData.socialTransfers;
+    compositionChart.data.datasets[2].data = silcData.taxAndSI.map(d => -d);
+    compositionChart.data.datasets[3].data = silcData.totalDeductions.map((d, i) => -(d - silcData.taxAndSI[i]));
+    compositionChart.options.scales.y.title.text = '€ per week';
+    compositionChart.options.scales.y.ticks.callback = v => (v < 0 ? '−€' : '€') + Math.abs(v);
+  }
+  compositionChart.update();
+}
+
+// Chart 4: Tax Pie
+const taxPieChart = new Chart(document.getElementById('taxPieChart'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Income Tax', 'USC', 'PRSI', 'Take-Home'],
+    datasets: [{
+      data: [0, 0, 0, 0],
+      backgroundColor: [T('--neg'), T('--warn'), T('--series'), T('--pos')],
+      borderColor: T('--bg-panel'),
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } },
+      tooltip: { callbacks: { label: ctx => ctx.label + ': ' + fmt(ctx.raw) } }
+    }
+  }
+});
+
+// Chart 5: Social Protection Spending
+const socialSpendingPalette = () => [T('--series'), T('--accent'), T('--pos'), T('--warn'), T('--series') + '99', T('--neg'), T('--ink-faint')];
+const spendingChart = new Chart(document.getElementById('spendingChart'), {
+  type: 'doughnut',
+  data: {
+    labels: socialSpending.labels,
+    datasets: [{
+      data: socialSpending.values,
+      backgroundColor: socialSpendingPalette(),
+      borderColor: T('--bg-panel'),
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } },
+      tooltip: { callbacks: { label: ctx => ctx.label + ': €' + ctx.raw + ' billion' } }
+    }
+  }
+});
+
+// Chart 6: Tax Revenue
+const revenuePalette = () => [T('--accent'), T('--series'), T('--pos'), T('--ink-faint')];
+const revenueChart = new Chart(document.getElementById('revenueChart'), {
+  type: 'doughnut',
+  data: {
+    labels: taxRevenue.labels,
+    datasets: [{
+      data: taxRevenue.values,
+      backgroundColor: revenuePalette(),
+      borderColor: T('--bg-panel'),
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } },
+      tooltip: { callbacks: { label: ctx => ctx.label + ': €' + ctx.raw + ' billion' } }
+    }
+  }
+});
+
+// ====================================================
+// WHERE YOUR TAX GOES — Spending bars + personal allocation
+// ====================================================
+
+function renderSpendingBars() {
+  const container = document.getElementById('spendingBars');
+  const maxAmt = Math.max(...govSpending2026.sectors.map(s => s.amount));
+  let html = '';
+  govSpending2026.sectors.forEach((sector, idx) => {
+    const pct = (sector.amount / govSpending2026.total * 100).toFixed(1);
+    const barW = (sector.amount / maxAmt * 100).toFixed(1);
+    html += `<div class="spending-bar-container">
+      <div class="spending-bar-header">
+        <span class="cat-name">${sector.name}</span>
+        <span class="cat-amount">€${sector.amount.toFixed(1)}bn (${pct}%)</span>
+      </div>
+      <div class="spending-bar-track" onclick="toggleSubs(${idx})">
+        <div class="spending-bar-fill" style="width:${barW}%;background:${sector.color};">
+          <span>${sector.amount >= 5 ? '€' + sector.amount.toFixed(1) + 'bn' : ''}</span>
+        </div>
+      </div>
+      <div class="spending-subs" id="subs-${idx}">`;
+    const subMax = Math.max(...sector.subs.map(s => s.amount));
+    sector.subs.forEach(sub => {
+      const subW = (sub.amount / subMax * 100).toFixed(1);
+      html += `<div class="spending-sub-row">
+        <span style="min-width:180px;">${sub.name}</span>
+        <div class="sub-bar"><div class="sub-bar-fill" style="width:${subW}%;background:${sector.color};opacity:0.7;"></div></div>
+        <span style="min-width:60px;text-align:right;font-weight:600;">€${sub.amount >= 1 ? sub.amount.toFixed(1) + 'bn' : (sub.amount * 1000).toFixed(0) + 'm'}</span>
+      </div>`;
+    });
+    html += `</div></div>`;
+  });
+  container.innerHTML = html;
+}
+
+function toggleSubs(idx) {
+  const el = document.getElementById('subs-' + idx);
+  el.classList.toggle('open');
+}
+
+function updateYourTax(totalDed) {
+  const grid = document.getElementById('yourTaxGrid');
+  const totalEl = document.getElementById('yourTaxTotalAmt');
+  const perDayEl = document.getElementById('perDayNote');
+
+  // Your share: totalDed / totalGovRevenue (in billions) → fraction of govt spending
+  const shareFraction = totalDed / (totalGovRevenue2026 * 1e9);
+
+  let html = '';
+  govSpending2026.sectors.forEach(sector => {
+    const yourShare = shareFraction * sector.amount * 1e9;
+    html += `<div class="your-tax-item">
+      <span class="yt-label" style="display:flex;align-items:center;gap:8px;">
+        <span style="width:10px;height:10px;border-radius:50%;background:${sector.color};display:inline-block;"></span>
+        ${sector.name}
+      </span>
+      <span class="yt-amount">${yourShare >= 1 ? fmt(yourShare) : '€' + yourShare.toFixed(0)}</span>
+    </div>`;
+  });
+  grid.innerHTML = html;
+  totalEl.textContent = fmt(totalDed);
+  const perDay = (totalDed / 365).toFixed(2);
+  const perWeek = fmt(Math.round(totalDed / 52));
+  perDayEl.textContent = `That's €${perDay} per day, or ${perWeek} per week in tax.`;
+}
+
+renderSpendingBars();
+
+// Initialize calculator
+updateCalc();
+
+// ====================================================
+// THEME — refresh chart colours when the site header toggles dark mode.
+// DOM bars use var() inline styles and follow the theme automatically;
+// canvas charts need their resolved colours reassigned.
+// ====================================================
+function refreshChartTheme() {
+  applyChartDefaults();
+  fiscalChart.data.datasets[0].backgroundColor = T('--pos');
+  fiscalChart.data.datasets[1].backgroundColor = T('--neg');
+  netChart.data.datasets[0].backgroundColor = netPositionData.map(v => v >= 0 ? T('--pos') : T('--neg'));
+  compositionChart.data.datasets[0].backgroundColor = T('--series');
+  compositionChart.data.datasets[1].backgroundColor = T('--pos');
+  compositionChart.data.datasets[2].backgroundColor = T('--neg');
+  compositionChart.data.datasets[3].backgroundColor = T('--neg') + '80';
+  taxPieChart.data.datasets[0].backgroundColor = [T('--neg'), T('--warn'), T('--series'), T('--pos')];
+  taxPieChart.data.datasets[0].borderColor = T('--bg-panel');
+  spendingChart.data.datasets[0].backgroundColor = socialSpendingPalette();
+  spendingChart.data.datasets[0].borderColor = T('--bg-panel');
+  revenueChart.data.datasets[0].backgroundColor = revenuePalette();
+  revenueChart.data.datasets[0].borderColor = T('--bg-panel');
+  [fiscalChart, netChart, compositionChart, taxPieChart, spendingChart, revenueChart].forEach(c => c.update());
+}
+window.addEventListener('brief-theme-change', refreshChartTheme);
+</script>
+
+</body>
+</html>

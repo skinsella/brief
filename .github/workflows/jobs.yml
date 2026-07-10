@@ -1,0 +1,45 @@
+name: jobs
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'   # monthly, 1st at 06:00 UTC (CSO LFS / annual NSB cadence)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Force full rebuild
+        required: false
+        default: 'false'
+  push:
+    branches: [main]
+    paths: ['pipelines/jobs/**']
+
+concurrency:
+  group: jobs
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: pipelines/jobs
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - run: uv sync
+
+      - name: Run data pipeline
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          FORCE_REBUILD: ${{ inputs.force }}
+        run: uv run python update.py
+
+      - uses: ./.github/actions/commit-publish
+        with:
+          paths: pipelines/jobs/raw pipelines/jobs/occupations.json pipelines/jobs/occupations.csv pipelines/jobs/scores.json pipelines/jobs/pages docs/jobs/data.json
+          message: 'data(jobs): monthly labour market refresh'

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>This Week’s Economy — The Brief</title>
+<meta name="description" content="Weekly Irish economic indicators — prices, labour market, markets and sentiment.">
+<link rel="stylesheet" href="../assets/brief.css">
+<link rel="icon" href="../assets/icon.svg">
+<script src="../assets/header.js"></script>
+<script src="../assets/vendor/chart.umd.js"></script>
+<style>
+  .page-head { padding: var(--s5) 0 var(--s3); }
+  .page-head .stamp { font-family: var(--font-mono); font-size: .74rem; color: var(--ink-faint); }
+  .sec-title { margin-top: var(--s6); }
+  .chart-card { margin-bottom: var(--s3); }
+  .chart-card h3 { margin-bottom: var(--s2); }
+  .chart-box { position: relative; height: 300px; }
+  @media (max-width: 500px) { .chart-box { height: 240px; } }
+  .chart-note { font-size: .8rem; color: var(--ink-faint); margin-top: var(--s2); }
+  .commentary { margin: var(--s4) 0; }
+</style>
+</head>
+<body>
+<brief-header current="economy" root="../"></brief-header>
+
+<main class="container">
+  <header class="page-head">
+    <h1>This Week’s Economy</h1>
+    <p class="muted">Weekly Irish economic indicators — prices, labour market, markets and sentiment.</p>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <section class="note commentary" id="commentary" style="display:none">
+    <span class="kicker">This week</span>
+    <span id="commentary-text"></span>
+  </section>
+
+  <div class="grid grid-kpi" id="kpis"></div>
+
+  <div id="sections"></div>
+
+  <footer class="brief-footer">
+    <div>Sources: CSO StatBank (Live Register, CPI, unemployment), ECB (exchange rates), Yahoo Finance (Brent, natural gas, bonds), AIB / S&amp;P Global (PMI), Freightos (container rates). Data refreshes automatically every Saturday morning.</div>
+  </footer>
+</main>
+
+<script>
+(function () {
+  var T = function (n) { return getComputedStyle(document.documentElement).getPropertyValue(n).trim(); };
+  var charts = [];
+
+  function fmtMonth(iso) {
+    var d = new Date(iso);
+    return d.toLocaleDateString('en-IE', { month: 'short', year: '2-digit' });
+  }
+
+  function badge(delta, suffix) {
+    if (delta == null) return '';
+    var cls = delta > 0 ? 'badge-up' : (delta < 0 ? 'badge-down' : 'badge-flat');
+    var arrow = delta > 0 ? '▲' : (delta < 0 ? '▼' : '—');
+    return '<span class="' + cls + '">' + arrow + ' ' + Math.abs(delta).toFixed(1) + (suffix || '') + '</span>';
+  }
+
+  function kpi(label, valueHtml, deltaHtml, asofText) {
+    return '<div class="kpi"><span class="kpi-label">' + label + '</span>' +
+      '<span class="kpi-value">' + valueHtml + '</span>' +
+      '<span class="kpi-foot">' + (deltaHtml || '') +
+      (asofText ? '<span class="kpi-asof">' + asofText + '</span>' : '') + '</span></div>';
+  }
+
+  function baseOptions() {
+    return {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { labels: { color: T('--ink-soft'), boxWidth: 12, boxHeight: 12 } },
+        tooltip: { backgroundColor: T('--bg-panel'), titleColor: T('--ink'), bodyColor: T('--ink-soft'), borderColor: T('--rule'), borderWidth: 1 }
+      },
+      scales: {
+        x: { ticks: { color: T('--ink-faint'), maxTicksLimit: 8 }, grid: { display: false } },
+        y: { ticks: { color: T('--ink-faint') }, grid: { color: T('--rule-soft') } }
+      }
+    };
+  }
+
+  // datasets: [{key, label, color, fill}] drawn from SERIES[key].points
+  function chartCard(parent, title, series, datasets, opts) {
+    var usable = datasets.filter(function (d) { return series[d.key] && series[d.key].points.length >= 2; });
+    if (!usable.length) return;
+    var card = document.createElement('div');
+    card.className = 'card chart-card';
+    card.innerHTML = '<h3>' + title + '</h3><div class="chart-box"><canvas></canvas></div>' +
+      (opts && opts.note ? '<div class="chart-note">' + opts.note + '</div>' : '');
+    parent.appendChild(card);
+
+    var labels = series[usable[0].key].points.map(function (p) { return fmtMonth(p[0]); });
+    var cfgDatasets = usable.map(function (d) {
+      var color = T(d.color);
+      return {
+        label: d.label || series[d.key].label,
+        data: series[d.key].points.map(function (p) { return p[1]; }),
+        borderColor: color,
+        backgroundColor: (opts && opts.type === 'bar') ? color : 'transparent',
+        borderWidth: 2,
+        pointRadius: 0,
+        tension: 0.25
+      };
+    });
+    var options = baseOptions();
+    if (opts && opts.refLine != null) {
+      options.plugins.annotationLine = opts.refLine; // consumed by plugin below
+    }
+    var chart = new Chart(card.querySelector('canvas'), {
+      type: (opts && opts.type) || 'line',
+      data: { labels: labels, datasets: cfgDatasets },
+      options: options,
+      plugins: [{
+        id: 'refline',
+        afterDraw: function (c) {
+          var v = c.options.plugins.annotationLine;
+          if (v == null) return;
+          var y = c.scales.y.getPixelForValue(v);
+          var ctx = c.ctx;
+          ctx.save();
+          ctx.strokeStyle = T('--ink-faint');
+          ctx.setLineDash([4, 4]);
+          ctx.beginPath();
+          ctx.moveTo(c.chartArea.left, y);
+          ctx.lineTo(c.chartArea.right, y);
+          ctx.stroke();
+          ctx.restore();
+        }
+      }]
+    });
+    charts.push(chart);
+  }
+
+  fetch('data/weekly.json?_=' + Date.now())
+    .then(function (r) { return r.json(); })
+    .then(function (w) {
+      var L = w.latest || {}, S = w.series || {};
+
+      if (w.generated_at) {
+        document.getElementById('stamp').textContent =
+          'as of ' + new Date(w.generated_at).toLocaleString('en-IE', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+      }
+      if (w.commentary) {
+        document.getElementById('commentary').style.display = '';
+        document.getElementById('commentary-text').textContent = w.commentary;
+      }
+
+      var k = document.getElementById('kpis'), tiles = [];
+      if (L.unemployment) tiles.push(kpi('Unemployment', Number(L.unemployment.value).toFixed(1) + '<small>%</small>', '', L.unemployment.date || ''));
+      if (L.cpi) tiles.push(kpi('CPI inflation', Number(L.cpi.yoy != null ? L.cpi.yoy : L.cpi.value).toFixed(1) + '<small>% y/y</small>', badge(L.cpi.change, ' pp'), (L.cpi.date || '').slice(0, 7)));
+      if (L.live_register) tiles.push(kpi('Live Register', (Number(L.live_register.value) / 1000).toFixed(1) + '<small>k (SA)</small>', badge(L.live_register.change != null ? L.live_register.change / 1000 : null, 'k'), (L.live_register.date || '').slice(0, 7)));
+      if (L.eur_usd) tiles.push(kpi('EUR/USD', Number(L.eur_usd.value).toFixed(3), badge(L.eur_usd.wow_pct, '% w/w'), (L.eur_usd.date || '').slice(0, 10)));
+      k.innerHTML = tiles.join('');
+
+      var root = document.getElementById('sections');
+      function section(title) {
+        var h = document.createElement('h2');
+        h.className = 'sec-title';
+        h.textContent = title;
+        root.appendChild(h);
+        return root;
+      }
+
+      section('Prices');
+      chartCard(root, 'CPI inflation, % year-on-year', S,
+        [{ key: 'cpi', color: '--accent' }]);
+
+      section('Labour market');
+      chartCard(root, 'Live Register, persons (seasonally adjusted)', S,
+        [{ key: 'live_register_sa', color: '--series' }]);
+
+      section('Markets');
+      chartCard(root, 'Euro exchange rates', S, [
+        { key: 'eur_usd', color: '--series', label: 'EUR/USD' },
+        { key: 'eur_gbp', color: '--accent', label: 'EUR/GBP' }
+      ]);
+      chartCard(root, 'Energy prices', S, [
+        { key: 'brent', color: '--warn', label: 'Brent crude, $/bbl' },
+        { key: 'gas', color: '--series', label: 'Natural gas, $/MMBtu' }
+      ]);
+      chartCard(root, 'Irish 10-year yield and spread over Bund', S, [
+        { key: 'ie10y', color: '--accent', label: 'Irish 10Y, %' },
+        { key: 'ie_de_spread', color: '--neg', label: 'Spread vs Bund, pp' }
+      ]);
+
+      section('Business & sentiment');
+      chartCard(root, 'Purchasing Managers’ Indices', S, [
+        { key: 'pmi_manufacturing', color: '--series', label: 'Manufacturing' },
+        { key: 'pmi_services', color: '--accent', label: 'Services' },
+        { key: 'pmi_construction', color: '--warn', label: 'Construction' }
+      ], { refLine: 50, note: 'Dashed line at 50 separates expansion from contraction.' });
+      chartCard(root, 'Consumer sentiment index', S,
+        [{ key: 'sentiment', color: '--accent' }]);
+
+      section('Insolvency');
+      chartCard(root, 'Insolvencies', S, [
+        { key: 'insolvency_corporate', color: '--neg', label: 'Corporate' },
+        { key: 'insolvency_personal', color: '--warn', label: 'Personal bankruptcies' }
+      ], { type: 'bar' });
+    })
+    .catch(function () {
+      document.getElementById('kpis').innerHTML =
+        '<div class="card">Weekly data is temporarily unavailable — it refreshes each Saturday morning.</div>';
+    });
+
+  window.addEventListener('brief-theme-change', function () { window.location.reload(); });
+})();
+</script>
+</body>
+</html>

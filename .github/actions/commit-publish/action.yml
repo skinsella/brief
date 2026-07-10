@@ -1,0 +1,37 @@
+name: commit-publish
+description: >
+  Commit the given paths and push to main with rebase-and-retry, so concurrent
+  pipeline workflows (media every 30 min, energy twice daily, etc.) never lose
+  a data commit to a race. Publishing itself is handled by branch-based
+  GitHub Pages, which builds on every push to main:/docs.
+inputs:
+  paths:
+    description: Space-separated paths to stage
+    required: true
+  message:
+    description: Commit message
+    required: true
+runs:
+  using: composite
+  steps:
+    - name: Commit and push with retry
+      shell: bash
+      run: |
+        git config user.name "brief-bot"
+        git config user.email "actions@github.com"
+        git add ${{ inputs.paths }}
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        git commit -m "${{ inputs.message }}"
+        for attempt in 1 2 3; do
+          if git push origin HEAD:main; then
+            echo "Pushed on attempt $attempt."
+            exit 0
+          fi
+          echo "Push rejected (attempt $attempt); rebasing…"
+          git pull --rebase origin main || { git rebase --abort || true; sleep 5; git pull --rebase origin main; }
+          sleep $((attempt * 5))
+        done
+        git push origin HEAD:main

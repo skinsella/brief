@@ -1,0 +1,39 @@
+name: econapp
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # Mondays 06:00 UTC — refresh the IMF/Eurostat prefetch
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['apps/econdata/**']
+
+concurrency:
+  group: econapp
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: apps/econdata
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci --legacy-peer-deps
+
+      - name: Build (includes IMF prefetch)
+        run: npm run build
+
+      - uses: ./.github/actions/commit-publish
+        with:
+          paths: docs/econ
+          message: 'build(econ): rebuild data explorer'

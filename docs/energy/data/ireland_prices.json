@@ -1,0 +1,431 @@
+{
+  "last_updated": "2026-07-10T03:40:14.039486+00:00",
+  "source": "oilprices.ie",
+  "national_avg_500l": 619.15,
+  "counties": {
+    "Kilkenny": {
+      "price_500l": 611.09,
+      "price_per_litre": 1.2222,
+      "prev_500l": 611.09,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Waterford": {
+      "price_500l": 613.08,
+      "price_per_litre": 1.2262,
+      "prev_500l": 613.08,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Wexford": {
+      "price_500l": 613.1,
+      "price_per_litre": 1.2262,
+      "prev_500l": 613.1,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Carlow": {
+      "price_500l": 613.11,
+      "price_per_litre": 1.2262,
+      "prev_500l": 613.11,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Tipperary": {
+      "price_500l": 613.26,
+      "price_per_litre": 1.2265,
+      "prev_500l": 613.26,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Cork": {
+      "price_500l": 613.29,
+      "price_per_litre": 1.2266,
+      "prev_500l": 613.29,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Donegal": {
+      "price_500l": 614.83,
+      "price_per_litre": 1.2297,
+      "prev_500l": 614.83,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Monaghan": {
+      "price_500l": 615.98,
+      "price_per_litre": 1.232,
+      "prev_500l": 615.98,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Longford": {
+      "price_500l": 617.22,
+      "price_per_litre": 1.2344,
+      "prev_500l": 617.22,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Sligo": {
+      "price_500l": 618.44,
+      "price_per_litre": 1.2369,
+      "prev_500l": 618.44,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Laois": {
+      "price_500l": 618.93,
+      "price_per_litre": 1.2379,
+      "prev_500l": 618.93,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Westmeath": {
+      "price_500l": 619.08,
+      "price_per_litre": 1.2382,
+      "prev_500l": 619.08,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Roscommon": {
+      "price_500l": 619.5,
+      "price_per_litre": 1.239,
+      "prev_500l": 619.5,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Leitrim": {
+      "price_500l": 619.9,
+      "price_per_litre": 1.2398,
+      "prev_500l": 619.9,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Mayo": {
+      "price_500l": 620.13,
+      "price_per_litre": 1.2403,
+      "prev_500l": 620.13,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Cavan": {
+      "price_500l": 620.83,
+      "price_per_litre": 1.2417,
+      "prev_500l": 620.83,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Galway": {
+      "price_500l": 620.9,
+      "price_per_litre": 1.2418,
+      "prev_500l": 620.9,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Meath": {
+      "price_500l": 621.31,
+      "price_per_litre": 1.2426,
+      "prev_500l": 621.31,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Offaly": {
+      "price_500l": 621.78,
+      "price_per_litre": 1.2436,
+      "prev_500l": 621.78,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Kildare": {
+      "price_500l": 622.0,
+      "price_per_litre": 1.244,
+      "prev_500l": 622.0,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Wicklow": {
+      "price_500l": 622.31,
+      "price_per_litre": 1.2446,
+      "prev_500l": 622.31,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Dublin": {
+      "price_500l": 623.84,
+      "price_per_litre": 1.2477,
+      "prev_500l": 623.84,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Clare": {
+      "price_500l": 624.99,
+      "price_per_litre": 1.25,
+      "prev_500l": 624.99,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Kerry": {
+      "price_500l": 625.0,
+      "price_per_litre": 1.25,
+      "prev_500l": 625.0,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Limerick": {
+      "price_500l": 626.34,
+      "price_per_litre": 1.2527,
+      "prev_500l": 626.34,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "Louth": {
+      "price_500l": 627.72,
+      "price_per_litre": 1.2554,
+      "prev_500l": 627.72,
+      "change": 0.0,
+      "change_pct": 0.0
+    }
+  },
+  "history": [
+    {
+      "date": "2026-07-10",
+      "national_avg": 619.15
+    },
+    {
+      "date": "2026-07-09",
+      "national_avg": 619.15
+    },
+    {
+      "date": "2026-07-08",
+      "national_avg": 596.54
+    },
+    {
+      "date": "2026-07-07",
+      "national_avg": 601.23
+    },
+    {
+      "date": "2026-07-06",
+      "national_avg": 605.83
+    },
+    {
+      "date": "2026-07-04",
+      "national_avg": 608.38
+    },
+    {
+      "date": "2026-07-03",
+      "national_avg": 608.38
+    },
+    {
+      "date": "2026-07-02",
+      "national_avg": 611.62
+    },
+    {
+      "date": "2026-07-01",
+      "national_avg": 613.24
+    },
+    {
+      "date": "2026-06-30",
+      "national_avg": 616.37
+    },
+    {
+      "date": "2026-06-29",
+      "national_avg": 620.9
+    },
+    {
+      "date": "2026-06-27",
+      "national_avg": 625.83
+    },
+    {
+      "date": "2026-06-26",
+      "national_avg": 625.83
+    },
+    {
+      "date": "2026-06-25",
+      "national_avg": 630.62
+    },
+    {
+      "date": "2026-06-24",
+      "national_avg": 631.32
+    },
+    {
+      "date": "2026-06-23",
+      "national_avg": 635.34
+    },
+    {
+      "date": "2026-06-22",
+      "national_avg": 639.53
+    },
+    {
+      "date": "2026-06-20",
+      "national_avg": 644.19
+    },
+    {
+      "date": "2026-06-19",
+      "national_avg": 644.19
+    },
+    {
+      "date": "2026-06-18",
+      "national_avg": 645.97
+    },
+    {
+      "date": "2026-06-17",
+      "national_avg": 648.15
+    },
+    {
+      "date": "2026-06-16",
+      "national_avg": 658.58
+    },
+    {
+      "date": "2026-06-15",
+      "national_avg": 668.4
+    },
+    {
+      "date": "2026-06-13",
+      "national_avg": 678.22
+    },
+    {
+      "date": "2026-06-12",
+      "national_avg": 678.22
+    },
+    {
+      "date": "2026-06-11",
+      "national_avg": 679.73
+    },
+    {
+      "date": "2026-06-10",
+      "national_avg": 680.36
+    },
+    {
+      "date": "2026-06-09",
+      "national_avg": 682.89
+    },
+    {
+      "date": "2026-06-08",
+      "national_avg": 683.27
+    },
+    {
+      "date": "2026-06-06",
+      "national_avg": 685.77
+    },
+    {
+      "date": "2026-06-05",
+      "national_avg": 685.77
+    },
+    {
+      "date": "2026-06-04",
+      "national_avg": 688.27
+    },
+    {
+      "date": "2026-06-03",
+      "national_avg": 695.62
+    },
+    {
+      "date": "2026-06-02",
+      "national_avg": 698.69
+    },
+    {
+      "date": "2026-06-01",
+      "national_avg": 700.35
+    },
+    {
+      "date": "2026-05-30",
+      "national_avg": 706.72
+    },
+    {
+      "date": "2026-05-29",
+      "national_avg": 706.72
+    },
+    {
+      "date": "2026-05-28",
+      "national_avg": 708.84
+    },
+    {
+      "date": "2026-05-27",
+      "national_avg": 710.08
+    },
+    {
+      "date": "2026-05-26",
+      "national_avg": 714.57
+    },
+    {
+      "date": "2026-05-25",
+      "national_avg": 715.57
+    },
+    {
+      "date": "2026-05-23",
+      "national_avg": 718.59
+    },
+    {
+      "date": "2026-05-22",
+      "national_avg": 718.59
+    },
+    {
+      "date": "2026-05-21",
+      "national_avg": 720.23
+    },
+    {
+      "date": "2026-05-20",
+      "national_avg": 724.24
+    },
+    {
+      "date": "2026-05-19",
+      "national_avg": 724.6
+    },
+    {
+      "date": "2026-05-18",
+      "national_avg": 726.98
+    },
+    {
+      "date": "2026-05-16",
+      "national_avg": 731.88
+    },
+    {
+      "date": "2026-05-15",
+      "national_avg": 731.88
+    },
+    {
+      "date": "2026-05-14",
+      "national_avg": 739.94
+    },
+    {
+      "date": "2026-05-13",
+      "national_avg": 745.1
+    },
+    {
+      "date": "2026-05-12",
+      "national_avg": 753.53
+    },
+    {
+      "date": "2026-05-11",
+      "national_avg": 759.73
+    },
+    {
+      "date": "2026-05-09",
+      "national_avg": 773.67
+    },
+    {
+      "date": "2026-05-08",
+      "national_avg": 773.67
+    },
+    {
+      "date": "2026-05-07",
+      "national_avg": 774.74
+    },
+    {
+      "date": "2026-05-06",
+      "national_avg": 778.74
+    },
+    {
+      "date": "2026-05-05",
+      "national_avg": 780.69
+    },
+    {
+      "date": "2026-05-04",
+      "national_avg": 781.71
+    },
+    {
+      "date": "2026-05-02",
+      "national_avg": 784.05
+    }
+  ]
+}

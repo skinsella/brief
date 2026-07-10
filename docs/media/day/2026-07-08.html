@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="900">
+  <title>Simon Harris Media Monitor - 2026-07-08</title>
+  <meta name="description" content="Simon Harris media coverage for 2026-07-08.">
+  <meta name="theme-color" content="#0B5D4E">
+  <link rel="stylesheet" href="../../assets/brief.css">
+  <link rel="icon" href="../../assets/icon.svg">
+  <script src="../../assets/header.js"></script>
+  <style>
+    /* Media monitor — page-specific layout on top of assets/brief.css tokens. */
+    main.container { padding-top: var(--s4); padding-bottom: var(--s6); }
+    .page-head { margin-bottom: var(--s3); }
+    .page-head h1 { margin-bottom: var(--s1); }
+    .tagline { margin: 0; color: var(--ink-soft); font-size: .9rem; }
+    .status-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-top: var(--s2); font-size: .82rem; color: var(--ink-soft); }
+    .live { display: inline-flex; align-items: center; gap: 7px; font-weight: 600; color: var(--ink); }
+    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--pos); animation: pulse 2.4s infinite; }
+    @keyframes pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--pos) 50%, transparent); } 70% { box-shadow: 0 0 0 7px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+    .newpill { padding: 3px 10px; border-radius: 999px; font-weight: 700; font-size: .75rem; background: var(--bg-inset); color: var(--ink-soft); }
+    .newpill.has-new { background: color-mix(in srgb, var(--warn) 14%, transparent); color: var(--warn); }
+    .linkbtn { font: inherit; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; }
+    .page-title { margin: var(--s4) 0 var(--s1); }
+    .lead { color: var(--ink-soft); margin: 0 0 var(--s3); font-size: .88rem; }
+    .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 0 0 var(--s3); }
+    .controls input[type=search], .controls select { font: inherit; color: var(--ink); background: var(--bg-panel); border: 1px solid var(--rule); border-radius: var(--radius-sm); padding: 9px 12px; }
+    .controls input[type=search] { flex: 1; min-width: 150px; }
+    .chips { display: flex; gap: 6px; }
+    .chip { font: inherit; font-size: .82rem; font-weight: 600; color: var(--ink-soft); background: var(--bg-inset); border: 1px solid var(--rule); border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+    .chip.on { background: var(--accent-soft); color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--rule)); }
+    #fcount { font-size: .82rem; color: var(--ink-soft); margin-left: auto; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 0 0 var(--s3); }
+    .stat, .panel { background: var(--bg-panel); border: 1px solid var(--rule-soft); border-radius: var(--radius); box-shadow: var(--shadow); }
+    .stat { padding: var(--s3); }
+    .stat .num { font-family: var(--font-display); font-size: 1.75rem; font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+    .stat .lbl { color: var(--ink-soft); font-size: .82rem; margin-top: 2px; }
+    .stat .sub { font-size: .75rem; margin-top: 7px; color: var(--ink-soft); }
+    .panel { padding: var(--s3); margin: 0 0 var(--s3); }
+    .panel h3 { margin: 0 0 14px; }
+    .brief-list { display: flex; flex-direction: column; gap: 10px; margin: 0; padding: 0; list-style: none; }
+    .brief-list li { padding: 10px 0; border-top: 1px solid var(--rule-soft); }
+    .brief-list li:first-child { border-top: 0; padding-top: 0; }
+    .brief-k { display: block; color: var(--ink-faint); font-size: .72rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; }
+    .attention-item { display: grid; grid-template-columns: 1fr auto; gap: 8px 14px; align-items: start; }
+    .attention-item a { color: var(--ink); font-weight: 700; }
+    .attention-flags { color: var(--neg); font-size: .75rem; font-weight: 700; text-align: right; }
+    .cluster-list { display: flex; flex-direction: column; gap: 12px; }
+    .cluster { padding: 13px 0; border-top: 1px solid var(--rule-soft); }
+    .cluster:first-child { border-top: 0; padding-top: 0; }
+    .cluster h4 { margin: 3px 0 7px; font-size: 1rem; line-height: 1.3; }
+    .cluster h4 a { color: var(--ink); }
+    .cluster-meta { display: flex; flex-wrap: wrap; gap: 7px; color: var(--ink-soft); font-size: .75rem; font-weight: 600; }
+    .cluster-meta span { background: var(--bg-inset); border-radius: var(--radius-sm); padding: 3px 7px; }
+    .cluster-life { margin: 7px 0 0; color: var(--ink-soft); font-size: .82rem; }
+    .cols { display: flex; align-items: flex-end; gap: 3px; height: 120px; }
+    .cols a { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: flex-end; }
+    .cols .bar { background: var(--accent); border-radius: 3px 3px 0 0; min-height: 0; }
+    .axis { display: flex; justify-content: space-between; gap: 8px; margin-top: 8px; font-size: .75rem; color: var(--ink-soft); }
+    .tone-chart { display: flex; align-items: stretch; gap: 5px; min-height: 170px; overflow-x: auto; padding: 2px 0 4px; }
+    .tone-day { flex: 1 0 24px; min-width: 24px; display: grid; grid-template-rows: 1fr 1px 1fr 18px; gap: 0; color: var(--ink-soft); text-align: center; font-size: .7rem; }
+    .tone-up, .tone-down { display: flex; align-items: flex-end; justify-content: center; }
+    .tone-down { align-items: flex-start; }
+    .tone-base { background: var(--rule); }
+    .tone-pos, .tone-neg { width: 70%; border-radius: 4px; min-height: 0; }
+    .tone-pos { background: var(--pos); border-radius: 4px 4px 0 0; }
+    .tone-neg { background: var(--neg); border-radius: 0 0 4px 4px; }
+    .tone-net { font-variant-numeric: tabular-nums; }
+    .hbars { display: flex; flex-direction: column; gap: 9px; }
+    .hbar { display: grid; grid-template-columns: 130px 1fr 40px; gap: 10px; align-items: center; font-size: .82rem; }
+    .hbar .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .hbar .track { display: block; background: var(--bg-inset); border-radius: var(--radius-sm); height: 16px; overflow: hidden; }
+    .hbar .fill { display: block; background: var(--accent); height: 100%; border-radius: var(--radius-sm); min-width: 3px; }
+    .hbar .n { text-align: right; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+    .feed { display: flex; flex-direction: column; gap: 14px; }
+    .day-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: var(--s4) 2px 12px; padding-bottom: 7px; border-bottom: 1px solid var(--rule); font-size: .95rem; font-weight: 700; }
+    .day-head .day-count { font-size: .75rem; font-weight: 600; color: var(--ink-soft); }
+    .card { padding: 0; overflow: hidden; transition: transform .12s ease, border-color .12s ease; }
+    .card:hover { transform: translateY(-1px); border-color: color-mix(in srgb, var(--accent) 30%, var(--rule)); }
+    .card.is-new { border-color: var(--warn); }
+    .card-body { padding: var(--s3) var(--s3) var(--s3); }
+    .card.is-new .card-body::before { content: ""; display: block; height: 3px; width: 32px; border-radius: 3px; background: var(--warn); margin-bottom: 12px; }
+    .pills { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; margin-bottom: 10px; }
+    .pill { font-size: .68rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: 3px 8px; border-radius: var(--radius-sm); background: var(--bg-inset); color: var(--ink-soft); }
+    .pill.sig { background: color-mix(in srgb, var(--neg) 12%, transparent); color: var(--neg); }
+    .pill.cat { background: var(--accent-soft); color: var(--accent); }
+    .pill.new { background: color-mix(in srgb, var(--warn) 18%, transparent); color: var(--warn); }
+    .pill.tone { background: var(--bg-inset); color: var(--ink); }
+    .pill.topic { background: var(--bg-inset); color: var(--ink-soft); }
+    .when { margin-left: auto; font-size: .75rem; color: var(--ink-soft); font-weight: 600; white-space: nowrap; }
+    .card h2 { margin: 0 0 8px; font-size: 1.2rem; line-height: 1.25; }
+    .card h2 a { color: var(--ink); }
+    .why { margin: 0 0 13px; color: var(--ink-soft); font-size: .9rem; }
+    .sources { display: flex; flex-wrap: wrap; gap: 7px; }
+    .source { display: inline-flex; align-items: center; gap: 5px; font-size: .82rem; font-weight: 600; padding: 5px 11px; border: 1px solid var(--rule); border-radius: 999px; background: var(--bg-inset); color: var(--ink); }
+    .alert { padding: 11px 13px; margin-bottom: 14px; border-radius: var(--radius-sm); border-left: 4px solid var(--neg); background: color-mix(in srgb, var(--neg) 10%, transparent); color: var(--ink); font-size: .88rem; }
+    .empty { text-align: center; color: var(--ink-soft); padding: var(--s6) var(--s3); background: var(--bg-panel); border: 1px dashed var(--rule); border-radius: var(--radius); }
+    main footer { margin-top: var(--s5); padding-top: var(--s3); border-top: 1px solid var(--rule); color: var(--ink-soft); font-size: .82rem; }
+    table.runs { width: 100%; border-collapse: collapse; font-size: .85rem; background: var(--bg-panel); border: 1px solid var(--rule-soft); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); }
+    table.runs th, table.runs td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--rule-soft); }
+    table.runs th { background: var(--bg-inset); font-size: .68rem; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-faint); }
+    table.runs td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .ok { color: var(--pos); font-weight: 700; }
+    .degraded { color: var(--neg); font-weight: 700; }
+    .months { display: flex; flex-direction: column; gap: 22px; }
+    .month { background: var(--bg-panel); border: 1px solid var(--rule-soft); border-radius: var(--radius); padding: var(--s3); box-shadow: var(--shadow); }
+    .month h3 { margin: 0 0 12px; }
+    .cal { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+    .cal .dow { text-align: center; font-size: .68rem; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; color: var(--ink-faint); padding-bottom: 2px; }
+    .cal .cell { aspect-ratio: 1 / 1; min-height: 40px; border: 1px solid var(--rule-soft); border-radius: var(--radius-sm); display: flex; flex-direction: column; justify-content: space-between; padding: 6px 7px; font-size: .82rem; color: var(--ink-soft); background: var(--bg-inset); }
+    .cal .cell.pad { border: 0; background: transparent; }
+    .cal .cell.future { opacity: .38; }
+    .cal a.cell { color: var(--ink-soft); text-decoration: none; font-weight: 600; }
+    .cal a.cell .daynum { color: var(--ink); }
+    .cal a.cell.has { font-weight: 700; background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 40%, var(--rule)); }
+    .cal .cell.today { outline: 2px solid var(--accent); outline-offset: -1px; }
+    .cal .count { align-self: flex-start; font-size: .68rem; font-weight: 700; background: var(--accent); color: var(--bg-panel); border-radius: 999px; padding: 1px 7px; line-height: 1.5; }
+    .stat-row { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0 0 var(--s3); color: var(--ink-soft); font-size: .88rem; }
+    .stat-row b { color: var(--ink); }
+    details { margin-top: var(--s3); }
+    summary { cursor: pointer; color: var(--ink-soft); font-size: .82rem; }
+    pre { white-space: pre-wrap; overflow-wrap: anywhere; margin-top: 10px; padding: 12px; border: 1px solid var(--rule-soft); border-radius: var(--radius-sm); background: var(--bg-panel); font-size: .78rem; line-height: 1.5; }
+    @media (max-width: 520px) {
+      .card h2 { font-size: 1.1rem; }
+      .when { margin-left: 0; }
+      table.runs { font-size: .78rem; }
+      .hbar { grid-template-columns: 96px 1fr 32px; gap: 8px; font-size: .75rem; }
+      #fcount { width: 100%; margin-left: 0; }
+    }
+</style>
+  
+</head>
+<body>
+  <brief-header current="media" root="../../"></brief-header>
+  <main class="container">
+    <header class="page-head">
+      <h1>Simon Harris Media Monitor - 2026-07-08</h1>
+      <p class="tagline">Daily archive</p>
+      <div class="status-bar"><a href="../calendar.html">&larr; Archive by day</a></div>
+    </header>
+    <nav class="tabrow" aria-label="Media monitor pages"><a href="../index.html" class="active">Monitor</a><a href="../fine-gael.html">Fine Gael</a><a href="../dashboard.html">Dashboard</a><a href="../weekly-briefing.html">Briefing</a><a href="../calendar.html">Calendar</a><a href="../history.html">History</a></nav>
+    
+    <h2 class="page-title">Wednesday, 8 July</h2>
+    <div class="stat-row"><span><b>17</b> media hit(s)</span><span><b>14</b> outlet(s)</span></div>
+    <section class="day-section" data-day="2026-07-08">
+      <h3 class="day-head"><span>Wednesday, 8 July</span><span class="day-count">17 hit(s)</span></h3>
+      <div class="feed">
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte.ie" data-text="t-naiste-to-attend-meeting-of-eu-finance-ministers finance tánaiste to attend meeting of eu finance ministers rte.ie reports: tánaiste to attend meeting of eu finance ministers. rte.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T23:00:00+00:00">8 Jul, 23:00</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbVNCa3pCQktMcDN4TmlRVXh5R2MzczBLWjJGcWZRV1FDbDV2SzR0RmhScTNGUXNOUXdSdkhoZkluZlI3dVRKY2x0VWtVSHVxSmg0X0tuOHhBM1V3WF9mc0hvVU9iY2pSb2c?oc=5" rel="noopener">Tánaiste to attend meeting of EU finance ministers</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbVNCa3pCQktMcDN4TmlRVXh5R2MzczBLWjJGcWZRV1FDbDV2SzR0RmhScTNGUXNOUXdSdkhoZkluZlI3dVRKY2x0VWtVSHVxSmg0X0tuOHhBM1V3WF9mc0hvVU9iY2pSb2c?oc=5" rel="noopener">RTE.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte.ie" data-text="t-naiste-to-attend-meeting-of-eu-finance-ministers finance tánaiste to attend meeting of eu finance ministers rte.ie reports: tánaiste to attend meeting of eu finance ministers. rte.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T23:00:00+00:00">8 Jul, 23:00</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9wYU1HT1Q4YjJnZ0ZyRTVhX2FOa0RqV0hkaF9kTlNmQy1BQXpTUEg2b05PZUoyODlnOEU0QThBemRVTWtEc2ZlVTh3dm40Zk0xSVNBMlpwRkxucG1uY3N4Q0NORlJxUFpyOGZROUNHRHliT1hMQXc?oc=5" rel="noopener">Tánaiste to attend meeting of EU finance ministers</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9wYU1HT1Q4YjJnZ0ZyRTVhX2FOa0RqV0hkaF9kTlNmQy1BQXpTUEg2b05PZUoyODlnOEU0QThBemRVTWtEc2ZlVTh3dm40Zk0xSVNBMlpwRkxucG1uY3N4Q0NORlJxUFpyOGZROUNHRHliT1hMQXc?oc=5" rel="noopener">RTE.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte news" data-text="t-naiste-to-attend-meeting-of-eu-finance-ministers finance tánaiste to attend meeting of eu finance ministers rte news reports: tánaiste to attend meeting of eu finance ministers. rte news neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T23:00:00+00:00">8 Jul, 23:00</time></div>
+        <h2><a href="https://www.rte.ie/news/2026/0709/1582457-simon-harris-eu/" rel="noopener">Tánaiste to attend meeting of EU finance ministers</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.rte.ie/news/2026/0709/1582457-simon-harris-eu/" rel="noopener">RTE News <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="rte news" data-text="t-naiste-to-attend-meeting-of-eu-finance-ministers finance tánaiste to attend meeting of eu finance ministers rte news reports: tánaiste to attend meeting of eu finance ministers. rte news neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Finance</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T23:00:00+00:00">8 Jul, 23:00</time></div>
+        <h2><a href="https://www.rte.ie/news/politics/2026/0709/1582457-simon-harris-eu/" rel="noopener">Tánaiste to attend meeting of EU finance ministers</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://www.rte.ie/news/politics/2026/0709/1582457-simon-harris-eu/" rel="noopener">RTE News <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="louth live" data-text="ardee-issues-raised-as-louth-cathaoirleach-meets-simon-harris other ardee issues raised as louth cathaoirleach meets simon harris louth live reports: ardee issues raised as louth cathaoirleach meets simon harris. louth live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T21:30:00+00:00">8 Jul, 21:30</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1dTUFhCVHdsSG90TlJ2VW5kbERFOU1MS3hlU3JUQ0VwNFc5ZEwtZ1h6YTFjVnFScjdhM21wWkg4RUJVNlE0SWFtWXFjZkR0TjNNMF9SWUFNdFVUNmd5SFV2QVNDTVFiYmFIR29Sc0xkTEppamttRy1BR09LdV9aeFl2N0dUUmFNX2RRdHEzUTd2cDJfZFFCMVZSa0tpbHFqazN0NGl6VUo?oc=5" rel="noopener">Ardee issues raised as Louth Cathaoirleach meets Simon Harris</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1dTUFhCVHdsSG90TlJ2VW5kbERFOU1MS3hlU3JUQ0VwNFc5ZEwtZ1h6YTFjVnFScjdhM21wWkg4RUJVNlE0SWFtWXFjZkR0TjNNMF9SWUFNdFVUNmd5SFV2QVNDTVFiYmFIR29Sc0xkTEppamttRy1BR09LdV9aeFl2N0dUUmFNX2RRdHEzUTd2cDJfZFFCMVZSa0tpbHFqazN0NGl6VUo?oc=5" rel="noopener">Louth Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="oncodaily" data-text="simon-harris-the-right-to-be-forgotten-legislation-to-be-signed-into-law-in-irel other simon harris: the right to be forgotten legislation to be signed into law in ireland oncodaily reports: simon harris: the right to be forgotten legislation to be signed into law in ireland. oncodaily neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T19:08:33+00:00">8 Jul, 19:08</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CSElSWTNUUERVOEdtZlJpcldBS0RtZ09yRGxTYmFQczVCdVJiemM5V29yV3UyN1JjTkExMk5STTVZRC1GM3Z2WWttTjlxNDhIUGpuZEVSRjVEdFIt?oc=5" rel="noopener">Simon Harris: The Right to Be Forgotten Legislation to be Signed Into Law in Ireland</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CSElSWTNUUERVOEdtZlJpcldBS0RtZ09yRGxTYmFQczVCdVJiemM5V29yV3UyN1JjTkExMk5STTVZRC1GM3Z2WWttTjlxNDhIUGpuZEVSRjVEdFIt?oc=5" rel="noopener">Oncodaily <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="roscommonherald.ie" data-text="cllr-connolly-meets-t-naiste-in-government-buildings other cllr connolly meets tánaiste in government buildings roscommonherald.ie reports: cllr connolly meets tánaiste in government buildings. roscommonherald.ie neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T17:58:00+00:00">8 Jul, 17:58</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzRpdnN1WEhEYzRBdGF4TUtlSDlSNUdaM1k3V1JKeE1yYkcwSTVSZERub0JvTUpveEdBczB0ZTdTLUpyemZaZGNRWjM0ZE5RMUVXRGVRWXRZWEhMZ1RWaTlXdFY4Rkt0cWZtT1FHRmtrbTlPc3lWUld2NkdiV3dEN21PN0FJTlhiR3lvWGFld1ZHbXFka3hfZERiQzcyT0RKWHQyaWcxdDZNV0U4TXd3?oc=5" rel="noopener">Cllr Connolly meets Tánaiste in Government Buildings</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzRpdnN1WEhEYzRBdGF4TUtlSDlSNUdaM1k3V1JKeE1yYkcwSTVSZERub0JvTUpveEdBczB0ZTdTLUpyemZaZGNRWjM0ZE5RMUVXRGVRWXRZWEhMZ1RWaTlXdFY4Rkt0cWZtT1FHRmtrbTlPc3lWUld2NkdiV3dEN21PN0FJTlhiR3lvWGFld1ZHbXFka3hfZERiQzcyT0RKWHQyaWcxdDZNV0U4TXd3?oc=5" rel="noopener">roscommonherald.ie <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="kildare live" data-text="fine-gael-mayor-of-kildare-county-council-meets-an-t-naiste-in-government-buildi fine gael fine gael mayor of kildare county council meets an tánaiste in government buildings kildare live reports: fine gael mayor of kildare county council meets an tánaiste in government buildings. kildare live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Fine Gael</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T17:30:00+00:00">8 Jul, 17:30</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEdIcjI3TUpJWHNRN1RpWm1IYWlYRWtQcExLajJaSVpHdmRhUHV3SG96Q0FTTGxsVjl5WnA0bC15bVpON1NSbXZoX3JfNkwxUDJlbXpQNWF6ZjByVWxGZXF1dkNzdllWZi1sMEs3c0FITE45UlFzeFdYZTZLeUdpb2haU1lvREw4a0lyUTdRWlZrNFBqZ1l3UjlaQXBWSXR4WUZXUGs5Y0pCcGE5YVplNTZKckpUSGFOcFJrLXpyTDBoWkI1?oc=5" rel="noopener">Fine Gael Mayor of Kildare County Council meets An Tánaiste in government buildings</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEdIcjI3TUpJWHNRN1RpWm1IYWlYRWtQcExLajJaSVpHdmRhUHV3SG96Q0FTTGxsVjl5WnA0bC15bVpON1NSbXZoX3JfNkwxUDJlbXpQNWF6ZjByVWxGZXF1dkNzdllWZi1sMEs3c0FITE45UlFzeFdYZTZLeUdpb2haU1lvREw4a0lyUTdRWlZrNFBqZ1l3UjlaQXBWSXR4WUZXUGs5Y0pCcGE5YVplNTZKckpUSGFOcFJrLXpyTDBoWkI1?oc=5" rel="noopener">Kildare Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="galway bay fm" data-text="county-cathaoirleach-reddington-meets-an-t-naiste-in-government-buildings other county cathaoirleach reddington meets an tánaiste in government buildings galway bay fm reports: county cathaoirleach reddington meets an tánaiste in government buildings. galway bay fm neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T16:39:17+00:00">8 Jul, 16:39</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNT21qVGZOOTVFNU5IYXFWNVpwZDdYMkdNU2Vkd1FaeDdQODlNVElPRXZlYUI3TDRsNm5hcnBZU0cxYUx0V2NsMzNrVDhYNm9hcUZMdWJlcVo3bDN2OHVoeTlaUF9RbDBacUdsMERvUl9MVTRnNFBGVWR6MmRiVGI5Y0xSUHhSNWhzM3ExU3dpRUNBbGdVcDdXRE5GQ1lIS0ZDR1pnQ1ZwX1FIajBHaWJHNUI0NXFHcXlSNnRyY3pIUzJ4ZEt0T1FxMlY0MA?oc=5" rel="noopener">County Cathaoirleach Reddington meets An Tánaiste in Government Buildings</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNT21qVGZOOTVFNU5IYXFWNVpwZDdYMkdNU2Vkd1FaeDdQODlNVElPRXZlYUI3TDRsNm5hcnBZU0cxYUx0V2NsMzNrVDhYNm9hcUZMdWJlcVo3bDN2OHVoeTlaUF9RbDBacUdsMERvUl9MVTRnNFBGVWR6MmRiVGI5Y0xSUHhSNWhzM3ExU3dpRUNBbGdVcDdXRE5GQ1lIS0ZDR1pnQ1ZwX1FIajBHaWJHNUI0NXFHcXlSNnRyY3pIUzJ4ZEt0T1FxMlY0MA?oc=5" rel="noopener">Galway Bay FM <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="ireland live" data-text="fine-gael-mayor-of-kildare-county-council-meets-an-t-naiste-in-government-buildi fine gael fine gael mayor of kildare county council meets an tánaiste in government buildings ireland live reports: fine gael mayor of kildare county council meets an tánaiste in government buildings. ireland live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Fine Gael</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T16:34:00+00:00">8 Jul, 16:34</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkFpTk9fZ09RNjg2M1M4dExOLTE0ODBpQzREQ3RMNmI2cGNpcU4zWk5NUzNaVThjTjBhTVZJYW5NRXBqamdwVUZ4ZVR1V1JZdWlKbU9KdTI4bHJUaFZSRXNaeC1mQXVlS0VpWjdFdnF3THZZTlVWYmF0T3lwblkwcnZXN3BiVEFZcXBDTU9TMzRlZVNaeGxxck5TdDhsZlhvQlJ3Nzg4Ny1VUGtWUXpQNHdYaUJLalJENmZkMUgzTklrWjFPOUhISHVZT0Q2U1N0VklscUFELWI?oc=5" rel="noopener">Fine Gael Mayor of Kildare County Council meets An Tánaiste in government buildings</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWkFpTk9fZ09RNjg2M1M4dExOLTE0ODBpQzREQ3RMNmI2cGNpcU4zWk5NUzNaVThjTjBhTVZJYW5NRXBqamdwVUZ4ZVR1V1JZdWlKbU9KdTI4bHJUaFZSRXNaeC1mQXVlS0VpWjdFdnF3THZZTlVWYmF0T3lwblkwcnZXN3BiVEFZcXBDTU9TMzRlZVNaeGxxck5TdDhsZlhvQlJ3Nzg4Ny1VUGtWUXpQNHdYaUJLalJENmZkMUgzTklrWjFPOUhISHVZT0Q2U1N0VklscUFELWI?oc=5" rel="noopener">Ireland Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="midwest radio" data-text="roscommon-county-council-cathaoirleach-meets-with-t-naiste other roscommon county council cathaoirleach meets with tánaiste midwest radio reports: roscommon county council cathaoirleach meets with tánaiste. midwest radio neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T15:30:18+00:00">8 Jul, 15:30</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxObC03U29lYUxoZEZmSEM4c0RSQkxYS2tMMkxjV254UFJZejBmMFpxQ1h5QnY4QkstZFJOZjVsRlZWb1o3UTJLbWtXa2ttOElIa3B5Q0JmUWtLVkxLTmJqX0ZfWHJ3Z1ZBN25SX3YtVkpUN0FmcWpfT3prMnVJel96eU1iUmxPUFNsWFNOMzJHd2pkRU1Za0xz?oc=5" rel="noopener">Roscommon County Council Cathaoirleach meets with Tánaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMilwFBVV95cUxObC03U29lYUxoZEZmSEM4c0RSQkxYS2tMMkxjV254UFJZejBmMFpxQ1h5QnY4QkstZFJOZjVsRlZWb1o3UTJLbWtXa2ttOElIa3B5Q0JmUWtLVkxLTmJqX0ZfWHJ3Z1ZBN25SX3YtVkpUN0FmcWpfT3prMnVJel96eU1iUmxPUFNsWFNOMzJHd2pkRU1Za0xz?oc=5" rel="noopener">Midwest Radio <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="business post" data-text="simon-harris-warns-trump-trade-dispute-with-spain-will-impact-eu-deal foreign affairs simon harris warns trump trade dispute with spain will impact eu deal business post reports: simon harris warns trump trade dispute with spain will impact eu deal. business post neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Foreign affairs</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T14:37:42+00:00">8 Jul, 14:37</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3dzN2tQNm9FYmNNYTgzY0M0aFpMZmhaSlZpR2ZWZE1kM3BhNFMtXzRKTllBWjlZb04wbDlQRl8yd1Q1MXVXVlFIN0l2WDJxSm5zVEt2Yld4QnZubmN6VzBUMElpSS1JZExZYkcybnN6ckdEVVNuWktxcXU5bjBmMFBlX0k5RTBNd2U4Y0k0ZkJHSVctb0RVSU00YmlYQk1ueENWMzg4bHV4TW8?oc=5" rel="noopener">Simon Harris warns Trump trade dispute with Spain will impact EU deal</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3dzN2tQNm9FYmNNYTgzY0M0aFpMZmhaSlZpR2ZWZE1kM3BhNFMtXzRKTllBWjlZb04wbDlQRl8yd1Q1MXVXVlFIN0l2WDJxSm5zVEt2Yld4QnZubmN6VzBUMElpSS1JZExZYkcybnN6ckdEVVNuWktxcXU5bjBmMFBlX0k5RTBNd2U4Y0k0ZkJHSVctb0RVSU00YmlYQk1ueENWMzg4bHV4TW8?oc=5" rel="noopener">Business Post <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="ireland live" data-text="ardee-issues-raised-as-louth-cathaoirleach-meets-simon-harris other ardee issues raised as louth cathaoirleach meets simon harris ireland live reports: ardee issues raised as louth cathaoirleach meets simon harris. ireland live neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T14:10:00+00:00">8 Jul, 14:10</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkd3WWhFdXVDSWJ4MjMwSHhGazRMck9BLUExSTZoMm1NMVZyeFVWOGdwbUs3U0F0WWxoRUQwdUdURXpNVVhORFJRU2tjSzV1a3hYNXlsZjk2dTNibEh2QmYyR1FMOXJhRUp2ODlLZmg1RkNLNDJCQUJ3b3V2Z09ZcUNmTGNUeGhwQW9LZlVVVnhkSEM2cVZ2NjJCY0M4WUJuSWxkWkZyamNvQXVwbUNnVEtYdw?oc=5" rel="noopener">Ardee issues raised as Louth Cathaoirleach meets Simon Harris</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkd3WWhFdXVDSWJ4MjMwSHhGazRMck9BLUExSTZoMm1NMVZyeFVWOGdwbUs3U0F0WWxoRUQwdUdURXpNVVhORFJRU2tjSzV1a3hYNXlsZjk2dTNibEh2QmYyR1FMOXJhRUp2ODlLZmg1RkNLNDJCQUJ3b3V2Z09ZcUNmTGNUeGhwQW9LZlVVVnhkSEM2cVZ2NjJCY0M4WUJuSWxkWkZyamNvQXVwbUNnVEtYdw?oc=5" rel="noopener">Ireland Live <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="roscommon people" data-text="fine-gael-cathaoirleach-of-roscommon-county-council-meets-an-t-naiste-in-governm fine gael fine gael cathaoirleach of roscommon county council meets an tánaiste in government buildings roscommon people reports: fine gael cathaoirleach of roscommon county council meets an tánaiste in government buildings. roscommon people neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Fine Gael</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T14:01:07+00:00">8 Jul, 14:01</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTY1MHVrZmJyOHZpc1JrSEI5YTZwUkZUZjFRN2l3TU9nSEZsYXRMdHRkclMzMGMyYlpIdWdkcFZOLThVcEw1eEszWjJVZFp3NG5WeHpmN2g0UDBiM1JqZmlHWC1jSVJSMy1xbVdKRFJ4X1ExLWdKTXRXZ3dTR1QyeWhyWHNhR1F3VlhoS1lHTWEyZHdXakh6dVROMWZTc2tucm9WdWNMSmg3RnA5S05rY183T2dTamNLbXVZOHJR?oc=5" rel="noopener">Fine Gael Cathaoirleach of Roscommon County Council meets An Tánaiste in Government Buildings</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTY1MHVrZmJyOHZpc1JrSEI5YTZwUkZUZjFRN2l3TU9nSEZsYXRMdHRkclMzMGMyYlpIdWdkcFZOLThVcEw1eEszWjJVZFp3NG5WeHpmN2g0UDBiM1JqZmlHWC1jSVJSMy1xbVdKRFJ4X1ExLWdKTXRXZ3dTR1QyeWhyWHNhR1F3VlhoS1lHTWEyZHdXakh6dVROMWZTc2tucm9WdWNMSmg3RnA5S05rY183T2dTamNLbXVZOHJR?oc=5" rel="noopener">Roscommon People <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="kfmradio.com" data-text="mayor-of-kcc-stresses-the-need-for-housing-and-amenities-to-be-in-tandem-while-m housing mayor of kcc stresses the need for housing and amenities to be &quot;in tandem&quot; while meeting tánaiste kfmradio.com reports: mayor of kcc stresses the need for housing and amenities to be &quot;in tandem&quot; while meeting tánaiste. kfmradio.com neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Housing</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T13:46:20+00:00">8 Jul, 13:46</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1E0ZEZjVW5tVkRpTEJxTm1EcmRISFZidkRIS01UdWx6YXprNWNWdElLNzJOY2tiNEZZWDY0amdOcFhOZWF4NkNWX3YtVWhMWUx5RURBSGJ6RGkta0hKUWZtQUZsWkRFaUwzSDAwSnltdGxtb05MLTYyVlFScDQ4M2VkRk4tVUVESkVJRXNxdk5NRk1fMEtyLURrMVJ4Y1FlYTNHSC12NTJHVV9MTnEwZm56akd6X1d4ZzlVRVAycFAwcXgwX3hhTXgtVjV4aGlORVE?oc=5" rel="noopener">Mayor Of KCC Stresses The Need For Housing And Amenities To Be &quot;In Tandem&quot; While Meeting Tánaiste</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1E0ZEZjVW5tVkRpTEJxTm1EcmRISFZidkRIS01UdWx6YXprNWNWdElLNzJOY2tiNEZZWDY0amdOcFhOZWF4NkNWX3YtVWhMWUx5RURBSGJ6RGkta0hKUWZtQUZsWkRFaUwzSDAwSnltdGxtb05MLTYyVlFScDQ4M2VkRk4tVUVESkVJRXNxdk5NRk1fMEtyLURrMVJ4Y1FlYTNHSC12NTJHVV9MTnEwZm56akd6X1d4ZzlVRVAycFAwcXgwX3hhTXgtVjV4aGlORVE?oc=5" rel="noopener">kfmradio.com <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="0" data-cat="mention" data-outlets="247sports" data-text="illini-wbb-assistant-simon-harris-living-out-lifelong-plan-to-be-d-i-coach-it-wa other illini wbb assistant simon harris living out lifelong plan to be d-i coach: &#x27;it was a no-brainer for me&#x27; 247sports reports: illini wbb assistant simon harris living out lifelong plan to be d-i coach: &#x27;it was a no-brainer for me&#x27;. 247sports neutral mention">
+      <div class="card-body">
+        <div class="pills"><span class="pill cat">MENTION</span><span class="pill topic">Other</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T10:45:14+00:00">8 Jul, 10:45</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTjk1TW9vTXhyeG9HTFQ0cHRLbWZaZDMwSlJYWlNwOTg3M20yYmM1b0RUQUpjWlcyWVFHQ2tuSmh3b1hGVVI3dnZWUHh3TnZUQlp3Z0RlY3E5Z19TeEp1dktBLW1pRGowYkE1Y1NtT1Zsbk1ib1hMWFhFVDNFWjYxYkJTSUFJT1pKSW9XS25XVmxIZjNmZjVMYU5pMXdkYi1TTGlIOHFmMEhvaXRzQWpNWEpxbkRBaXRZT0c2N241TzBNTEoxWlZUYXprd3o0NVRsSDA0Q3FXVUdDSDBSUzNCR2NWQkE1a1lzWlNEWktRZkZTMmc?oc=5" rel="noopener">Illini WBB assistant Simon Harris living out lifelong plan to be D-I coach: &#x27;It was a no-brainer for me&#x27;</a></h2>
+        <p class="why">Routine mention; monitor for pickup but no immediate action is obvious.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: Simon Harris; confidence: medium.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTjk1TW9vTXhyeG9HTFQ0cHRLbWZaZDMwSlJYWlNwOTg3M20yYmM1b0RUQUpjWlcyWVFHQ2tuSmh3b1hGVVI3dnZWUHh3TnZUQlp3Z0RlY3E5Z19TeEp1dktBLW1pRGowYkE1Y1NtT1Zsbk1ib1hMWFhFVDNFWjYxYkJTSUFJT1pKSW9XS25XVmxIZjNmZjVMYU5pMXdkYi1TTGlIOHFmMEhvaXRzQWpNWEpxbkRBaXRZT0c2N241TzBNTEoxWlZUYXprd3o0NVRsSDA0Q3FXVUdDSDBSUzNCR2NWQkE1a1lzWlNEWktRZkZTMmc?oc=5" rel="noopener">247Sports <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+
+    <article class="card" data-sig="1" data-cat="polling" data-outlets="irish independent" data-text="wicklow-sheds-youth-centres-and-cancer-supports-to-share-200-000-in-community-fu polling wicklow sheds, youth centres and cancer supports to share €200,000 in community funding irish independent reports: wicklow sheds, youth centres and cancer supports to share €200,000 in community funding. irish independent neutral polling">
+      <div class="card-body">
+        <div class="pills"><span class="pill sig">Significant</span><span class="pill cat">POLLING</span><span class="pill topic">Polling</span><span class="pill tone">Neutral Factual +0</span><time class="when rel" data-ts="2026-07-08T06:10:26+00:00">8 Jul, 06:10</time></div>
+        <h2><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5" rel="noopener">Wicklow sheds, youth centres and cancer supports to share €200,000 in community funding</a></h2>
+        <p class="why">Polling or party-support coverage may need a quick political readout.</p>
+        <p class="why"><strong>Framing:</strong> Straight news mention with no clear positive or negative framing toward Simon Harris. Target: unclear; confidence: low.</p>
+        <div class="sources"><a class="source" href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5" rel="noopener">Irish Independent <span class="arr">&rsaquo;</span></a></div>
+      </div>
+    </article>
+</div>
+    </section><div id="feed-empty" class="empty" style="display:none">No stories match your filter.</div>
+
+  </main>
+  
+  <script>
+  (function () {
+    function rel(ts) {
+      var d = new Date(ts);
+      if (isNaN(d)) return null;
+      var s = Math.max(0, Math.round((Date.now() - d.getTime()) / 1000));
+      var m = Math.round(s / 60), h = Math.round(m / 60), day = Math.round(h / 24);
+      if (s < 45) return "just now";
+      if (m < 60) return m + " min" + (m !== 1 ? "s" : "") + " ago";
+      if (h < 24) return h + " hr" + (h !== 1 ? "s" : "") + " ago";
+      if (day < 7) return day + " day" + (day !== 1 ? "s" : "") + " ago";
+      return d.toLocaleDateString();
+    }
+    function tick() {
+      document.querySelectorAll("time.rel[data-ts]").forEach(function (el) {
+        var r = rel(el.getAttribute("data-ts"));
+        if (!r) return;
+        if (!el.dataset.abs) el.dataset.abs = el.textContent;
+        el.textContent = r;
+        el.title = el.dataset.abs;
+      });
+    }
+    tick();
+    setInterval(tick, 30000);
+    var sb = document.getElementById("share");
+    if (sb) {
+      sb.addEventListener("click", function () {
+        var data = { title: document.title, url: location.href };
+        if (navigator.share) { navigator.share(data).catch(function () {}); }
+        else if (navigator.clipboard) {
+          navigator.clipboard.writeText(location.href);
+          sb.textContent = "Link copied";
+          setTimeout(function () { sb.textContent = "Share"; }, 1600);
+        }
+      });
+    }
+  })();
+  </script>
+
+  <script>
+  (function () {
+    var q = document.getElementById("q");
+    var outletSel = document.getElementById("outlet");
+    var count = document.getElementById("fcount");
+    var empty = document.getElementById("feed-empty");
+    var cards = [].slice.call(document.querySelectorAll(".feed .card"));
+    var chips = [].slice.call(document.querySelectorAll(".chip"));
+    var sigOnly = false;
+    function apply() {
+      var term = ((q && q.value) || "").trim().toLowerCase();
+      var outlet = ((outletSel && outletSel.value) || "").toLowerCase();
+      var shown = 0;
+      cards.forEach(function (c) {
+        var ok = true;
+        if (sigOnly && c.getAttribute("data-sig") !== "1") ok = false;
+        if (ok && term && (c.getAttribute("data-text") || "").indexOf(term) < 0) ok = false;
+        if (ok && outlet && (c.getAttribute("data-outlets") || "").indexOf(outlet) < 0) ok = false;
+        c.style.display = ok ? "" : "none";
+        if (ok) shown++;
+      });
+      document.querySelectorAll(".day-section").forEach(function (sec) {
+        var vis = [].slice.call(sec.querySelectorAll(".card")).some(function (c) { return c.style.display !== "none"; });
+        sec.style.display = vis ? "" : "none";
+      });
+      if (count) count.textContent = shown + " of " + cards.length + " stories";
+      if (empty) empty.style.display = shown ? "none" : "";
+    }
+    if (q) q.addEventListener("input", apply);
+    if (outletSel) outletSel.addEventListener("change", apply);
+    chips.forEach(function (ch) {
+      ch.addEventListener("click", function () {
+        chips.forEach(function (x) { x.classList.remove("on"); });
+        ch.classList.add("on");
+        sigOnly = ch.getAttribute("data-sig") === "1";
+        apply();
+      });
+    });
+    apply();
+  })();
+  </script>
+
+</body>
+</html>
