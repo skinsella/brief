@@ -1,5 +1,86 @@
 [
   {
+    "checked_at": "2026-07-10T22:36:03Z",
+    "checked_at_display": "Fri, 10 Jul 2026 22:36 GMT",
+    "new_count": 2,
+    "old_skipped": 9,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 4,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 34,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDZDa2JqQjdhbVFhQ09mMHN4Z0xWSjFTRkpyZDZTQklyeVFZZWxSN0YxWmhsNktIWTFDTG9fMjIwZHVZd0xrMmJ6MFk4RHRtbkJxYXEteXlvX3otZWgybHR2RVZQam5zZVVUeVdQSExXbnVDSUtGVjRhRkFlV0YxYmJLa1pKTHlTZ2pQdXVpRXpLZEpZck9MZVVkRUFhU3gwYWRDclpLLXNrajN6cTVYOGNYTXBfc2dRSWd5VFE0VEg?oc=5",
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVdHeWkyS280T2FDLXlHUHVDR3VKSUNUVEJzV2pJME9ZMmFTd2FsdWl5WmNrOHhVUmltUjY4ZlVkMVZIeG9vV0pibUtTYXpBZ21BTmp5d0kwUk9yOVR6TzRQT21ZdjR1QzZpN1hRQkZlMDhiT29wT3FVUlZ4T3FId1VvSHRwTmIxLVViM3RPRjVud3o5cmVrOGVFNWM?oc=5"
+    ],
+    "archive_file": "archive/20260710T223603Z.html"
+  },
+  {
     "checked_at": "2026-07-10T21:16:14Z",
     "checked_at_display": "Fri, 10 Jul 2026 21:16 GMT",
     "new_count": 0,
@@ -5906,47 +5987,5 @@
       "https://www.rte.ie/news/politics/2026/0702/1581353-eu-presidency/"
     ],
     "archive_file": "archive/20260702T055216Z.html"
-  },
-  {
-    "checked_at": "2026-07-02T01:48:33Z",
-    "checked_at_display": "Thu, 02 Jul 2026 01:48 GMT",
-    "new_count": 0,
-    "old_skipped": 0,
-    "duplicate_skipped": 1,
-    "mismatched_skipped": 1,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [],
-    "archive_file": "archive/20260702T014833Z.html"
   }
 ]
