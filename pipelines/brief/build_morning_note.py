@@ -181,9 +181,42 @@ def build():
         if bits:
             note_bits.append("; ".join(bits) + ".")
 
+    # ── exchequer (docs/economy/data/exchequer.json) ──────────────────────
+    exchequer = load("economy/data/exchequer.json")
+    if exchequer and exchequer.get("latest"):
+        ex = exchequer["latest"]
+        tax = ex.get("tax_revenue") or {}
+        bal = ex.get("exchequer_balance") or {}
+        month_iso = exchequer.get("latest_month", "")
+        month_label = ""
+        if month_iso:
+            month_label = datetime.strptime(month_iso, "%Y-%m").strftime("%B")
+        tiles["exchequer"] = {
+            "tax_ytd_bn": round(tax["outturn_m"] / 1000, 1) if tax.get("outturn_m") else None,
+            "yoy_pct": tax.get("yoy_pct"),
+            "balance_bn": round(bal["outturn_m"] / 1000, 1) if bal.get("outturn_m") is not None else None,
+            "month": month_iso,
+            "asof": exchequer.get("generated_at"),
+        }
+        if tax.get("outturn_m"):
+            clause = (f"Tax receipts reached €{tax['outturn_m'] / 1000:.1f}bn "
+                      f"in the year to end-{month_label}")
+            if tax.get("yoy_pct") is not None:
+                clause += f", up {tax['yoy_pct']:.1f}% on last year"
+            if bal.get("outturn_m") is not None:
+                state = "surplus" if bal["outturn_m"] >= 0 else "deficit"
+                clause += f"; the Exchequer {state} stands at €{abs(bal['outturn_m']) / 1000:.1f}bn"
+            note_bits.append(clause + ".")
+
     # ── jobs (static monthly data; presence only) ─────────────────────────
     if (DOCS / "jobs" / "data.json").exists():
         sections["jobs"] = {"asof": None}
+
+    # ── surprise detection ────────────────────────────────────────────────
+    alerts = detect_surprises(sent, prices, irl, weekly, exchequer)
+    if alerts:
+        note_bits.append("Worth noting: " +
+                         " ".join(a["text"] for a in alerts[:2]))
 
     note = " ".join(note_bits) if note_bits else (
         "Pipelines are warming up — live data will appear here after the first scheduled runs."
@@ -192,6 +225,7 @@ def build():
     payload = {
         "generated_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "morning_note": note,
+        "alerts": alerts,
         "tiles": tiles,
         "sections": sections,
     }
@@ -206,6 +240,92 @@ def build():
     with open(OUT, "w") as f:
         json.dump(payload, f, indent=2)
     print(f"Wrote {OUT} ({len(note_bits)} note clauses, {len(tiles)} tiles)")
+
+
+def _weekly_changes(history, value_key="value", date_key="date", step=5):
+    """List of trailing %-changes over `step` observations, oldest→newest."""
+    rows = _rows(history, value_key, date_key)
+    rows.sort(key=lambda r: r[date_key])
+    vals = [float(r[value_key]) for r in rows]
+    return [
+        100.0 * (vals[i] - vals[i - step]) / vals[i - step]
+        for i in range(step, len(vals))
+        if vals[i - step]
+    ]
+
+
+def detect_surprises(sent, prices, irl, weekly, exchequer):
+    """Rule-based, deterministic anomaly clauses. Every alert is traceable to
+    committed JSON; thresholds are deliberately conservative so an alert
+    means something."""
+    alerts = []
+
+    # Brent: big weekly move
+    if prices:
+        brent = (prices.get("commodities") or {}).get("BRENT", {})
+        changes = _weekly_changes(brent.get("history"))
+        if changes and abs(changes[-1]) >= 5:
+            direction = "up" if changes[-1] > 0 else "down"
+            alerts.append({"kind": "energy",
+                           "text": f"Brent is {direction} {abs(changes[-1]):.1f}% on the week."})
+        # EUR/USD: unusually large weekly move
+        fx = _weekly_changes(prices.get("eurusd"), value_key="rate")
+        if fx and abs(fx[-1]) >= 1.5:
+            direction = "strengthened" if fx[-1] > 0 else "weakened"
+            alerts.append({"kind": "fx",
+                           "text": f"The euro has {direction} {abs(fx[-1]):.1f}% against the dollar this week."})
+
+    # Heating oil: largest weekly move in the stored window
+    if irl:
+        changes = _weekly_changes(irl.get("history"), value_key="national_avg", step=7)
+        if len(changes) >= 4 and abs(changes[-1]) >= 2:
+            if abs(changes[-1]) >= max(abs(c) for c in changes[:-1]):
+                direction = "rise" if changes[-1] > 0 else "fall"
+                alerts.append({"kind": "energy",
+                               "text": f"Home heating oil saw its largest weekly {direction} "
+                                       f"({abs(changes[-1]):.1f}%) in the recorded window."})
+
+    # Media: tone flip after a quiet fortnight, or a heavy unfavourable day
+    if sent:
+        daily = sent.get("daily") or {}
+        days = sorted(daily.keys())
+        if days:
+            today = daily[days[-1]]
+            prior = [daily[d] for d in days[-15:-1]]
+            if (today.get("net", 0) < 0 and len(prior) >= 7
+                    and all(p.get("net", 0) >= 0 for p in prior)):
+                alerts.append({"kind": "media",
+                               "text": "First net-unfavourable coverage day in over a fortnight."})
+            counts = today.get("counts") or {}
+            if counts.get("unfavourable", 0) >= 3:
+                alerts.append({"kind": "media",
+                               "text": f"{counts['unfavourable']} unfavourable items today — "
+                                       "an unusually heavy critical day."})
+
+    # CPI: sharp month-on-month shift in the y/y rate
+    if weekly:
+        cpi = (weekly.get("series") or {}).get("cpi", {}).get("points", [])
+        if len(cpi) >= 2:
+            move = cpi[-1][1] - cpi[-2][1]
+            if abs(move) >= 0.5:
+                direction = "jumped" if move > 0 else "fell"
+                alerts.append({"kind": "prices",
+                               "text": f"CPI inflation {direction} {abs(move):.1f}pp on the month "
+                                       f"to {cpi[-1][1]:.1f}%."})
+
+    # Exchequer: a major tax head moving double digits
+    if exchequer and exchequer.get("latest"):
+        for key, label in (("corporation_tax", "Corporation tax"),
+                           ("income_tax", "Income tax"), ("vat", "VAT")):
+            head = exchequer["latest"].get(key) or {}
+            pct = head.get("yoy_pct")
+            if pct is not None and abs(pct) >= 10:
+                direction = "running" if pct > 0 else "down"
+                alerts.append({"kind": "fiscal",
+                               "text": f"{label} is {direction} {abs(pct):.0f}% "
+                                       f"{'ahead of' if pct > 0 else 'behind'} last year."})
+
+    return alerts
 
 
 def polish(note):

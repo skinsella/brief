@@ -241,7 +241,7 @@ a.kpi:hover { text-decoration: none; border-color: var(--accent); }
 
 .grid { display: grid; gap: var(--s3); }
 .grid-kpi { grid-template-columns: repeat(2, 1fr); }
-@media (min-width: 800px) { .grid-kpi { grid-template-columns: repeat(4, 1fr); } }
+@media (min-width: 800px) { .grid-kpi { grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); } }
 .grid-cards { grid-template-columns: 1fr; }
 @media (min-width: 700px) { .grid-cards { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1050px) { .grid-cards { grid-template-columns: repeat(3, 1fr); } }

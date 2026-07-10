@@ -3,6 +3,8 @@ name: economy
 on:
   schedule:
     - cron: '0 8 * * 6'   # Saturdays 08:00 UTC
+    - cron: '0 9 3 * *'   # 3rd of month — catch the Exchequer returns promptly
+    - cron: '0 9 5 * *'   # retry two days later if publication slipped
   workflow_dispatch:
     inputs:
       force_refresh:
@@ -38,6 +40,10 @@ jobs:
 
       - name: Export weekly.json
         run: python pipelines/economy/export_json.py
+
+      - name: Fetch Exchequer returns (gov.ie AES)
+        continue-on-error: true
+        run: python pipelines/exchequer/fetch_exchequer.py
 
       - name: Rebuild morning note (Anthropic polish if key present)
         env:

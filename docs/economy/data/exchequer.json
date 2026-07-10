@@ -1,0 +1,181 @@
+{
+ "generated_at": "2026-07-10T17:21:40Z",
+ "latest_month": "2026-06",
+ "latest": {
+  "total_revenue": {
+   "outturn_m": 60153.3,
+   "prior_year_m": 57032.8,
+   "yoy_m": 3120.4,
+   "yoy_pct": 5.47
+  },
+  "tax_revenue": {
+   "outturn_m": 50036.1,
+   "prior_year_m": 47736.1,
+   "yoy_m": 2300.0,
+   "yoy_pct": 4.82
+  },
+  "income_tax": {
+   "outturn_m": 18549.9,
+   "prior_year_m": 17391.9,
+   "yoy_m": 1158.0,
+   "yoy_pct": 6.66
+  },
+  "vat": {
+   "outturn_m": 12458.2,
+   "prior_year_m": 11589.7,
+   "yoy_m": 868.5,
+   "yoy_pct": 7.49
+  },
+  "excise": {
+   "outturn_m": 2915.1,
+   "prior_year_m": 3118.4,
+   "yoy_m": -203.3,
+   "yoy_pct": -6.52
+  },
+  "corporation_tax": {
+   "outturn_m": 13682.0,
+   "prior_year_m": 13067.4,
+   "yoy_m": 614.6,
+   "yoy_pct": 4.7
+  },
+  "stamp_duties": {
+   "outturn_m": 818.6,
+   "prior_year_m": 849.2,
+   "yoy_m": -30.6,
+   "yoy_pct": -3.61
+  },
+  "motor_tax": {
+   "outturn_m": 497.8,
+   "prior_year_m": 495.0,
+   "yoy_m": 2.8,
+   "yoy_pct": 0.57
+  },
+  "customs": {
+   "outturn_m": 299.0,
+   "prior_year_m": 296.2,
+   "yoy_m": 2.8,
+   "yoy_pct": 0.95
+  },
+  "cgt": {
+   "outturn_m": 408.7,
+   "prior_year_m": 469.2,
+   "yoy_m": -60.5,
+   "yoy_pct": -12.89
+  },
+  "cat": {
+   "outturn_m": 160.5,
+   "prior_year_m": 267.4,
+   "yoy_m": -106.9,
+   "yoy_pct": -39.96
+  },
+  "total_expenditure": {
+   "outturn_m": 58157.7,
+   "prior_year_m": 55173.9,
+   "yoy_m": 2983.8,
+   "yoy_pct": 5.41
+  },
+  "debt_interest": {
+   "outturn_m": 1608.5,
+   "prior_year_m": 2128.0,
+   "yoy_m": -519.5,
+   "yoy_pct": -24.41
+  },
+  "exchequer_balance": {
+   "outturn_m": 714.9,
+   "prior_year_m": 4517.6,
+   "yoy_m": -3802.7,
+   "yoy_pct": -84.18
+  }
+ },
+ "history": [
+  {
+   "month": "2026-06",
+   "source": "https://assets.gov.ie/static/documents/04a656a3/Analytical_Exchequer_Statement_June_2026.xlsx",
+   "total_revenue": {
+    "outturn_m": 60153.3,
+    "prior_year_m": 57032.8,
+    "yoy_m": 3120.4,
+    "yoy_pct": 5.47
+   },
+   "tax_revenue": {
+    "outturn_m": 50036.1,
+    "prior_year_m": 47736.1,
+    "yoy_m": 2300.0,
+    "yoy_pct": 4.82
+   },
+   "income_tax": {
+    "outturn_m": 18549.9,
+    "prior_year_m": 17391.9,
+    "yoy_m": 1158.0,
+    "yoy_pct": 6.66
+   },
+   "vat": {
+    "outturn_m": 12458.2,
+    "prior_year_m": 11589.7,
+    "yoy_m": 868.5,
+    "yoy_pct": 7.49
+   },
+   "excise": {
+    "outturn_m": 2915.1,
+    "prior_year_m": 3118.4,
+    "yoy_m": -203.3,
+    "yoy_pct": -6.52
+   },
+   "corporation_tax": {
+    "outturn_m": 13682.0,
+    "prior_year_m": 13067.4,
+    "yoy_m": 614.6,
+    "yoy_pct": 4.7
+   },
+   "stamp_duties": {
+    "outturn_m": 818.6,
+    "prior_year_m": 849.2,
+    "yoy_m": -30.6,
+    "yoy_pct": -3.61
+   },
+   "motor_tax": {
+    "outturn_m": 497.8,
+    "prior_year_m": 495.0,
+    "yoy_m": 2.8,
+    "yoy_pct": 0.57
+   },
+   "customs": {
+    "outturn_m": 299.0,
+    "prior_year_m": 296.2,
+    "yoy_m": 2.8,
+    "yoy_pct": 0.95
+   },
+   "cgt": {
+    "outturn_m": 408.7,
+    "prior_year_m": 469.2,
+    "yoy_m": -60.5,
+    "yoy_pct": -12.89
+   },
+   "cat": {
+    "outturn_m": 160.5,
+    "prior_year_m": 267.4,
+    "yoy_m": -106.9,
+    "yoy_pct": -39.96
+   },
+   "total_expenditure": {
+    "outturn_m": 58157.7,
+    "prior_year_m": 55173.9,
+    "yoy_m": 2983.8,
+    "yoy_pct": 5.41
+   },
+   "debt_interest": {
+    "outturn_m": 1608.5,
+    "prior_year_m": 2128.0,
+    "yoy_m": -519.5,
+    "yoy_pct": -24.41
+   },
+   "exchequer_balance": {
+    "outturn_m": 714.9,
+    "prior_year_m": 4517.6,
+    "yoy_m": -3802.7,
+    "yoy_pct": -84.18
+   }
+  }
+ ],
+ "note": "Cumulative year-to-date figures in \u20acm from the Analytical Exchequer Statement, Department of Finance."
+}

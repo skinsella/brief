@@ -1,0 +1,57 @@
+name: email
+
+on:
+  schedule:
+    - cron: '45 6 * * 1-5'   # weekdays 06:45 UTC (07:45 Irish summer time)
+  workflow_dispatch:
+
+concurrency:
+  group: email
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  # sending activates once SMTP secrets exist; rendering always runs
+  SEND_ENABLED: ${{ secrets.SMTP_USERNAME }}
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild morning note
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipelines/brief/build_morning_note.py --polish
+
+      - name: Render email edition
+        run: python pipelines/brief/build_email.py
+
+      - name: Edition date
+        id: date
+        run: echo "today=$(date -u '+%A %-d %B %Y')" >> "$GITHUB_OUTPUT"
+
+      - name: Send
+        if: env.SEND_ENABLED != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          from: ${{ secrets.BRIEF_EMAIL_FROM }}
+          to: ${{ secrets.BRIEF_EMAIL_TO }}
+          subject: "The Brief — ${{ steps.date.outputs.today }}"
+          html_body: file://docs/email/latest.html
+
+      - uses: ./.github/actions/commit-publish
+        with:
+          paths: docs/email docs/data
+          message: 'data(email): daily edition'

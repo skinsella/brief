@@ -31,6 +31,15 @@
   .section-card h3 { margin: 0; }
   .section-card .desc { color: var(--ink-soft); font-size: .9rem; }
   .section-card .live { font-family: var(--font-mono); font-size: .74rem; color: var(--accent); margin-top: auto; }
+  #alerts { display: flex; flex-wrap: wrap; gap: var(--s2); margin: calc(-1 * var(--s3)) 0 var(--s4); }
+  .alert-chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: .82rem; font-weight: 600; color: var(--warn);
+    background: color-mix(in srgb, var(--warn) 10%, transparent);
+    border: 1px solid color-mix(in srgb, var(--warn) 35%, transparent);
+    border-radius: 999px; padding: 5px 12px;
+  }
+  .alert-chip::before { content: "▲"; font-size: .7em; }
   .spark { display: block; margin-top: 2px; }
   .spark polyline { fill: none; stroke: var(--series); stroke-width: 1.5; }
   .spark .fillpath { fill: color-mix(in srgb, var(--series) 12%, transparent); stroke: none; }
@@ -52,6 +61,8 @@
     <span class="kicker">Morning note</span>
     <span id="note-text">Loading the latest numbers…</span>
   </section>
+
+  <section id="alerts" aria-label="Alerts" style="display:none"></section>
 
   <section aria-label="Headlines">
     <div class="grid grid-kpi" id="kpis"></div>
@@ -139,6 +150,14 @@
       }
       document.getElementById('note-text').textContent = b.morning_note || '';
 
+      if (b.alerts && b.alerts.length) {
+        var strip = document.getElementById('alerts');
+        strip.style.display = '';
+        b.alerts.slice(0, 4).forEach(function (a) {
+          strip.appendChild(el('span', 'alert-chip', a.text));
+        });
+      }
+
       var k = document.getElementById('kpis');
 
       if (t.media && t.media.today_total != null) {
@@ -158,6 +177,14 @@
         k.appendChild(kpi('economy/', 'Economy', parts.join(' · '), '', '', asof(t.economy.asof)));
       } else {
         k.appendChild(kpi('economy/', 'Weekly economy', '<small>coming online</small>', '', '', ''));
+      }
+
+      if (t.exchequer && t.exchequer.tax_ytd_bn != null) {
+        var exBadge = t.exchequer.yoy_pct != null ? badge(t.exchequer.yoy_pct, '% y/y') : '';
+        k.appendChild(kpi('economy/#exchequer', 'Tax receipts YTD',
+          '€' + t.exchequer.tax_ytd_bn.toFixed(1) + '<small>bn</small>',
+          exBadge, '', t.exchequer.month
+            ? '<span class="kpi-asof">to end-' + t.exchequer.month.slice(5, 7) + '/' + t.exchequer.month.slice(2, 4) + '</span>' : ''));
       }
 
       if (t.brent) {

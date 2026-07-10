@@ -38,6 +38,16 @@
 
   <div class="grid grid-kpi" id="kpis"></div>
 
+  <section id="exchequer" style="display:none">
+    <h2 class="sec-title">Exchequer returns</h2>
+    <div class="grid grid-kpi" id="ex-kpis"></div>
+    <div class="card chart-card">
+      <h3>Tax receipts by head — year to date vs same period last year</h3>
+      <div class="chart-box"><canvas id="ex-chart"></canvas></div>
+      <div class="chart-note" id="ex-note"></div>
+    </div>
+  </section>
+
   <div id="sections"></div>
 
   <footer class="brief-footer">
@@ -136,6 +146,70 @@
     });
     charts.push(chart);
   }
+
+  fetch('data/exchequer.json?_=' + Date.now())
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (ex) {
+      if (!ex || !ex.latest || !ex.latest.tax_revenue) return;
+      var L = ex.latest;
+      var monthLabel = ex.latest_month
+        ? new Date(ex.latest_month + '-01').toLocaleDateString('en-IE', { month: 'long', year: 'numeric' }) : '';
+      document.getElementById('exchequer').style.display = '';
+
+      var tiles = [];
+      function exKpi(label, entry, isBn) {
+        if (!entry || entry.outturn_m == null) return;
+        var val = isBn
+          ? '€' + (entry.outturn_m / 1000).toFixed(1) + '<small>bn</small>'
+          : '€' + Math.round(entry.outturn_m).toLocaleString('en-IE') + '<small>m</small>';
+        var b = entry.yoy_pct != null ? badge(entry.yoy_pct, '% y/y') : '';
+        tiles.push('<div class="kpi"><span class="kpi-label">' + label + '</span>' +
+          '<span class="kpi-value">' + val + '</span>' +
+          '<span class="kpi-foot">' + b +
+          '<span class="kpi-asof">to end-' + monthLabel + '</span></span></div>');
+      }
+      exKpi('Total tax receipts', L.tax_revenue, true);
+      exKpi('Total expenditure', L.total_expenditure, true);
+      var bal = L.exchequer_balance;
+      if (bal && bal.outturn_m != null) {
+        tiles.push('<div class="kpi"><span class="kpi-label">Exchequer balance</span>' +
+          '<span class="kpi-value" style="color:var(' + (bal.outturn_m >= 0 ? '--pos' : '--neg') + ')">' +
+          (bal.outturn_m >= 0 ? '+' : '−') + '€' + Math.abs(bal.outturn_m / 1000).toFixed(1) + '<small>bn</small></span>' +
+          '<span class="kpi-foot"><span class="kpi-asof">to end-' + monthLabel + '</span></span></div>');
+      }
+      exKpi('Debt interest', L.debt_interest, false);
+      document.getElementById('ex-kpis').innerHTML = tiles.join('');
+
+      var HEADS = [
+        ['income_tax', 'Income tax'], ['vat', 'VAT'], ['corporation_tax', 'Corporation tax'],
+        ['excise', 'Excise'], ['stamp_duties', 'Stamp'], ['cgt', 'CGT'],
+        ['cat', 'CAT'], ['customs', 'Customs'], ['motor_tax', 'Motor']
+      ].filter(function (h) { return L[h[0]] && L[h[0]].outturn_m != null; });
+
+      var chart = new Chart(document.getElementById('ex-chart'), {
+        type: 'bar',
+        data: {
+          labels: HEADS.map(function (h) { return h[1]; }),
+          datasets: [
+            { label: monthLabel ? 'YTD ' + monthLabel.split(' ')[1] : 'This year',
+              data: HEADS.map(function (h) { return L[h[0]].outturn_m; }),
+              backgroundColor: T('--accent') },
+            { label: 'Same period last year',
+              data: HEADS.map(function (h) { return L[h[0]].prior_year_m; }),
+              backgroundColor: T('--rule') }
+          ]
+        },
+        options: (function () {
+          var o = baseOptions();
+          o.scales.y.ticks.callback = function (v) { return '€' + (v / 1000).toFixed(0) + 'bn'; };
+          return o;
+        })()
+      });
+      charts.push(chart);
+      document.getElementById('ex-note').textContent =
+        'Cumulative €m, Analytical Exchequer Statement (Department of Finance), ' + monthLabel + '.';
+    })
+    .catch(function () {});
 
   fetch('data/weekly.json?_=' + Date.now())
     .then(function (r) { return r.json(); })
