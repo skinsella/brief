@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 10 Jul 2026 16:24 GMT
+Updated: Fri, 10 Jul 2026 18:10 GMT
 
 ## Snapshot
 
-- Recent coverage: 62 item(s) in the last 7 days.
+- Recent coverage: 64 item(s) in the last 7 days.
 - Weighted net framing: 0% (supportive minus critical, reach/significance-weighted).
 - Significant items: 8.
 
 ## Trend Summary
 
-- Coverage volume: 62 item(s) in the last 7 days; up 1 vs previous 7 days.
+- Coverage volume: 64 item(s) in the last 7 days; up 3 vs previous 7 days.
 - Net framing: 0% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 33 item(s).
+- Main topic: Other leads recent coverage with 34 item(s).
 - Critical concentration: Tax accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 9 item(s).
 
@@ -37,8 +37,8 @@ Updated: Fri, 10 Jul 2026 16:24 GMT
 
 ## Top Topics
 
-- Other: 33
-- Finance: 10
+- Other: 34
+- Finance: 11
 - Foreign affairs: 5
 - Fine Gael: 5
 - Polling: 5
@@ -72,8 +72,10 @@ Updated: Fri, 10 Jul 2026 16:24 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Mirror: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5)
 - [neutral factual] Hotpress: DON'T PUBLISH TILL FIVE: The Tánaiste Let Himself Down on Drugs, says Gary Gannon of the Social Democrats (https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGdNdm1fOU5hXy1HMmZRTVZpaDNDNmt6YjVrLXl3SHJkcDc3VzJ0U0NEWkJRai13VjBIcFJjWVBpV3lCYnotNTNsMXhFc2dyb242U0dZZkVNWHd4cVFXblhuZ2dzVWFHVzE3Q1NVc2Y5SnNEUDZQQXRmZzB4QjE5UENSa3dQWEJfNi1yV2tvTU1CTnEzNnh0RVFKUkFiaGcxRVljb1pqNFRZREdIVFdMVTVOUEpKcWJkbGFCeDhNcmpRdFZIdUU2b1BVd2pkR2JSNFlJUERfYTMybUM3MHlj?oc=5)
 - [neutral factual] Limerick's Live 95: Government investigation into Limerick-based Aughinish Alumina nears completion (https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEFRTmhzeVdHM0EtaUR6MnBnY3pkeWpMSXNXdDV3X1pJS3FwbHU4U0UwQUdoZjBPSEpicUFPQVQ4VTV6R0NLTjhZZWZWbWV1OVdNRlFMenFzTTlSVGhVYWRPXzhXemw1ZVBkbWhUYThreXVkUEpIMU1Oa0VDcGk5SlIzd3Z4bFpiMDQ2eTZHUmVFQkFIclpId1ZrTEdWaC1ETW9xMFM5aWFyZjFpS2ZFS2JPLTFRNjFWc285eWdB?oc=5)
+- [neutral factual] INSIGHT EU MONITORING: EU finance ministers target October deal on capital market integration package (https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5)
 - [neutral factual] The Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOTN2VXZ3aUVXNWVlTnFtdXZIVXVSajdINXZjNmlwTUtTaE11N1lpdy0xQXh0Zzl4dk5ZMWxZdnFqU1lHX1Y4aU5nVE04UmVzektTRzd3N1hfZHBxcWhZQUdJMk5qc1QzVmpZQU5Dc0NaNy1JRlN3cmd0ZHRGcHJpaC03ZkVHMzRtY3RPYXRZbUV2TDJtaFRhR3RWU3RXamNieUVBb2N0M0hkS3lBOVlDQlN4cURjQ3BFcENFN2xDbVFtUUM3UXk5ZUhuVTdsM1BZdXJKN09n?oc=5)
 - [neutral factual] Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/)
 - [neutral factual] westernpeople.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5)
@@ -90,5 +92,3 @@ Updated: Fri, 10 Jul 2026 16:24 GMT
 - [neutral factual] MSN: John Manley: Fine Gael’s commitment to ‘blueprint for Irish unity’ can herald a new era in the bid to bring about constitutional change (https://news.google.com/rss/articles/CBMiswNBVV95cUxPeFNkWnFybU1VOFBHd1pRMDFGUE1jQUJESGRTaTgwdjJGOVI0TGJOeHJtRlEtNC1CNzdQdlZrMWJCUllweUNKWHdKT3RjUHVQd1c0OEZLVmY0NG1SUnhLRmFXeWVMWEVySXQyVklPcW85cXdIVldRV2Ziejd3V1VmSnVKZTdjM0U3NW4yVmV6eGRtYWFKWGg2eGl0SlFDRU5NMlRmQ0lCQ05pdmVHY3dDdmczN1lTa295eS1tOW8ydTNLN3c2NW9MUXh1bUNsTHlMNzVkQXdHRVVZZE1zQWNlOHZUZjdkeDh4Ymp1TmdGWnZtMXNJaHBaZnUyalFFeUhCc25HbDVSVmZzZmhxeFdxT1hpT1NnTENqQVVLMWpjN2VKRDdpOVVOeU5FcHJqVWFvZl9xODVzRVRhejhYMkNwWHJ2UGhpRU41VFpRelotbzRmcGtHWktZZ0lfRVg5N0oxZ0t3dmZQZ3FWaEVxc3FOcjNEb0xXX1E5OUpvVHhpc1ZvQWpNU3l3SVc1ckVFNmNoamViWXUxaWRIZHRaakxqcmRQSzBpTXN4dlBobEUtYzE4UEU?oc=5)
 - [neutral factual] Irish Independent: Councillors in Wicklow call on Simon Harris to end carers’ allowance means test (https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html)
 - [neutral factual] Business Post: What’s on the agenda for Simon Harris’s first Ecofin meeting as chair (https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRV80b3ZVcjBYUERBcERVM1lGUXJ4cS1vSVJHM1hLWF9ySlJZWmZfc3pjZUQxOUFUbU9zMjhBWUJSTWNGYUNCbjVrb2JNcWUwcUt3eF9tYmptS2dQajRBLVllcHp3WGh3bnUzajhwNEdXZ2JPcDdHb1huSEdwbzQ3MlQ0b3JyaWhJcUx5VnRnTXgweVY1REhfV0E1QkZwaURFUHYxMTQxUDU?oc=5)
-- [neutral factual] Irish Independent: Roads and public transport funding in Meath raised at meeting with Tánaiste (https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDhPaUo1bTBDSmtQbGVyV2JRaWlSdi1XdDJIU2hIMG5kc0tWT2hmbHdyUWpOT2ZSeERoTk95a0tMTnZZa0tES0ZnLTUyUkw1cXFJUElNbnNCUFZQQzZqQ180aEtPQmNoeWFYUjVTSk82ZVJaTXdyaWNXMFNTQVBnX0xyVUJMRWh0YVdpM0VjeHdwRUJXdVJINlVoVkdLMlNnVFVSTVI5eWtpRUNWaXplZUZYc0hYbV9QQVcwQ0J6U0RtelZ0WG1FM2k5SWI?oc=5)
-- [neutral factual] waterford-news.ie: New Mayor discusses plans for Waterford with Tánaiste (https://news.google.com/rss/articles/CBMirwFBVV95cUxNWll0dGxPVUdQblBzQkxZUG9pOV9welkwTU5IWlJjR2JOTDZDVXlmeGJJa1FJR1lGdzFQSEdYUlJOUS01S1VUeWNZRjRQaTFGUVJwRHRNVm1CV1VrRjc5cENKR0Zxb3BsYnZaZkE3eHpXemw3LXpsSjN1T3BOUEZzRU9FUW5KZ2l5T2R3aHRBb0YtdWhWQWFBempOYWh1RERqOEhRLUY3UTFITm5sTGh3?oc=5)

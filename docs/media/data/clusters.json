@@ -1653,6 +1653,37 @@
     ]
   },
   {
+    "key": "other:alumina-impact-need-sanctions-understand:2501f30e",
+    "title": "Need to ‘understand’ impact of sanctions on alumina, Tánaiste says",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "Irish Mirror",
+      "westernpeople.ie"
+    ],
+    "first_seen": "2026-07-10T11:17:00Z",
+    "latest_seen": "2026-07-10T16:29:24Z",
+    "lifespan_hours": 5,
+    "velocity_6h": 1,
+    "velocity_24h": 2,
+    "reach_score": 2,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5"
+    ]
+  },
+  {
     "key": "constituency/local:allowance-call-carers-councillors-end-means:88c57e99",
     "title": "Councillors in Wicklow call on Simon Harris to end carers’ allowance means test",
     "topic": "Constituency/local",
@@ -2153,16 +2184,16 @@
     ]
   },
   {
-    "key": "other:alumina-impact-need-sanctions-understand:2501f30e",
-    "title": "Need to ‘understand’ impact of sanctions on alumina, Tánaiste says",
-    "topic": "Other",
+    "key": "finance:capital-deal-finance-integration-market-ministers:a5729b53",
+    "title": "EU finance ministers target October deal on capital market integration package",
+    "topic": "Finance",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "westernpeople.ie"
+      "INSIGHT EU MONITORING"
     ],
-    "first_seen": "2026-07-10T11:17:00Z",
-    "latest_seen": "2026-07-10T11:17:00Z",
+    "first_seen": "2026-07-10T14:49:39Z",
+    "latest_seen": "2026-07-10T14:49:39Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -2178,7 +2209,7 @@
     "attention_score": 5,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5"
+      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5"
     ]
   },
   {
@@ -2223,7 +2254,7 @@
     "latest_seen": "2026-07-09T16:28:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2234,7 +2265,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFxVVJsUlpLd21QaXRsWlo5SzJ3cFlkMUxjc1VURElZdEZOSEU5dW1xTVVCaDF5NlRaMzF4SElsQ1Vwb1ZWSEFRdnFDcGNGQ0FsNERMNHZBemNQbjNBdmkwVUhTYjlUNFYyMU50WkF6VXoxZ2cwN00yRThLX293LWhLcXRJTGx6THN5bGdZdll5Skh0Njg5TXloOGExQ1NHdmVZTjI4aS1ET0hNaWlmR0JtMEtkaVJJRnJHNllaQ0pGZHVKbU9PY3VGZ0pKSkR2emNpYUpJekRPSUI1cWc?oc=5"
     ]
