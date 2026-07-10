@@ -1,0 +1,15 @@
+name: test-fred
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe FRED with stored secret (prints status only, never the key)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: |
+          if [ -z "$FRED_API_KEY" ]; then echo "SECRET_EMPTY"; exit 1; fi
+          code=$(curl -s -o /tmp/fred.json -w "%{http_code}" "https://api.stlouisfed.org/fred/series/observations?series_id=DGS10&api_key=${FRED_API_KEY}&file_type=json&limit=1")
+          echo "HTTP $code"
+          grep -o '"count":[0-9]*' /tmp/fred.json || grep -o '"error_message":"[^"]*"' /tmp/fred.json || true
+          [ "$code" = "200" ]
