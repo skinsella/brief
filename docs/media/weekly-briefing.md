@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 10 Jul 2026 18:10 GMT
+Updated: Fri, 10 Jul 2026 20:02 GMT
 
 ## Snapshot
 
-- Recent coverage: 64 item(s) in the last 7 days.
+- Recent coverage: 65 item(s) in the last 7 days.
 - Weighted net framing: 0% (supportive minus critical, reach/significance-weighted).
 - Significant items: 8.
 
 ## Trend Summary
 
-- Coverage volume: 64 item(s) in the last 7 days; up 3 vs previous 7 days.
+- Coverage volume: 65 item(s) in the last 7 days; up 4 vs previous 7 days.
 - Net framing: 0% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 34 item(s).
 - Critical concentration: Tax accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Fri, 10 Jul 2026 18:10 GMT
 
 ## Narrative Summary
 
-- Active narratives: 9 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 10 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 4 cluster(s) have lasted at least 48 hours.
 
@@ -38,7 +38,7 @@ Updated: Fri, 10 Jul 2026 18:10 GMT
 ## Top Topics
 
 - Other: 34
-- Finance: 11
+- Finance: 12
 - Foreign affairs: 5
 - Fine Gael: 5
 - Polling: 5
@@ -49,10 +49,10 @@ Updated: Fri, 10 Jul 2026 18:10 GMT
 ## Top Outlets
 
 - Irish Independent: 9
+- Business Post: 4
 - MSN: 4
 - TheJournal.ie: 4
 - RTE News: 4
-- Business Post: 3
 - RTE.ie: 3
 - BreakingNews.ie: 2
 - Galway Bay FM: 2
@@ -67,11 +67,12 @@ Updated: Fri, 10 Jul 2026 18:10 GMT
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
-- [emerging] Simon Harris channels Father Ted in search for elusive EU deal on financial reforms — 2 item(s), 2 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: Irish Times, The Irish Times
 - [dormant] Tánaiste to attend meeting of EU finance ministers — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: RTE News, RTE.ie
+- [dormant] Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Dublin People, Irish Legal News
 
 ## Recent Items
 
+- [neutral factual] Business Post: EU finance ministers set October deadline for market supervision overhaul despite divisions (https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNvRVd1Y1FpbWtUY0VDMXJ3SEY5UFRHZlpsWG55ajBNQTB6X0lyNWd6bG5jY3FYN1ZNaFFPSTFnc1IxM0ZqMHJVbXpMRTRQX0V1VkZoWjhEZl9pcEc2QkNnY0ZWYWI3V3laS25Hdm5oOEtlaXlQeUM0eDd2Xy10RFo0OWxoTlNZbmJBcHhaRmFwUFVlMmV2ZV9IRWxaX2pQTjU2bGFLQmpvbWhQZjJuZXlqVV8wSENGd2pGMHdWd2tyUmU0aUNmTw?oc=5)
 - [neutral factual] Irish Mirror: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5)
 - [neutral factual] Hotpress: DON'T PUBLISH TILL FIVE: The Tánaiste Let Himself Down on Drugs, says Gary Gannon of the Social Democrats (https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGdNdm1fOU5hXy1HMmZRTVZpaDNDNmt6YjVrLXl3SHJkcDc3VzJ0U0NEWkJRai13VjBIcFJjWVBpV3lCYnotNTNsMXhFc2dyb242U0dZZkVNWHd4cVFXblhuZ2dzVWFHVzE3Q1NVc2Y5SnNEUDZQQXRmZzB4QjE5UENSa3dQWEJfNi1yV2tvTU1CTnEzNnh0RVFKUkFiaGcxRVljb1pqNFRZREdIVFdMVTVOUEpKcWJkbGFCeDhNcmpRdFZIdUU2b1BVd2pkR2JSNFlJUERfYTMybUM3MHlj?oc=5)
 - [neutral factual] Limerick's Live 95: Government investigation into Limerick-based Aughinish Alumina nears completion (https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEFRTmhzeVdHM0EtaUR6MnBnY3pkeWpMSXNXdDV3X1pJS3FwbHU4U0UwQUdoZjBPSEpicUFPQVQ4VTV6R0NLTjhZZWZWbWV1OVdNRlFMenFzTTlSVGhVYWRPXzhXemw1ZVBkbWhUYThreXVkUEpIMU1Oa0VDcGk5SlIzd3Z4bFpiMDQ2eTZHUmVFQkFIclpId1ZrTEdWaC1ETW9xMFM5aWFyZjFpS2ZFS2JPLTFRNjFWc285eWdB?oc=5)
@@ -91,4 +92,3 @@ Updated: Fri, 10 Jul 2026 18:10 GMT
 - [neutral factual] Kilkenny Live: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVVtSllhZDlNckEzN2pEb3NtbV9lQ3JDSVUzMGlQQWItM1RWLXBEakpEWHlzRzJEdTNBdXFOMC1MWnBic1A2VmV0Y3hqZ3dxNXBSdUJRbFg4NFdUekNxSDZJU2hVenp2R3JZeVd6UFo1UWUyQTdxU1ZfZzd2RjAyM2VuOHZ6dUNMcVpVUWIwUldnMmNaaUtMbndCNnlSemlyUUdsWDBlVm5RVU5Jbk1kbU1WYXp6aXFy?oc=5)
 - [neutral factual] MSN: John Manley: Fine Gael’s commitment to ‘blueprint for Irish unity’ can herald a new era in the bid to bring about constitutional change (https://news.google.com/rss/articles/CBMiswNBVV95cUxPeFNkWnFybU1VOFBHd1pRMDFGUE1jQUJESGRTaTgwdjJGOVI0TGJOeHJtRlEtNC1CNzdQdlZrMWJCUllweUNKWHdKT3RjUHVQd1c0OEZLVmY0NG1SUnhLRmFXeWVMWEVySXQyVklPcW85cXdIVldRV2Ziejd3V1VmSnVKZTdjM0U3NW4yVmV6eGRtYWFKWGg2eGl0SlFDRU5NMlRmQ0lCQ05pdmVHY3dDdmczN1lTa295eS1tOW8ydTNLN3c2NW9MUXh1bUNsTHlMNzVkQXdHRVVZZE1zQWNlOHZUZjdkeDh4Ymp1TmdGWnZtMXNJaHBaZnUyalFFeUhCc25HbDVSVmZzZmhxeFdxT1hpT1NnTENqQVVLMWpjN2VKRDdpOVVOeU5FcHJqVWFvZl9xODVzRVRhejhYMkNwWHJ2UGhpRU41VFpRelotbzRmcGtHWktZZ0lfRVg5N0oxZ0t3dmZQZ3FWaEVxc3FOcjNEb0xXX1E5OUpvVHhpc1ZvQWpNU3l3SVc1ckVFNmNoamViWXUxaWRIZHRaakxqcmRQSzBpTXN4dlBobEUtYzE4UEU?oc=5)
 - [neutral factual] Irish Independent: Councillors in Wicklow call on Simon Harris to end carers’ allowance means test (https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html)
-- [neutral factual] Business Post: What’s on the agenda for Simon Harris’s first Ecofin meeting as chair (https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRV80b3ZVcjBYUERBcERVM1lGUXJ4cS1vSVJHM1hLWF9ySlJZWmZfc3pjZUQxOUFUbU9zMjhBWUJSTWNGYUNCbjVrb2JNcWUwcUt3eF9tYmptS2dQajRBLVllcHp3WGh3bnUzajhwNEdXZ2JPcDdHb1huSEdwbzQ3MlQ0b3JyaWhJcUx5VnRnTXgweVY1REhfV0E1QkZwaURFUHYxMTQxUDU?oc=5)
