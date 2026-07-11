@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 11 Jul 2026 06:39 GMT
+Updated: Sat, 11 Jul 2026 08:56 GMT
 
 ## Snapshot
 
-- Recent coverage: 65 item(s) in the last 7 days.
+- Recent coverage: 67 item(s) in the last 7 days.
 - Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 7.
 
 ## Trend Summary
 
-- Coverage volume: 65 item(s) in the last 7 days; up 6 vs previous 7 days.
+- Coverage volume: 67 item(s) in the last 7 days; up 8 vs previous 7 days.
 - Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 35 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Sat, 11 Jul 2026 06:39 GMT
 
 ## Narrative Summary
 
-- Active narratives: 13 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 12 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 4 cluster(s) have lasted at least 48 hours.
 
@@ -38,7 +38,7 @@ Updated: Sat, 11 Jul 2026 06:39 GMT
 ## Top Topics
 
 - Other: 35
-- Finance: 15
+- Finance: 17
 - Foreign affairs: 5
 - Fine Gael: 4
 - Polling: 3
@@ -48,13 +48,13 @@ Updated: Sat, 11 Jul 2026 06:39 GMT
 ## Top Outlets
 
 - Irish Independent: 10
-- Business Post: 5
+- Business Post: 6
 - RTE News: 4
 - BreakingNews.ie: 3
 - MSN: 3
 - TheJournal.ie: 3
 - Hotpress: 2
-- Galway Bay FM: 2
+- INSIGHT EU MONITORING: 2
 
 ## Story Clusters
 
@@ -71,6 +71,7 @@ Updated: Sat, 11 Jul 2026 06:39 GMT
 
 ## Recent Items
 
+- [neutral factual] Business Post: EU finance ministers set October deadline for market supervision overhaul despite divisions (https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5)
 - [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
 - [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
 - [neutral factual] Business Post: Future Ireland Fund had €5.2bn invested in German and French government bonds (https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjUyOFBpdFlsWmNWcWZReG1WTGlFUEMtVnlhT2V1VUNUczd5UGk2dG9JOHZwOTAxVE5tZHVBMFBOSER3andVajEwU2U2T2U0UUQ5QXIwQ3ZxSk1uMmkzRzhpNU1CcmVqZFBWSzJxZWh4elhKYnFLQVM1LTlmNUp6RHdEMl9ydk9QRGtBeXlfSkcxVEJGM2tkTmFrVlVhaWdTMjNmV19PbUJBZ05qQWtHM2hFVVQ?oc=5)
@@ -80,6 +81,7 @@ Updated: Sat, 11 Jul 2026 06:39 GMT
 - [neutral factual] Hotpress: The Tánaiste Let Himself Down with Drugs Stance, says Gary Gannon of the Social Democrats (https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDZDa2JqQjdhbVFhQ09mMHN4Z0xWSjFTRkpyZDZTQklyeVFZZWxSN0YxWmhsNktIWTFDTG9fMjIwZHVZd0xrMmJ6MFk4RHRtbkJxYXEteXlvX3otZWgybHR2RVZQam5zZVVUeVdQSExXbnVDSUtGVjRhRkFlV0YxYmJLa1pKTHlTZ2pQdXVpRXpLZEpZck9MZVVkRUFhU3gwYWRDclpLLXNrajN6cTVYOGNYTXBfc2dRSWd5VFE0VEg?oc=5)
 - [neutral factual] Limerick's Live 95: Government investigation into Limerick-based Aughinish Alumina nears completion (https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEFRTmhzeVdHM0EtaUR6MnBnY3pkeWpMSXNXdDV3X1pJS3FwbHU4U0UwQUdoZjBPSEpicUFPQVQ4VTV6R0NLTjhZZWZWbWV1OVdNRlFMenFzTTlSVGhVYWRPXzhXemw1ZVBkbWhUYThreXVkUEpIMU1Oa0VDcGk5SlIzd3Z4bFpiMDQ2eTZHUmVFQkFIclpId1ZrTEdWaC1ETW9xMFM5aWFyZjFpS2ZFS2JPLTFRNjFWc285eWdB?oc=5)
 - [neutral factual] INSIGHT EU MONITORING: EU finance ministers target October deal on capital market integration package (https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5)
+- [neutral factual] INSIGHT EU MONITORING: EU finance ministers target October deal on capital market integration package (https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5)
 - [neutral factual] The Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOTN2VXZ3aUVXNWVlTnFtdXZIVXVSajdINXZjNmlwTUtTaE11N1lpdy0xQXh0Zzl4dk5ZMWxZdnFqU1lHX1Y4aU5nVE04UmVzektTRzd3N1hfZHBxcWhZQUdJMk5qc1QzVmpZQU5Dc0NaNy1JRlN3cmd0ZHRGcHJpaC03ZkVHMzRtY3RPYXRZbUV2TDJtaFRhR3RWU3RXamNieUVBb2N0M0hkS3lBOVlDQlN4cURjQ3BFcENFN2xDbVFtUUM3UXk5ZUhuVTdsM1BZdXJKN09n?oc=5)
 - [neutral factual] Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/)
 - [neutral factual] BreakingNews.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5)
@@ -89,5 +91,3 @@ Updated: Sat, 11 Jul 2026 06:39 GMT
 - [neutral factual] Fleet World: Interview: Fleet World editor Simon Harris reveals his Fleet15 (https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2VoNlhMMkh0WHZGWkRWb2otZ3MtZ0R0andiVEd0WFotemFMWmc0OFY0dEhOSWp2T2ZFRDZybHUwdXNKNlRZeW9TLWVPZmlEam1DX2VXdlFfQ2xCN3RXalVFa3RqZUp5S0toWmpvbDZ1X09jVC1pc0dwODRNcktLWjNJbzluN3o3c2RyLVpiNnE?oc=5)
 - [neutral factual] BreakingNews.ie: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5)
 - [neutral factual] MSN: Short-term lets register 'took longer than it should have', Tanaiste says (https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWpMSmRCbjVLUXdfMkRQX0FBeko0a0hBN21jTU5oZU9yOGNCTGVwWThZUmlrZW9nUnF5MW5UcEdNeDZuWFhmaGNPbVBCMWU5cnRLTTk3ektVV1h5WmVnaDNNbE10Tm9VWXJIeER0aS14UUtFZUM3WjNpR3FYUC0wT0EwNmxDSXhOck91NmhKeUtWTEx6QTJVQnVKd2xPaVBscHRDbkYxeUFEOHZBSE5JN1NZMVJXNzFEbURaSg?oc=5)
-- [neutral factual] Irish Independent: Government ‘prepared for all scenarios’ as latest US-Iran escalation reignites inflation fears (https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFxVVJsUlpLd21QaXRsWlo5SzJ3cFlkMUxjc1VURElZdEZOSEU5dW1xTVVCaDF5NlRaMzF4SElsQ1Vwb1ZWSEFRdnFDcGNGQ0FsNERMNHZBemNQbjNBdmkwVUhTYjlUNFYyMU50WkF6VXoxZ2cwN00yRThLX293LWhLcXRJTGx6THN5bGdZdll5Skh0Njg5TXloOGExQ1NHdmVZTjI4aS1ET0hNaWlmR0JtMEtkaVJJRnJHNllaQ0pGZHVKbU9PY3VGZ0pKSkR2emNpYUpJekRPSUI1cWc?oc=5)
-- [neutral factual] Irish Independent: Councillors in Wicklow call on Simon Harris to end carers’ allowance means test (https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVYVVJLaUNod0ljRlg0UkM3cUJ1eUU0OHFzbDRZQ2o4ZW1TTm93eDRRM21EQ0trTy13YU9ua3N3Qi1nTnpFZXdBQTI0em1xdFIwZ1U0VEtmc29ZQVRKVXVLQmFFSXBraWQyVm5CYmFiOWRJN213b2ZueEt1V0w5M3BXMG1PMWdTU1NkOVN0ZnVHOVpuaDVUcERFSG5rSFNXVlFVeEo3RGJpYkF4aWZkeGM2LTV0S2g4bnRpTnZFTElUNWtsMWdyZUwzN3V3MlVJcDdN?oc=5)

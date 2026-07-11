@@ -841,6 +841,29 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5": {
+    "outlet": "INSIGHT EU MONITORING",
+    "published": "Fri, 10 Jul 2026 14:49:39 GMT",
+    "headline": "EU finance ministers target October deal on capital market integration package",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5",
+    "summary": "INSIGHT EU MONITORING reports: EU finance ministers target October deal on capital market integration package.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "eu-finance-ministers-target-october-deal-on-capital-market-integration-package",
+    "first_seen": "2026-07-11T08:56:13Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5",
+    "topic": "Finance",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUE93TjFBMS1vb0FwWTJlRmE1aEhjaG9qalVMdXp4WFJlUGVxMTV1M3NnSlNrVnBVaHpheXBiT3NTQ21XQ0lYMEVsNmNmTU9qRlJHRGJ4dENEMjFJWmNueW1KTmRUa2Job1h6eGNiVUU4M2poWFpPM0cyeVZlb1ZKek9SZ19lMDBYUmZHTlo5RzYzc0NDV016cHFKS3dmTlZ0a3Y1S0RGSjMwbVRMUXhIeUVReHdjcS1MSFF3V3Vtdm9WX1lTT3k4ZjQ5eUlPdENCc1NVajItNDVlcXU4SkE?oc=5": {
     "outlet": "Clare Echo",
     "published": "Tue, 09 Jun 2026 08:17:51 GMT",
@@ -6350,6 +6373,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5": {
+    "outlet": "Business Post",
+    "published": "Sat, 11 Jul 2026 07:27:07 GMT",
+    "headline": "EU finance ministers set October deadline for market supervision overhaul despite divisions",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5",
+    "summary": "Business Post reports: EU finance ministers set October deadline for market supervision overhaul despite divisions.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "eu-finance-ministers-set-october-deadline-for-market-supervision-overhaul-despit",
+    "first_seen": "2026-07-11T08:56:13Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.breakingnews.ie/explained/who-is-peter-thiel-billionaire-organiser-of-controversial-wicklow-event-1916652.html": {

@@ -8578,6 +8578,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXJZY0hmZzFDUk9tcEpHblk0Ym1OYlYwLW1QWTE2X0w0OGV5blBsYkdrT040Y2pmd1d0S0dXdDlaZFhGeHE3NUpxSlBmaFp4RVNoRlNrbndGeHpMbDdYYXpROGhpUmIyY192dzQ0QXpnbnpKbURDQXRUYTJWaWtrbkw0TQ?oc=5": {
+    "outlet": "The Journal",
+    "published": "Sat, 11 Jul 2026 08:01:00 GMT",
+    "headline": "Surrealing in the Years Government deserves little credit for passing the zombified Territories Bill",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXJZY0hmZzFDUk9tcEpHblk0Ym1OYlYwLW1QWTE2X0w0OGV5blBsYkdrT040Y2pmd1d0S0dXdDlaZFhGeHE3NUpxSlBmaFp4RVNoRlNrbndGeHpMbDdYYXpROGhpUmIyY192dzQ0QXpnbnpKbURDQXRUYTJWaWtrbkw0TQ?oc=5",
+    "summary": "The Journal reports: Surrealing in the Years Government deserves little credit for passing the zombified Territories Bill.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "surrealing-in-the-years-government-deserves-little-credit-for-passing-the-zombif",
+    "first_seen": "2026-07-11T08:56:13Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXJZY0hmZzFDUk9tcEpHblk0Ym1OYlYwLW1QWTE2X0w0OGV5blBsYkdrT040Y2pmd1d0S0dXdDlaZFhGeHE3NUpxSlBmaFp4RVNoRlNrbndGeHpMbDdYYXpROGhpUmIyY192dzQ0QXpnbnpKbURDQXRUYTJWaWtrbkw0TQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXJZY0hmZzFDUk9tcEpHblk0Ym1OYlYwLW1QWTE2X0w0OGV5blBsYkdrT040Y2pmd1d0S0dXdDlaZFhGeHE3NUpxSlBmaFp4RVNoRlNrbndGeHpMbDdYYXpROGhpUmIyY192dzQ0QXpnbnpKbURDQXRUYTJWaWtrbkw0TQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZW53M19VRnA5N0tzQ25zVEtLZnBFdEhVSUtWc3poMXBRUnpDZXJhRVQ4VHVwenBodGZzWFBNMEVwTVBaS09Vem5CRjhvdXU5YmlrMUFXZURsNlRRWVpkNEdORW5vUERmT3N6MXNTNzVBa2NBLVlfcDJVZmhFdTR1NEROYw?oc=5": {
     "outlet": "Echo.ie",
     "published": "Fri, 26 Jun 2026 17:30:32 GMT",
