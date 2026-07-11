@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T11:33:55Z",
+  "updated_at": "2026-07-11T12:35:43Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
@@ -23,14 +23,14 @@
         "Simon Harris": 7
       },
       "themes": {
-        "Finance": {
+        "Other": {
           "total": 4,
           "favourable": 0,
           "neutral": 4,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Other": {
+        "Finance": {
           "total": 4,
           "favourable": 0,
           "neutral": 4,
@@ -2258,14 +2258,14 @@
         "Simon Harris": 7
       },
       "themes": {
-        "Finance": {
+        "Other": {
           "total": 4,
           "favourable": 0,
           "neutral": 4,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Other": {
+        "Finance": {
           "total": 4,
           "favourable": 0,
           "neutral": 4,
