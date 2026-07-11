@@ -1,5 +1,86 @@
 [
   {
+    "checked_at": "2026-07-11T04:24:27Z",
+    "checked_at_display": "Sat, 11 Jul 2026 04:24 GMT",
+    "new_count": 2,
+    "old_skipped": 10,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 4,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 36,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjUyOFBpdFlsWmNWcWZReG1WTGlFUEMtVnlhT2V1VUNUczd5UGk2dG9JOHZwOTAxVE5tZHVBMFBOSER3andVajEwU2U2T2U0UUQ5QXIwQ3ZxSk1uMmkzRzhpNU1CcmVqZFBWSzJxZWh4elhKYnFLQVM1LTlmNUp6RHdEMl9ydk9QRGtBeXlfSkcxVEJGM2tkTmFrVlVhaWdTMjNmV19PbUJBZ05qQWtHM2hFVVQ?oc=5",
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5"
+    ],
+    "archive_file": "archive/20260711T042427Z.html"
+  },
+  {
     "checked_at": "2026-07-11T01:05:20Z",
     "checked_at_display": "Sat, 11 Jul 2026 01:05 GMT",
     "new_count": 0,
@@ -6011,49 +6092,5 @@
       "https://www.rte.ie/news/ireland/2026/0702/1581434-aughinish-alumina-investigation/"
     ],
     "archive_file": "archive/20260702T131637Z.html"
-  },
-  {
-    "checked_at": "2026-07-02T11:27:52Z",
-    "checked_at_display": "Thu, 02 Jul 2026 11:27 GMT",
-    "new_count": 1,
-    "old_skipped": 2,
-    "duplicate_skipped": 4,
-    "mismatched_skipped": 3,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 4,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 4,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaEFxRzRET3NBZ1Q5alhNUXZpdkhUWC1uZDdYRDNfWU1ZVjA2Y1J6VkxqaEN2RHNWYVg0REd3TzlSUlpqRmxITFNPZEJ6S19nZXJIQ2xPbFBDVXZvbGZpOGNYcmtyWlJfTU5LNFRyS2lGNEdwVWlINFhvbEwtbWY3a2hRNFJjc3Z1SHFpN3B4ZWJpYk9URDNyOVZpYjlRclV3djlZUF91bWdFNnVoUzg4QV9UZllmMG5MWGJLZW5vdHRaX3I3VkZZZWloQmFMZElWM3h5VzRYSTZRZWpsVHJZLXh6RWhqTWk5V3ZLelhXYnJOQQ?oc=5"
-    ],
-    "archive_file": "archive/20260702T112752Z.html"
   }
 ]
