@@ -22575,6 +22575,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZrYThvcHNIS3FUZzluUDR5QWZIaDN3SzJEdkF2OWlPd1NOOTNOa0M2WjFnMFI4MEJCOE8xTmlIckFZOENSUTJkUlphSkh1OVplZ3I0cTBLQWpsZnZLQ2FVTnhNRWlzdzJLR2NfSnVNeFdlN0RrVHNVZ2oxUlpVYzFodDVLelBTTXFKSG9IZUlnXzRoS01pN3cxYlBCbGFMSlpsZUowbmtqc2FydWZrNVVXQVpzeUFKdWxueElkbEQ0d05YRWRR?oc=5": {
+    "outlet": "Business Post",
+    "published": "Sat, 11 Jul 2026 20:02:23 GMT",
+    "headline": "Shane Coleman: Assuming a United Ireland is inevitable is both dangerous and stupid",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZrYThvcHNIS3FUZzluUDR5QWZIaDN3SzJEdkF2OWlPd1NOOTNOa0M2WjFnMFI4MEJCOE8xTmlIckFZOENSUTJkUlphSkh1OVplZ3I0cTBLQWpsZnZLQ2FVTnhNRWlzdzJLR2NfSnVNeFdlN0RrVHNVZ2oxUlpVYzFodDVLelBTTXFKSG9IZUlnXzRoS01pN3cxYlBCbGFMSlpsZUowbmtqc2FydWZrNVVXQVpzeUFKdWxueElkbEQ0d05YRWRR?oc=5",
+    "summary": "Business Post reports: Shane Coleman: Assuming a United Ireland is inevitable is both dangerous and stupid.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "shane-coleman-assuming-a-united-ireland-is-inevitable-is-both-dangerous-and-stup",
+    "first_seen": "2026-07-11T21:01:10Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZrYThvcHNIS3FUZzluUDR5QWZIaDN3SzJEdkF2OWlPd1NOOTNOa0M2WjFnMFI4MEJCOE8xTmlIckFZOENSUTJkUlphSkh1OVplZ3I0cTBLQWpsZnZLQ2FVTnhNRWlzdzJLR2NfSnVNeFdlN0RrVHNVZ2oxUlpVYzFodDVLelBTTXFKSG9IZUlnXzRoS01pN3cxYlBCbGFMSlpsZUowbmtqc2FydWZrNVVXQVpzeUFKdWxueElkbEQ0d05YRWRR?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZrYThvcHNIS3FUZzluUDR5QWZIaDN3SzJEdkF2OWlPd1NOOTNOa0M2WjFnMFI4MEJCOE8xTmlIckFZOENSUTJkUlphSkh1OVplZ3I0cTBLQWpsZnZLQ2FVTnhNRWlzdzJLR2NfSnVNeFdlN0RrVHNVZ2oxUlpVYzFodDVLelBTTXFKSG9IZUlnXzRoS01pN3cxYlBCbGFMSlpsZUowbmtqc2FydWZrNVVXQVpzeUFKdWxueElkbEQ0d05YRWRR?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczRjNERKNXNNVUxrUlpCaXdkZzZDaEhDdGtlaWFneTVDQVZRX0JmZ3RKaThhbFFXdnVqUUNIODh0ajVMTk9XU1NXZGtjWkpILVJnTDl1ZG11VTVrQ0J2b1hkUVdWVUpjWV9lN3dTdWhJMzZZVVlySHZCNF81TVA5MGpCUU9DOGcwcXc5Q2VrU2F1VFRCcm5SNlRLZ0V5TmhkNU43YUN5c2NPSzQ0SmtfQlJqeHdKdXZOY2wybU9GVW5YaXlPZy1r?oc=5": {
     "outlet": "Irish Independent",
     "published": "Thu, 11 Jun 2026 04:20:00 GMT",
