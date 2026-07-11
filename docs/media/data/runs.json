@@ -1,5 +1,85 @@
 [
   {
+    "checked_at": "2026-07-11T23:02:59Z",
+    "checked_at_display": "Sat, 11 Jul 2026 23:02 GMT",
+    "new_count": 1,
+    "old_skipped": 5,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 6,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 8,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 8,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 24,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5"
+    ],
+    "archive_file": "archive/20260711T230259Z.html"
+  },
+  {
     "checked_at": "2026-07-11T22:00:02Z",
     "checked_at_display": "Sat, 11 Jul 2026 22:00 GMT",
     "new_count": 0,
@@ -6504,52 +6584,5 @@
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXViZVN1OVBUdzgxZk1xbXVtQmQ4WGYxamNiRWczV0MxUjNpTEdZNzcwSGpqejlIYlhXY01JMUVzRFFhbWpPajlZUDBRQWVyU1pDSlNRZUdPVnR2WFBacmZwRFJtdXlvTU5XODYySF85RjM0QU5lbV9ORm9XZ2Y4Sl9nWmRpNnJNMUktb1FxOVFXWWF2NThEbnBKQzdZZm1uSGh3S3otMnY5Z3hTa2w3b0hJV1NCbnM?oc=5"
     ],
     "archive_file": "archive/20260703T175453Z.html"
-  },
-  {
-    "checked_at": "2026-07-03T16:20:17Z",
-    "checked_at_display": "Fri, 03 Jul 2026 16:20 GMT",
-    "new_count": 4,
-    "old_skipped": 3,
-    "duplicate_skipped": 2,
-    "mismatched_skipped": 1,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RZkVRU0ItaWRmZkNoOXFXZVVfdG9TNDlwajRJR3Q3WG51U2N3X01ydGJTZUlZQVA1blZLc3pjdktMRGNvLXlncjhELXVrYWJpdWNFTXlJeTBBV1RmYTRTSzBLMHhxSWdSRzYtbFlvd3lxYWVNRmloZU9OOVdDUQ?oc=5",
-      "https://www.thejournal.ie/pinergy-electricity-price-hike-7089901-Jul2026/",
-      "https://www.breakingnews.ie/ireland/government-considering-uk-style-legal-protection-for-gardai-chasing-scramblers-1922061.html",
-      "https://www.breakingnews.ie/ireland/private-peter-thiel-retreat-at-five-star-wicklow-hotel-cancelled-1922022.html"
-    ],
-    "archive_file": "archive/20260703T162017Z.html"
   }
 ]

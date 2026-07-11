@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 11 Jul 2026 22:00 GMT
+Updated: Sat, 11 Jul 2026 23:02 GMT
 
 ## Snapshot
 
-- Recent coverage: 69 item(s) in the last 7 days.
+- Recent coverage: 70 item(s) in the last 7 days.
 - Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 7.
+- Significant items: 8.
 
 ## Trend Summary
 
-- Coverage volume: 69 item(s) in the last 7 days; up 10 vs previous 7 days.
+- Coverage volume: 70 item(s) in the last 7 days; up 11 vs previous 7 days.
 - Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 37 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Sat, 11 Jul 2026 22:00 GMT
 
 ## Narrative Summary
 
-- Active narratives: 3 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 4 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 4 cluster(s) have lasted at least 48 hours.
 
@@ -29,11 +29,11 @@ Updated: Sat, 11 Jul 2026 22:00 GMT
 - [Polling, High-reach outlet] TheJournal.ie: Fine Gael is now the most popular party in the country, poll says (https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
+- [Policy] The Times: Simon Harris plans €1.5bn income tax giveaway (https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5)
 - [Policy] Irish Legal News: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5)
 - [Policy] Dublin People: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5)
 - [High-reach outlet] BreakingNews.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5)
 - [High-reach outlet] BreakingNews.ie: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5)
-- [High-reach outlet] TheJournal.ie: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/)
 
 ## Top Topics
 
@@ -43,6 +43,7 @@ Updated: Sat, 11 Jul 2026 22:00 GMT
 - Fine Gael: 4
 - Polling: 3
 - Constituency/local: 2
+- Tax: 1
 - Housing: 1
 
 ## Top Outlets
@@ -71,6 +72,7 @@ Updated: Sat, 11 Jul 2026 22:00 GMT
 
 ## Recent Items
 
+- [neutral factual] The Times: Simon Harris plans €1.5bn income tax giveaway (https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5)
 - [neutral factual] Business Post: EU finance ministers set October deadline for market supervision overhaul despite divisions (https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5)
 - [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
 - [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
@@ -90,4 +92,3 @@ Updated: Sat, 11 Jul 2026 22:00 GMT
 - [neutral factual] Kilkenny Live: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm1zdEhrTzRrcDZYTTh5UjVOTGV0MUctMmhjMTJObm5Sam9OdF93Wk00cnhfYnlQS09YbG0tdlBadE1PQ0dLNzZlNWdwYVFQb0Fpb2xZUFVJMkJvSzJlWWdtY0JrSWdIWWZpSC1VRzhFNTlhU2t3VXo0TV9SZWs1T3VRNTY2RGxOQnlRcjdIa1RpUE15ejBJQ3lERUpRVnZwOTA1Wm8wWHNyMlZYQXpr?oc=5)
 - [neutral factual] uatv.ua: EU Sanctions Can Force Putin to the Negotiating Table — Irish Finance Minister (https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVdHeWkyS280T2FDLXlHUHVDR3VKSUNUVEJzV2pJME9ZMmFTd2FsdWl5WmNrOHhVUmltUjY4ZlVkMVZIeG9vV0pibUtTYXpBZ21BTmp5d0kwUk9yOVR6TzRQT21ZdjR1QzZpN1hRQkZlMDhiT29wT3FVUlZ4T3FId1VvSHRwTmIxLVViM3RPRjVud3o5cmVrOGVFNWM?oc=5)
 - [neutral factual] Business Post: Simon Harris hopes to land EU capital markets rules deal by October (https://news.google.com/rss/articles/CBMipwFBVV95cUxPTExxRjVKUTJtUDFKNk1QdVFVVkx6cjBtdDJfVWU1WkxUaWxwYlJZVTU3UkdMa3hINXJwODZYMHNnQ2ZtazduT1BjRjZ6ZVlJU09YaU5zTE4zXzNVZUVkc2JSVG94djNpVExmOFVlUVg4SXE2TGNQR25xYW5mZU5hek1YTElVeHBlODFCODNVSjdfOWdTZWNWYk5ua3ZPY2lFWHZFZFhnOA?oc=5)
-- [neutral factual] Fleet World: Interview: Fleet World editor Simon Harris reveals his Fleet15 (https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2VoNlhMMkh0WHZGWkRWb2otZ3MtZ0R0andiVEd0WFotemFMWmc0OFY0dEhOSWp2T2ZFRDZybHUwdXNKNlRZeW9TLWVPZmlEam1DX2VXdlFfQ2xCN3RXalVFa3RqZUp5S0toWmpvbDZ1X09jVC1pc0dwODRNcktLWjNJbzluN3o3c2RyLVpiNnE?oc=5)
