@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-11T08:56:13Z",
+  "updated_at": "2026-07-11T10:23:00Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
-      "total": 6,
+      "total": 7,
       "counts": {
         "favourable": 0,
-        "neutral": 6,
+        "neutral": 7,
         "unfavourable": 0,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 20,
+        "neutral": 21,
         "unfavourable": 0,
         "mixed": 0
       },
@@ -20,7 +20,7 @@
       "weighted_net": 0,
       "targets": {
         "Government/policy": 1,
-        "Simon Harris": 5
+        "Simon Harris": 6
       },
       "themes": {
         "Finance": {
@@ -31,25 +31,25 @@
           "mixed": 0
         },
         "Other": {
-          "total": 2,
+          "total": 3,
           "favourable": 0,
-          "neutral": 2,
+          "neutral": 3,
           "unfavourable": 0,
           "mixed": 0
         }
       }
     },
     "seven_day": {
-      "total": 67,
+      "total": 68,
       "counts": {
         "favourable": 1,
-        "neutral": 64,
+        "neutral": 65,
         "unfavourable": 0,
         "mixed": 2
       },
       "weighted_counts": {
         "favourable": 3,
-        "neutral": 138,
+        "neutral": 139,
         "unfavourable": 0,
         "mixed": 6
       },
@@ -57,14 +57,14 @@
       "weighted_net": 2,
       "targets": {
         "Government/policy": 17,
-        "Simon Harris": 48,
+        "Simon Harris": 49,
         "unclear": 2
       },
       "themes": {
         "Other": {
-          "total": 35,
+          "total": 36,
           "favourable": 1,
-          "neutral": 34,
+          "neutral": 35,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -113,16 +113,16 @@
       }
     },
     "thirty_day": {
-      "total": 306,
+      "total": 307,
       "counts": {
         "favourable": 16,
-        "neutral": 279,
+        "neutral": 280,
         "unfavourable": 6,
         "mixed": 5
       },
       "weighted_counts": {
         "favourable": 50,
-        "neutral": 709,
+        "neutral": 710,
         "unfavourable": 22,
         "mixed": 21
       },
@@ -130,14 +130,14 @@
       "weighted_net": 3,
       "targets": {
         "Government/policy": 126,
-        "Simon Harris": 145,
+        "Simon Harris": 146,
         "unclear": 35
       },
       "themes": {
         "Other": {
-          "total": 133,
+          "total": 134,
           "favourable": 7,
-          "neutral": 122,
+          "neutral": 123,
           "unfavourable": 4,
           "mixed": 0
         },
@@ -207,16 +207,16 @@
       }
     },
     "all_time": {
-      "total": 360,
+      "total": 361,
       "counts": {
         "favourable": 18,
-        "neutral": 323,
+        "neutral": 324,
         "unfavourable": 9,
         "mixed": 10
       },
       "weighted_counts": {
         "favourable": 56,
-        "neutral": 829,
+        "neutral": 830,
         "unfavourable": 38,
         "mixed": 38
       },
@@ -224,14 +224,14 @@
       "weighted_net": 2,
       "targets": {
         "Government/policy": 151,
-        "Simon Harris": 170,
+        "Simon Harris": 171,
         "unclear": 39
       },
       "themes": {
         "Other": {
-          "total": 148,
+          "total": 149,
           "favourable": 7,
-          "neutral": 136,
+          "neutral": 137,
           "unfavourable": 5,
           "mixed": 0
         },
@@ -2238,16 +2238,16 @@
       }
     },
     "2026-07-11": {
-      "total": 6,
+      "total": 7,
       "counts": {
         "favourable": 0,
-        "neutral": 6,
+        "neutral": 7,
         "unfavourable": 0,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 20,
+        "neutral": 21,
         "unfavourable": 0,
         "mixed": 0
       },
@@ -2255,7 +2255,7 @@
       "weighted_net": 0,
       "targets": {
         "Government/policy": 1,
-        "Simon Harris": 5
+        "Simon Harris": 6
       },
       "themes": {
         "Finance": {
@@ -2266,9 +2266,9 @@
           "mixed": 0
         },
         "Other": {
-          "total": 2,
+          "total": 3,
           "favourable": 0,
-          "neutral": 2,
+          "neutral": 3,
           "unfavourable": 0,
           "mixed": 0
         }

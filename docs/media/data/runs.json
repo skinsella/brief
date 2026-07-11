@@ -1,5 +1,85 @@
 [
   {
+    "checked_at": "2026-07-11T10:23:00Z",
+    "checked_at_display": "Sat, 11 Jul 2026 10:23 GMT",
+    "new_count": 1,
+    "old_skipped": 8,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 5,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 2,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 8,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 33,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm1zdEhrTzRrcDZYTTh5UjVOTGV0MUctMmhjMTJObm5Sam9OdF93Wk00cnhfYnlQS09YbG0tdlBadE1PQ0dLNzZlNWdwYVFQb0Fpb2xZUFVJMkJvSzJlWWdtY0JrSWdIWWZpSC1VRzhFNTlhU2t3VXo0TV9SZWs1T3VRNTY2RGxOQnlRcjdIa1RpUE15ejBJQ3lERUpRVnZwOTA1Wm8wWHNyMlZYQXpr?oc=5"
+    ],
+    "archive_file": "archive/20260711T102300Z.html"
+  },
+  {
     "checked_at": "2026-07-11T08:56:13Z",
     "checked_at_display": "Sat, 11 Jul 2026 08:56 GMT",
     "new_count": 2,
@@ -6120,49 +6200,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260702T185814Z.html"
-  },
-  {
-    "checked_at": "2026-07-02T17:31:37Z",
-    "checked_at_display": "Thu, 02 Jul 2026 17:31 GMT",
-    "new_count": 1,
-    "old_skipped": 1,
-    "duplicate_skipped": 4,
-    "mismatched_skipped": 5,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 4,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 5,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://www.breakingnews.ie/world/morgan-mcsweeney-says-labour-was-not-prepared-for-government-in-first-interview-2-1921564.html"
-    ],
-    "archive_file": "archive/20260702T173137Z.html"
   }
 ]
