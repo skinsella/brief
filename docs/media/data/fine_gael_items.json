@@ -3016,6 +3016,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc1NVUUc1WVBkeTJXU3JDZmtpa2dXTkpnbGNsZFNRWkowMnh4QjAtV29zeGw1YUtEM1JxZ1BNcTFYdmxaaEN5YUVGNmpWU3Nyd01qd3BpdjNSdVJTUHI2dFROb3IxQTZ5aWpwMHM1b1N5WDF6T2tXc0JFaGtUYXFQdVNaU2Y1blNZOUxKUEpTMkl5ZUUwQ2c2RDNiRDBYZW9EY0hqcnVQNWhNSWdQTzFzM3doYzBFb0xldC01ZkpqZlBTbDdGNXF1VGJkRnVnUndfZmR5YWtZZFZFazBHYkhMSWlfLTFJUQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sat, 11 Jul 2026 15:26:10 GMT",
+    "headline": "Cork politician Michael Looney says he will ‘miss’ cathaoirleach role as he reflects on busy year",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc1NVUUc1WVBkeTJXU3JDZmtpa2dXTkpnbGNsZFNRWkowMnh4QjAtV29zeGw1YUtEM1JxZ1BNcTFYdmxaaEN5YUVGNmpWU3Nyd01qd3BpdjNSdVJTUHI2dFROb3IxQTZ5aWpwMHM1b1N5WDF6T2tXc0JFaGtUYXFQdVNaU2Y1blNZOUxKUEpTMkl5ZUUwQ2c2RDNiRDBYZW9EY0hqcnVQNWhNSWdQTzFzM3doYzBFb0xldC01ZkpqZlBTbDdGNXF1VGJkRnVnUndfZmR5YWtZZFZFazBHYkhMSWlfLTFJUQ?oc=5",
+    "summary": "Irish Independent reports: Cork politician Michael Looney says he will ‘miss’ cathaoirleach role as he reflects on busy year.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "cork-politician-michael-looney-says-he-will-miss-cathaoirleach-role-as-he-reflec",
+    "first_seen": "2026-07-11T15:33:23Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc1NVUUc1WVBkeTJXU3JDZmtpa2dXTkpnbGNsZFNRWkowMnh4QjAtV29zeGw1YUtEM1JxZ1BNcTFYdmxaaEN5YUVGNmpWU3Nyd01qd3BpdjNSdVJTUHI2dFROb3IxQTZ5aWpwMHM1b1N5WDF6T2tXc0JFaGtUYXFQdVNaU2Y1blNZOUxKUEpTMkl5ZUUwQ2c2RDNiRDBYZW9EY0hqcnVQNWhNSWdQTzFzM3doYzBFb0xldC01ZkpqZlBTbDdGNXF1VGJkRnVnUndfZmR5YWtZZFZFazBHYkhMSWlfLTFJUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc1NVUUc1WVBkeTJXU3JDZmtpa2dXTkpnbGNsZFNRWkowMnh4QjAtV29zeGw1YUtEM1JxZ1BNcTFYdmxaaEN5YUVGNmpWU3Nyd01qd3BpdjNSdVJTUHI2dFROb3IxQTZ5aWpwMHM1b1N5WDF6T2tXc0JFaGtUYXFQdVNaU2Y1blNZOUxKUEpTMkl5ZUUwQ2c2RDNiRDBYZW9EY0hqcnVQNWhNSWdQTzFzM3doYzBFb0xldC01ZkpqZlBTbDdGNXF1VGJkRnVnUndfZmR5YWtZZFZFazBHYkhMSWlfLTFJUQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFE1dWxVcUZndXZfSDFTdDBzOXFyVkotcnMtVTlJWHFfTy1HVHhPbHJKM3h1cnZ0azU2TXg2NTVvTUpOVHpKbFFaT2hQQkxWcFhSUFNKWGRiVUdzU054RWJXSHlnaE1WR3J0TTlfaTlibmR2M1BaTmcxVmJwaFIwQV85YUZyS1ZlNWpKUjBqZDZjODZhR3dRZnRxTmhSTU9rdlBIWWpZdU50NWlOTkNEVm4zQl8yUmc4UFVfa3lnUnRxSHUyNTJmeHU4UzlJX0NCZkk4czhkRW5mZnowSllvZVd2LUtWZw?oc=5": {
     "outlet": "Irish Independent",
     "published": "Tue, 16 Jun 2026 06:20:00 GMT",
@@ -11728,6 +11753,29 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Headline uses constructive delivery language: boost."
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXNzd2RINGJvcHBKNHBkUG9tTGxDWEVheHJSNGlVUVEzR1M5X09pSXBsMTlQRTBUQ0VLSkFPVFRaNTZzbkItVnlhdEk1ZHgwMXFWYlgtRTBFYlZ1V0JQeUVDTVVDNkdJZ3RxeVZWOW1uNWcySEdodGR5ZGdJM00wOXUtc3g2QWNnOFBxMVhLY0R4Yzh1?oc=5": {
+    "outlet": "Leinster Express",
+    "published": "Sat, 11 Jul 2026 14:55:00 GMT",
+    "headline": "Flooding coming through the doors of Laois pub",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXNzd2RINGJvcHBKNHBkUG9tTGxDWEVheHJSNGlVUVEzR1M5X09pSXBsMTlQRTBUQ0VLSkFPVFRaNTZzbkItVnlhdEk1ZHgwMXFWYlgtRTBFYlZ1V0JQeUVDTVVDNkdJZ3RxeVZWOW1uNWcySEdodGR5ZGdJM00wOXUtc3g2QWNnOFBxMVhLY0R4Yzh1?oc=5",
+    "summary": "Leinster Express reports: Flooding coming through the doors of Laois pub.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "flooding-coming-through-the-doors-of-laois-pub",
+    "first_seen": "2026-07-11T15:33:23Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXNzd2RINGJvcHBKNHBkUG9tTGxDWEVheHJSNGlVUVEzR1M5X09pSXBsMTlQRTBUQ0VLSkFPVFRaNTZzbkItVnlhdEk1ZHgwMXFWYlgtRTBFYlZ1V0JQeUVDTVVDNkdJZ3RxeVZWOW1uNWcySEdodGR5ZGdJM00wOXUtc3g2QWNnOFBxMVhLY0R4Yzh1?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXNzd2RINGJvcHBKNHBkUG9tTGxDWEVheHJSNGlVUVEzR1M5X09pSXBsMTlQRTBUQ0VLSkFPVFRaNTZzbkItVnlhdEk1ZHgwMXFWYlgtRTBFYlZ1V0JQeUVDTVVDNkdJZ3RxeVZWOW1uNWcySEdodGR5ZGdJM00wOXUtc3g2QWNnOFBxMVhLY0R4Yzh1?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTR4eFhEMTNTWUZIYlFsZVVCYjRtdVZ6dElVcHNwVlg3c3ZMMldaTFFJTVQzUzI4S3hfMzYyWXlWZVI2QWZSbWIyNmNlX1ROQk9QZ2JwQ2FjNTRjQmgxanZFTHYtMnE5ZWltTkdZcjNMUTJxNUxMUDVhMDBXTXAtMzN2TTVBa1hSZVJMV0Y5MzlsMm5z?oc=5": {
     "outlet": "EPP Group in the European Parliament",
