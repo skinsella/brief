@@ -6174,6 +6174,32 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sat, 11 Jul 2026 05:30:00 GMT",
+    "headline": "Simon Harris favours tax cuts over welfare spend for October Budget",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
+    "summary": "Irish Independent reports: Simon Harris favours tax cuts over welfare spend for October Budget.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget",
+    "first_seen": "2026-07-11T06:39:30Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODRxcGpJRjZkU3pFakZ0clFidlUzZ0JzblJydHlpd0ZaTU5RY0VwZ0ppSGdSdU1wYkhjd0pLQlE4elpSSGpFNHVrNWk4SFExQ1NNSkN3Q3JDY20yamxxaWlJRlBvbUZ2QlpkckkyQm91US1ma3dtblFFSTluSGZVOGNZNkpObXFBLVVoeVhqX0ZYREpJRE5DbVJPQzVZbkFXU3hGX1J2Skx1Q0RNNjduZzJULTdUaEZLTDZFY2MtMWtsWjJzNEJrVmpMbnI?oc=5": {
     "outlet": "Irish Independent",
     "published": "Tue, 16 Jun 2026 06:20:00 GMT",
@@ -6949,6 +6975,32 @@
     "source_link": "https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html",
     "topic": "Constituency/local",
     "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html": {
+    "outlet": "Irish Independent",
+    "published": "Sat, 11 Jul 2026 04:30:00 GMT",
+    "headline": "Simon Harris favours tax cuts over welfare spend for October Budget",
+    "link": "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html",
+    "summary": "Irish Independent reports: Simon Harris favours tax cuts over welfare spend for October Budget.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget",
+    "first_seen": "2026-07-11T06:39:30Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
       "High-reach outlet"
     ],
     "outlet_tier": "national",

@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 11 Jul 2026 04:24 GMT
+Updated: Sat, 11 Jul 2026 06:39 GMT
 
 ## Snapshot
 
-- Recent coverage: 63 item(s) in the last 7 days.
+- Recent coverage: 65 item(s) in the last 7 days.
 - Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 5.
+- Significant items: 7.
 
 ## Trend Summary
 
-- Coverage volume: 63 item(s) in the last 7 days; up 4 vs previous 7 days.
+- Coverage volume: 65 item(s) in the last 7 days; up 6 vs previous 7 days.
 - Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 35 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 8 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 10 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 12 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 13 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 4 cluster(s) have lasted at least 48 hours.
 
@@ -27,18 +27,18 @@ Updated: Sat, 11 Jul 2026 04:24 GMT
 - [Polling, High-reach outlet] Irish Independent: Wicklow sheds, youth centres and cancer supports to share €200,000 in community funding (https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5)
 - [Polling, High-reach outlet] The Journal: Fine Gael is now the most popular party in the country, poll says (https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5laTBkWU9EU1p6d0gtYV9LaFVBT3RmOExvNWNvMUJZdFhiTVBYRDVCQmpuV2k2VDJPTXc2WFdHSnlGQlRFSG12TnJJRk1nT3Flb3NaNHUxZS15RE5GV2lQWlpvTGdfMnZtVkVkQVRJN0ZiTUE3SmtLdjJaNE5CSXJIeDEyb1BBQ3pTdVRxNEdTWUNMNUlIVU1rY01UcGpmcUFqQWhFek5oQnM?oc=5)
 - [Polling, High-reach outlet] TheJournal.ie: Fine Gael is now the most popular party in the country, poll says (https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/)
+- [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
+- [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
 - [Policy] Irish Legal News: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5)
 - [Policy] Dublin People: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5)
 - [High-reach outlet] BreakingNews.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5)
 - [High-reach outlet] BreakingNews.ie: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5)
 - [High-reach outlet] TheJournal.ie: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/)
-- [High-reach outlet] The Journal: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlpBZEloYUFpMVI1czJmOFRDWW1oWC1XMjJFOExqMGMtdTBUYmlDeWRSZUhFZWJhX0ZpQS1SVjZibkYwNGhOZElLX3pqazNaZUJMYlNUX1BLSWNUYWpBNWR5X1A0RU9uVU9TQmQzOHJ3WUIyR084QVNhSkxHUmFyMEtjaC0yUGJ6VHlIWHhhUTlzWWtoaXo5dnlLMG5qMnlYVlc5eTFTOXFUVXpqVlF4cFZZZ2xNdUNCTjllXw?oc=5)
-- [High-reach outlet] RTE.ie: Tánaiste to attend meeting of EU finance ministers (https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbVNCa3pCQktMcDN4TmlRVXh5R2MzczBLWjJGcWZRV1FDbDV2SzR0RmhScTNGUXNOUXdSdkhoZkluZlI3dVRKY2x0VWtVSHVxSmg0X0tuOHhBM1V3WF9mc0hvVU9iY2pSb2c?oc=5)
 
 ## Top Topics
 
 - Other: 35
-- Finance: 13
+- Finance: 15
 - Foreign affairs: 5
 - Fine Gael: 4
 - Polling: 3
@@ -47,7 +47,7 @@ Updated: Sat, 11 Jul 2026 04:24 GMT
 
 ## Top Outlets
 
-- Irish Independent: 8
+- Irish Independent: 10
 - Business Post: 5
 - RTE News: 4
 - BreakingNews.ie: 3
@@ -64,13 +64,15 @@ Updated: Sat, 11 Jul 2026 04:24 GMT
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
+- [emerging] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: Irish Independent
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 - [dormant] Tánaiste to attend meeting of EU finance ministers — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: RTE News, RTE.ie
-- [dormant] Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Dublin People, Irish Legal News
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
+- [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
 - [neutral factual] Business Post: Future Ireland Fund had €5.2bn invested in German and French government bonds (https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjUyOFBpdFlsWmNWcWZReG1WTGlFUEMtVnlhT2V1VUNUczd5UGk2dG9JOHZwOTAxVE5tZHVBMFBOSER3andVajEwU2U2T2U0UUQ5QXIwQ3ZxSk1uMmkzRzhpNU1CcmVqZFBWSzJxZWh4elhKYnFLQVM1LTlmNUp6RHdEMl9ydk9QRGtBeXlfSkcxVEJGM2tkTmFrVlVhaWdTMjNmV19PbUJBZ05qQWtHM2hFVVQ?oc=5)
 - [neutral factual] Business Post: EU finance ministers set October deadline for market supervision overhaul despite divisions (https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNvRVd1Y1FpbWtUY0VDMXJ3SEY5UFRHZlpsWG55ajBNQTB6X0lyNWd6bG5jY3FYN1ZNaFFPSTFnc1IxM0ZqMHJVbXpMRTRQX0V1VkZoWjhEZl9pcEc2QkNnY0ZWYWI3V3laS25Hdm5oOEtlaXlQeUM0eDd2Xy10RFo0OWxoTlNZbmJBcHhaRmFwUFVlMmV2ZV9IRWxaX2pQTjU2bGFLQmpvbWhQZjJuZXlqVV8wSENGd2pGMHdWd2tyUmU0aUNmTw?oc=5)
 - [neutral factual] Irish Mirror: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5)
@@ -89,5 +91,3 @@ Updated: Sat, 11 Jul 2026 04:24 GMT
 - [neutral factual] MSN: Short-term lets register 'took longer than it should have', Tanaiste says (https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWpMSmRCbjVLUXdfMkRQX0FBeko0a0hBN21jTU5oZU9yOGNCTGVwWThZUmlrZW9nUnF5MW5UcEdNeDZuWFhmaGNPbVBCMWU5cnRLTTk3ektVV1h5WmVnaDNNbE10Tm9VWXJIeER0aS14UUtFZUM3WjNpR3FYUC0wT0EwNmxDSXhOck91NmhKeUtWTEx6QTJVQnVKd2xPaVBscHRDbkYxeUFEOHZBSE5JN1NZMVJXNzFEbURaSg?oc=5)
 - [neutral factual] Irish Independent: Government ‘prepared for all scenarios’ as latest US-Iran escalation reignites inflation fears (https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFxVVJsUlpLd21QaXRsWlo5SzJ3cFlkMUxjc1VURElZdEZOSEU5dW1xTVVCaDF5NlRaMzF4SElsQ1Vwb1ZWSEFRdnFDcGNGQ0FsNERMNHZBemNQbjNBdmkwVUhTYjlUNFYyMU50WkF6VXoxZ2cwN00yRThLX293LWhLcXRJTGx6THN5bGdZdll5Skh0Njg5TXloOGExQ1NHdmVZTjI4aS1ET0hNaWlmR0JtMEtkaVJJRnJHNllaQ0pGZHVKbU9PY3VGZ0pKSkR2emNpYUpJekRPSUI1cWc?oc=5)
 - [neutral factual] Irish Independent: Councillors in Wicklow call on Simon Harris to end carers’ allowance means test (https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVYVVJLaUNod0ljRlg0UkM3cUJ1eUU0OHFzbDRZQ2o4ZW1TTm93eDRRM21EQ0trTy13YU9ua3N3Qi1nTnpFZXdBQTI0em1xdFIwZ1U0VEtmc29ZQVRKVXVLQmFFSXBraWQyVm5CYmFiOWRJN213b2ZueEt1V0w5M3BXMG1PMWdTU1NkOVN0ZnVHOVpuaDVUcERFSG5rSFNXVlFVeEo3RGJpYkF4aWZkeGM2LTV0S2g4bnRpTnZFTElUNWtsMWdyZUwzN3V3MlVJcDdN?oc=5)
-- [neutral factual] Irish Independent: Former Dublin boxer admits using stolen bank card to buy €5.50 cookies in Wicklow (https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0RLTExFWjkxVlFJNGJKR3VJa0lkaTIxY1FzS2hOSmxHaEJkanBseXdmbzlVbWN1UWgwdGVIdmdPWHhkLVkxM2dFeWRiSTdNREZSUG0yTXhxSE5yX2NBUU43N2FMdi1iRzJMVDM4c2xYN1R5WWtqcV9XZHhPbUNCUHg2YVJEVFZtWjNqa0V4TEJVMXJzcE50djRma0FPWFNsQ2VHb0hzRE91bl9jaDhHUWJwS1J5VUJSWHFsTFZyNVRYbjhrTlY1WldhLWdxTll2dEpRNS13?oc=5)
-- [neutral factual] Ireland Live News: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3RqRmYtcFJjLVdYSWxXOUJFZFJTNF9NbnU4eWF4bXVheHFnbzk4aGFNZDBNMlN1cFJjdkRVb0gxaXFGeE9IM2NLblIwRzNSWnE5LXpWUVlwV250c05rSTB0TXNIUzZEenNhVlhhTklFeDdKT0h1MHloeUVQV0lmOGtaYmhwT2pWNTBRdGJYc0ZYdnpLZmNrcDhWOWZmNVhEX29lNU5nU0NfOURVd2dTNw?oc=5)

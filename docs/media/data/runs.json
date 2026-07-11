@@ -1,5 +1,86 @@
 [
   {
+    "checked_at": "2026-07-11T06:39:30Z",
+    "checked_at_display": "Sat, 11 Jul 2026 06:39 GMT",
+    "new_count": 2,
+    "old_skipped": 9,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 4,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 8,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 37,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
+      "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html"
+    ],
+    "archive_file": "archive/20260711T063930Z.html"
+  },
+  {
     "checked_at": "2026-07-11T04:24:27Z",
     "checked_at_display": "Sat, 11 Jul 2026 04:24 GMT",
     "new_count": 2,
@@ -6046,51 +6127,5 @@
       "https://www.rte.ie/news/ireland/2026/0702/1581448-dullard-jacob-searches/"
     ],
     "archive_file": "archive/20260702T153811Z.html"
-  },
-  {
-    "checked_at": "2026-07-02T13:16:37Z",
-    "checked_at_display": "Thu, 02 Jul 2026 13:16 GMT",
-    "new_count": 3,
-    "old_skipped": 1,
-    "duplicate_skipped": 6,
-    "mismatched_skipped": 4,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 6,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 6,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN2l1empDMmQ1TmEta0FUVm5qcUh5YXllWklUN3ZMVHdjY1IzYVpkdjhoalRBWGlQdGhCclkzUHhpWnAxcE9ZOVBZZFROOXo4aVNsbkhnbDVreUxVRXJmRnphRkd5YnBYcV9Ra0FBYkVjMjl3dEQ2anhDZWJ2clQyV2k0WUJVc3BON1VUT2ZkTE90cFZ5UXA4Zk1EVG81dS1vXzR5amp0ZjRqRlVOOUtvQk80bHVJMmlhUHNOZzNvaDdHbFhka3hPS3c2TDBnUTJUNk91OVBxMGIyYnpPd0pHUw?oc=5",
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWpkV3ZrR2hNMmlmN1RRaDlSeTc3NFc1SlJJMzJ6eHF4RjlJSmFJQWpQMUh6SWY3bW15RU5zMHhNQlh3TXFCZHpqZmtjd1BPckdOaEVZSUpOTHhpY0ItUEw1UzFkd09ZaWU0Zng3R3M4eHBxRVFocHVCVnpoNnBoVWJUQkdwY3F1aVE?oc=5",
-      "https://www.rte.ie/news/ireland/2026/0702/1581434-aughinish-alumina-investigation/"
-    ],
-    "archive_file": "archive/20260702T131637Z.html"
   }
 ]
