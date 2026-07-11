@@ -209,36 +209,6 @@
     ]
   },
   {
-    "key": "finance:budget-cuts-favours-for-october-spend:736fb7ea",
-    "title": "Simon Harris favours tax cuts over welfare spend for October Budget",
-    "topic": "Finance",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-11T04:30:00Z",
-    "latest_seen": "2026-07-11T05:30:00Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 23,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
-      "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html"
-    ]
-  },
-  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -311,6 +281,36 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/strong-tax-returns-of-e50bn-strengthen-governments-budgetary-position-1922125.html",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXViZVN1OVBUdzgxZk1xbXVtQmQ4WGYxamNiRWczV0MxUjNpTEdZNzcwSGpqejlIYlhXY01JMUVzRFFhbWpPajlZUDBRQWVyU1pDSlNRZUdPVnR2WFBacmZwRFJtdXlvTU5XODYySF85RjM0QU5lbV9ORm9XZ2Y4Sl9nWmRpNnJNMUktb1FxOVFXWWF2NThEbnBKQzdZZm1uSGh3S3otMnY5Z3hTa2w3b0hJV1NCbnM?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-cuts-favours-for-october-spend:736fb7ea",
+    "title": "Simon Harris favours tax cuts over welfare spend for October Budget",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-11T04:30:00Z",
+    "latest_seen": "2026-07-11T05:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 17,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
+      "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html"
     ]
   },
   {
@@ -438,6 +438,43 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
+    ]
+  },
+  {
+    "key": "other:alumina-impact-need-sanctions-understand:2501f30e",
+    "title": "Need to ‘understand’ impact of sanctions on alumina, Tánaiste says",
+    "topic": "Other",
+    "item_count": 5,
+    "outlet_count": 5,
+    "outlets": [
+      "Belfast Telegraph",
+      "BreakingNews.ie",
+      "Irish Mirror",
+      "Kilkenny Live",
+      "westernpeople.ie"
+    ],
+    "first_seen": "2026-07-10T10:54:00Z",
+    "latest_seen": "2026-07-10T16:29:24Z",
+    "lifespan_hours": 6,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 7,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 5,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5",
+      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzdaOGVEVEhsSUg3ZUNhcmRFV0xoZWd3VlUyb1NTZEJZd0VjdDE4R19jZUJ1QldNMlFNVndOUFpRM2pveXpDdnZHdFVaTGtyTko3T1BkQUZCZU5DeHJEM1EyTkxpcXNxbC1LR0FSZEtIUkZobFhKdUExUTllT3JCWVF3VTdKVm14V1l0UXNxM2trcWV0dEpJNHVJeWdpLWJyVi1GbmpjT1FMdm8wRTJ2Ti1Ia19zQW80QVhIeEd3RGs3TkVyRTVJNEoyaHVhWlFaTHZTQVBxUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5",
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm1zdEhrTzRrcDZYTTh5UjVOTGV0MUctMmhjMTJObm5Sam9OdF93Wk00cnhfYnlQS09YbG0tdlBadE1PQ0dLNzZlNWdwYVFQb0Fpb2xZUFVJMkJvSzJlWWdtY0JrSWdIWWZpSC1VRzhFNTlhU2t3VXo0TV9SZWs1T3VRNTY2RGxOQnlRcjdIa1RpUE15ejBJQ3lERUpRVnZwOTA1Wm8wWHNyMlZYQXpr?oc=5"
     ]
   },
   {
@@ -592,41 +629,6 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5",
       "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNvRVd1Y1FpbWtUY0VDMXJ3SEY5UFRHZlpsWG55ajBNQTB6X0lyNWd6bG5jY3FYN1ZNaFFPSTFnc1IxM0ZqMHJVbXpMRTRQX0V1VkZoWjhEZl9pcEc2QkNnY0ZWYWI3V3laS25Hdm5oOEtlaXlQeUM0eDd2Xy10RFo0OWxoTlNZbmJBcHhaRmFwUFVlMmV2ZV9IRWxaX2pQTjU2bGFLQmpvbWhQZjJuZXlqVV8wSENGd2pGMHdWd2tyUmU0aUNmTw?oc=5"
-    ]
-  },
-  {
-    "key": "other:alumina-impact-need-sanctions-understand:2501f30e",
-    "title": "Need to ‘understand’ impact of sanctions on alumina, Tánaiste says",
-    "topic": "Other",
-    "item_count": 4,
-    "outlet_count": 4,
-    "outlets": [
-      "BreakingNews.ie",
-      "Irish Mirror",
-      "Kilkenny Live",
-      "westernpeople.ie"
-    ],
-    "first_seen": "2026-07-10T10:54:00Z",
-    "latest_seen": "2026-07-10T16:29:24Z",
-    "lifespan_hours": 6,
-    "velocity_6h": 0,
-    "velocity_24h": 4,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5",
-      "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm1zdEhrTzRrcDZYTTh5UjVOTGV0MUctMmhjMTJObm5Sam9OdF93Wk00cnhfYnlQS09YbG0tdlBadE1PQ0dLNzZlNWdwYVFQb0Fpb2xZUFVJMkJvSzJlWWdtY0JrSWdIWWZpSC1VRzhFNTlhU2t3VXo0TV9SZWs1T3VRNTY2RGxOQnlRcjdIa1RpUE15ejBJQ3lERUpRVnZwOTA1Wm8wWHNyMlZYQXpr?oc=5"
     ]
   },
   {

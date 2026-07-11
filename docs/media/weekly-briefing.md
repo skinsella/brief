@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 11 Jul 2026 10:23 GMT
+Updated: Sat, 11 Jul 2026 11:33 GMT
 
 ## Snapshot
 
-- Recent coverage: 68 item(s) in the last 7 days.
+- Recent coverage: 69 item(s) in the last 7 days.
 - Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 7.
 
 ## Trend Summary
 
-- Coverage volume: 68 item(s) in the last 7 days; up 9 vs previous 7 days.
+- Coverage volume: 69 item(s) in the last 7 days; up 10 vs previous 7 days.
 - Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 36 item(s).
+- Main topic: Other leads recent coverage with 37 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 10 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 9 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 9 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 4 cluster(s) have lasted at least 48 hours.
 
@@ -37,7 +37,7 @@ Updated: Sat, 11 Jul 2026 10:23 GMT
 
 ## Top Topics
 
-- Other: 36
+- Other: 37
 - Finance: 17
 - Foreign affairs: 5
 - Fine Gael: 4
@@ -64,9 +64,9 @@ Updated: Sat, 11 Jul 2026 10:23 GMT
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
-- [emerging] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: Irish Independent
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
+- [active] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 0 in 6h, 2 in 24h, net 0%. Outlets: Irish Independent
 - [dormant] Tánaiste to attend meeting of EU finance ministers — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: RTE News, RTE.ie
 
 ## Recent Items
@@ -84,10 +84,10 @@ Updated: Sat, 11 Jul 2026 10:23 GMT
 - [neutral factual] INSIGHT EU MONITORING: EU finance ministers target October deal on capital market integration package (https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5)
 - [neutral factual] The Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOTN2VXZ3aUVXNWVlTnFtdXZIVXVSajdINXZjNmlwTUtTaE11N1lpdy0xQXh0Zzl4dk5ZMWxZdnFqU1lHX1Y4aU5nVE04UmVzektTRzd3N1hfZHBxcWhZQUdJMk5qc1QzVmpZQU5Dc0NaNy1JRlN3cmd0ZHRGcHJpaC03ZkVHMzRtY3RPYXRZbUV2TDJtaFRhR3RWU3RXamNieUVBb2N0M0hkS3lBOVlDQlN4cURjQ3BFcENFN2xDbVFtUUM3UXk5ZUhuVTdsM1BZdXJKN09n?oc=5)
 - [neutral factual] Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/)
+- [neutral factual] Belfast Telegraph: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzdaOGVEVEhsSUg3ZUNhcmRFV0xoZWd3VlUyb1NTZEJZd0VjdDE4R19jZUJ1QldNMlFNVndOUFpRM2pveXpDdnZHdFVaTGtyTko3T1BkQUZCZU5DeHJEM1EyTkxpcXNxbC1LR0FSZEtIUkZobFhKdUExUTllT3JCWVF3VTdKVm14V1l0UXNxM2trcWV0dEpJNHVJeWdpLWJyVi1GbmpjT1FMdm8wRTJ2Ti1Ia19zQW80QVhIeEd3RGs3TkVyRTVJNEoyaHVhWlFaTHZTQVBxUQ?oc=5)
 - [neutral factual] BreakingNews.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5)
 - [neutral factual] westernpeople.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5)
 - [neutral factual] Kilkenny Live: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm1zdEhrTzRrcDZYTTh5UjVOTGV0MUctMmhjMTJObm5Sam9OdF93Wk00cnhfYnlQS09YbG0tdlBadE1PQ0dLNzZlNWdwYVFQb0Fpb2xZUFVJMkJvSzJlWWdtY0JrSWdIWWZpSC1VRzhFNTlhU2t3VXo0TV9SZWs1T3VRNTY2RGxOQnlRcjdIa1RpUE15ejBJQ3lERUpRVnZwOTA1Wm8wWHNyMlZYQXpr?oc=5)
 - [neutral factual] uatv.ua: EU Sanctions Can Force Putin to the Negotiating Table — Irish Finance Minister (https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVdHeWkyS280T2FDLXlHUHVDR3VKSUNUVEJzV2pJME9ZMmFTd2FsdWl5WmNrOHhVUmltUjY4ZlVkMVZIeG9vV0pibUtTYXpBZ21BTmp5d0kwUk9yOVR6TzRQT21ZdjR1QzZpN1hRQkZlMDhiT29wT3FVUlZ4T3FId1VvSHRwTmIxLVViM3RPRjVud3o5cmVrOGVFNWM?oc=5)
 - [neutral factual] Business Post: Simon Harris hopes to land EU capital markets rules deal by October (https://news.google.com/rss/articles/CBMipwFBVV95cUxPTExxRjVKUTJtUDFKNk1QdVFVVkx6cjBtdDJfVWU1WkxUaWxwYlJZVTU3UkdMa3hINXJwODZYMHNnQ2ZtazduT1BjRjZ6ZVlJU09YaU5zTE4zXzNVZUVkc2JSVG94djNpVExmOFVlUVg4SXE2TGNQR25xYW5mZU5hek1YTElVeHBlODFCODNVSjdfOWdTZWNWYk5ua3ZPY2lFWHZFZFhnOA?oc=5)
 - [neutral factual] Fleet World: Interview: Fleet World editor Simon Harris reveals his Fleet15 (https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2VoNlhMMkh0WHZGWkRWb2otZ3MtZ0R0andiVEd0WFotemFMWmc0OFY0dEhOSWp2T2ZFRDZybHUwdXNKNlRZeW9TLWVPZmlEam1DX2VXdlFfQ2xCN3RXalVFa3RqZUp5S0toWmpvbDZ1X09jVC1pc0dwODRNcktLWjNJbzluN3o3c2RyLVpiNnE?oc=5)
-- [neutral factual] BreakingNews.ie: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5)
