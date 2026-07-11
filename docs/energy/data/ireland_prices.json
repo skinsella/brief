@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T21:51:46.590407+00:00",
+  "last_updated": "2026-07-11T02:14:09.488469+00:00",
   "source": "oilprices.ie",
   "national_avg_500l": 621.49,
   "counties": {
@@ -187,6 +187,10 @@
     }
   },
   "history": [
+    {
+      "date": "2026-07-11",
+      "national_avg": 621.49
+    },
     {
       "date": "2026-07-10",
       "national_avg": 621.49
@@ -422,10 +426,6 @@
     {
       "date": "2026-05-04",
       "national_avg": 781.71
-    },
-    {
-      "date": "2026-05-02",
-      "national_avg": 784.05
     }
   ]
 }
