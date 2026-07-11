@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-11T17:35:45Z",
+    "checked_at_display": "Sat, 11 Jul 2026 17:35 GMT",
+    "new_count": 0,
+    "old_skipped": 5,
+    "duplicate_skipped": 4,
+    "mismatched_skipped": 6,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 6,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 29,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260711T173545Z.html"
+  },
+  {
     "checked_at": "2026-07-11T16:29:54Z",
     "checked_at_display": "Sat, 11 Jul 2026 16:29 GMT",
     "new_count": 0,
@@ -6338,47 +6416,5 @@
       "https://www.rte.ie/news/2026/0703/1581517-finance-chatbots/"
     ],
     "archive_file": "archive/20260703T074445Z.html"
-  },
-  {
-    "checked_at": "2026-07-03T04:23:45Z",
-    "checked_at_display": "Fri, 03 Jul 2026 04:23 GMT",
-    "new_count": 0,
-    "old_skipped": 1,
-    "duplicate_skipped": 2,
-    "mismatched_skipped": 2,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [],
-    "archive_file": "archive/20260703T042345Z.html"
   }
 ]
