@@ -1653,35 +1653,6 @@
     ]
   },
   {
-    "key": "finance:deadline-despite-finance-for-market-ministers:cb5443a6",
-    "title": "EU finance ministers set October deadline for market supervision overhaul despite divisions",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-10T18:18:44Z",
-    "latest_seen": "2026-07-10T18:18:44Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNvRVd1Y1FpbWtUY0VDMXJ3SEY5UFRHZlpsWG55ajBNQTB6X0lyNWd6bG5jY3FYN1ZNaFFPSTFnc1IxM0ZqMHJVbXpMRTRQX0V1VkZoWjhEZl9pcEc2QkNnY0ZWYWI3V3laS25Hdm5oOEtlaXlQeUM0eDd2Xy10RFo0OWxoTlNZbmJBcHhaRmFwUFVlMmV2ZV9IRWxaX2pQTjU2bGFLQmpvbWhQZjJuZXlqVV8wSENGd2pGMHdWd2tyUmU0aUNmTw?oc=5"
-    ]
-  },
-  {
     "key": "constituency/local:allowance-call-carers-councillors-end-means:88c57e99",
     "title": "Councillors in Wicklow call on Simon Harris to end carers’ allowance means test",
     "topic": "Constituency/local",
@@ -2121,6 +2092,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "finance:deadline-despite-finance-for-market-ministers:cb5443a6",
+    "title": "EU finance ministers set October deadline for market supervision overhaul despite divisions",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-10T18:18:44Z",
+    "latest_seen": "2026-07-10T18:18:44Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNvRVd1Y1FpbWtUY0VDMXJ3SEY5UFRHZlpsWG55ajBNQTB6X0lyNWd6bG5jY3FYN1ZNaFFPSTFnc1IxM0ZqMHJVbXpMRTRQX0V1VkZoWjhEZl9pcEc2QkNnY0ZWYWI3V3laS25Hdm5oOEtlaXlQeUM0eDd2Xy10RFo0OWxoTlNZbmJBcHhaRmFwUFVlMmV2ZV9IRWxaX2pQTjU2bGFLQmpvbWhQZjJuZXlqVV8wSENGd2pGMHdWd2tyUmU0aUNmTw?oc=5"
     ]
   },
   {

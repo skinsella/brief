@@ -1,20 +1,20 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 10 Jul 2026 23:36 GMT
+Updated: Sat, 11 Jul 2026 01:05 GMT
 
 ## Snapshot
 
-- Recent coverage: 67 item(s) in the last 7 days.
-- Weighted net framing: 0% (supportive minus critical, reach/significance-weighted).
-- Significant items: 8.
+- Recent coverage: 61 item(s) in the last 7 days.
+- Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
+- Significant items: 5.
 
 ## Trend Summary
 
-- Coverage volume: 67 item(s) in the last 7 days; up 6 vs previous 7 days.
-- Net framing: 0% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 35 item(s).
-- Critical concentration: Tax accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 9 item(s).
+- Coverage volume: 61 item(s) in the last 7 days; up 2 vs previous 7 days.
+- Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
+- Main topic: Other leads recent coverage with 33 item(s).
+- Critical concentration: None flagged accounts for 0 recent critical item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 8 item(s).
 
 ## Narrative Summary
 
@@ -27,35 +27,34 @@ Updated: Fri, 10 Jul 2026 23:36 GMT
 - [Polling, High-reach outlet] Irish Independent: Wicklow sheds, youth centres and cancer supports to share €200,000 in community funding (https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5)
 - [Polling, High-reach outlet] The Journal: Fine Gael is now the most popular party in the country, poll says (https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5laTBkWU9EU1p6d0gtYV9LaFVBT3RmOExvNWNvMUJZdFhiTVBYRDVCQmpuV2k2VDJPTXc2WFdHSnlGQlRFSG12TnJJRk1nT3Flb3NaNHUxZS15RE5GV2lQWlpvTGdfMnZtVkVkQVRJN0ZiTUE3SmtLdjJaNE5CSXJIeDEyb1BBQ3pTdVRxNEdTWUNMNUlIVU1rY01UcGpmcUFqQWhFek5oQnM?oc=5)
 - [Polling, High-reach outlet] TheJournal.ie: Fine Gael is now the most popular party in the country, poll says (https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/)
-- [Polling, High-reach outlet] RTE.ie: Fine Gael most popular party in the country - opinion poll (https://news.google.com/rss/articles/CBMidkFVX3lxTFBEbzBjbVhJdFVZbXoxd1dubkxWd1FrNmxGZlNIN19fYUVDTjVwNjdQRzlqZHczdEdGeTNZQmlhX0xIVnNvUWp5MzVxSjMwVlNNOXZNdkdXZVJDZ2h4LWRvdXk5UDIxc0JDRlRxaV91RnFkT0hhM1E?oc=5)
-- [Polling, High-reach outlet] Irish Independent: Fine Gael most popular party as support for Mary Lou McDonald slides (https://news.google.com/rss/articles/CBMizAFBVV95cUxQdG9JbV9LSzBncjhBNUZFbTRaMFotY3VvUDgtcGVaQzg3ZXN1eTVTM2ZtSUhHU0lxN0w1RGZnc2Y5R0NwbGhlNE4tMzM0OExzS1N2UnoxWUxWUm1qa2JKRDJERzhWTzRicTN6dTRuNjkzVktqbUEwYXNwRnpib05jUFRJSDU4c1pDczBpNWZtRHg0UC1UcFRKbjM5WmtTS3QxZng3ajNraUpjbXJfZDhyQTAwLWZhUGk3VXhfRzdtWlR0Z1BBTUJndjFHSjk?oc=5)
-- [Policy, Critical framing] Briefs Finance: Ireland's Corporate Tax Revenue Reaches €14.7 Billion Despite US Profit-Shifting Concerns (https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXYzdU9MZlRuQlROS1FaRVktOG1NM1UtdjZHTEE0NzNldHF5bFI2VmVDUy1aWnJpX1NxcEFmOG5sTXdVVml6Q1ZLU3BXZXBqRHBROHAyRzdIeTJmUUJuY1kzMjQ3QUVteUFPa3UwY3VUSXl1V3l1NjQ4b0lxQ1VqUGlPb1BUVkhJZXo5c0h2NlRRa2xJd09SbkVwRUpZcmtFM25UM1MzSUk4UGxjU1JaX3k0WWNBMHc?oc=5)
 - [Policy] Irish Legal News: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5)
 - [Policy] Dublin People: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5)
 - [High-reach outlet] BreakingNews.ie: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5)
 - [High-reach outlet] TheJournal.ie: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/)
+- [High-reach outlet] The Journal: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlpBZEloYUFpMVI1czJmOFRDWW1oWC1XMjJFOExqMGMtdTBUYmlDeWRSZUhFZWJhX0ZpQS1SVjZibkYwNGhOZElLX3pqazNaZUJMYlNUX1BLSWNUYWpBNWR5X1A0RU9uVU9TQmQzOHJ3WUIyR084QVNhSkxHUmFyMEtjaC0yUGJ6VHlIWHhhUTlzWWtoaXo5dnlLMG5qMnlYVlc5eTFTOXFUVXpqVlF4cFZZZ2xNdUNCTjllXw?oc=5)
+- [High-reach outlet] RTE.ie: Tánaiste to attend meeting of EU finance ministers (https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbVNCa3pCQktMcDN4TmlRVXh5R2MzczBLWjJGcWZRV1FDbDV2SzR0RmhScTNGUXNOUXdSdkhoZkluZlI3dVRKY2x0VWtVSHVxSmg0X0tuOHhBM1V3WF9mc0hvVU9iY2pSb2c?oc=5)
+- [High-reach outlet] RTE.ie: Tánaiste to attend meeting of EU finance ministers (https://news.google.com/rss/articles/CBMidkFVX3lxTE9wYU1HT1Q4YjJnZ0ZyRTVhX2FOa0RqV0hkaF9kTlNmQy1BQXpTUEg2b05PZUoyODlnOEU0QThBemRVTWtEc2ZlVTh3dm40Zk0xSVNBMlpwRkxucG1uY3N4Q0NORlJxUFpyOGZROUNHRHliT1hMQXc?oc=5)
 
 ## Top Topics
 
-- Other: 35
+- Other: 33
 - Finance: 13
 - Foreign affairs: 5
-- Fine Gael: 5
-- Polling: 5
+- Fine Gael: 4
+- Polling: 3
 - Constituency/local: 2
 - Housing: 1
-- Tax: 1
 
 ## Top Outlets
 
-- Irish Independent: 9
+- Irish Independent: 8
 - Business Post: 4
-- MSN: 4
-- TheJournal.ie: 4
 - RTE News: 4
-- RTE.ie: 3
+- MSN: 3
+- TheJournal.ie: 3
 - Hotpress: 2
 - BreakingNews.ie: 2
+- Galway Bay FM: 2
 
 ## Story Clusters
 
