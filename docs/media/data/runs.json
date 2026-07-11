@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-11T16:29:54Z",
+    "checked_at_display": "Sat, 11 Jul 2026 16:29 GMT",
+    "new_count": 0,
+    "old_skipped": 5,
+    "duplicate_skipped": 4,
+    "mismatched_skipped": 6,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 6,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 28,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260711T162954Z.html"
+  },
+  {
     "checked_at": "2026-07-11T15:33:23Z",
     "checked_at_display": "Sat, 11 Jul 2026 15:33 GMT",
     "new_count": 0,
@@ -6302,49 +6380,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260703T042345Z.html"
-  },
-  {
-    "checked_at": "2026-07-03T00:06:10Z",
-    "checked_at_display": "Fri, 03 Jul 2026 00:06 GMT",
-    "new_count": 1,
-    "old_skipped": 1,
-    "duplicate_skipped": 0,
-    "mismatched_skipped": 0,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://www.rte.ie/news/2026/0702/1581517-finance-chatbots/"
-    ],
-    "archive_file": "archive/20260703T000610Z.html"
   }
 ]

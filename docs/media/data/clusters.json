@@ -457,7 +457,7 @@
     "latest_seen": "2026-07-10T16:29:24Z",
     "lifespan_hours": 6,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 7,
     "tone_counts": {
       "favourable": 0,
@@ -468,7 +468,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 12,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ExcHFXTG01QzRQV1J5bDlsTHhNaDFMUXdfM2syb0g5aThlUlQ3OEVEUXBUWXZIZTEtTE1BRFBpcU9KLXJyLWxEeDY5cU1UaFBwZkVlTVZaSFpTZkJJakt3V2YyUlR6VDU2dHpUTnpORkxsSUJuejc2S2lSNHVqdUgyVEVQYngtZGVUdlhPUGYyVE02dm1pVkdiaUvSAZwBQVVfeXFMUHdBMXBxV0xtNUM0UFdSeWw5bEx4TWgxTFF3XzNrMm9IOWk4ZVJUNzhFRFFwVFl2SGUxLUxNQURQaXFPSi1yci1sRHg2OXFNVGhQcGZFZU1WWkhaU2ZCSWpLd1dmMlJUelQ1NnR6VE56TkZMbElCbno3NktpUjR1anVIMlRFUGJ4LWRlVHZYT1BmMlRNNnZtaVZHYmlL?oc=5",
       "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzdaOGVEVEhsSUg3ZUNhcmRFV0xoZWd3VlUyb1NTZEJZd0VjdDE4R19jZUJ1QldNMlFNVndOUFpRM2pveXpDdnZHdFVaTGtyTko3T1BkQUZCZU5DeHJEM1EyTkxpcXNxbC1LR0FSZEtIUkZobFhKdUExUTllT3JCWVF3VTdKVm14V1l0UXNxM2trcWV0dEpJNHVJeWdpLWJyVi1GbmpjT1FMdm8wRTJ2Ti1Ia19zQW80QVhIeEd3RGs3TkVyRTVJNEoyaHVhWlFaTHZTQVBxUQ?oc=5",
@@ -6269,7 +6269,7 @@
     "latest_seen": "2026-07-10T15:46:03Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -6280,7 +6280,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGdNdm1fOU5hXy1HMmZRTVZpaDNDNmt6YjVrLXl3SHJkcDc3VzJ0U0NEWkJRai13VjBIcFJjWVBpV3lCYnotNTNsMXhFc2dyb242U0dZZkVNWHd4cVFXblhuZ2dzVWFHVzE3Q1NVc2Y5SnNEUDZQQXRmZzB4QjE5UENSa3dQWEJfNi1yV2tvTU1CTnEzNnh0RVFKUkFiaGcxRVljb1pqNFRZREdIVFdMVTVOUEpKcWJkbGFCeDhNcmpRdFZIdUU2b1BVd2pkR2JSNFlJUERfYTMybUM3MHlj?oc=5"
     ]
@@ -6298,7 +6298,7 @@
     "latest_seen": "2026-07-10T15:46:03Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -6309,7 +6309,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDZDa2JqQjdhbVFhQ09mMHN4Z0xWSjFTRkpyZDZTQklyeVFZZWxSN0YxWmhsNktIWTFDTG9fMjIwZHVZd0xrMmJ6MFk4RHRtbkJxYXEteXlvX3otZWgybHR2RVZQam5zZVVUeVdQSExXbnVDSUtGVjRhRkFlV0YxYmJLa1pKTHlTZ2pQdXVpRXpLZEpZck9MZVVkRUFhU3gwYWRDclpLLXNrajN6cTVYOGNYTXBfc2dRSWd5VFE0VEg?oc=5"
     ]
