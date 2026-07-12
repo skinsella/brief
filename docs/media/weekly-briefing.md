@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 11 Jul 2026 23:02 GMT
+Updated: Sun, 12 Jul 2026 00:05 GMT
 
 ## Snapshot
 
-- Recent coverage: 70 item(s) in the last 7 days.
+- Recent coverage: 66 item(s) in the last 7 days.
 - Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 8.
+- Significant items: 6.
 
 ## Trend Summary
 
-- Coverage volume: 70 item(s) in the last 7 days; up 11 vs previous 7 days.
+- Coverage volume: 66 item(s) in the last 7 days; up 5 vs previous 7 days.
 - Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 37 item(s).
+- Main topic: Other leads recent coverage with 36 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 10 item(s).
 
@@ -25,8 +25,6 @@ Updated: Sat, 11 Jul 2026 23:02 GMT
 ## Needs Attention
 
 - [Polling, High-reach outlet] Irish Independent: Wicklow sheds, youth centres and cancer supports to share €200,000 in community funding (https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5)
-- [Polling, High-reach outlet] The Journal: Fine Gael is now the most popular party in the country, poll says (https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5laTBkWU9EU1p6d0gtYV9LaFVBT3RmOExvNWNvMUJZdFhiTVBYRDVCQmpuV2k2VDJPTXc2WFdHSnlGQlRFSG12TnJJRk1nT3Flb3NaNHUxZS15RE5GV2lQWlpvTGdfMnZtVkVkQVRJN0ZiTUE3SmtLdjJaNE5CSXJIeDEyb1BBQ3pTdVRxNEdTWUNMNUlIVU1rY01UcGpmcUFqQWhFek5oQnM?oc=5)
-- [Polling, High-reach outlet] TheJournal.ie: Fine Gael is now the most popular party in the country, poll says (https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
 - [Policy] The Times: Simon Harris plans €1.5bn income tax giveaway (https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5)
@@ -34,28 +32,30 @@ Updated: Sat, 11 Jul 2026 23:02 GMT
 - [Policy] Dublin People: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5)
 - [High-reach outlet] BreakingNews.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5)
 - [High-reach outlet] BreakingNews.ie: Government prepared for ‘all scenarios’ following escalation of Iran war (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5)
+- [High-reach outlet] TheJournal.ie: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/)
+- [High-reach outlet] The Journal: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlpBZEloYUFpMVI1czJmOFRDWW1oWC1XMjJFOExqMGMtdTBUYmlDeWRSZUhFZWJhX0ZpQS1SVjZibkYwNGhOZElLX3pqazNaZUJMYlNUX1BLSWNUYWpBNWR5X1A0RU9uVU9TQmQzOHJ3WUIyR084QVNhSkxHUmFyMEtjaC0yUGJ6VHlIWHhhUTlzWWtoaXo5dnlLMG5qMnlYVlc5eTFTOXFUVXpqVlF4cFZZZ2xNdUNCTjllXw?oc=5)
 
 ## Top Topics
 
-- Other: 37
+- Other: 36
 - Finance: 17
-- Foreign affairs: 5
+- Foreign affairs: 4
 - Fine Gael: 4
-- Polling: 3
 - Constituency/local: 2
 - Tax: 1
 - Housing: 1
+- Polling: 1
 
 ## Top Outlets
 
 - Irish Independent: 10
 - Business Post: 6
-- RTE News: 4
 - BreakingNews.ie: 3
 - MSN: 3
-- TheJournal.ie: 3
+- RTE News: 3
 - Hotpress: 2
 - INSIGHT EU MONITORING: 2
+- Belfast Telegraph: 2
 
 ## Story Clusters
 
