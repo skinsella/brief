@@ -5277,6 +5277,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcy1hWGFWUmd0OXJ6T0JkYXg3bE12YzgyVFRWMVJURnZaR3pTZkpVM0dyMnRuekNaemZENWZIVXg0MnpXSk9aRmk5ZW9kM0FMd3JHWktQQ0wwcFNKT2F4QnpNbnlINGw5MnVFMXMxV29nMXJRV1NCVmlWZlphMHdndE9FWmxHeXRsTWdqS0tmanBlWFJTcGQ5Mk0xbjN4ajdXekVMZi00NkdOWmtEa0Z6bUpzX2tuQWNaTHBYNQ?oc=5": {
+    "outlet": "Business Post",
+    "published": "Sat, 11 Jul 2026 07:27:06 GMT",
+    "headline": "Future Ireland Fund had €5.2bn invested in German and French government bonds",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcy1hWGFWUmd0OXJ6T0JkYXg3bE12YzgyVFRWMVJURnZaR3pTZkpVM0dyMnRuekNaemZENWZIVXg0MnpXSk9aRmk5ZW9kM0FMd3JHWktQQ0wwcFNKT2F4QnpNbnlINGw5MnVFMXMxV29nMXJRV1NCVmlWZlphMHdndE9FWmxHeXRsTWdqS0tmanBlWFJTcGQ5Mk0xbjN4ajdXekVMZi00NkdOWmtEa0Z6bUpzX2tuQWNaTHBYNQ?oc=5",
+    "summary": "Business Post reports: Future Ireland Fund had €5.2bn invested in German and French government bonds.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "future-ireland-fund-had-5-2bn-invested-in-german-and-french-government-bonds",
+    "first_seen": "2026-07-12T06:43:33Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcy1hWGFWUmd0OXJ6T0JkYXg3bE12YzgyVFRWMVJURnZaR3pTZkpVM0dyMnRuekNaemZENWZIVXg0MnpXSk9aRmk5ZW9kM0FMd3JHWktQQ0wwcFNKT2F4QnpNbnlINGw5MnVFMXMxV29nMXJRV1NCVmlWZlphMHdndE9FWmxHeXRsTWdqS0tmanBlWFJTcGQ5Mk0xbjN4ajdXekVMZi00NkdOWmtEa0Z6bUpzX2tuQWNaTHBYNQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcy1hWGFWUmd0OXJ6T0JkYXg3bE12YzgyVFRWMVJURnZaR3pTZkpVM0dyMnRuekNaemZENWZIVXg0MnpXSk9aRmk5ZW9kM0FMd3JHWktQQ0wwcFNKT2F4QnpNbnlINGw5MnVFMXMxV29nMXJRV1NCVmlWZlphMHdndE9FWmxHeXRsTWdqS0tmanBlWFJTcGQ5Mk0xbjN4ajdXekVMZi00NkdOWmtEa0Z6bUpzX2tuQWNaTHBYNQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHlvekxFbENWOEtPUExpRHZCbF93RnVGZVVsRlEwUk9rNlJhcWEzN2NlTFM2QkpwNXM5M3RYSk5jMkRwamY1V1pnbE9FdzBMMkp2eXRMd0t3MEhrTWRfMi1zWXU2TGFKWndhVnplZzF5R0c5SVpSdUdUUWdoNlF0V2ZGSVlSZnpqQzRTSTlrV183MlBBS281OXdXWjdJZ3UzTWc1bEpEZTJBdFpEM0YxSE5BTWRVa09jUEtkZg?oc=5": {
     "outlet": "East Coast FM",
     "published": "Tue, 30 Jun 2026 08:44:17 GMT",
