@@ -478,6 +478,40 @@
     ]
   },
   {
+    "key": "finance:brussels-chair-day-economy-finance-meeting:2044eb5a",
+    "title": "Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels",
+    "topic": "Finance",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "MSN",
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-09T06:28:00Z",
+    "latest_seen": "2026-07-11T19:33:47Z",
+    "lifespan_hours": 61,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 8,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 11,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjlxSmxkVmdlQW9Ta21lSUhvN010ZFF5aXVNdTI2ZjFKSkFzcXkxa1M3N1RTSnl4Z09wUEszOGowVkZENzUzeFpRamxEcklsVE9mM19VOVJSVWw1dGdFUTFyR05ncUJhS3k0WXVCaDlOQ1dJM3h1YjdMc05SNXNaWF8wdlN1dlJvcVpOUEZqQ1VGamg1UUd0TUFhMlNpdWhqRmUzbk1kMVhDOFFFUXZyazFtTU9wQ0Z5bUhfYTNjLWVmemxCc1ptSWZKd1hUUlVSRVpPRHFJWndOYzgxc25zdHVSOTZWTmNhcUpQOGNB?oc=5",
+      "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRW44dERnUUlFRklpWU41b1lmaTRBVVI4WnZINUFTTVVPbTRjSy02bGQwNk9sMHQ1Vng1NnBXNjV2LWJIUVNCcTVBX0toc2RRcjItY1dNWlRhWi1PNDY3dWlCRHo3SGJ4UWR4NEp2SXJJRVF4YTNUYzZuX2F1ajViU3NxbUlpWlA3UXNhRGdHRzJDbl9UcmtJcF9HVG5NeHRsaFZmU0lubG5BaFFFSmtfeTNsYi1ObXZOYjNnV2k3Q2p1ZjZ5aGJKdzRtNGI0NUNDdG5WV25OMTRjQ19SWEh4ZzRZOWNnbEJiSDJoUU5ZUzRndw?oc=5",
+      "https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/",
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlpBZEloYUFpMVI1czJmOFRDWW1oWC1XMjJFOExqMGMtdTBUYmlDeWRSZUhFZWJhX0ZpQS1SVjZibkYwNGhOZElLX3pqazNaZUJMYlNUX1BLSWNUYWpBNWR5X1A0RU9uVU9TQmQzOHJ3WUIyR084QVNhSkxHUmFyMEtjaC0yUGJ6VHlIWHhhUTlzWWtoaXo5dnlLMG5qMnlYVlc5eTFTOXFUVXpqVlF4cFZZZ2xNdUNCTjllXw?oc=5"
+    ]
+  },
+  {
     "key": "tax:billion-concerns-corporate-despite-profit-reaches:4802ac3a",
     "title": "Ireland's Corporate Tax Revenue Reaches €14.7 Billion Despite US Profit-Shifting Concerns",
     "topic": "Tax",
@@ -602,35 +636,6 @@
     ]
   },
   {
-    "key": "tax:5bn-giveaway-income-plans-tax:96a2cc98",
-    "title": "Simon Harris plans €1.5bn income tax giveaway",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "The Times"
-    ],
-    "first_seen": "2026-07-11T20:45:00Z",
-    "latest_seen": "2026-07-11T20:45:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -663,39 +668,6 @@
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVVtSllhZDlNckEzN2pEb3NtbV9lQ3JDSVUzMGlQQWItM1RWLXBEakpEWHlzRzJEdTNBdXFOMC1MWnBic1A2VmV0Y3hqZ3dxNXBSdUJRbFg4NFdUekNxSDZJU2hVenp2R3JZeVd6UFo1UWUyQTdxU1ZfZzd2RjAyM2VuOHZ6dUNMcVpVUWIwUldnMmNaaUtMbndCNnlSemlyUUdsWDBlVm5RVU5Jbk1kbU1WYXp6aXFy?oc=5",
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGFtbXBGOWJrVUpTejRjaHJHVWtBWTM5VmRkRU1RUTFqS0p3S1psQTcyVE5NclFFRy0yZXQ3RGFJeHZ4b1RVaG1Kc3dnZ0NnaEVuLUNCdW1MY05lYXozeW5wYlRFUXhjSFI3bmFZaExtUlVDbGgxaHE1MFVqUmgydk1kck1ZZ0FDSGg3OWU3VkNJS1pwaER1MDkzS2hLVlNJa1c5c1lNVUYtZFdPeTV3QzlaNA?oc=5",
       "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3RqRmYtcFJjLVdYSWxXOUJFZFJTNF9NbnU4eWF4bXVheHFnbzk4aGFNZDBNMlN1cFJjdkRVb0gxaXFGeE9IM2NLblIwRzNSWnE5LXpWUVlwV250c05rSTB0TXNIUzZEenNhVlhhTklFeDdKT0h1MHloeUVQV0lmOGtaYmhwT2pWNTBRdGJYc0ZYdnpLZmNrcDhWOWZmNVhEX29lNU5nU0NfOURVd2dTNw?oc=5"
-    ]
-  },
-  {
-    "key": "finance:brussels-chair-day-economy-finance-meeting:2044eb5a",
-    "title": "Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels",
-    "topic": "Finance",
-    "item_count": 3,
-    "outlet_count": 3,
-    "outlets": [
-      "MSN",
-      "The Journal",
-      "TheJournal.ie"
-    ],
-    "first_seen": "2026-07-09T06:28:00Z",
-    "latest_seen": "2026-07-09T07:39:28Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 0,
-    "velocity_24h": 0,
-    "reach_score": 7,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 3,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "dormant",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRW44dERnUUlFRklpWU41b1lmaTRBVVI4WnZINUFTTVVPbTRjSy02bGQwNk9sMHQ1Vng1NnBXNjV2LWJIUVNCcTVBX0toc2RRcjItY1dNWlRhWi1PNDY3dWlCRHo3SGJ4UWR4NEp2SXJJRVF4YTNUYzZuX2F1ajViU3NxbUlpWlA3UXNhRGdHRzJDbl9UcmtJcF9HVG5NeHRsaFZmU0lubG5BaFFFSmtfeTNsYi1ObXZOYjNnV2k3Q2p1ZjZ5aGJKdzRtNGI0NUNDdG5WV25OMTRjQ19SWEh4ZzRZOWNnbEJiSDJoUU5ZUzRndw?oc=5",
-      "https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/",
-      "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlpBZEloYUFpMVI1czJmOFRDWW1oWC1XMjJFOExqMGMtdTBUYmlDeWRSZUhFZWJhX0ZpQS1SVjZibkYwNGhOZElLX3pqazNaZUJMYlNUX1BLSWNUYWpBNWR5X1A0RU9uVU9TQmQzOHJ3WUIyR084QVNhSkxHUmFyMEtjaC0yUGJ6VHlIWHhhUTlzWWtoaXo5dnlLMG5qMnlYVlc5eTFTOXFUVXpqVlF4cFZZZ2xNdUNCTjllXw?oc=5"
     ]
   },
   {
@@ -1746,6 +1718,35 @@
     "item_links": [
       "https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5"
+    ]
+  },
+  {
+    "key": "tax:5bn-giveaway-income-plans-tax:96a2cc98",
+    "title": "Simon Harris plans €1.5bn income tax giveaway",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Times"
+    ],
+    "first_seen": "2026-07-11T20:45:00Z",
+    "latest_seen": "2026-07-11T20:45:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5"
     ]
   },
   {
