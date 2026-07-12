@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Sun, 12 Jul 2026 12:05 GMT
+Updated: Sun, 12 Jul 2026 13:51 GMT
 
 ## Snapshot
 
@@ -68,7 +68,7 @@ Updated: Sun, 12 Jul 2026 12:05 GMT
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 - [dormant] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Irish Independent
-- [active] Government accused of helping 'the well-off' in next Budget — 1 item(s), 1 outlet(s), 1 in 6h, 1 in 24h, net -100%. Outlets: NorthernSound
+- [dormant] Tánaiste to attend meeting of EU finance ministers — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: RTE News, RTE.ie
 
 ## Recent Items
 

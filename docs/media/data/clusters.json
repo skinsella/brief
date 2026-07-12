@@ -314,35 +314,6 @@
     ]
   },
   {
-    "key": "finance:accused-budget-government-helping-next-off:d9eb2b23",
-    "title": "Government accused of helping 'the well-off' in next Budget",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "NorthernSound"
-    ],
-    "first_seen": "2026-07-12T07:34:07Z",
-    "latest_seen": "2026-07-12T07:34:07Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 1,
-      "mixed": 0
-    },
-    "net_framing": -100,
-    "significant_count": 1,
-    "attention_score": 14,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5"
-    ]
-  },
-  {
     "key": "finance:attend-finance-meeting-ministers:21631d82",
     "title": "Tánaiste to attend meeting of EU finance ministers",
     "topic": "Finance",
@@ -504,6 +475,35 @@
       "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYm1zdEhrTzRrcDZYTTh5UjVOTGV0MUctMmhjMTJObm5Sam9OdF93Wk00cnhfYnlQS09YbG0tdlBadE1PQ0dLNzZlNWdwYVFQb0Fpb2xZUFVJMkJvSzJlWWdtY0JrSWdIWWZpSC1VRzhFNTlhU2t3VXo0TV9SZWs1T3VRNTY2RGxOQnlRcjdIa1RpUE15ejBJQ3lERUpRVnZwOTA1Wm8wWHNyMlZYQXpr?oc=5"
+    ]
+  },
+  {
+    "key": "finance:accused-budget-government-helping-next-off:d9eb2b23",
+    "title": "Government accused of helping 'the well-off' in next Budget",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "NorthernSound"
+    ],
+    "first_seen": "2026-07-12T07:34:07Z",
+    "latest_seen": "2026-07-12T07:34:07Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 1,
+      "mixed": 0
+    },
+    "net_framing": -100,
+    "significant_count": 1,
+    "attention_score": 11,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5"
     ]
   },
   {
