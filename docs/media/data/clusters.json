@@ -1750,6 +1750,38 @@
     ]
   },
   {
+    "key": "other:always-borrowing-funds-government-its-real:002f33f9",
+    "title": "Government borrowing to top up its saving funds was always a 'very real possibility', says McGrath",
+    "topic": "Other",
+    "item_count": 3,
+    "outlet_count": 2,
+    "outlets": [
+      "MSN",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-04T14:14:31Z",
+    "latest_seen": "2026-07-12T10:04:39Z",
+    "lifespan_hours": 188,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 5,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilgNBVV95cUxQbnl3VnhybXVkQUwzamktT1F4dHhHWWp2YXpfOTdyajZYYi1ybV9YZHFlUl8yeXlBYUNDVFJBdGw4R0JERVdVRU1YWHY3TnMwMkJ2eTNSZEdkTG9QZDJMSjJVTzAtZFZnY0xJTHJmSmtQYkJWaUZZNENVRUg5UV85WHIzMDRHRGktTEdDRjdRM2E4TXdzSG1uUUdnTnM1V0lrYWw5YVJnOWlYOHVtWHdkckw0OWo2VTZ1YXlhaTEzYXBycmphaTJqeGtac2dWZEJFU2sxby1rcTFjWTNkSHh5bnk0VmVNb3AtQk9TZ01HNmZJbXozTFIxNlBONU1LMkFvSVY2OW5TQ0tSRmJMUldjVWw4RUdOdHpONXFIYXNRdUVwVzQzekR2ekltbVBYZ1J1T1pvNGFlbzl1VEFoOURod1pMX2kxanNmX1d6REtKRmhqb21uVWhNUW5sS2JMdXdRVXNkTUE0eHRFcHhucU5fTW9GVmR3R3RmRkZFYk1jRXgwQ1ZsQ0dDblByOHJ4TjJic0tWaE13?oc=5",
+      "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY3pvVWQ1S1pHU3k1b2hOYzdRNXo0OHVLUm42Z1lXMnFUQnVhbkpUdldjc1dTdEVTTmJiT2hTcWhRaWpTU2kwWWJQcm1mMFRHbGNzYkI1VGZ2U2tERVNlZ2FNZ18tRmdicmx0ZGlnM28wdHJYelBhTFhxQ3VHdFBzUzk4dk0wMm9nMnR1bnJJUlFxZEMyQy13UWwwbWdfbXpqVGM2QlJILWhkYWMydlF3Z1g2OTA0cm5UdmM0Y0RYYjZKUGxmN29TR2NWb21oYzhUWEVuSDNuRnFvYTJpT1RFLUdfczd4UDhCSHBqQllEWlNzNy1uOXdYaEQzNDdBVTQ?oc=5",
+      "https://www.thejournal.ie/government-borrowing-for-savings-fund-7091234-Jul2026/"
+    ]
+  },
+  {
     "key": "tax:5bn-giveaway-income-plans-tax:96a2cc98",
     "title": "Simon Harris plans €1.5bn income tax giveaway",
     "topic": "Tax",
@@ -2218,37 +2250,6 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2F1dzZMSmxXXzhMUEJlSFB2SmNMM3Z5cU1WZGhoVDYyRUJFWWxMOFpMY1BvMVZhVjR5TDh5N2hJeWdNejB1eE9GMkRTQXZ6NzBXbWtFUF9wV3p2bEJxUUN5WnE2VDdDN3ltREtIdGJOTWdPR014c0U2WE9ieUJyWjdvVXlubGUtMW5sZmVB?oc=5"
-    ]
-  },
-  {
-    "key": "other:always-borrowing-funds-government-its-real:002f33f9",
-    "title": "Government borrowing to top up its saving funds was always a 'very real possibility', says McGrath",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "MSN",
-      "TheJournal.ie"
-    ],
-    "first_seen": "2026-07-04T14:14:31Z",
-    "latest_seen": "2026-07-04T15:26:54Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 0,
-    "velocity_24h": 0,
-    "reach_score": 4,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 6,
-    "status": "dormant",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY3pvVWQ1S1pHU3k1b2hOYzdRNXo0OHVLUm42Z1lXMnFUQnVhbkpUdldjc1dTdEVTTmJiT2hTcWhRaWpTU2kwWWJQcm1mMFRHbGNzYkI1VGZ2U2tERVNlZ2FNZ18tRmdicmx0ZGlnM28wdHJYelBhTFhxQ3VHdFBzUzk4dk0wMm9nMnR1bnJJUlFxZEMyQy13UWwwbWdfbXpqVGM2QlJILWhkYWMydlF3Z1g2OTA0cm5UdmM0Y0RYYjZKUGxmN29TR2NWb21oYzhUWEVuSDNuRnFvYTJpT1RFLUdfczd4UDhCSHBqQllEWlNzNy1uOXdYaEQzNDdBVTQ?oc=5",
-      "https://www.thejournal.ie/government-borrowing-for-savings-fund-7091234-Jul2026/"
     ]
   },
   {
