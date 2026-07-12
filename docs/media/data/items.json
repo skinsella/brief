@@ -3725,6 +3725,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Headline uses constructive delivery language: announces."
   },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5": {
+    "outlet": "NorthernSound",
+    "published": "Sun, 12 Jul 2026 07:34:07 GMT",
+    "headline": "Government accused of helping 'the well-off' in next Budget",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5",
+    "summary": "NorthernSound reports: Government accused of helping 'the well-off' in next Budget.",
+    "tag": "SIGNIFICANT",
+    "reason": "The framing is critical or unresolved and may need a quick response.",
+    "cluster_key": "government-accused-of-helping-the-well-off-in-next-budget",
+    "first_seen": "2026-07-12T09:09:58Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Fast Reaction",
+      "Critical framing"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Headline uses critical or risk language: accused."
+  },
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkhQblc0Qk1fSlpDY3lkU0hkM3kwV1U2b0g3YjkzTUxpc0pQSS11Zi0zSndnampERDlRNjFYa1R5MHMwblFnWDRQOWU3V0pudU1ISlhyMlBjekdfSEJ6am9QalRjSEJMTWtjblZjY1NZalhtdGZwNzVMUTY1X01XaldvRXhFX1cyck5TMWVWMFZYQ3ZZdzN1VTJFdlJQVFRW?oc=5": {
     "outlet": "Limerick's Live 95",
     "published": "Wed, 10 Jun 2026 13:47:20 GMT",

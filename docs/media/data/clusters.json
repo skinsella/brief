@@ -314,6 +314,35 @@
     ]
   },
   {
+    "key": "finance:accused-budget-government-helping-next-off:d9eb2b23",
+    "title": "Government accused of helping 'the well-off' in next Budget",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "NorthernSound"
+    ],
+    "first_seen": "2026-07-12T07:34:07Z",
+    "latest_seen": "2026-07-12T07:34:07Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 1,
+      "mixed": 0
+    },
+    "net_framing": -100,
+    "significant_count": 1,
+    "attention_score": 14,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5"
+    ]
+  },
+  {
     "key": "finance:attend-finance-meeting-ministers:21631d82",
     "title": "Tánaiste to attend meeting of EU finance ministers",
     "topic": "Finance",
@@ -1762,7 +1791,7 @@
     "latest_seen": "2026-07-11T07:27:07Z",
     "lifespan_hours": 13,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1773,7 +1802,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5",
       "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNvRVd1Y1FpbWtUY0VDMXJ3SEY5UFRHZlpsWG55ajBNQTB6X0lyNWd6bG5jY3FYN1ZNaFFPSTFnc1IxM0ZqMHJVbXpMRTRQX0V1VkZoWjhEZl9pcEc2QkNnY0ZWYWI3V3laS25Hdm5oOEtlaXlQeUM0eDd2Xy10RFo0OWxoTlNZbmJBcHhaRmFwUFVlMmV2ZV9IRWxaX2pQTjU2bGFLQmpvbWhQZjJuZXlqVV8wSENGd2pGMHdWd2tyUmU0aUNmTw?oc=5"
@@ -1792,7 +1821,7 @@
     "latest_seen": "2026-07-11T07:27:06Z",
     "lifespan_hours": 3,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1803,7 +1832,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcy1hWGFWUmd0OXJ6T0JkYXg3bE12YzgyVFRWMVJURnZaR3pTZkpVM0dyMnRuekNaemZENWZIVXg0MnpXSk9aRmk5ZW9kM0FMd3JHWktQQ0wwcFNKT2F4QnpNbnlINGw5MnVFMXMxV29nMXJRV1NCVmlWZlphMHdndE9FWmxHeXRsTWdqS0tmanBlWFJTcGQ5Mk0xbjN4ajdXekVMZi00NkdOWmtEa0Z6bUpzX2tuQWNaTHBYNQ?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjUyOFBpdFlsWmNWcWZReG1WTGlFUEMtVnlhT2V1VUNUczd5UGk2dG9JOHZwOTAxVE5tZHVBMFBOSER3andVajEwU2U2T2U0UUQ5QXIwQ3ZxSk1uMmkzRzhpNU1CcmVqZFBWSzJxZWh4elhKYnFLQVM1LTlmNUp6RHdEMl9ydk9QRGtBeXlfSkcxVEJGM2tkTmFrVlVhaWdTMjNmV19PbUJBZ05qQWtHM2hFVVQ?oc=5"
