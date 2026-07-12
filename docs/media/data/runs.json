@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-12T20:23:34Z",
+    "checked_at_display": "Sun, 12 Jul 2026 20:23 GMT",
+    "new_count": 0,
+    "old_skipped": 2,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 11,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 22,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260712T202334Z.html"
+  },
+  {
     "checked_at": "2026-07-12T19:19:12Z",
     "checked_at_display": "Sun, 12 Jul 2026 19:19 GMT",
     "new_count": 0,
@@ -6936,50 +7014,5 @@
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdG9JbV9LSzBncjhBNUZFbTRaMFotY3VvUDgtcGVaQzg3ZXN1eTVTM2ZtSUhHU0lxN0w1RGZnc2Y5R0NwbGhlNE4tMzM0OExzS1N2UnoxWUxWUm1qa2JKRDJERzhWTzRicTN6dTRuNjkzVktqbUEwYXNwRnpib05jUFRJSDU4c1pDczBpNWZtRHg0UC1UcFRKbjM5WmtTS3QxZng3ajNraUpjbXJfZDhyQTAwLWZhUGk3VXhfRzdtWlR0Z1BBTUJndjFHSjk?oc=5"
     ],
     "archive_file": "archive/20260704T165611Z.html"
-  },
-  {
-    "checked_at": "2026-07-04T15:39:38Z",
-    "checked_at_display": "Sat, 04 Jul 2026 15:39 GMT",
-    "new_count": 2,
-    "old_skipped": 0,
-    "duplicate_skipped": 2,
-    "mismatched_skipped": 1,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 2,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY3pvVWQ1S1pHU3k1b2hOYzdRNXo0OHVLUm42Z1lXMnFUQnVhbkpUdldjc1dTdEVTTmJiT2hTcWhRaWpTU2kwWWJQcm1mMFRHbGNzYkI1VGZ2U2tERVNlZ2FNZ18tRmdicmx0ZGlnM28wdHJYelBhTFhxQ3VHdFBzUzk4dk0wMm9nMnR1bnJJUlFxZEMyQy13UWwwbWdfbXpqVGM2QlJILWhkYWMydlF3Z1g2OTA0cm5UdmM0Y0RYYjZKUGxmN29TR2NWb21oYzhUWEVuSDNuRnFvYTJpT1RFLUdfczd4UDhCSHBqQllEWlNzNy1uOXdYaEQzNDdBVTQ?oc=5",
-      "https://www.thejournal.ie/government-borrowing-for-savings-fund-7091234-Jul2026/"
-    ],
-    "archive_file": "archive/20260704T153938Z.html"
   }
 ]
