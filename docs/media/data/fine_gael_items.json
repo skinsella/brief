@@ -390,6 +390,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHBSWFNUdWhiOVROTFlSV29Oc0FKOHFqQ056US1aZ012WTFRMkE1YUc5Q3NTb01LdEhoYkxUdkwtb3VMTWhkOTVyWVg0aHJSYzhPU1Q1a1VjVzloa1BLU0tfRUttTzNqX0FlWnEtSmxpNU56LUFIdHlZamtOc2hzMGh1V21BeTdhaHVqTGlzXzMwd3ZVRHhtNktTYmUwR0FFN1lZNlhYZVNNN1Yxblo2OHdmY1lLckJVWV9Fck5ab0w3Y2hwZXVZZW9IdGNVc3pu?oc=5": {
+    "outlet": "The Irish Times",
+    "published": "Sun, 12 Jul 2026 12:05:16 GMT",
+    "headline": "Patrick O’Donovan ‘safe and well’ and recovering with family after falling ill in Brussels",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHBSWFNUdWhiOVROTFlSV29Oc0FKOHFqQ056US1aZ012WTFRMkE1YUc5Q3NTb01LdEhoYkxUdkwtb3VMTWhkOTVyWVg0aHJSYzhPU1Q1a1VjVzloa1BLU0tfRUttTzNqX0FlWnEtSmxpNU56LUFIdHlZamtOc2hzMGh1V21BeTdhaHVqTGlzXzMwd3ZVRHhtNktTYmUwR0FFN1lZNlhYZVNNN1Yxblo2OHdmY1lLckJVWV9Fck5ab0w3Y2hwZXVZZW9IdGNVc3pu?oc=5",
+    "summary": "The Irish Times reports: Patrick O’Donovan ‘safe and well’ and recovering with family after falling ill in Brussels.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "patrick-o-donovan-safe-and-well-and-recovering-with-family-after-falling-ill-in-",
+    "first_seen": "2026-07-12T12:05:50Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHBSWFNUdWhiOVROTFlSV29Oc0FKOHFqQ056US1aZ012WTFRMkE1YUc5Q3NTb01LdEhoYkxUdkwtb3VMTWhkOTVyWVg0aHJSYzhPU1Q1a1VjVzloa1BLU0tfRUttTzNqX0FlWnEtSmxpNU56LUFIdHlZamtOc2hzMGh1V21BeTdhaHVqTGlzXzMwd3ZVRHhtNktTYmUwR0FFN1lZNlhYZVNNN1Yxblo2OHdmY1lLckJVWV9Fck5ab0w3Y2hwZXVZZW9IdGNVc3pu?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHBSWFNUdWhiOVROTFlSV29Oc0FKOHFqQ056US1aZ012WTFRMkE1YUc5Q3NTb01LdEhoYkxUdkwtb3VMTWhkOTVyWVg0aHJSYzhPU1Q1a1VjVzloa1BLU0tfRUttTzNqX0FlWnEtSmxpNU56LUFIdHlZamtOc2hzMGh1V21BeTdhaHVqTGlzXzMwd3ZVRHhtNktTYmUwR0FFN1lZNlhYZVNNN1Yxblo2OHdmY1lLckJVWV9Fck5ab0w3Y2hwZXVZZW9IdGNVc3pu?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNjVhUHpaZ25IVENRQ09vdW9oUDB4ai1aUUZ2NTlFamMzVFJGZlhDdjNNNUwtM2lqN1hUbXVMdlEtVlhYSDBPNFM4bXp5RjFVWWZZN2M3QmhrQXhfclQ4cWdqV25oeEk3NUdSbXZwR3lNcGd6N1JwWmFkMHAteW1zdFBPMGJhTTBCcHRZN29HYkZjdEhQWkxPMWVzSDdlOHlnbmNobUN5cHhQRk5waXNOSEFBa1Byb2p1QVhMVnVvb2g2bTZkVkZCTW5Xc2dZMWNm?oc=5": {
     "outlet": "Galway Bay FM",
     "published": "Wed, 24 Jun 2026 12:28:53 GMT",
@@ -11444,6 +11469,29 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5": {
+    "outlet": "Connaught Telegraph",
+    "published": "Sun, 12 Jul 2026 11:18:18 GMT",
+    "headline": "The unravelling of the Fine Gael empire in Mayo",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5",
+    "summary": "Connaught Telegraph reports: The unravelling of the Fine Gael empire in Mayo.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "the-unravelling-of-the-fine-gael-empire-in-mayo",
+    "first_seen": "2026-07-12T12:05:50Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5",
+    "topic": "Fine Gael",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU9kU1pMU05fM21EbnNCdGxNZlhTdzZNdGg1b01WeWpzbUlhWW1TQ1hzTXBBM2xZZ21kdnJ5R3lZb1pJSmQtS3oyV251SGdwdGQ0MW1nbHgySmhucmFuWHA5WWxVekFRSE1zSUZOQ1hwOV91U0RYVGFpQ1lJY2JXNEZqcEV3RWlNSTI5d25YZjc4QQ?oc=5": {

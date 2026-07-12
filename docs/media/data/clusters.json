@@ -2281,6 +2281,35 @@
     ]
   },
   {
+    "key": "fine gael:empire-fine-gael-mayo-unravelling:15c1bc01",
+    "title": "The unravelling of the Fine Gael empire in Mayo",
+    "topic": "Fine Gael",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Connaught Telegraph"
+    ],
+    "first_seen": "2026-07-12T11:18:18Z",
+    "latest_seen": "2026-07-12T11:18:18Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5"
+    ]
+  },
+  {
     "key": "foreign affairs:capital-deal-hopes-land-markets-october:eefbf29d",
     "title": "Simon Harris hopes to land EU capital markets rules deal by October",
     "topic": "Foreign affairs",

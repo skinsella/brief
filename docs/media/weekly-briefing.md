@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Sun, 12 Jul 2026 10:57 GMT
+Updated: Sun, 12 Jul 2026 12:05 GMT
 
 ## Snapshot
 
-- Recent coverage: 69 item(s) in the last 7 days.
+- Recent coverage: 70 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 7.
 
 ## Trend Summary
 
-- Coverage volume: 69 item(s) in the last 7 days; up 8 vs previous 7 days.
+- Coverage volume: 70 item(s) in the last 7 days; up 9 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 37 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Sun, 12 Jul 2026 10:57 GMT
 
 ## Narrative Summary
 
-- Active narratives: 3 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 4 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 5 cluster(s) have lasted at least 48 hours.
 
@@ -39,8 +39,8 @@ Updated: Sun, 12 Jul 2026 10:57 GMT
 
 - Other: 37
 - Finance: 19
+- Fine Gael: 5
 - Foreign affairs: 4
-- Fine Gael: 4
 - Constituency/local: 2
 - Tax: 1
 - Housing: 1
@@ -72,6 +72,7 @@ Updated: Sun, 12 Jul 2026 10:57 GMT
 
 ## Recent Items
 
+- [neutral factual] Connaught Telegraph: The unravelling of the Fine Gael empire in Mayo (https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5)
 - [critical] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
 - [neutral factual] The Times: Simon Harris plans €1.5bn income tax giveaway (https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5)
 - [neutral factual] MSN: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjlxSmxkVmdlQW9Ta21lSUhvN010ZFF5aXVNdTI2ZjFKSkFzcXkxa1M3N1RTSnl4Z09wUEszOGowVkZENzUzeFpRamxEcklsVE9mM19VOVJSVWw1dGdFUTFyR05ncUJhS3k0WXVCaDlOQ1dJM3h1YjdMc05SNXNaWF8wdlN1dlJvcVpOUEZqQ1VGamg1UUd0TUFhMlNpdWhqRmUzbk1kMVhDOFFFUXZyazFtTU9wQ0Z5bUhfYTNjLWVmemxCc1ptSWZKd1hUUlVSRVpPRHFJWndOYzgxc25zdHVSOTZWTmNhcUpQOGNB?oc=5)
@@ -91,4 +92,3 @@ Updated: Sun, 12 Jul 2026 10:57 GMT
 - [neutral factual] Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/)
 - [neutral factual] Belfast Telegraph: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzdaOGVEVEhsSUg3ZUNhcmRFV0xoZWd3VlUyb1NTZEJZd0VjdDE4R19jZUJ1QldNMlFNVndOUFpRM2pveXpDdnZHdFVaTGtyTko3T1BkQUZCZU5DeHJEM1EyTkxpcXNxbC1LR0FSZEtIUkZobFhKdUExUTllT3JCWVF3VTdKVm14V1l0UXNxM2trcWV0dEpJNHVJeWdpLWJyVi1GbmpjT1FMdm8wRTJ2Ti1Ia19zQW80QVhIeEd3RGs3TkVyRTVJNEoyaHVhWlFaTHZTQVBxUQ?oc=5)
 - [neutral factual] BreakingNews.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5)
-- [neutral factual] westernpeople.ie: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTQ2cHM1Yi1IbDh1T0c3MmJZeWh2RjItYUF1NzdXTnI3emVfSDZYU1pmbVQ3ckxiQTBGdXJhTnA5VnhkRWdqcWRUakFLRVpqLU1XTW9IXzE5SHFDc1ltMVEzUm1IT1habmNqMlNQdGRYT3VfZ3Q0ODVTYnI1eVBLck83QkRORUY5TU9DV2tiOG9FcGtRQVFCSUZvNlFlZVV6MjZQWWxSYnk2Ty00Y0JWSkZmZVY?oc=5)

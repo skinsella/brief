@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T10:57:54Z",
+  "updated_at": "2026-07-12T12:05:50Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
-      "total": 3,
+      "total": 4,
       "counts": {
         "favourable": 0,
-        "neutral": 2,
+        "neutral": 3,
         "unfavourable": 1,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 4,
+        "neutral": 5,
         "unfavourable": 4,
         "mixed": 0
       },
-      "net": -33,
-      "weighted_net": -50,
+      "net": -25,
+      "weighted_net": -44,
       "targets": {
-        "Government/policy": 2,
+        "Government/policy": 3,
         "Simon Harris": 1
       },
       "themes": {
@@ -36,27 +36,34 @@
           "neutral": 1,
           "unfavourable": 0,
           "mixed": 0
+        },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
         }
       }
     },
     "seven_day": {
-      "total": 69,
+      "total": 70,
       "counts": {
         "favourable": 1,
-        "neutral": 65,
+        "neutral": 66,
         "unfavourable": 1,
         "mixed": 2
       },
       "weighted_counts": {
         "favourable": 3,
-        "neutral": 133,
+        "neutral": 134,
         "unfavourable": 4,
         "mixed": 6
       },
       "net": 0,
       "weighted_net": -1,
       "targets": {
-        "Government/policy": 16,
+        "Government/policy": 17,
         "Simon Harris": 51,
         "unclear": 2
       },
@@ -75,14 +82,14 @@
           "unfavourable": 1,
           "mixed": 2
         },
-        "Foreign affairs": {
-          "total": 4,
+        "Fine Gael": {
+          "total": 5,
           "favourable": 0,
-          "neutral": 4,
+          "neutral": 5,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Fine Gael": {
+        "Foreign affairs": {
           "total": 4,
           "favourable": 0,
           "neutral": 4,
@@ -120,23 +127,23 @@
       }
     },
     "thirty_day": {
-      "total": 311,
+      "total": 312,
       "counts": {
         "favourable": 16,
-        "neutral": 283,
+        "neutral": 284,
         "unfavourable": 7,
         "mixed": 5
       },
       "weighted_counts": {
         "favourable": 50,
-        "neutral": 715,
+        "neutral": 716,
         "unfavourable": 26,
         "mixed": 21
       },
       "net": 3,
       "weighted_net": 3,
       "targets": {
-        "Government/policy": 127,
+        "Government/policy": 128,
         "Simon Harris": 149,
         "unclear": 35
       },
@@ -170,9 +177,9 @@
           "mixed": 0
         },
         "Fine Gael": {
-          "total": 25,
+          "total": 26,
           "favourable": 1,
-          "neutral": 24,
+          "neutral": 25,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -214,23 +221,23 @@
       }
     },
     "all_time": {
-      "total": 366,
+      "total": 367,
       "counts": {
         "favourable": 18,
-        "neutral": 328,
+        "neutral": 329,
         "unfavourable": 10,
         "mixed": 10
       },
       "weighted_counts": {
         "favourable": 56,
-        "neutral": 838,
+        "neutral": 839,
         "unfavourable": 42,
         "mixed": 38
       },
       "net": 2,
       "weighted_net": 1,
       "targets": {
-        "Government/policy": 153,
+        "Government/policy": 154,
         "Simon Harris": 174,
         "unclear": 39
       },
@@ -264,9 +271,9 @@
           "mixed": 0
         },
         "Fine Gael": {
-          "total": 28,
+          "total": 29,
           "favourable": 1,
-          "neutral": 27,
+          "neutral": 28,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -2289,23 +2296,23 @@
       }
     },
     "2026-07-12": {
-      "total": 3,
+      "total": 4,
       "counts": {
         "favourable": 0,
-        "neutral": 2,
+        "neutral": 3,
         "unfavourable": 1,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 4,
+        "neutral": 5,
         "unfavourable": 4,
         "mixed": 0
       },
-      "net": -33,
-      "weighted_net": -50,
+      "net": -25,
+      "weighted_net": -44,
       "targets": {
-        "Government/policy": 2,
+        "Government/policy": 3,
         "Simon Harris": 1
       },
       "themes": {
@@ -2317,6 +2324,13 @@
           "mixed": 0
         },
         "Other": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Fine Gael": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
