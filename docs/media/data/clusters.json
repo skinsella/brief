@@ -471,35 +471,6 @@
     ]
   },
   {
-    "key": "finance:2030-26bn-bank-budget-central-deficit:0c027830",
-    "title": "Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "The Journal"
-    ],
-    "first_seen": "2026-07-13T16:20:00Z",
-    "latest_seen": "2026-07-13T16:20:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 1
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5"
-    ]
-  },
-  {
     "key": "other:alumina-impact-need-sanctions-understand:2501f30e",
     "title": "Need to ‘understand’ impact of sanctions on alumina, Tánaiste says",
     "topic": "Other",
@@ -724,36 +695,6 @@
     ]
   },
   {
-    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
-    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "BreakingNews.ie"
-    ],
-    "first_seen": "2026-07-13T14:48:59Z",
-    "latest_seen": "2026-07-13T15:48:59Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -849,6 +790,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF30gGXAUFVX3lxTE1USFVmanA4cnRNY1JCS25RMkVrZC0ydENTYWZzX0tOdUVBX2J1d2tjNk5tbGJjY1o1Mjg0OU5WZlBMdmV3RXFwUm5MNDNRVmxZQy1aY0t5NEJ4QmR5ZmI1amVNVmlxLXJlTXEybjJfaFFNQ0JTSEJ5RDgwVV8tUTBnMXVGT0J3N2pNaVZQdDFXSGJfdHJNQXc?oc=5",
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWWVoOFZyMUkwUTVZWGV2VGtRdm5UeFBiYWJmWkF6aHhLV3BJMlRnMHZ2VHlfdU4yRVpOQnUyVXRnQzhGRVkxb3R4eG1qNkFOTmgzenBERzhPMEJuWlNIb25qR3UyMGowcWw4WGF6YkpfTnp5VXJwcldrSktia2J6NVktb2Q1T3g5WEtEdlFLSXRod9IBlwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF3?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2030-26bn-bank-budget-central-deficit:0c027830",
+    "title": "Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Journal"
+    ],
+    "first_seen": "2026-07-13T16:20:00Z",
+    "latest_seen": "2026-07-13T16:20:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5"
     ]
   },
   {
@@ -1985,52 +1955,23 @@
     ]
   },
   {
-    "key": "foreign affairs:across-ban-calls-children-for-media:019bb702",
-    "title": "Simon Harris calls for 'uniformity' across EU on social media ban for children",
-    "topic": "Foreign affairs",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-13T16:21:43Z",
-    "latest_seen": "2026-07-13T16:21:43Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5"
-    ]
-  },
-  {
-    "key": "other:downright-ethnicity-focus-offenders-race-violent:67ff64ac",
-    "title": "Simon Harris: Focus on race and ethnicity of violent offenders is 'downright wrong'",
+    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
+    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
     "topic": "Other",
-    "item_count": 1,
+    "item_count": 2,
     "outlet_count": 1,
     "outlets": [
-      "Irish Examiner"
+      "BreakingNews.ie"
     ],
-    "first_seen": "2026-07-13T16:13:00Z",
-    "latest_seen": "2026-07-13T16:13:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
+    "first_seen": "2026-07-13T14:48:59Z",
+    "latest_seen": "2026-07-13T15:48:59Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 1,
+      "neutral": 2,
       "unfavourable": 0,
       "mixed": 0
     },
@@ -2039,36 +1980,8 @@
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5"
-    ]
-  },
-  {
-    "key": "other:citizenship-for-having-language-merit-people:2931dc6c",
-    "title": "'Some merit' in having language proficiency test for people seeking Irish citizenship, Tánaiste says",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Examiner"
-    ],
-    "first_seen": "2026-07-13T16:10:00Z",
-    "latest_seen": "2026-07-13T16:10:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5"
+      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
     ]
   },
   {
@@ -2689,6 +2602,93 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGhvSGZKNk5Zc2tZWld2ZG9uemc2bFF2cTRkUVctaWlsMG04cWotZzFRZS1kMV9tZGZFYTEzdG03SDZhZ3Z0WXhYdGMzbWxXOGZXQnZXUUJvQnVNcjBEcV9UQmg4ZFAxdHdQWnJEeTBWb0ZjRGRETnROWS14eVRHb0ZkLXdYV1FQRXpBZnV1Y0ZmT0d6c0pEZEZBMGxCVkRqTXRCX2QwZHl3UlHSAbABQVVfeXFMTjRDNkpLQXBieXBDUEtUWVUyQ01HVWoteFItQlNNcVhuR2pCbGE3Z2tzV20zSjZkVTBGUDRUbVdjVXozQ2k2d2xmb1dFNEdBR2FHbEZBZ0lpaTgwLTZfQW52Y3FYb0htMUplT2dzdzRHRTV6Unk1d1hUM1VyUGtGSzVqUlplTjF4WUYxNVZOUTdtX2ZPRWwyRzRqa1FTU2RNbjZPQ1FMUkk1QnBKVFI1cnI?oc=5"
+    ]
+  },
+  {
+    "key": "foreign affairs:across-ban-calls-children-for-media:019bb702",
+    "title": "Simon Harris calls for 'uniformity' across EU on social media ban for children",
+    "topic": "Foreign affairs",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-13T16:21:43Z",
+    "latest_seen": "2026-07-13T16:21:43Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:downright-ethnicity-focus-offenders-race-violent:67ff64ac",
+    "title": "Simon Harris: Focus on race and ethnicity of violent offenders is 'downright wrong'",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-13T16:13:00Z",
+    "latest_seen": "2026-07-13T16:13:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:citizenship-for-having-language-merit-people:2931dc6c",
+    "title": "'Some merit' in having language proficiency test for people seeking Irish citizenship, Tánaiste says",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-13T16:10:00Z",
+    "latest_seen": "2026-07-13T16:10:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5"
     ]
   },
   {
