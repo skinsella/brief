@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-13T01:10:56Z",
+    "checked_at_display": "Mon, 13 Jul 2026 01:10 GMT",
+    "new_count": 0,
+    "old_skipped": 2,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 10,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 21,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260713T011056Z.html"
+  },
+  {
     "checked_at": "2026-07-12T23:32:06Z",
     "checked_at_display": "Sun, 12 Jul 2026 23:32 GMT",
     "new_count": 1,
@@ -7076,51 +7154,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260704T212745Z.html"
-  },
-  {
-    "checked_at": "2026-07-04T20:27:51Z",
-    "checked_at_display": "Sat, 04 Jul 2026 20:27 GMT",
-    "new_count": 3,
-    "old_skipped": 1,
-    "duplicate_skipped": 3,
-    "mismatched_skipped": 4,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 4,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 5,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEbzBjbVhJdFVZbXoxd1dubkxWd1FrNmxGZlNIN19fYUVDTjVwNjdQRzlqZHczdEdGeTNZQmlhX0xIVnNvUWp5MzVxSjMwVlNNOXZNdkdXZVJDZ2h4LWRvdXk5UDIxc0JDRlRxaV91RnFkT0hhM1E?oc=5",
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXYzdU9MZlRuQlROS1FaRVktOG1NM1UtdjZHTEE0NzNldHF5bFI2VmVDUy1aWnJpX1NxcEFmOG5sTXdVVml6Q1ZLU3BXZXBqRHBROHAyRzdIeTJmUUJuY1kzMjQ3QUVteUFPa3UwY3VUSXl1V3l1NjQ4b0lxQ1VqUGlPb1BUVkhJZXo5c0h2NlRRa2xJd09SbkVwRUpZcmtFM25UM1MzSUk4UGxjU1JaX3k0WWNBMHc?oc=5",
-      "https://www.rte.ie/news/2026/0704/1581804-political-poll-fine-gael/"
-    ],
-    "archive_file": "archive/20260704T202751Z.html"
   }
 ]
