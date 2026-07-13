@@ -408,36 +408,6 @@
     ]
   },
   {
-    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
-    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "BreakingNews.ie"
-    ],
-    "first_seen": "2026-07-13T14:48:59Z",
-    "latest_seen": "2026-07-13T15:48:59Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 13,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
-    ]
-  },
-  {
     "key": "other:announces-blueprint-for-unity:553992f6",
     "title": "Simon Harris announces 'blueprint' for Irish unity",
     "topic": "Other",
@@ -527,35 +497,6 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5"
-    ]
-  },
-  {
-    "key": "finance:bank-buffers-central-deplete-fiscal-spending:241f7082",
-    "title": "Central Bank warns spending trajectory could ‘deplete fiscal buffers’",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "The Irish Times"
-    ],
-    "first_seen": "2026-07-13T14:46:49Z",
-    "latest_seen": "2026-07-13T14:46:49Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 1
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5"
     ]
   },
   {
@@ -783,32 +724,33 @@
     ]
   },
   {
-    "key": "finance:7bn-bank-central-deficit-governor-overruns:cf35d84a",
-    "title": "Central Bank governor warns of potential €25.7bn deficit if overruns persist",
-    "topic": "Finance",
-    "item_count": 1,
+    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
+    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
+    "topic": "Other",
+    "item_count": 2,
     "outlet_count": 1,
     "outlets": [
-      "businessplus.ie"
+      "BreakingNews.ie"
     ],
-    "first_seen": "2026-07-13T14:31:10Z",
-    "latest_seen": "2026-07-13T14:31:10Z",
-    "lifespan_hours": 0,
+    "first_seen": "2026-07-13T14:48:59Z",
+    "latest_seen": "2026-07-13T15:48:59Z",
+    "lifespan_hours": 1,
     "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
+    "velocity_24h": 2,
+    "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 0,
+      "neutral": 2,
       "unfavourable": 0,
-      "mixed": 1
+      "mixed": 0
     },
     "net_framing": 0,
-    "significant_count": 1,
+    "significant_count": 0,
     "attention_score": 10,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5"
+      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
     ]
   },
   {
@@ -907,6 +849,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF30gGXAUFVX3lxTE1USFVmanA4cnRNY1JCS25RMkVrZC0ydENTYWZzX0tOdUVBX2J1d2tjNk5tbGJjY1o1Mjg0OU5WZlBMdmV3RXFwUm5MNDNRVmxZQy1aY0t5NEJ4QmR5ZmI1amVNVmlxLXJlTXEybjJfaFFNQ0JTSEJ5RDgwVV8tUTBnMXVGT0J3N2pNaVZQdDFXSGJfdHJNQXc?oc=5",
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWWVoOFZyMUkwUTVZWGV2VGtRdm5UeFBiYWJmWkF6aHhLV3BJMlRnMHZ2VHlfdU4yRVpOQnUyVXRnQzhGRVkxb3R4eG1qNkFOTmgzenBERzhPMEJuWlNIb25qR3UyMGowcWw4WGF6YkpfTnp5VXJwcldrSktia2J6NVktb2Q1T3g5WEtEdlFLSXRod9IBlwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF3?oc=5"
+    ]
+  },
+  {
+    "key": "finance:bank-buffers-central-deplete-fiscal-spending:241f7082",
+    "title": "Central Bank warns spending trajectory could ‘deplete fiscal buffers’",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-13T14:46:49Z",
+    "latest_seen": "2026-07-13T14:46:49Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5"
     ]
   },
   {
@@ -2098,6 +2069,35 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5"
+    ]
+  },
+  {
+    "key": "finance:7bn-bank-central-deficit-governor-overruns:cf35d84a",
+    "title": "Central Bank governor warns of potential €25.7bn deficit if overruns persist",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "businessplus.ie"
+    ],
+    "first_seen": "2026-07-13T14:31:10Z",
+    "latest_seen": "2026-07-13T14:31:10Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5"
     ]
   },
   {
