@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-13T09:57:02Z",
-  "morning_note": "Media coverage is steady today (5 items, neutral tone; 73 items over the past week). Brent is at $70, down 2.8% on the week. Irish home heating oil averages \u20ac621 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn.",
+  "generated_at": "2026-07-13T11:40:54Z",
+  "morning_note": "Media coverage is steady today (7 items, neutral tone; 75 items over the past week). Brent is at $70, down 2.8% on the week. Irish home heating oil averages \u20ac621 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn.",
   "alerts": [],
   "tiles": {
     "media": {
-      "today_total": 5,
+      "today_total": 7,
       "today_net": 0,
-      "seven_day_total": 73,
+      "seven_day_total": 75,
       "seven_day_net": -1,
-      "asof": "2026-07-13T08:26:45Z"
+      "asof": "2026-07-13T11:40:49Z"
     },
     "brent": {
       "value": 69.56,
@@ -135,7 +135,7 @@
   },
   "sections": {
     "media": {
-      "asof": "2026-07-13T08:26:45Z"
+      "asof": "2026-07-13T11:40:49Z"
     },
     "energy": {
       "asof": "2026-07-11T02:14:03.669473+00:00"
