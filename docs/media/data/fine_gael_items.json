@@ -1878,6 +1878,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1QxX2REb21FdXlSU2FxSC0taGlkWlE2VnhHcDlpMVlrQ2J0emRYQWVRcV8yZTlfeW5NVXBMVEtJd3dKSDNscmNhT2pNd2QzSTdqZ2pVVzFDbzNaWWNvV2p2RlFfQTJ2XzI2OWhDQXhzWUFIeFgwYUlkX1JIdHZmWWt3Y2pOU29UcV9mMlVwZV9GMDE1ci1aWTZudXpGdk1DVF82dmxEbDRGSHpqejI3QW1PdzY5MGVEa1FxM2NEUGx0eWtTN1VtNFdBUE5qeGhwbWcxUG1uWjR1Qlhi?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:32:28 GMT",
+    "headline": "MEP Billy Kelleher would vote to abolish three-day abortion wait if he were still in Dáil",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1QxX2REb21FdXlSU2FxSC0taGlkWlE2VnhHcDlpMVlrQ2J0emRYQWVRcV8yZTlfeW5NVXBMVEtJd3dKSDNscmNhT2pNd2QzSTdqZ2pVVzFDbzNaWWNvV2p2RlFfQTJ2XzI2OWhDQXhzWUFIeFgwYUlkX1JIdHZmWWt3Y2pOU29UcV9mMlVwZV9GMDE1ci1aWTZudXpGdk1DVF82dmxEbDRGSHpqejI3QW1PdzY5MGVEa1FxM2NEUGx0eWtTN1VtNFdBUE5qeGhwbWcxUG1uWjR1Qlhi?oc=5",
+    "summary": "Irish Independent reports: MEP Billy Kelleher would vote to abolish three-day abortion wait if he were still in Dáil.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "mep-billy-kelleher-would-vote-to-abolish-three-day-abortion-wait-if-he-were-stil",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1QxX2REb21FdXlSU2FxSC0taGlkWlE2VnhHcDlpMVlrQ2J0emRYQWVRcV8yZTlfeW5NVXBMVEtJd3dKSDNscmNhT2pNd2QzSTdqZ2pVVzFDbzNaWWNvV2p2RlFfQTJ2XzI2OWhDQXhzWUFIeFgwYUlkX1JIdHZmWWt3Y2pOU29UcV9mMlVwZV9GMDE1ci1aWTZudXpGdk1DVF82dmxEbDRGSHpqejI3QW1PdzY5MGVEa1FxM2NEUGx0eWtTN1VtNFdBUE5qeGhwbWcxUG1uWjR1Qlhi?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY1QxX2REb21FdXlSU2FxSC0taGlkWlE2VnhHcDlpMVlrQ2J0emRYQWVRcV8yZTlfeW5NVXBMVEtJd3dKSDNscmNhT2pNd2QzSTdqZ2pVVzFDbzNaWWNvV2p2RlFfQTJ2XzI2OWhDQXhzWUFIeFgwYUlkX1JIdHZmWWt3Y2pOU29UcV9mMlVwZV9GMDE1ci1aWTZudXpGdk1DVF82dmxEbDRGSHpqejI3QW1PdzY5MGVEa1FxM2NEUGx0eWtTN1VtNFdBUE5qeGhwbWcxUG1uWjR1Qlhi?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnVTMnJZOEpHaWpQWjZCQU5fOUhJUzZDNnNTcFFucnRrVW8zYmtjTGRpWlZRZGo4MFNEYmxsckxoUFRsR0YtT0NxSWF1V1JvRWJ2dFdSZDJsdWMyUURwTmtBZnY4cmo4S2tWNkFCX3d1X2VBQnQtcFRSVFREQkkxb19iS2c4YlY4QnU2YkhoRTNTZUdlR3pxbVBDalA0UjhCXzMtdFdlR25JODdJcjNCUTZJVkpBcTE2Qy1PLXZzNWZvbUU1UVhIY0dWYno0eXBlSmZjdElMOFM0d1Nu?oc=5": {
     "outlet": "Irish Independent",
     "published": "Sun, 28 Jun 2026 04:35:01 GMT",
@@ -3362,6 +3387,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNrTzFpY0lnZnRtcmNGME5rVktMU2loYV9nYXphMlczWlRrWUNXNTlqQkwxM3hJZ3EzQnFpeU9DTzVta01KX3ZBdmp6RmM4eTRQN0thWW1xelg3ejloSFVwcTl2QW9EY0RPRzQzVndveGN1TldjaVktaXlzRVpmTFVFZXJxeDlnRXgyMnI0ODFhMUlMLVkwd1YtMEJiVnVPWXdBOFhXTTJ5NDlvOGlvWmVBQnVndjBjTGJ4MUtNX0xvV2g2SVh3aTNtMi1LbTlfRi05SnNEaGN1V0tVYmpVS1lLcERsMmZHVUE?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:33:31 GMT",
+    "headline": "The Irish Independent’s View: It’s time to acknowledge a man who changed Ireland for the better",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNrTzFpY0lnZnRtcmNGME5rVktMU2loYV9nYXphMlczWlRrWUNXNTlqQkwxM3hJZ3EzQnFpeU9DTzVta01KX3ZBdmp6RmM4eTRQN0thWW1xelg3ejloSFVwcTl2QW9EY0RPRzQzVndveGN1TldjaVktaXlzRVpmTFVFZXJxeDlnRXgyMnI0ODFhMUlMLVkwd1YtMEJiVnVPWXdBOFhXTTJ5NDlvOGlvWmVBQnVndjBjTGJ4MUtNX0xvV2g2SVh3aTNtMi1LbTlfRi05SnNEaGN1V0tVYmpVS1lLcERsMmZHVUE?oc=5",
+    "summary": "Irish Independent reports: The Irish Independent’s View: It’s time to acknowledge a man who changed Ireland for the better.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "the-irish-independent-s-view-it-s-time-to-acknowledge-a-man-who-changed-ireland-",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNrTzFpY0lnZnRtcmNGME5rVktMU2loYV9nYXphMlczWlRrWUNXNTlqQkwxM3hJZ3EzQnFpeU9DTzVta01KX3ZBdmp6RmM4eTRQN0thWW1xelg3ejloSFVwcTl2QW9EY0RPRzQzVndveGN1TldjaVktaXlzRVpmTFVFZXJxeDlnRXgyMnI0ODFhMUlMLVkwd1YtMEJiVnVPWXdBOFhXTTJ5NDlvOGlvWmVBQnVndjBjTGJ4MUtNX0xvV2g2SVh3aTNtMi1LbTlfRi05SnNEaGN1V0tVYmpVS1lLcERsMmZHVUE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNrTzFpY0lnZnRtcmNGME5rVktMU2loYV9nYXphMlczWlRrWUNXNTlqQkwxM3hJZ3EzQnFpeU9DTzVta01KX3ZBdmp6RmM4eTRQN0thWW1xelg3ejloSFVwcTl2QW9EY0RPRzQzVndveGN1TldjaVktaXlzRVpmTFVFZXJxeDlnRXgyMnI0ODFhMUlMLVkwd1YtMEJiVnVPWXdBOFhXTTJ5NDlvOGlvWmVBQnVndjBjTGJ4MUtNX0xvV2g2SVh3aTNtMi1LbTlfRi05SnNEaGN1V0tVYmpVS1lLcERsMmZHVUE?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVW1HY3hETTZicFZwdzVvLXVuaDZQYzhUT3huNFN3Y3l4bWhwMUZwWFk1MU1GV1RfbVN2bTF4dXRndy1XbHhzWDhaRTM3NnNsTDEtUjg4UHcxdjF3U3ZCaXppQkgwdVdDY3hRb3ZuRWxJU1JLNEo5OFhoMXdzYmhhSlhmT2ZTLWw2VEFsaDlmNXBXRTlzUUtrM3VBak4tMTlTUXE0VkdKQ1dnVm5INERTU2FwZ3VoVzFfc1VqYzRRRXRkc3h3a285OGg0T2pxUGVYa1ctcURLalp0dkpZczluZDhvVXppUlNFa0E?oc=5": {
     "outlet": "Irish Independent",
     "published": "Wed, 24 Jun 2026 10:22:48 GMT",
@@ -3906,6 +3956,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa2ZobTEyMG0yWnBXS3V6VFEwMkstVkQ5MTJRMV83V19tWWRoZXJvWi15aDFtdXJZVjQ5Umd5NTNpdWVDU010VHlUbnM1SVJoZ3hhVWtDNXV6SkxLbG9BQnJkUWFEdzZETjZqN0c5X05vbnFMVDlqODhwbkxEazg0TldkVVdUQVRjMWtEdkt1SkVzYjZaQWlOaldVNkY0UzAxRjZLZlJQWlE3X0RtS283UFQxY1VWWHdSWkhmWUw2bC1jNm9jSEpGcU9nVEQ4NlNJWUQzdTFuYlFPc0UyUEQ3dm5NWjhVRnE3ZnhIWndCcDdzZw?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:41:36 GMT",
+    "headline": "John Downing: How Donogh O’Malley, a maverick Limerick Fianna Fáil TD, reshaped education in Ireland",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa2ZobTEyMG0yWnBXS3V6VFEwMkstVkQ5MTJRMV83V19tWWRoZXJvWi15aDFtdXJZVjQ5Umd5NTNpdWVDU010VHlUbnM1SVJoZ3hhVWtDNXV6SkxLbG9BQnJkUWFEdzZETjZqN0c5X05vbnFMVDlqODhwbkxEazg0TldkVVdUQVRjMWtEdkt1SkVzYjZaQWlOaldVNkY0UzAxRjZLZlJQWlE3X0RtS283UFQxY1VWWHdSWkhmWUw2bC1jNm9jSEpGcU9nVEQ4NlNJWUQzdTFuYlFPc0UyUEQ3dm5NWjhVRnE3ZnhIWndCcDdzZw?oc=5",
+    "summary": "Irish Independent reports: John Downing: How Donogh O’Malley, a maverick Limerick Fianna Fáil TD, reshaped education in Ireland.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "john-downing-how-donogh-o-malley-a-maverick-limerick-fianna-f-il-td-reshaped-edu",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa2ZobTEyMG0yWnBXS3V6VFEwMkstVkQ5MTJRMV83V19tWWRoZXJvWi15aDFtdXJZVjQ5Umd5NTNpdWVDU010VHlUbnM1SVJoZ3hhVWtDNXV6SkxLbG9BQnJkUWFEdzZETjZqN0c5X05vbnFMVDlqODhwbkxEazg0TldkVVdUQVRjMWtEdkt1SkVzYjZaQWlOaldVNkY0UzAxRjZLZlJQWlE3X0RtS283UFQxY1VWWHdSWkhmWUw2bC1jNm9jSEpGcU9nVEQ4NlNJWUQzdTFuYlFPc0UyUEQ3dm5NWjhVRnE3ZnhIWndCcDdzZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa2ZobTEyMG0yWnBXS3V6VFEwMkstVkQ5MTJRMV83V19tWWRoZXJvWi15aDFtdXJZVjQ5Umd5NTNpdWVDU010VHlUbnM1SVJoZ3hhVWtDNXV6SkxLbG9BQnJkUWFEdzZETjZqN0c5X05vbnFMVDlqODhwbkxEazg0TldkVVdUQVRjMWtEdkt1SkVzYjZaQWlOaldVNkY0UzAxRjZLZlJQWlE3X0RtS283UFQxY1VWWHdSWkhmWUw2bC1jNm9jSEpGcU9nVEQ4NlNJWUQzdTFuYlFPc0UyUEQ3dm5NWjhVRnE3ZnhIWndCcDdzZw?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeHJ1eGQzcXU3clRCbFRzQ2RkS1ljOWVtaHkwYUl1U19ITFFqQkdtWV9seHp4MzhzbW15ZjVPNGxJcVZQQmphZFozdm8xRjNCWVk3MldQdWhZeTRRbmxOUThld3NTSTFrRHNydGRWczhSNVdoVmxlX2l4Q3J1UExtR0F0SXd6a09XWW9VTGJPLWpha3Q4ZGZoNDRuQ0YxYUI0N3Z3UHhNcG1LMW1oLTUzbnBHVUQ5Z0lDNm1pZFl2aU14OEV2QWFDcC1yQ0kxa244MHNuaERuaHZlSXo3VndGZ1NVamlYN3JReXhYYWk1TEJldw?oc=5": {
@@ -9366,6 +9441,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZS00MGx3OUpheWRxeGViNFNfTE9zcDRZQjM4aWx0aE4wR2czbExYazRiYmVKc01tbGRDSzFyc1pMOXRuYkJKb3Flb1ZEa3UtUVhCOHJqa291MGlYX2FVRENQeUtOdWxDOVlQWnRnUHhhRXZONjR0NnpYNGptQ1FkdVRNRnRabTBDQTRQcUNiYmR2ME5kT1BXRHdRcmp1ekpPc0lpYi1iYUhPcW1mZEkzWXVGYUV0bWtJUElEQU4wVkRTdy1vQ2lWZWxlMjhwdnN6d2JFSTVPRWVHVWNPdi15TF9lTE9CVDc2R3VRS2FjNlJ6VDVKbmdwcEFldjJiWjZ2UVQtRGlR?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:41:38 GMT",
+    "headline": "Fionnán Sheahan: In a few years’ time, today will be a bank holiday to recognise our Orange friends’ celebration. Right?",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZS00MGx3OUpheWRxeGViNFNfTE9zcDRZQjM4aWx0aE4wR2czbExYazRiYmVKc01tbGRDSzFyc1pMOXRuYkJKb3Flb1ZEa3UtUVhCOHJqa291MGlYX2FVRENQeUtOdWxDOVlQWnRnUHhhRXZONjR0NnpYNGptQ1FkdVRNRnRabTBDQTRQcUNiYmR2ME5kT1BXRHdRcmp1ekpPc0lpYi1iYUhPcW1mZEkzWXVGYUV0bWtJUElEQU4wVkRTdy1vQ2lWZWxlMjhwdnN6d2JFSTVPRWVHVWNPdi15TF9lTE9CVDc2R3VRS2FjNlJ6VDVKbmdwcEFldjJiWjZ2UVQtRGlR?oc=5",
+    "summary": "Irish Independent reports: Fionnán Sheahan: In a few years’ time, today will be a bank holiday to recognise our Orange friends’ celebration. Right?.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "fionn-n-sheahan-in-a-few-years-time-today-will-be-a-bank-holiday-to-recognise-ou",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZS00MGx3OUpheWRxeGViNFNfTE9zcDRZQjM4aWx0aE4wR2czbExYazRiYmVKc01tbGRDSzFyc1pMOXRuYkJKb3Flb1ZEa3UtUVhCOHJqa291MGlYX2FVRENQeUtOdWxDOVlQWnRnUHhhRXZONjR0NnpYNGptQ1FkdVRNRnRabTBDQTRQcUNiYmR2ME5kT1BXRHdRcmp1ekpPc0lpYi1iYUhPcW1mZEkzWXVGYUV0bWtJUElEQU4wVkRTdy1vQ2lWZWxlMjhwdnN6d2JFSTVPRWVHVWNPdi15TF9lTE9CVDc2R3VRS2FjNlJ6VDVKbmdwcEFldjJiWjZ2UVQtRGlR?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZS00MGx3OUpheWRxeGViNFNfTE9zcDRZQjM4aWx0aE4wR2czbExYazRiYmVKc01tbGRDSzFyc1pMOXRuYkJKb3Flb1ZEa3UtUVhCOHJqa291MGlYX2FVRENQeUtOdWxDOVlQWnRnUHhhRXZONjR0NnpYNGptQ1FkdVRNRnRabTBDQTRQcUNiYmR2ME5kT1BXRHdRcmp1ekpPc0lpYi1iYUhPcW1mZEkzWXVGYUV0bWtJUElEQU4wVkRTdy1vQ2lWZWxlMjhwdnN6d2JFSTVPRWVHVWNPdi15TF9lTE9CVDc2R3VRS2FjNlJ6VDVKbmdwcEFldjJiWjZ2UVQtRGlR?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSko1ZG8zZkpxSmtiSzBVRVZIMVQtck9fRkF6blh0WUhEMGNQdkhWaXdmeHlxdkpELVdJZEtrSXRNX3BGVDZpbmx2X2g2ektXQ3FTb2I1dWtId2kxYUQwcHRraFRkdEh5aGpycUlGbTdhRTM4VzdJT0daZXg2ejNQVV9mekxTODA?oc=5": {
     "outlet": "Laois Today",
     "published": "Wed, 10 Jun 2026 12:23:04 GMT",
@@ -11676,6 +11776,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:33:20 GMT",
+    "headline": "‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
+    "summary": "Irish Independent reports: ‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "what-would-the-t-naiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-w",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzZWMWhjejQtMklNaTVEWEV6d3JRdnJ0QUMwaXU0Y2lnckF3dTZ4bE5CUjU4T1lxYVNlWnlvMVpiZWU0Umd4S3FhZTNJeTBXZG8tYy0xZ25ESC1aNHROMFhTOTBveGlMQjlzNEQwSVAzdFB4bTJLVFo1Y1hEX3l1dmhmbFpVQ2I4SjJnNjZYYllSdlk?oc=5": {

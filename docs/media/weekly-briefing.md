@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Mon, 13 Jul 2026 01:10 GMT
+Updated: Mon, 13 Jul 2026 05:05 GMT
 
 ## Snapshot
 
-- Recent coverage: 68 item(s) in the last 7 days.
+- Recent coverage: 73 item(s) in the last 7 days.
 - Weighted net framing: -3% (supportive minus critical, reach/significance-weighted).
 - Significant items: 6.
 
 ## Trend Summary
 
-- Coverage volume: 68 item(s) in the last 7 days; up 14 vs previous 7 days.
+- Coverage volume: 73 item(s) in the last 7 days; up 19 vs previous 7 days.
 - Net framing: -3% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 36 item(s).
+- Main topic: Other leads recent coverage with 39 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 10 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 14 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 3 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 7 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,10 +37,10 @@ Updated: Mon, 13 Jul 2026 01:10 GMT
 
 ## Top Topics
 
-- Other: 36
-- Finance: 18
+- Other: 39
+- Finance: 19
+- Foreign affairs: 5
 - Fine Gael: 5
-- Foreign affairs: 4
 - Constituency/local: 2
 - Tax: 1
 - Housing: 1
@@ -48,7 +48,7 @@ Updated: Mon, 13 Jul 2026 01:10 GMT
 
 ## Top Outlets
 
-- Irish Independent: 10
+- Irish Independent: 14
 - Business Post: 7
 - MSN: 5
 - BreakingNews.ie: 3
@@ -72,6 +72,11 @@ Updated: Mon, 13 Jul 2026 01:10 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: Simon Harris thrown in at the deep end during his first EU presidency gig in Brussels (https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5)
+- [neutral factual] Irish Independent: Insurers refuse to cover e-scooters as Government considers crackdown amid rise in serious accidents (https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHMxck5CdjFVQ0FrSmlUVTktdllCWTNkczF1Vlp5SkJzTTVtUkdmZ2JUR3VzUE82TlNyVW85LWt3WmxLcm83aTdrSDVUSUV6MWFZTmxhdWFWekZ5QUdjbnNpYVc2ODJxWDQycDQ4ZmVaaG52Mm9ISUtqbVBNaVZrQXMxc2s5aXpTbUFJT2dKcXhXbTZsN184dFVWMFRmVFJrbFl1NE9EMTZoZ0hrXzdqTXhldkM5YThvSzVNeEZxOG5JMXZqSkRJbW9ZRENmdUdPSktiNkJock9nZUZ2MnNQbmpiZXFpUWhDZzdZ?oc=5)
+- [neutral factual] Irish Independent: ‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules (https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5)
+- [neutral factual] Irish Independent: ‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules (https://www.independent.ie/irish-news/politics/what-would-the-tanaiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-with-simon-harris-over-turf-cutting-rules/a/158621115.html)
+- [neutral factual] Table.Briefings: Capital markets supervision: Finance ministers reaffirm commitment to an agreement by October (https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGw4VUs1QmxOOUx6MTlnZlVWMWdKeUhHd000R05ZQnpLZVZ0WmVqbVpibGZlT3Q0Wk9xY2ZVckV0c2NTek16MnZGdU1KbFdxV3ItQVJTcWd6UUFONnM0SXJWUFJwSFYyQzRZWTVyZTZkU2VLTnNxVEFLak9kN1JGQ19pRVpOWlJvS0ZobFZqd3RCbU0zUURSZWpjMVhzZWtFdWg3UGE5QldDVmp2U1lnT0Q5TDFpVl9lUlViSWFyTm8wV1lwZUE?oc=5)
 - [neutral factual] Connaught Telegraph: The unravelling of the Fine Gael empire in Mayo (https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5)
 - [neutral factual] MSN: Government borrowing to top up its saving funds was always a 'very real possibility', says McGrath (https://news.google.com/rss/articles/CBMilgNBVV95cUxQbnl3VnhybXVkQUwzamktT1F4dHhHWWp2YXpfOTdyajZYYi1ybV9YZHFlUl8yeXlBYUNDVFJBdGw4R0JERVdVRU1YWHY3TnMwMkJ2eTNSZEdkTG9QZDJMSjJVTzAtZFZnY0xJTHJmSmtQYkJWaUZZNENVRUg5UV85WHIzMDRHRGktTEdDRjdRM2E4TXdzSG1uUUdnTnM1V0lrYWw5YVJnOWlYOHVtWHdkckw0OWo2VTZ1YXlhaTEzYXBycmphaTJqeGtac2dWZEJFU2sxby1rcTFjWTNkSHh5bnk0VmVNb3AtQk9TZ01HNmZJbXozTFIxNlBONU1LMkFvSVY2OW5TQ0tSRmJMUldjVWw4RUdOdHpONXFIYXNRdUVwVzQzekR2ekltbVBYZ1J1T1pvNGFlbzl1VEFoOURod1pMX2kxanNmX1d6REtKRmhqb21uVWhNUW5sS2JMdXdRVXNkTUE0eHRFcHhucU5fTW9GVmR3R3RmRkZFYk1jRXgwQ1ZsQ0dDblByOHJ4TjJic0tWaE13?oc=5)
 - [critical] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
@@ -87,8 +92,3 @@ Updated: Mon, 13 Jul 2026 01:10 GMT
 - [neutral factual] Hotpress: DON'T PUBLISH TILL FIVE: The Tánaiste Let Himself Down on Drugs, says Gary Gannon of the Social Democrats (https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbGdNdm1fOU5hXy1HMmZRTVZpaDNDNmt6YjVrLXl3SHJkcDc3VzJ0U0NEWkJRai13VjBIcFJjWVBpV3lCYnotNTNsMXhFc2dyb242U0dZZkVNWHd4cVFXblhuZ2dzVWFHVzE3Q1NVc2Y5SnNEUDZQQXRmZzB4QjE5UENSa3dQWEJfNi1yV2tvTU1CTnEzNnh0RVFKUkFiaGcxRVljb1pqNFRZREdIVFdMVTVOUEpKcWJkbGFCeDhNcmpRdFZIdUU2b1BVd2pkR2JSNFlJUERfYTMybUM3MHlj?oc=5)
 - [neutral factual] Hotpress: The Tánaiste Let Himself Down with Drugs Stance, says Gary Gannon of the Social Democrats (https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDZDa2JqQjdhbVFhQ09mMHN4Z0xWSjFTRkpyZDZTQklyeVFZZWxSN0YxWmhsNktIWTFDTG9fMjIwZHVZd0xrMmJ6MFk4RHRtbkJxYXEteXlvX3otZWgybHR2RVZQam5zZVVUeVdQSExXbnVDSUtGVjRhRkFlV0YxYmJLa1pKTHlTZ2pQdXVpRXpLZEpZck9MZVVkRUFhU3gwYWRDclpLLXNrajN6cTVYOGNYTXBfc2dRSWd5VFE0VEg?oc=5)
 - [neutral factual] Limerick's Live 95: Government investigation into Limerick-based Aughinish Alumina nears completion (https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEFRTmhzeVdHM0EtaUR6MnBnY3pkeWpMSXNXdDV3X1pJS3FwbHU4U0UwQUdoZjBPSEpicUFPQVQ4VTV6R0NLTjhZZWZWbWV1OVdNRlFMenFzTTlSVGhVYWRPXzhXemw1ZVBkbWhUYThreXVkUEpIMU1Oa0VDcGk5SlIzd3Z4bFpiMDQ2eTZHUmVFQkFIclpId1ZrTEdWaC1ETW9xMFM5aWFyZjFpS2ZFS2JPLTFRNjFWc285eWdB?oc=5)
-- [neutral factual] INSIGHT EU MONITORING: EU finance ministers target October deal on capital market integration package (https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5)
-- [neutral factual] INSIGHT EU MONITORING: EU finance ministers target October deal on capital market integration package (https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5)
-- [neutral factual] The Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOTN2VXZ3aUVXNWVlTnFtdXZIVXVSajdINXZjNmlwTUtTaE11N1lpdy0xQXh0Zzl4dk5ZMWxZdnFqU1lHX1Y4aU5nVE04UmVzektTRzd3N1hfZHBxcWhZQUdJMk5qc1QzVmpZQU5Dc0NaNy1JRlN3cmd0ZHRGcHJpaC03ZkVHMzRtY3RPYXRZbUV2TDJtaFRhR3RWU3RXamNieUVBb2N0M0hkS3lBOVlDQlN4cURjQ3BFcENFN2xDbVFtUUM3UXk5ZUhuVTdsM1BZdXJKN09n?oc=5)
-- [neutral factual] Irish Times: Simon Harris channels Father Ted in search for elusive EU deal on financial reforms (https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/)
-- [neutral factual] Belfast Telegraph: Need to ‘understand’ impact of sanctions on alumina, Tánaiste says (https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzdaOGVEVEhsSUg3ZUNhcmRFV0xoZWd3VlUyb1NTZEJZd0VjdDE4R19jZUJ1QldNMlFNVndOUFpRM2pveXpDdnZHdFVaTGtyTko3T1BkQUZCZU5DeHJEM1EyTkxpcXNxbC1LR0FSZEtIUkZobFhKdUExUTllT3JCWVF3VTdKVm14V1l0UXNxM2trcWV0dEpJNHVJeWdpLWJyVi1GbmpjT1FMdm8wRTJ2Ti1Ia19zQW80QVhIeEd3RGs3TkVyRTVJNEoyaHVhWlFaTHZTQVBxUQ?oc=5)

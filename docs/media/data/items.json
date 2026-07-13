@@ -1326,6 +1326,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:41:43 GMT",
+    "headline": "Simon Harris thrown in at the deep end during his first EU presidency gig in Brussels",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5",
+    "summary": "Irish Independent reports: Simon Harris thrown in at the deep end during his first EU presidency gig in Brussels.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "simon-harris-thrown-in-at-the-deep-end-during-his-first-eu-presidency-gig-in-bru",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU2lMQ0xaSTlRWDlzRDZmeEpzbVlMeTN3QW0yZmxHaDNRMHpKLWRkbHlXczA5Nnh2S3NJalBkR2w5VWt4LXVLU28tMndsRDNfQ09NbjhhUmNQdTRVUjNtU2RYR3o4dUEwaVQzSFRFN09VVGRDVV9vazVKVmNpM2w0N25IRWllVmVzdE9tVldJcHA4S3JqV0dqSTdBb2h1c3E5NXNXcHR0RlMzMGl4bzJ5TjRlNEwtd0ZFYjFNank3c2ZRWUJEMlczQXVyYWxrcWNHbHRTTExuWC1aaExzV0JXR2htSldVYnk5c1E?oc=5": {
     "outlet": "Irish Independent",
     "published": "Wed, 17 Jun 2026 03:21:43 GMT",
@@ -1390,6 +1415,31 @@
     "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSFQ0ZWdzcktDSXR5UWhldnkwZWY2eVJTZjJmdDNhMHYtTm1BVkpRYl9VQTlaakRUOF9GdlVHUVpva0Q1RmpMTlQxUU5Nb2dqRFcxMEhUNFd2cnQtdXdTMGxuV185N0tSZVN4cnZ4aTVRNzVibk1IUXF6ZFUycDlMSTd4WmVhU3VoOUstdngydEJTYXFEZnJ4emZyb1IyeWVpWmt2bXRKUWFxbHgySS1ZdzNHWEFwOU9nR1VvTXNGcXhnVXJ0Mzc4andjQ2FuQk5jdWhMSEFWczZjaHZjRWpFTWVoLTRLdUxWREZR?oc=5",
     "source_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSFQ0ZWdzcktDSXR5UWhldnkwZWY2eVJTZjJmdDNhMHYtTm1BVkpRYl9VQTlaakRUOF9GdlVHUVpva0Q1RmpMTlQxUU5Nb2dqRFcxMEhUNFd2cnQtdXdTMGxuV185N0tSZVN4cnZ4aTVRNzVibk1IUXF6ZFUycDlMSTd4WmVhU3VoOUstdngydEJTYXFEZnJ4emZyb1IyeWVpWmt2bXRKUWFxbHgySS1ZdzNHWEFwOU9nR1VvTXNGcXhnVXJ0Mzc4andjQ2FuQk5jdWhMSEFWczZjaHZjRWpFTWVoLTRLdUxWREZR?oc=5",
     "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHMxck5CdjFVQ0FrSmlUVTktdllCWTNkczF1Vlp5SkJzTTVtUkdmZ2JUR3VzUE82TlNyVW85LWt3WmxLcm83aTdrSDVUSUV6MWFZTmxhdWFWekZ5QUdjbnNpYVc2ODJxWDQycDQ4ZmVaaG52Mm9ISUtqbVBNaVZrQXMxc2s5aXpTbUFJT2dKcXhXbTZsN184dFVWMFRmVFJrbFl1NE9EMTZoZ0hrXzdqTXhldkM5YThvSzVNeEZxOG5JMXZqSkRJbW9ZRENmdUdPSktiNkJock9nZUZ2MnNQbmpiZXFpUWhDZzdZ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:41:37 GMT",
+    "headline": "Insurers refuse to cover e-scooters as Government considers crackdown amid rise in serious accidents",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHMxck5CdjFVQ0FrSmlUVTktdllCWTNkczF1Vlp5SkJzTTVtUkdmZ2JUR3VzUE82TlNyVW85LWt3WmxLcm83aTdrSDVUSUV6MWFZTmxhdWFWekZ5QUdjbnNpYVc2ODJxWDQycDQ4ZmVaaG52Mm9ISUtqbVBNaVZrQXMxc2s5aXpTbUFJT2dKcXhXbTZsN184dFVWMFRmVFJrbFl1NE9EMTZoZ0hrXzdqTXhldkM5YThvSzVNeEZxOG5JMXZqSkRJbW9ZRENmdUdPSktiNkJock9nZUZ2MnNQbmpiZXFpUWhDZzdZ?oc=5",
+    "summary": "Irish Independent reports: Insurers refuse to cover e-scooters as Government considers crackdown amid rise in serious accidents.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "insurers-refuse-to-cover-e-scooters-as-government-considers-crackdown-amid-rise-",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHMxck5CdjFVQ0FrSmlUVTktdllCWTNkczF1Vlp5SkJzTTVtUkdmZ2JUR3VzUE82TlNyVW85LWt3WmxLcm83aTdrSDVUSUV6MWFZTmxhdWFWekZ5QUdjbnNpYVc2ODJxWDQycDQ4ZmVaaG52Mm9ISUtqbVBNaVZrQXMxc2s5aXpTbUFJT2dKcXhXbTZsN184dFVWMFRmVFJrbFl1NE9EMTZoZ0hrXzdqTXhldkM5YThvSzVNeEZxOG5JMXZqSkRJbW9ZRENmdUdPSktiNkJock9nZUZ2MnNQbmpiZXFpUWhDZzdZ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHMxck5CdjFVQ0FrSmlUVTktdllCWTNkczF1Vlp5SkJzTTVtUkdmZ2JUR3VzUE82TlNyVW85LWt3WmxLcm83aTdrSDVUSUV6MWFZTmxhdWFWekZ5QUdjbnNpYVc2ODJxWDQycDQ4ZmVaaG52Mm9ISUtqbVBNaVZrQXMxc2s5aXpTbUFJT2dKcXhXbTZsN184dFVWMFRmVFJrbFl1NE9EMTZoZ0hrXzdqTXhldkM5YThvSzVNeEZxOG5JMXZqSkRJbW9ZRENmdUdPSktiNkJock9nZUZ2MnNQbmpiZXFpUWhDZzdZ?oc=5",
+    "topic": "Other",
     "attention": [
       "High-reach outlet"
     ],
@@ -3218,6 +3268,31 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Headline uses critical or risk language: under fire."
+  },
+  "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:33:20 GMT",
+    "headline": "‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
+    "summary": "Irish Independent reports: ‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "what-would-the-t-naiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-w",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5": {
     "outlet": "Irish Independent",
@@ -6000,6 +6075,29 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGw4VUs1QmxOOUx6MTlnZlVWMWdKeUhHd000R05ZQnpLZVZ0WmVqbVpibGZlT3Q0Wk9xY2ZVckV0c2NTek16MnZGdU1KbFdxV3ItQVJTcWd6UUFONnM0SXJWUFJwSFYyQzRZWTVyZTZkU2VLTnNxVEFLak9kN1JGQ19pRVpOWlJvS0ZobFZqd3RCbU0zUURSZWpjMVhzZWtFdWg3UGE5QldDVmp2U1lnT0Q5TDFpVl9lUlViSWFyTm8wV1lwZUE?oc=5": {
+    "outlet": "Table.Briefings",
+    "published": "Mon, 13 Jul 2026 03:08:07 GMT",
+    "headline": "Capital markets supervision: Finance ministers reaffirm commitment to an agreement by October",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGw4VUs1QmxOOUx6MTlnZlVWMWdKeUhHd000R05ZQnpLZVZ0WmVqbVpibGZlT3Q0Wk9xY2ZVckV0c2NTek16MnZGdU1KbFdxV3ItQVJTcWd6UUFONnM0SXJWUFJwSFYyQzRZWTVyZTZkU2VLTnNxVEFLak9kN1JGQ19pRVpOWlJvS0ZobFZqd3RCbU0zUURSZWpjMVhzZWtFdWg3UGE5QldDVmp2U1lnT0Q5TDFpVl9lUlViSWFyTm8wV1lwZUE?oc=5",
+    "summary": "Table.Briefings reports: Capital markets supervision: Finance ministers reaffirm commitment to an agreement by October.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "capital-markets-supervision-finance-ministers-reaffirm-commitment-to-an-agreemen",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGw4VUs1QmxOOUx6MTlnZlVWMWdKeUhHd000R05ZQnpLZVZ0WmVqbVpibGZlT3Q0Wk9xY2ZVckV0c2NTek16MnZGdU1KbFdxV3ItQVJTcWd6UUFONnM0SXJWUFJwSFYyQzRZWTVyZTZkU2VLTnNxVEFLak9kN1JGQ19pRVpOWlJvS0ZobFZqd3RCbU0zUURSZWpjMVhzZWtFdWg3UGE5QldDVmp2U1lnT0Q5TDFpVl9lUlViSWFyTm8wV1lwZUE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGw4VUs1QmxOOUx6MTlnZlVWMWdKeUhHd000R05ZQnpLZVZ0WmVqbVpibGZlT3Q0Wk9xY2ZVckV0c2NTek16MnZGdU1KbFdxV3ItQVJTcWd6UUFONnM0SXJWUFJwSFYyQzRZWTVyZTZkU2VLTnNxVEFLak9kN1JGQ19pRVpOWlJvS0ZobFZqd3RCbU0zUURSZWpjMVhzZWtFdWg3UGE5QldDVmp2U1lnT0Q5TDFpVl9lUlViSWFyTm8wV1lwZUE?oc=5",
+    "topic": "Finance",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5": {
     "outlet": "The Irish Times",
     "published": "Thu, 04 Jun 2026 11:32:10 GMT",
@@ -7240,6 +7338,31 @@
     "topic": "Finance",
     "attention": [
       "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.independent.ie/irish-news/politics/what-would-the-tanaiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-with-simon-harris-over-turf-cutting-rules/a/158621115.html": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 04:30:00 GMT",
+    "headline": "‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules",
+    "link": "https://www.independent.ie/irish-news/politics/what-would-the-tanaiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-with-simon-harris-over-turf-cutting-rules/a/158621115.html",
+    "summary": "Irish Independent reports: ‘What would the Tánaiste suggest we do if the storms hit again?’ – pensioner pleads with Simon Harris over turf-cutting rules.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "what-would-the-t-naiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-w",
+    "first_seen": "2026-07-13T05:05:03Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/irish-news/politics/what-would-the-tanaiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-with-simon-harris-over-turf-cutting-rules/a/158621115.html",
+    "topic": "Other",
+    "attention": [
       "High-reach outlet"
     ],
     "outlet_tier": "national",
