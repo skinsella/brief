@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Mon, 13 Jul 2026 19:00 GMT
+Updated: Mon, 13 Jul 2026 20:22 GMT
 
 ## Snapshot
 
@@ -66,8 +66,8 @@ Updated: Mon, 13 Jul 2026 19:00 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [active] Central Bank warns spending overruns could push deficit to €25.7bn — 2 item(s), 1 outlet(s), 1 in 6h, 2 in 24h, net 0%. Outlets: Business Post
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
+- [active] Central Bank warns spending overruns could push deficit to €25.7bn — 2 item(s), 1 outlet(s), 0 in 6h, 2 in 24h, net 0%. Outlets: Business Post
 - [dormant] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Irish Independent
 
 ## Recent Items

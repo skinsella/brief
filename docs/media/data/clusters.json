@@ -253,36 +253,6 @@
     ]
   },
   {
-    "key": "finance:7bn-bank-central-deficit-overruns-push:1e2ae723",
-    "title": "Central Bank warns spending overruns could push deficit to €25.7bn",
-    "topic": "Finance",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-13T12:56:50Z",
-    "latest_seen": "2026-07-13T13:13:11Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 2
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 20,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0tEZmJtSTA1V1ZCNzkxakZhYmNtczJBYVRkX2VyeU9PeFBvYmM4aDdBOFQ1Zm1HaU04c051bHc0SGxjQXpLQjEwdThwajhCTjVlYkdWUVktNmVGeU45TmxMWTNvbWk1UV9XQWktM1EtcTJCWDZIRGFUOGpBTXlrNkVRQnpTNU9fdzNoMjdzNXFldXJxeHlqLWFYTVBkUVg3MTdtZGhXZ2gtVkRrNXc?oc=5",
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5"
-    ]
-  },
-  {
     "key": "finance:50bn-budgetary-government-position-returns-strengthen:0ab06b9e",
     "title": "Strong tax returns of €50bn strengthen Government’s budgetary position",
     "topic": "Finance",
@@ -311,6 +281,36 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/strong-tax-returns-of-e50bn-strengthen-governments-budgetary-position-1922125.html",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXViZVN1OVBUdzgxZk1xbXVtQmQ4WGYxamNiRWczV0MxUjNpTEdZNzcwSGpqejlIYlhXY01JMUVzRFFhbWpPajlZUDBRQWVyU1pDSlNRZUdPVnR2WFBacmZwRFJtdXlvTU5XODYySF85RjM0QU5lbV9ORm9XZ2Y4Sl9nWmRpNnJNMUktb1FxOVFXWWF2NThEbnBKQzdZZm1uSGh3S3otMnY5Z3hTa2w3b0hJV1NCbnM?oc=5"
+    ]
+  },
+  {
+    "key": "finance:7bn-bank-central-deficit-overruns-push:1e2ae723",
+    "title": "Central Bank warns spending overruns could push deficit to €25.7bn",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-13T12:56:50Z",
+    "latest_seen": "2026-07-13T13:13:11Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 2
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 17,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0tEZmJtSTA1V1ZCNzkxakZhYmNtczJBYVRkX2VyeU9PeFBvYmM4aDdBOFQ1Zm1HaU04c051bHc0SGxjQXpLQjEwdThwajhCTjVlYkdWUVktNmVGeU45TmxMWTNvbWk1UV9XQWktM1EtcTJCWDZIRGFUOGpBTXlrNkVRQnpTNU9fdzNoMjdzNXFldXJxeHlqLWFYTVBkUVg3MTdtZGhXZ2gtVkRrNXc?oc=5",
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5"
     ]
   },
   {
