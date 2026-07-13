@@ -1768,6 +1768,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5": {
+    "outlet": "businessplus.ie",
+    "published": "Mon, 13 Jul 2026 14:31:10 GMT",
+    "headline": "Central Bank governor warns of potential €25.7bn deficit if overruns persist",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5",
+    "summary": "businessplus.ie reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
+  },
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CSElSWTNUUERVOEdtZlJpcldBS0RtZ09yRGxTYmFQczVCdVJiemM5V29yV3UyN1JjTkExMk5STTVZRC1GM3Z2WWttTjlxNDhIUGpuZEVSRjVEdFIt?oc=5": {
     "outlet": "Oncodaily",
     "published": "Wed, 08 Jul 2026 19:08:33 GMT",
@@ -1785,6 +1810,31 @@
     "attention": [],
     "outlet_tier": "other",
     "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Mon, 13 Jul 2026 16:10:00 GMT",
+    "headline": "'Some merit' in having language proficiency test for people seeking Irish citizenship, Tánaiste says",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5",
+    "summary": "Irish Examiner reports: 'Some merit' in having language proficiency test for people seeking Irish citizenship, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "some-merit-in-having-language-proficiency-test-for-people-seeking-irish-citizens",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
     "favourability": "neutral",
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
@@ -2064,6 +2114,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Mon, 13 Jul 2026 16:13:00 GMT",
+    "headline": "Simon Harris: Focus on race and ethnicity of violent offenders is 'downright wrong'",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5",
+    "summary": "Irish Examiner reports: Simon Harris: Focus on race and ethnicity of violent offenders is 'downright wrong'.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "simon-harris-focus-on-race-and-ethnicity-of-violent-offenders-is-downright-wrong",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RalZCel9UeExfV1hxaWp3ZHlYand0VHFWblBPbUd4dmhVSFlvMVpvOEhjWGFTaU10TzhiRjhQczltNWU3Nk10akZ6ZTBpWm9KSlFDZzFZM2ZtcUNmdUtkaXRtUE9EWXViNk9McmprWQ?oc=5": {
@@ -2806,6 +2881,32 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5": {
+    "outlet": "The Journal",
+    "published": "Mon, 13 Jul 2026 16:20:00 GMT",
+    "headline": "Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5",
+    "summary": "The Journal reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
   },
   "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQ0txcG03LURSTnFDUmUwRlVlalJKSWZGUjl3UGhHUjRCSUxwRWtkOHRnYmlOeXZTNkxvMnl1RHVRcGk2M1FIcFA0TjcxdFhpLUNLR1kxLXVUazV2TzhpbWs1djZ0SGVqQ3gzMmw4S0xaMXAtTEZmQWg4amVjVWlIcGVENG1XQ2RJNEY5aTJfRXRsYjhMZ3kzWDg3Z1FNQS1pRjZwVkFsU3RNd1hib2JyaUg0eHVIU3RDWXVCSjFmUUlNR0ttZ2liTFloUEJUWWVwaWptYVAxRmo0N0JjTEtjZFpFSUhmV0RnMDJ1djRiQ1Z4MndVY3Vob1N5WWx1aDJOV0Zzag?oc=5": {
     "outlet": "Irish Independent",
@@ -6325,6 +6426,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 13 Jul 2026 16:21:43 GMT",
+    "headline": "Simon Harris calls for 'uniformity' across EU on social media ban for children",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5",
+    "summary": "Irish Independent reports: Simon Harris calls for 'uniformity' across EU on social media ban for children.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "simon-harris-calls-for-uniformity-across-eu-on-social-media-ban-for-children",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV0daWE9sYXRzVkJQU2lRUDVaMnVnVENCa0ZmN3UyQWpka1I5cEhGNnIxeFNkLTNLM2plVVlXZlBoNUhfeXZqOUxqb1NHOFFCQ2JtYzIwQTZoQ2t2SWl1aGdUQVJuQXdCUXFMTzVFRmtEODdXUlZxenY2MWhLQVQ4WlhxZHZJTks3NmtIVHA3bmJlWHJqRHZSbEExd3B6X3lYQmpBVk5xeC11TWJEUHZhdVJTTEFvblJpZHNTSUtxM0laX29rMzFF?oc=5": {
     "outlet": "KCLR 96FM",
     "published": "Thu, 04 Jun 2026 11:08:21 GMT",
@@ -6421,6 +6547,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5": {
+    "outlet": "The Irish Times",
+    "published": "Mon, 13 Jul 2026 16:34:30 GMT",
+    "headline": "Government favours blanket ban on social media for under-16s despite EU proposals",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5",
+    "summary": "The Irish Times reports: Government favours blanket ban on social media for under-16s despite EU proposals.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-favours-blanket-ban-on-social-media-for-under-16s-despite-eu-proposal",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNXNMLVY0WHRaOTlQUGRLa3pOdmhaQnl5dHR6ZTJkeGdvM0o3R1Z1VTY2cmhoWkVnWW5nbXRrUmdSU1hIQklfZTBfcVZmQWFLb0JHUlU1Z1NicVBEYnh4dW4yZEhtVzN4Q2ZkaUJKdEFPQTctY0tIeE5fUVZpZWFMZWNoX1J5SzZOZ2RVWENEcUR0VWplUEh4NHF3SU1uQWcxUk43NFBJVU9yaEVJMnNFMDJHaDVyRWo3T091U0hqQXluQkZJZ1hLeg?oc=5": {
@@ -7071,6 +7222,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html": {
+    "outlet": "BreakingNews.ie",
+    "published": "Mon, 13 Jul 2026 15:48:59 Europe/Dublin",
+    "headline": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
+    "link": "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
+    "summary": "BreakingNews.ie reports: Language proficiency for citizenship worth ‘considering’, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "language-proficiency-for-citizenship-worth-considering-t-naiste-says",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "BreakingNews.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.breakingnews.ie/ireland/minister-recommends-government-apology-for-kenneally-victims-1911504.html": {

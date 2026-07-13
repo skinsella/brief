@@ -378,6 +378,36 @@
     ]
   },
   {
+    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
+    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-13T14:48:59Z",
+    "latest_seen": "2026-07-13T15:48:59Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 13,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
+    ]
+  },
+  {
     "key": "other:announces-blueprint-for-unity:553992f6",
     "title": "Simon Harris announces 'blueprint' for Irish unity",
     "topic": "Other",
@@ -438,6 +468,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2030-26bn-bank-budget-central-deficit:0c027830",
+    "title": "Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Journal"
+    ],
+    "first_seen": "2026-07-13T16:20:00Z",
+    "latest_seen": "2026-07-13T16:20:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5"
     ]
   },
   {
@@ -778,6 +837,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5"
+    ]
+  },
+  {
+    "key": "finance:7bn-bank-central-deficit-governor-overruns:cf35d84a",
+    "title": "Central Bank governor warns of potential €25.7bn deficit if overruns persist",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "businessplus.ie"
+    ],
+    "first_seen": "2026-07-13T14:31:10Z",
+    "latest_seen": "2026-07-13T14:31:10Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 10,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5"
     ]
   },
   {
@@ -1866,16 +1954,16 @@
     ]
   },
   {
-    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
-    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
-    "topic": "Other",
+    "key": "foreign affairs:16s-ban-blanket-despite-favours-for:008e70f5",
+    "title": "Government favours blanket ban on social media for under-16s despite EU proposals",
+    "topic": "Foreign affairs",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "BreakingNews.ie"
+      "The Irish Times"
     ],
-    "first_seen": "2026-07-13T14:48:59Z",
-    "latest_seen": "2026-07-13T14:48:59Z",
+    "first_seen": "2026-07-13T16:34:30Z",
+    "latest_seen": "2026-07-13T16:34:30Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -1891,7 +1979,94 @@
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5"
+    ]
+  },
+  {
+    "key": "foreign affairs:across-ban-calls-children-for-media:019bb702",
+    "title": "Simon Harris calls for 'uniformity' across EU on social media ban for children",
+    "topic": "Foreign affairs",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-13T16:21:43Z",
+    "latest_seen": "2026-07-13T16:21:43Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:downright-ethnicity-focus-offenders-race-violent:67ff64ac",
+    "title": "Simon Harris: Focus on race and ethnicity of violent offenders is 'downright wrong'",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-13T16:13:00Z",
+    "latest_seen": "2026-07-13T16:13:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:citizenship-for-having-language-merit-people:2931dc6c",
+    "title": "'Some merit' in having language proficiency test for people seeking Irish citizenship, Tánaiste says",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-13T16:10:00Z",
+    "latest_seen": "2026-07-13T16:10:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5"
     ]
   },
   {

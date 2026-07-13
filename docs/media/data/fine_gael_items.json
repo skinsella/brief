@@ -5499,6 +5499,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQb29hVG5iZzFvREZ6RUVGOVA3OTdseHZETGhreUkxRUJpTHZ5a3E5Nm9Ud3EwM1RES2FhMV9oSG1tM0diVC03TUlXUW1Wajd2MGg2V2haSWtDZXYyNnlFeHZkdXJ6elBMSDdV?oc=5": {
+    "outlet": "The Journal",
+    "published": "Mon, 13 Jul 2026 16:53:00 GMT",
+    "headline": "Flour could be fortified with folic acid to reduce birth defects in Ireland",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQb29hVG5iZzFvREZ6RUVGOVA3OTdseHZETGhreUkxRUJpTHZ5a3E5Nm9Ud3EwM1RES2FhMV9oSG1tM0diVC03TUlXUW1Wajd2MGg2V2haSWtDZXYyNnlFeHZkdXJ6elBMSDdV?oc=5",
+    "summary": "The Journal reports: Flour could be fortified with folic acid to reduce birth defects in Ireland.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "flour-could-be-fortified-with-folic-acid-to-reduce-birth-defects-in-ireland",
+    "first_seen": "2026-07-13T17:20:43Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQb29hVG5iZzFvREZ6RUVGOVA3OTdseHZETGhreUkxRUJpTHZ5a3E5Nm9Ud3EwM1RES2FhMV9oSG1tM0diVC03TUlXUW1Wajd2MGg2V2haSWtDZXYyNnlFeHZkdXJ6elBMSDdV?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQb29hVG5iZzFvREZ6RUVGOVA3OTdseHZETGhreUkxRUJpTHZ5a3E5Nm9Ud3EwM1RES2FhMV9oSG1tM0diVC03TUlXUW1Wajd2MGg2V2haSWtDZXYyNnlFeHZkdXJ6elBMSDdV?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LOHdfelNxWUplajNraFNWU0o4eWVSQ2xwdXNsdXZHdFJlRktidXpJZlRDWUFmcWtiTlJ0Wm9BZUtsdHdaaHVCV2VGaHdKRGZtRllKOHRNV3hjQllpS3JzVVYzVDR4YUxU?oc=5": {
     "outlet": "Newstalk",
     "published": "Tue, 30 Jun 2026 14:14:09 GMT",

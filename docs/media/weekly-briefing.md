@@ -1,45 +1,45 @@
 # Simon Harris Media Briefing
 
-Updated: Mon, 13 Jul 2026 14:55 GMT
+Updated: Mon, 13 Jul 2026 17:20 GMT
 
 ## Snapshot
 
-- Recent coverage: 78 item(s) in the last 7 days.
+- Recent coverage: 85 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 10.
+- Significant items: 12.
 
 ## Trend Summary
 
-- Coverage volume: 78 item(s) in the last 7 days; up 24 vs previous 7 days.
+- Coverage volume: 85 item(s) in the last 7 days; up 31 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 40 item(s).
+- Main topic: Other leads recent coverage with 43 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 15 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 9 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 15 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
 ## Needs Attention
 
 - [Polling, High-reach outlet] Irish Independent: Wicklow sheds, youth centres and cancer supports to share €200,000 in community funding (https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5)
+- [Policy, High-reach outlet] The Journal: Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief (https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5)
 - [Policy, High-reach outlet] The Irish Times: Central Bank warns spending trajectory could ‘deplete fiscal buffers’ (https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5)
 - [Policy, High-reach outlet] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
 - [Policy, High-reach outlet] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
 - [Fast Reaction, Critical framing] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
+- [Policy] businessplus.ie: Central Bank governor warns of potential €25.7bn deficit if overruns persist (https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
-- [Policy] Irish Legal News: Central Bank launches €2 commemorative coin to mark Irish Presidency of the Council of the European Union (https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5)
-- [Policy] The Times: Simon Harris plans €1.5bn income tax giveaway (https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5)
 
 ## Top Topics
 
-- Other: 40
-- Finance: 23
-- Foreign affairs: 5
+- Other: 43
+- Finance: 25
+- Foreign affairs: 7
 - Fine Gael: 5
 - Constituency/local: 2
 - Tax: 1
@@ -48,14 +48,14 @@ Updated: Mon, 13 Jul 2026 14:55 GMT
 
 ## Top Outlets
 
-- Irish Independent: 15
+- Irish Independent: 16
 - Business Post: 8
+- BreakingNews.ie: 5
 - MSN: 5
-- BreakingNews.ie: 4
+- The Irish Times: 3
+- Irish Examiner: 3
 - RTE.ie: 3
-- The Irish Times: 2
-- Hotpress: 2
-- INSIGHT EU MONITORING: 2
+- The Journal: 2
 
 ## Story Clusters
 
@@ -72,8 +72,15 @@ Updated: Mon, 13 Jul 2026 14:55 GMT
 
 ## Recent Items
 
+- [neutral factual] The Irish Times: Government favours blanket ban on social media for under-16s despite EU proposals (https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5)
+- [neutral factual] Irish Independent: Simon Harris calls for 'uniformity' across EU on social media ban for children (https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5)
+- [mixed framing] The Journal: Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief (https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5)
+- [neutral factual] Irish Examiner: Simon Harris: Focus on race and ethnicity of violent offenders is 'downright wrong' (https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5)
+- [neutral factual] Irish Examiner: 'Some merit' in having language proficiency test for people seeking Irish citizenship, Tánaiste says (https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5)
+- [neutral factual] BreakingNews.ie: Language proficiency for citizenship worth ‘considering’, Tánaiste says (https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html)
 - [neutral factual] BreakingNews.ie: Language proficiency for citizenship worth ‘considering’, Tánaiste says (https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5)
 - [mixed framing] The Irish Times: Central Bank warns spending trajectory could ‘deplete fiscal buffers’ (https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5)
+- [mixed framing] businessplus.ie: Central Bank governor warns of potential €25.7bn deficit if overruns persist (https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5)
 - [mixed framing] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5)
 - [mixed framing] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
 - [mixed framing] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
@@ -85,10 +92,3 @@ Updated: Mon, 13 Jul 2026 14:55 GMT
 - [neutral factual] Connaught Telegraph: The unravelling of the Fine Gael empire in Mayo (https://news.google.com/rss/articles/CBMikgFBVV95cUxON3ZxalR0WlFPWUhEQTRvalRTZ1A3d3hkS2EwWllVZElmOEJKMjZBWEh6NjFvckk5WVkxQ0JaTFg0bTVGc0FjVUZ1NGZ6R1B2dVNyc2dfM0FuR0h0QjZzLVBHLW5PY1RrcDdwZ2Z0TTRJQy1rRGo1bFdOUXlybG0xYzFSUVNFM21TeUF3dWoxMTRSZw?oc=5)
 - [neutral factual] MSN: Government borrowing to top up its saving funds was always a 'very real possibility', says McGrath (https://news.google.com/rss/articles/CBMilgNBVV95cUxQbnl3VnhybXVkQUwzamktT1F4dHhHWWp2YXpfOTdyajZYYi1ybV9YZHFlUl8yeXlBYUNDVFJBdGw4R0JERVdVRU1YWHY3TnMwMkJ2eTNSZEdkTG9QZDJMSjJVTzAtZFZnY0xJTHJmSmtQYkJWaUZZNENVRUg5UV85WHIzMDRHRGktTEdDRjdRM2E4TXdzSG1uUUdnTnM1V0lrYWw5YVJnOWlYOHVtWHdkckw0OWo2VTZ1YXlhaTEzYXBycmphaTJqeGtac2dWZEJFU2sxby1rcTFjWTNkSHh5bnk0VmVNb3AtQk9TZ01HNmZJbXozTFIxNlBONU1LMkFvSVY2OW5TQ0tSRmJMUldjVWw4RUdOdHpONXFIYXNRdUVwVzQzekR2ekltbVBYZ1J1T1pvNGFlbzl1VEFoOURod1pMX2kxanNmX1d6REtKRmhqb21uVWhNUW5sS2JMdXdRVXNkTUE0eHRFcHhucU5fTW9GVmR3R3RmRkZFYk1jRXgwQ1ZsQ0dDblByOHJ4TjJic0tWaE13?oc=5)
 - [critical] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
-- [neutral factual] The Times: Simon Harris plans €1.5bn income tax giveaway (https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmJYZFBBd3FzenRUbTVjamx6TkY2RUdnamFRSVlGQ2R2bmwxNlBCMkYzSlh1Z21NdmoyOUpFNWtNRmg1cDdxTlJ6NTYxWm1TZUU4eElUYW16cDRMMWg3bjFLNXBfc2tJbXRUMkJOd3VvNXo3ZzRsNzlNN1UtMmxOWTJWMVZkN2k5bWZhUjFGYzFwbjAtS3pVYTB5d2tZd1dTNFozSmNoMnNMVmRhMGlsWDFpY0cxUDlKT2pWRGNkVEJrU0dCNjF2U0luSFRCMFBoQldJOA?oc=5)
-- [neutral factual] MSN: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjlxSmxkVmdlQW9Ta21lSUhvN010ZFF5aXVNdTI2ZjFKSkFzcXkxa1M3N1RTSnl4Z09wUEszOGowVkZENzUzeFpRamxEcklsVE9mM19VOVJSVWw1dGdFUTFyR05ncUJhS3k0WXVCaDlOQ1dJM3h1YjdMc05SNXNaWF8wdlN1dlJvcVpOUEZqQ1VGamg1UUd0TUFhMlNpdWhqRmUzbk1kMVhDOFFFUXZyazFtTU9wQ0Z5bUhfYTNjLWVmemxCc1ptSWZKd1hUUlVSRVpPRHFJWndOYzgxc25zdHVSOTZWTmNhcUpQOGNB?oc=5)
-- [neutral factual] Business Post: EU finance ministers set October deadline for market supervision overhaul despite divisions (https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3hVQlA2MFJMLUZKTFFoSElRWWNsdUV4Zm9YSTNMQkxSNWhzVjU2YzRmOWoxNXlGcTQwclpTVk9YaHVzT3BuWHVvdGQ4WUF5OFhzaFdoVEtNMFRNQnI5a3d0TWlVNWFTQTRsRDg2b3JNMk5rcVp1NHgwSXhjdlFvT1hiUUpnVU1DVzNBX2NHZ1psUEMwaXJyTUZXYkZCdHFDWDNlSE96YWhYMzlXMjhDU3ZNcDF3bERQbEdJS3pzekRSMjVLbzMxQUhPMjNtcW8?oc=5)
-- [neutral factual] Business Post: Future Ireland Fund had €5.2bn invested in German and French government bonds (https://news.google.com/rss/articles/CBMivAFBVV95cUxOcy1hWGFWUmd0OXJ6T0JkYXg3bE12YzgyVFRWMVJURnZaR3pTZkpVM0dyMnRuekNaemZENWZIVXg0MnpXSk9aRmk5ZW9kM0FMd3JHWktQQ0wwcFNKT2F4QnpNbnlINGw5MnVFMXMxV29nMXJRV1NCVmlWZlphMHdndE9FWmxHeXRsTWdqS0tmanBlWFJTcGQ5Mk0xbjN4ajdXekVMZi00NkdOWmtEa0Z6bUpzX2tuQWNaTHBYNQ?oc=5)
-- [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
-- [neutral factual] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
-- [neutral factual] Business Post: Future Ireland Fund had €5.2bn invested in German and French government bonds (https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjUyOFBpdFlsWmNWcWZReG1WTGlFUEMtVnlhT2V1VUNUczd5UGk2dG9JOHZwOTAxVE5tZHVBMFBOSER3andVajEwU2U2T2U0UUQ5QXIwQ3ZxSk1uMmkzRzhpNU1CcmVqZFBWSzJxZWh4elhKYnFLQVM1LTlmNUp6RHdEMl9ydk9QRGtBeXlfSkcxVEJGM2tkTmFrVlVhaWdTMjNmV19PbUJBZ05qQWtHM2hFVVQ?oc=5)
