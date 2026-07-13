@@ -441,6 +441,64 @@
     ]
   },
   {
+    "key": "finance:bank-buffers-central-deplete-fiscal-spending:241f7082",
+    "title": "Central Bank warns spending trajectory could ‘deplete fiscal buffers’",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-13T14:46:49Z",
+    "latest_seen": "2026-07-13T14:46:49Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5"
+    ]
+  },
+  {
+    "key": "finance:7bn-bank-central-deficit-overruns-push:1e2ae723",
+    "title": "Central Bank warns spending overruns could push deficit to €25.7bn",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-13T12:56:50Z",
+    "latest_seen": "2026-07-13T12:56:50Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5"
+    ]
+  },
+  {
     "key": "finance:2030-7bn-bank-budget-central-deficit:a8f21a79",
     "title": "Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist",
     "topic": "Finance",
@@ -1805,6 +1863,35 @@
     "item_links": [
       "https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5"
+    ]
+  },
+  {
+    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
+    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-13T14:48:59Z",
+    "latest_seen": "2026-07-13T14:48:59Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
     ]
   },
   {

@@ -7734,6 +7734,32 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bzllSk95a3RPVUZQR2FDcVYySS1DZjFYOGwtOXlGRnZhNmNYcUZOc21jbHp1MnZxdmJrZ2VkZnd1eEkxNzNaVU9OLWNtZGJXREU3X21WMTFDVTVUazVtbFVNNmpFQl9TbDh6ZkZINmFIU0xxcW5ITVhB?oc=5": {
+    "outlet": "Extra.ie",
+    "published": "Mon, 13 Jul 2026 14:09:22 GMT",
+    "headline": "Calls for Garda vetting overhaul amid concerns over repeat applications",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bzllSk95a3RPVUZQR2FDcVYySS1DZjFYOGwtOXlGRnZhNmNYcUZOc21jbHp1MnZxdmJrZ2VkZnd1eEkxNzNaVU9OLWNtZGJXREU3X21WMTFDVTVUazVtbFVNNmpFQl9TbDh6ZkZINmFIU0xxcW5ITVhB?oc=5",
+    "summary": "Extra.ie reports: Calls for Garda vetting overhaul amid concerns over repeat applications.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "calls-for-garda-vetting-overhaul-amid-concerns-over-repeat-applications",
+    "first_seen": "2026-07-13T14:55:07Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bzllSk95a3RPVUZQR2FDcVYySS1DZjFYOGwtOXlGRnZhNmNYcUZOc21jbHp1MnZxdmJrZ2VkZnd1eEkxNzNaVU9OLWNtZGJXREU3X21WMTFDVTVUazVtbFVNNmpFQl9TbDh6ZkZINmFIU0xxcW5ITVhB?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bzllSk95a3RPVUZQR2FDcVYySS1DZjFYOGwtOXlGRnZhNmNYcUZOc21jbHp1MnZxdmJrZ2VkZnd1eEkxNzNaVU9OLWNtZGJXREU3X21WMTFDVTVUazVtbFVNNmpFQl9TbDh6ZkZINmFIU0xxcW5ITVhB?oc=5",
+    "topic": "Courts/security",
+    "attention": [
+      "Critical framing",
+      "Review tone"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses critical or risk language: concerns."
+  },
   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdnoyS3NXMkI2bXZkUERveWIwdm9JNlNFaGRhVGY5RXNVTW5qSlY4RDE4MFlOREp2NndYTm05bEhSWXp4YnppUUQtcFQ2T3BabkhNN2RwWUp1TnlublRGN3J4b2tEcG9YWWN4R01IdzBqUVZzTmc2WDIzeFB6ak0?oc=5": {
     "outlet": "NorthernSound",
     "published": "Tue, 16 Jun 2026 06:20:18 GMT",
@@ -19624,6 +19650,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Mon, 13 Jul 2026 14:48:59 GMT",
+    "headline": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5",
+    "summary": "BreakingNews.ie reports: Language proficiency for citizenship worth ‘considering’, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "language-proficiency-for-citizenship-worth-considering-t-naiste-says",
+    "first_seen": "2026-07-13T14:55:07Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTlCeFE3Zl9jRXBpbDBUbEVlc0lRRDZ2WHFMS3d3Mmk0cjBkZG9DaUJIU2lud3VjZHktMkNWNkliQjlFR3J5NC1NMzlzREN5TEFOUFNuNC14dHZ6b2o0Y1lWNkJYTXhkU1BWaVdYMkt3SmNSNW4wTmxyeFBzWW5fNUVtTEp5OEFENHVBSTFibW03M0d6UHZScVZWblBSbjJxNWo1YkRELXRYNFR0TG80T0pBd1hGckgz?oc=5": {
