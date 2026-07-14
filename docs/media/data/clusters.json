@@ -147,40 +147,6 @@
     ]
   },
   {
-    "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
-    "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
-    "topic": "Other",
-    "item_count": 4,
-    "outlet_count": 3,
-    "outlets": [
-      "BreakingNews.ie",
-      "The Journal",
-      "TheJournal.ie"
-    ],
-    "first_seen": "2026-07-14T10:15:00Z",
-    "latest_seen": "2026-07-14T13:43:32Z",
-    "lifespan_hours": 3,
-    "velocity_6h": 4,
-    "velocity_24h": 4,
-    "reach_score": 12,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 27,
-    "status": "emerging",
-    "item_links": [
-      "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/",
-      "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
-      "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5"
-    ]
-  },
-  {
     "key": "tax:administered-announces-derelict-frustrated-revenue-sites:060363d9",
     "title": "'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue",
     "topic": "Tax",
@@ -284,6 +250,40 @@
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3F1Xy0zR3RYeGFId0l4clNpWmxFSmhDTERXaTJYOU5nNzZORld4QjJxbGUwMFFqdFBJRlRLQ0xBazdCb0pOcW9kRVI4RHZjNTZnQVpiVXlMY1h0T1A0eU4yZVZfR0tKWWo3YXZRMDRvN3ZhMEEySjhQVDNiemdSTktLT01yTzRyV0J5RDl3bi1QaURucVYxZUJzamNqUEpsOGEyZHZEN3RJRlhCbVhvLVQtcGVSYnpjUHF2S2tQRVhLd2dOS2xVTDRvVFNiaWt1UmNuaDNUMkRUVV9pRjJqWEI5UXdjZDA?oc=5",
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXRaak5Tb1UzejNNRXZ4ZmJteTg2SzFOcjNzZGFYa1R3R21VZWt5Y2YwZDcxaDV3a3JQekZBbU5OT2d2U3VucS1LOEo0V0hkMFdhQzNIZF9LaUR2WE9xcGdmcTY3VThUMDZBclRaalZNZ0lRTlJSZlhUSkNhU0JSMlRzWjZFOVM4RVBUT0NJa0w0SGxQV095eHJzUlZYWkZoZU53Vkd6QkFyd0VKODZvS3BlOENyVWdJ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVRZUURDdVBlc3ZKMVF3Vk5SVk5pSVNKc0RSb2Npc2RvZU1OV2hoTjA1WWFMa2JnUklrRkJlczJHSUZkTTZHT2ExQU5rMGt2WTNXeUpZdG1EMExSZE1ubjdVQUIzRXVLT1RuZkJDaWZWU25IUXMwUzVYY3Y1VjFHV3NkN2Jua2NLSlA2bWFRSzJpQUFTWWtvT2JBZWU0NkdLUG55RDZya096YnZsOG80dmwxaGtRM0ZYX3hDeTZKbFBLUQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
+    "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "topic": "Other",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-14T10:15:00Z",
+    "latest_seen": "2026-07-14T13:43:32Z",
+    "lifespan_hours": 3,
+    "velocity_6h": 2,
+    "velocity_24h": 4,
+    "reach_score": 12,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 21,
+    "status": "emerging",
+    "item_links": [
+      "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/",
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
+      "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5"
     ]
   },
   {
@@ -809,7 +809,7 @@
     "latest_seen": "2026-07-13T16:20:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -820,7 +820,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5"
     ]
@@ -2681,7 +2681,7 @@
     "latest_seen": "2026-07-13T16:34:30Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2692,7 +2692,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5"
     ]
@@ -2710,7 +2710,7 @@
     "latest_seen": "2026-07-13T16:21:43Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2721,7 +2721,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5"
     ]
@@ -2739,7 +2739,7 @@
     "latest_seen": "2026-07-13T16:13:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2750,7 +2750,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5"
     ]
@@ -2768,7 +2768,7 @@
     "latest_seen": "2026-07-13T16:10:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2779,7 +2779,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5"
     ]
