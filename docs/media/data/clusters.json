@@ -792,6 +792,38 @@
     ]
   },
   {
+    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
+    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
+    "topic": "Other",
+    "item_count": 3,
+    "outlet_count": 2,
+    "outlets": [
+      "BreakingNews.ie",
+      "Limerick Leader"
+    ],
+    "first_seen": "2026-07-13T14:17:00Z",
+    "latest_seen": "2026-07-13T15:48:59Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 0,
+    "velocity_24h": 3,
+    "reach_score": 7,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2Vid2I4LXIweXdvUHZqLUJ3VzhvbXBIajlnNkdhRkhQUUpyc1k1VW5QaUpJcjJ0Tjl3ZG5KNnpfRGV3OXF6Z09NaXBRZzRxX1BVMG8zUHgwc00teTdvLXVDbE43bFlvMUdJNXFMSHJJU3hLTTNWbFZ5TTV2cVBDNGNfY2o3Wnp2Z09GeTFsQmpLZjZsOGZqOTVVZm9rTmhUQnZ2ZDdQQ1pVTUNYZHBJeDFFTmlEZw?oc=5"
+    ]
+  },
+  {
     "key": "finance:bank-buffers-central-deplete-fiscal-spending:241f7082",
     "title": "Central Bank warns spending trajectory could ‘deplete fiscal buffers’",
     "topic": "Finance",
@@ -1896,23 +1928,23 @@
     ]
   },
   {
-    "key": "other:citizenship-considering-for-language-proficiency-worth:d639af27",
-    "title": "Language proficiency for citizenship worth ‘considering’, Tánaiste says",
-    "topic": "Other",
-    "item_count": 2,
+    "key": "fine gael:admit-centre-david-fianna-fine-for:d5e27c28",
+    "title": "David W Higgins: It’s time for Fine Gael and Fianna Fáil to admit they are centre right",
+    "topic": "Fine Gael",
+    "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "BreakingNews.ie"
+      "Irish Independent"
     ],
-    "first_seen": "2026-07-13T14:48:59Z",
-    "latest_seen": "2026-07-13T15:48:59Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 0,
-    "velocity_24h": 2,
-    "reach_score": 6,
+    "first_seen": "2026-07-14T05:30:00Z",
+    "latest_seen": "2026-07-14T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 2,
+      "neutral": 1,
       "unfavourable": 0,
       "mixed": 0
     },
@@ -1921,8 +1953,7 @@
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5"
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5"
     ]
   },
   {
@@ -1967,7 +1998,7 @@
     "latest_seen": "2026-07-13T04:33:20Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1978,7 +2009,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
       "https://www.independent.ie/irish-news/politics/what-would-the-tanaiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-with-simon-harris-over-turf-cutting-rules/a/158621115.html"
@@ -2517,6 +2548,35 @@
     ]
   },
   {
+    "key": "other:adopting-commenting-everything-leo-rule:454d2a8f",
+    "title": "Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Extra.ie"
+    ],
+    "first_seen": "2026-07-14T06:25:34Z",
+    "latest_seen": "2026-07-14T06:25:34Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5"
+    ]
+  },
+  {
     "key": "foreign affairs:16s-ban-blanket-despite-favours-for:008e70f5",
     "title": "Government favours blanket ban on social media for under-16s despite EU proposals",
     "topic": "Foreign affairs",
@@ -2645,7 +2705,7 @@
     "latest_seen": "2026-07-13T04:41:43Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2656,7 +2716,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5"
     ]
@@ -2674,7 +2734,7 @@
     "latest_seen": "2026-07-13T04:41:37Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2685,7 +2745,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHMxck5CdjFVQ0FrSmlUVTktdllCWTNkczF1Vlp5SkJzTTVtUkdmZ2JUR3VzUE82TlNyVW85LWt3WmxLcm83aTdrSDVUSUV6MWFZTmxhdWFWekZ5QUdjbnNpYVc2ODJxWDQycDQ4ZmVaaG52Mm9ISUtqbVBNaVZrQXMxc2s5aXpTbUFJT2dKcXhXbTZsN184dFVWMFRmVFJrbFl1NE9EMTZoZ0hrXzdqTXhldkM5YThvSzVNeEZxOG5JMXZqSkRJbW9ZRENmdUdPSktiNkJock9nZUZ2MnNQbmpiZXFpUWhDZzdZ?oc=5"
     ]

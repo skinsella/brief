@@ -874,6 +874,32 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG41OEg4QnRwZi1XWklnbURLN05TenNhbWJXbHlWSEFObnlqYWhoWjZkRVZ2QkV4V2o3VGNHVHUza2JZblQ1MEFBd1JvM3diSFlvTmdzZHRWWV9FR1hlTFVkT0ZvQ1BkU2RYRTQ1TjFFTlc1Y0dJenV4WU4xLUNaVEstVFZocURFeEk4SEJwWUR4Rmx5b2RhVjRKS0V1bk9ITzUwMGJ4RDNFU0NCWVZzYWRabjlETHdDZzVjQ3g1VjJSd0dOeW5NMWxZVGhDOWpsOUlEZg?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 14 Jul 2026 06:29:17 GMT",
+    "headline": "Tralee family's plaque request still awaiting Kerry County Council policy approval",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG41OEg4QnRwZi1XWklnbURLN05TenNhbWJXbHlWSEFObnlqYWhoWjZkRVZ2QkV4V2o3VGNHVHUza2JZblQ1MEFBd1JvM3diSFlvTmdzZHRWWV9FR1hlTFVkT0ZvQ1BkU2RYRTQ1TjFFTlc1Y0dJenV4WU4xLUNaVEstVFZocURFeEk4SEJwWUR4Rmx5b2RhVjRKS0V1bk9ITzUwMGJ4RDNFU0NCWVZzYWRabjlETHdDZzVjQ3g1VjJSd0dOeW5NMWxZVGhDOWpsOUlEZg?oc=5",
+    "summary": "Irish Independent reports: Tralee family's plaque request still awaiting Kerry County Council policy approval.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "tralee-family-s-plaque-request-still-awaiting-kerry-county-council-policy-approv",
+    "first_seen": "2026-07-14T06:37:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG41OEg4QnRwZi1XWklnbURLN05TenNhbWJXbHlWSEFObnlqYWhoWjZkRVZ2QkV4V2o3VGNHVHUza2JZblQ1MEFBd1JvM3diSFlvTmdzZHRWWV9FR1hlTFVkT0ZvQ1BkU2RYRTQ1TjFFTlc1Y0dJenV4WU4xLUNaVEstVFZocURFeEk4SEJwWUR4Rmx5b2RhVjRKS0V1bk9ITzUwMGJ4RDNFU0NCWVZzYWRabjlETHdDZzVjQ3g1VjJSd0dOeW5NMWxZVGhDOWpsOUlEZg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG41OEg4QnRwZi1XWklnbURLN05TenNhbWJXbHlWSEFObnlqYWhoWjZkRVZ2QkV4V2o3VGNHVHUza2JZblQ1MEFBd1JvM3diSFlvTmdzZHRWWV9FR1hlTFVkT0ZvQ1BkU2RYRTQ1TjFFTlc1Y0dJenV4WU4xLUNaVEstVFZocURFeEk4SEJwWUR4Rmx5b2RhVjRKS0V1bk9ITzUwMGJ4RDNFU0NCWVZzYWRabjlETHdDZzVjQ3g1VjJSd0dOeW5NMWxZVGhDOWpsOUlEZg?oc=5",
+    "topic": "Polling",
+    "attention": [
+      "Polling",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSW5sbGRtYTBNOTg4WDBXNHRCRGhra25MRHZHMXZhaFNtR2JSUGkwdk02V1FRcWpXVmtsaUh1aGtiU0NlVHAzV05Ha3N6SG95ZUcwZTEwVE1CRGREWk0zNU9yRWdxS080M0tfVUhjODd3blNROUFkcFAwcGtBT3FwNmNxZUR3SDVyM0hmYzlMcHVES1A3RjZ3OWx2OFRtM2U4XzVnLXJtN01KX3pGWHQ4UFlDQlh4MUJqWDJLTUxDUWZuWVJZT1BNTnJ4bXE2ZE5PUE5aZg?oc=5": {
     "outlet": "MSN",
     "published": "Wed, 17 Jun 2026 19:41:15 GMT",
@@ -3386,6 +3412,31 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2RudVk1d205OUlNam8zOFdLNFAxMU40d3A0QW5sRlczUjFDN1c2RmNtWXp6QllVaEh3NExESXBRWVd0VVI3d2VfbE9WS21uVVYxbHlmNTJVSWVZTFFQUzRaOXpGY3ZhLVpsdnYzdHZ6UUNVdUJ6MnQ3Yno2YWRZc3U1R01mem94WXBMa1hwYUtJU3diaGU1TUQ2UnFwUUUycVdaVjFiX051UkZGSk5uTlZCVkFZZ1psUkI3YXZjVUp2MV9Gcjg2XzdKbVRaV2JKbmtYZTkzLXBqMXNUUlBZM2xTMWpPNkttZkE?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 14 Jul 2026 05:54:31 GMT",
+    "headline": "Concers raised about Uisce Éireann plans for waste water treatment plant in Waterford village",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2RudVk1d205OUlNam8zOFdLNFAxMU40d3A0QW5sRlczUjFDN1c2RmNtWXp6QllVaEh3NExESXBRWVd0VVI3d2VfbE9WS21uVVYxbHlmNTJVSWVZTFFQUzRaOXpGY3ZhLVpsdnYzdHZ6UUNVdUJ6MnQ3Yno2YWRZc3U1R01mem94WXBMa1hwYUtJU3diaGU1TUQ2UnFwUUUycVdaVjFiX051UkZGSk5uTlZCVkFZZ1psUkI3YXZjVUp2MV9Gcjg2XzdKbVRaV2JKbmtYZTkzLXBqMXNUUlBZM2xTMWpPNkttZkE?oc=5",
+    "summary": "Irish Independent reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-14T06:37:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2RudVk1d205OUlNam8zOFdLNFAxMU40d3A0QW5sRlczUjFDN1c2RmNtWXp6QllVaEh3NExESXBRWVd0VVI3d2VfbE9WS21uVVYxbHlmNTJVSWVZTFFQUzRaOXpGY3ZhLVpsdnYzdHZ6UUNVdUJ6MnQ3Yno2YWRZc3U1R01mem94WXBMa1hwYUtJU3diaGU1TUQ2UnFwUUUycVdaVjFiX051UkZGSk5uTlZCVkFZZ1psUkI3YXZjVUp2MV9Gcjg2XzdKbVRaV2JKbmtYZTkzLXBqMXNUUlBZM2xTMWpPNkttZkE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2RudVk1d205OUlNam8zOFdLNFAxMU40d3A0QW5sRlczUjFDN1c2RmNtWXp6QllVaEh3NExESXBRWVd0VVI3d2VfbE9WS21uVVYxbHlmNTJVSWVZTFFQUzRaOXpGY3ZhLVpsdnYzdHZ6UUNVdUJ6MnQ3Yno2YWRZc3U1R01mem94WXBMa1hwYUtJU3diaGU1TUQ2UnFwUUUycVdaVjFiX051UkZGSk5uTlZCVkFZZ1psUkI3YXZjVUp2MV9Gcjg2XzdKbVRaV2JKbmtYZTkzLXBqMXNUUlBZM2xTMWpPNkttZkE?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
   },
   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNrTzFpY0lnZnRtcmNGME5rVktMU2loYV9nYXphMlczWlRrWUNXNTlqQkwxM3hJZ3EzQnFpeU9DTzVta01KX3ZBdmp6RmM4eTRQN0thWW1xelg3ejloSFVwcTl2QW9EY0RPRzQzVndveGN1TldjaVktaXlzRVpmTFVFZXJxeDlnRXgyMnI0ODFhMUlMLVkwd1YtMEJiVnVPWXdBOFhXTTJ5NDlvOGlvWmVBQnVndjBjTGJ4MUtNX0xvV2g2SVh3aTNtMi1LbTlfRi05SnNEaGN1V0tVYmpVS1lLcERsMmZHVUE?oc=5": {
     "outlet": "Irish Independent",
@@ -8220,6 +8271,29 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5": {
+    "outlet": "Extra.ie",
+    "published": "Tue, 14 Jul 2026 06:25:34 GMT",
+    "headline": "Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5",
+    "summary": "Extra.ie reports: Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-i-am-adopting-a-new-rule-of-not-commenting-on-everything-that-leo-says",
+    "first_seen": "2026-07-14T06:37:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UZzNLdmR0a25lbjdNUUo1eWlnb1IxTWUtMk5COUVnU3ZCSFlVakxvOEZCTnZ2MjZZYnNScHdsemZZQzgxZ1BPTl9haEdQN094T3BjTzR6ZVlCNF9XZk5qVHhOd3ctWmJ1OV83ZmdWTVFTMnNfMVMySEJNd3o?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Thu, 18 Jun 2026 05:00:00 GMT",
@@ -11109,6 +11183,29 @@
     "attention": [
       "Policy"
     ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU9icVMzal9namtNQkVCbVk2Q293RHJTZklfWWlTblUyZzFTalRQbFU4c0xwQS12cVdwV3VjRjBtM2JoWGRkRlhYY1RuZjN6cUFIdXBnV2d1Vl9RMmxTZ2ZHUG9hVElmdFpyS3lXcm1ldkdBN29zOGFwSmdWRFFRb0tEbkVhbU1DM3MtNHNMaw?oc=5": {
+    "outlet": "The Irish Sun",
+    "published": "Tue, 14 Jul 2026 06:02:02 GMT",
+    "headline": "Irish artists being ripped off by systems exploting their work to make 'AI art'",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU9icVMzal9namtNQkVCbVk2Q293RHJTZklfWWlTblUyZzFTalRQbFU4c0xwQS12cVdwV3VjRjBtM2JoWGRkRlhYY1RuZjN6cUFIdXBnV2d1Vl9RMmxTZ2ZHUG9hVElmdFpyS3lXcm1ldkdBN29zOGFwSmdWRFFRb0tEbkVhbU1DM3MtNHNMaw?oc=5",
+    "summary": "The Irish Sun reports: Irish artists being ripped off by systems exploting their work to make 'AI art'.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "irish-artists-being-ripped-off-by-systems-exploting-their-work-to-make-ai-art",
+    "first_seen": "2026-07-14T06:37:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU9icVMzal9namtNQkVCbVk2Q293RHJTZklfWWlTblUyZzFTalRQbFU4c0xwQS12cVdwV3VjRjBtM2JoWGRkRlhYY1RuZjN6cUFIdXBnV2d1Vl9RMmxTZ2ZHUG9hVElmdFpyS3lXcm1ldkdBN29zOGFwSmdWRFFRb0tEbkVhbU1DM3MtNHNMaw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU9icVMzal9namtNQkVCbVk2Q293RHJTZklfWWlTblUyZzFTalRQbFU4c0xwQS12cVdwV3VjRjBtM2JoWGRkRlhYY1RuZjN6cUFIdXBnV2d1Vl9RMmxTZ2ZHUG9hVElmdFpyS3lXcm1ldkdBN29zOGFwSmdWRFFRb0tEbkVhbU1DM3MtNHNMaw?oc=5",
+    "topic": "Other",
+    "attention": [],
     "outlet_tier": "other",
     "outlet_weight": 1,
     "favourability": "neutral",
@@ -19792,6 +19889,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUNLS1U3YkJqOGV2OW54V0xfbzd0RlNYbmZOcFZ3U2c4WFU4NGFZNUtsLWZld2ZKRDlMMkt4ZTNjV0FFdld5YWdpVk1CZExtMjFVX3hheGRIYXF1bHdsaG1xRHc5Qlk4ZGlkS0JVTUJQajV1QkFLN2NVZkJscXhDSGxJNmR1M0FGTlJrRDVXdnRwM0lFM29yR3RTTzJmbnpRZG40TUFmd3ZpTWI2c2ZTMTU5T05XOTdj?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 14 Jul 2026 05:45:52 GMT",
+    "headline": "Luxury Tipperary hotel unveils plans for major expansion",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUNLS1U3YkJqOGV2OW54V0xfbzd0RlNYbmZOcFZ3U2c4WFU4NGFZNUtsLWZld2ZKRDlMMkt4ZTNjV0FFdld5YWdpVk1CZExtMjFVX3hheGRIYXF1bHdsaG1xRHc5Qlk4ZGlkS0JVTUJQajV1QkFLN2NVZkJscXhDSGxJNmR1M0FGTlJrRDVXdnRwM0lFM29yR3RTTzJmbnpRZG40TUFmd3ZpTWI2c2ZTMTU5T05XOTdj?oc=5",
+    "summary": "Irish Independent reports: Luxury Tipperary hotel unveils plans for major expansion.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "luxury-tipperary-hotel-unveils-plans-for-major-expansion",
+    "first_seen": "2026-07-14T06:37:03Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUNLS1U3YkJqOGV2OW54V0xfbzd0RlNYbmZOcFZ3U2c4WFU4NGFZNUtsLWZld2ZKRDlMMkt4ZTNjV0FFdld5YWdpVk1CZExtMjFVX3hheGRIYXF1bHdsaG1xRHc5Qlk4ZGlkS0JVTUJQajV1QkFLN2NVZkJscXhDSGxJNmR1M0FGTlJrRDVXdnRwM0lFM29yR3RTTzJmbnpRZG40TUFmd3ZpTWI2c2ZTMTU5T05XOTdj?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUNLS1U3YkJqOGV2OW54V0xfbzd0RlNYbmZOcFZ3U2c4WFU4NGFZNUtsLWZld2ZKRDlMMkt4ZTNjV0FFdld5YWdpVk1CZExtMjFVX3hheGRIYXF1bHdsaG1xRHc5Qlk4ZGlkS0JVTUJQajV1QkFLN2NVZkJscXhDSGxJNmR1M0FGTlJrRDVXdnRwM0lFM29yR3RTTzJmbnpRZG40TUFmd3ZpTWI2c2ZTMTU5T05XOTdj?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTlCeFE3Zl9jRXBpbDBUbEVlc0lRRDZ2WHFMS3d3Mmk0cjBkZG9DaUJIU2lud3VjZHktMkNWNkliQjlFR3J5NC1NMzlzREN5TEFOUFNuNC14dHZ6b2o0Y1lWNkJYTXhkU1BWaVdYMkt3SmNSNW4wTmxyeFBzWW5fNUVtTEp5OEFENHVBSTFibW03M0d6UHZScVZWblBSbjJxNWo1YkRELXRYNFR0TG80T0pBd1hGckgz?oc=5": {
