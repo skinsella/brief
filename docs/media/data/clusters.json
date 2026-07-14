@@ -729,37 +729,6 @@
     ]
   },
   {
-    "key": "other:absent-cabinet-government-limerick-meeting:c6d63cb7",
-    "title": "Limerick minister is absent from Government Cabinet meeting",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "Ireland Live News",
-      "Limerick Leader"
-    ],
-    "first_seen": "2026-07-14T15:17:00Z",
-    "latest_seen": "2026-07-14T15:17:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 2,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1o5aFZubHZ6OGJJSk03ZWdCdjl5bFlTdGctcElJN1QtaGV4UzE0ZXdYb3ZrOTFzQ0xmUnVJZERpYVI2T1Q3eUQyQVhXOF9FeGF4OTdXUGZmTTRNcjViQTVUZ0tVMmhPMXg3Z0ROR2J2NWtmR1A4SzlYZmhmMGtwOEZZbERZUWZlSS1Sc0tJa1p3a0l4X2ROZHcyQ1E3bHhLZEU5UkFneVhESkRnYU5QSkhfMVdYV3p2VVE?oc=5",
-      "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWd5ZmZxRGFKcWFvX3MxUFFaSnlpNEZSWXpPeUFMTUZsSlBleXhkc2pMTEhHRElqdnR5MVl6YUZreXMzd1FZZWFsRThTLTk2dlBtRnY0OHVJUDhwQVFKRmdqWnVPUE9jMUVGT2lxcTB2dWRPNW45QzF4QWxRbXhZb29oak9Pa2x4VEw1eTJ3d1ZvdzNoc3dWZ0JnR2xET2hwbXhTamVRUzd3d2NBVVVXUw?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -2584,61 +2553,34 @@
     ]
   },
   {
-    "key": "other:appearance-cabinet-government-limerick-meeting:edee0ad8",
-    "title": "No appearance by Limerick minister at Government Cabinet meeting",
+    "key": "other:absent-cabinet-government-limerick-meeting:c6d63cb7",
+    "title": "Limerick minister is absent from Government Cabinet meeting",
     "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
+    "item_count": 2,
+    "outlet_count": 2,
     "outlets": [
+      "Ireland Live News",
       "Limerick Leader"
     ],
     "first_seen": "2026-07-14T15:17:00Z",
     "latest_seen": "2026-07-14T15:17:00Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 2,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 1,
+      "neutral": 2,
       "unfavourable": 0,
       "mixed": 0
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 5,
+    "attention_score": 4,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWNkTklwYXFwX25WWmNOd2NhckNOeDkxYkFWcWJpUm1IekQyWUdEbWdRT1UzdHlwOWRsOGN5amN1VloyQnRfTEtsazM5SXVvVndGbF9hRUd1aFhpbk9oQXNranJMN25saTEwNG0weVhMU3I5bEFGLXlMUzR1U29wejVMUldfVGIyTWNtd2w2SDJ2WDZPQ0t4NEtYYVlGYnhMUWlBblhQYmRKa25sNVhuYkRFU05iM0E?oc=5"
-    ]
-  },
-  {
-    "key": "other:citizenship-consider-for-government-language-should:547f289e",
-    "title": "Harris: Government should consider language tests for citizenship",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Gript"
-    ],
-    "first_seen": "2026-07-14T14:22:30Z",
-    "latest_seen": "2026-07-14T14:22:30Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5"
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1o5aFZubHZ6OGJJSk03ZWdCdjl5bFlTdGctcElJN1QtaGV4UzE0ZXdYb3ZrOTFzQ0xmUnVJZERpYVI2T1Q3eUQyQVhXOF9FeGF4OTdXUGZmTTRNcjViQTVUZ0tVMmhPMXg3Z0ROR2J2NWtmR1A4SzlYZmhmMGtwOEZZbERZUWZlSS1Sc0tJa1p3a0l4X2ROZHcyQ1E3bHhLZEU5UkFneVhESkRnYU5QSkhfMVdYV3p2VVE?oc=5",
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWd5ZmZxRGFKcWFvX3MxUFFaSnlpNEZSWXpPeUFMTUZsSlBleXhkc2pMTEhHRElqdnR5MVl6YUZreXMzd1FZZWFsRThTLTk2dlBtRnY0OHVJUDhwQVFKRmdqWnVPUE9jMUVGT2lxcTB2dWRPNW45QzF4QWxRbXhZb29oak9Pa2x4VEw1eTJ3d1ZvdzNoc3dWZ0JnR2xET2hwbXhTamVRUzd3d2NBVVVXUw?oc=5"
     ]
   },
   {
@@ -6939,6 +6881,64 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:appearance-cabinet-government-limerick-meeting:edee0ad8",
+    "title": "No appearance by Limerick minister at Government Cabinet meeting",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Limerick Leader"
+    ],
+    "first_seen": "2026-07-14T15:17:00Z",
+    "latest_seen": "2026-07-14T15:17:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWNkTklwYXFwX25WWmNOd2NhckNOeDkxYkFWcWJpUm1IekQyWUdEbWdRT1UzdHlwOWRsOGN5amN1VloyQnRfTEtsazM5SXVvVndGbF9hRUd1aFhpbk9oQXNranJMN25saTEwNG0weVhMU3I5bEFGLXlMUzR1U29wejVMUldfVGIyTWNtd2w2SDJ2WDZPQ0t4NEtYYVlGYnhMUWlBblhQYmRKa25sNVhuYkRFU05iM0E?oc=5"
+    ]
+  },
+  {
+    "key": "other:citizenship-consider-for-government-language-should:547f289e",
+    "title": "Harris: Government should consider language tests for citizenship",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Gript"
+    ],
+    "first_seen": "2026-07-14T14:22:30Z",
+    "latest_seen": "2026-07-14T14:22:30Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5"
     ]
   },
   {
