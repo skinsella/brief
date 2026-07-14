@@ -2553,6 +2553,35 @@
     ]
   },
   {
+    "key": "other:climbdown-israel-j7oaznsuac-rotunda-vietnam-war:a0869ae1",
+    "title": "Tánaiste Simon Harris On Rotunda Climbdown & Ireland Vs. Israel Vietnam War (j7oaZnSuac)",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Mshale"
+    ],
+    "first_seen": "2026-07-14T19:54:02Z",
+    "latest_seen": "2026-07-14T19:54:02Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5"
+    ]
+  },
+  {
     "key": "other:absent-cabinet-government-limerick-meeting:c6d63cb7",
     "title": "Limerick minister is absent from Government Cabinet meeting",
     "topic": "Other",
