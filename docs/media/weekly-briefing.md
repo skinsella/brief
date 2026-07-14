@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 14 Jul 2026 12:20 GMT
+Updated: Tue, 14 Jul 2026 14:26 GMT
 
 ## Snapshot
 
-- Recent coverage: 91 item(s) in the last 7 days.
+- Recent coverage: 95 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 12.
 
 ## Trend Summary
 
-- Coverage volume: 91 item(s) in the last 7 days; up 48 vs previous 7 days.
+- Coverage volume: 95 item(s) in the last 7 days; up 52 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 48 item(s).
+- Main topic: Other leads recent coverage with 52 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 17 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 15 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 16 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,7 +37,7 @@ Updated: Tue, 14 Jul 2026 12:20 GMT
 
 ## Top Topics
 
-- Other: 48
+- Other: 52
 - Finance: 25
 - Foreign affairs: 7
 - Fine Gael: 6
@@ -53,9 +53,9 @@ Updated: Tue, 14 Jul 2026 12:20 GMT
 - BreakingNews.ie: 6
 - MSN: 5
 - Irish Mirror: 4
+- The Journal: 3
 - The Irish Times: 3
 - RTE.ie: 3
-- The Journal: 2
 
 ## Story Clusters
 
@@ -63,17 +63,21 @@ Updated: Tue, 14 Jul 2026 12:20 GMT
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [persistent] Simon Harris met with a group of influencers this week to talk about his new savings scheme — 6 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net -17%. Outlets: MSN, The Irish Times, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
+- [emerging] ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says — 4 item(s), 3 outlet(s), 4 in 6h, 4 in 24h, net 0%. Outlets: BreakingNews.ie, The Journal, TheJournal.ie
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
-- [active] Central Bank warns spending overruns could push deficit to €25.7bn — 2 item(s), 1 outlet(s), 0 in 6h, 2 in 24h, net 0%. Outlets: Business Post
-- [dormant] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Irish Independent
+- [dormant] Central Bank warns spending overruns could push deficit to €25.7bn — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Business Post
 
 ## Recent Items
 
+- [neutral factual] Gript: Harris: Government should consider language tests for citizenship (https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5)
+- [neutral factual] TheJournal.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/)
+- [neutral factual] The Journal: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5)
 - [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html)
 - [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5)
+- [neutral factual] Limerick Leader: Príomh Chomhairleoir of Limerick Council meets An Tánaiste in Government Buildings (https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5)
 - [neutral factual] t.co: Simon Harris TD – moron. (https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5)
 - [neutral factual] Extra.ie: Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’ (https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5)
 - [neutral factual] Irish Independent: David W Higgins: It’s time for Fine Gael and Fianna Fáil to admit they are centre right (https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5)
@@ -88,7 +92,3 @@ Updated: Tue, 14 Jul 2026 12:20 GMT
 - [neutral factual] BreakingNews.ie: Language proficiency for citizenship worth ‘considering’, Tánaiste says (https://www.breakingnews.ie/ireland/language-proficiency-for-citizenship-worth-considering-tanaiste-says-1926286.html)
 - [neutral factual] BreakingNews.ie: Language proficiency for citizenship worth ‘considering’, Tánaiste says (https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnpYX0hPOFpGYkhoWlJYdHVncmV5YkVMb3lER0tIMU05NVpQa0lEX1k3a0dSUHlqSUZYZnhmSXV2YWNNRXJ6M2VFdUQwZHBzdVJ6QTdBT2xmamQ5cllCaDY4UHhvQkFyb2hVZDAxOWlYZjRiS21aU2hfVlYyNzRLdDQ0aXp4UjNubTJyYk4wNjl2TUJsZXNqbGlIejNSeXF6RTM1Qlhhb0xiNkxNNHN1VDY2b296dFdT?oc=5)
 - [mixed framing] The Irish Times: Central Bank warns spending trajectory could ‘deplete fiscal buffers’ (https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5)
-- [mixed framing] businessplus.ie: Central Bank governor warns of potential €25.7bn deficit if overruns persist (https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5)
-- [neutral factual] Limerick Leader: Language proficiency for citizenship worth ‘considering’, Tánaiste says (https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2Vid2I4LXIweXdvUHZqLUJ3VzhvbXBIajlnNkdhRkhQUUpyc1k1VW5QaUpJcjJ0Tjl3ZG5KNnpfRGV3OXF6Z09NaXBRZzRxX1BVMG8zUHgwc00teTdvLXVDbE43bFlvMUdJNXFMSHJJU3hLTTNWbFZ5TTV2cVBDNGNfY2o3Wnp2Z09GeTFsQmpLZjZsOGZqOTVVZm9rTmhUQnZ2ZDdQQ1pVTUNYZHBJeDFFTmlEZw?oc=5)
-- [mixed framing] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0tEZmJtSTA1V1ZCNzkxakZhYmNtczJBYVRkX2VyeU9PeFBvYmM4aDdBOFQ1Zm1HaU04c051bHc0SGxjQXpLQjEwdThwajhCTjVlYkdWUVktNmVGeU45TmxMWTNvbWk1UV9XQWktM1EtcTJCWDZIRGFUOGpBTXlrNkVRQnpTNU9fdzNoMjdzNXFldXJxeHlqLWFYTVBkUVg3MTdtZGhXZ2gtVkRrNXc?oc=5)
-- [mixed framing] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5)

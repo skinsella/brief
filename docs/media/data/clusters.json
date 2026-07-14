@@ -147,6 +147,40 @@
     ]
   },
   {
+    "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
+    "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "topic": "Other",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-14T10:15:00Z",
+    "latest_seen": "2026-07-14T13:43:32Z",
+    "lifespan_hours": 3,
+    "velocity_6h": 4,
+    "velocity_24h": 4,
+    "reach_score": 12,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 27,
+    "status": "emerging",
+    "item_links": [
+      "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/",
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
+      "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5"
+    ]
+  },
+  {
     "key": "tax:administered-announces-derelict-frustrated-revenue-sites:060363d9",
     "title": "'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue",
     "topic": "Tax",
@@ -296,7 +330,7 @@
     "latest_seen": "2026-07-13T13:13:11Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -307,7 +341,7 @@
     "net_framing": 0,
     "significant_count": 2,
     "attention_score": 17,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0tEZmJtSTA1V1ZCNzkxakZhYmNtczJBYVRkX2VyeU9PeFBvYmM4aDdBOFQ1Zm1HaU04c051bHc0SGxjQXpLQjEwdThwajhCTjVlYkdWUVktNmVGeU45TmxMWTNvbWk1UV9XQWktM1EtcTJCWDZIRGFUOGpBTXlrNkVRQnpTNU9fdzNoMjdzNXFldXJxeHlqLWFYTVBkUVg3MTdtZGhXZ2gtVkRrNXc?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5"
@@ -405,36 +439,6 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5",
       "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5"
-    ]
-  },
-  {
-    "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
-    "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "BreakingNews.ie"
-    ],
-    "first_seen": "2026-07-14T10:15:00Z",
-    "latest_seen": "2026-07-14T11:15:00Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 13,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5"
     ]
   },
   {
@@ -835,7 +839,7 @@
     "latest_seen": "2026-07-13T15:48:59Z",
     "lifespan_hours": 2,
     "velocity_6h": 0,
-    "velocity_24h": 3,
+    "velocity_24h": 2,
     "reach_score": 7,
     "tone_counts": {
       "favourable": 0,
@@ -2549,16 +2553,16 @@
     ]
   },
   {
-    "key": "other:moron:cd736677",
-    "title": "Simon Harris TD – moron.",
+    "key": "other:citizenship-consider-for-government-language-should:547f289e",
+    "title": "Harris: Government should consider language tests for citizenship",
     "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "t.co"
+      "Gript"
     ],
-    "first_seen": "2026-07-14T07:32:35Z",
-    "latest_seen": "2026-07-14T07:32:35Z",
+    "first_seen": "2026-07-14T14:22:30Z",
+    "latest_seen": "2026-07-14T14:22:30Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -2574,20 +2578,20 @@
     "attention_score": 5,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5"
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5"
     ]
   },
   {
-    "key": "other:adopting-commenting-everything-leo-rule:454d2a8f",
-    "title": "Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’",
+    "key": "other:buildings-chomhairleoir-council-government-limerick-meets:af182ce5",
+    "title": "Príomh Chomhairleoir of Limerick Council meets An Tánaiste in Government Buildings",
     "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Extra.ie"
+      "Limerick Leader"
     ],
-    "first_seen": "2026-07-14T06:25:34Z",
-    "latest_seen": "2026-07-14T06:25:34Z",
+    "first_seen": "2026-07-14T09:00:00Z",
+    "latest_seen": "2026-07-14T09:00:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -2603,7 +2607,7 @@
     "attention_score": 5,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5"
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5"
     ]
   },
   {
@@ -6873,6 +6877,64 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:moron:cd736677",
+    "title": "Simon Harris TD – moron.",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "t.co"
+    ],
+    "first_seen": "2026-07-14T07:32:35Z",
+    "latest_seen": "2026-07-14T07:32:35Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5"
+    ]
+  },
+  {
+    "key": "other:adopting-commenting-everything-leo-rule:454d2a8f",
+    "title": "Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Extra.ie"
+    ],
+    "first_seen": "2026-07-14T06:25:34Z",
+    "latest_seen": "2026-07-14T06:25:34Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5"
     ]
   },
   {

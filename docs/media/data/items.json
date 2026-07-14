@@ -2562,6 +2562,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5": {
+    "outlet": "The Journal",
+    "published": "Tue, 14 Jul 2026 13:43:00 GMT",
+    "headline": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
+    "summary": "The Journal reports: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "hard-to-know-when-aughinish-alumina-workers-will-have-clarity-t-naiste-says",
+    "first_seen": "2026-07-14T14:26:23Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wYU1HT1Q4YjJnZ0ZyRTVhX2FOa0RqV0hkaF9kTlNmQy1BQXpTUEg2b05PZUoyODlnOEU0QThBemRVTWtEc2ZlVTh3dm40Zk0xSVNBMlpwRkxucG1uY3N4Q0NORlJxUFpyOGZROUNHRHliT1hMQXc?oc=5": {
     "outlet": "RTE.ie",
     "published": "Wed, 08 Jul 2026 23:00:00 GMT",
@@ -3125,6 +3150,29 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Headline uses critical or risk language: accused."
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5": {
+    "outlet": "Gript",
+    "published": "Tue, 14 Jul 2026 14:22:30 GMT",
+    "headline": "Harris: Government should consider language tests for citizenship",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5",
+    "summary": "Gript reports: Harris: Government should consider language tests for citizenship.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "harris-government-should-consider-language-tests-for-citizenship",
+    "first_seen": "2026-07-14T14:26:23Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiigJBVV95cUxNOUVUTjlRMFNNLXZpX25NQS1ObW9aMUZrMzdYT25DOXVSandEOUJxazdpc183ajU2ODNMTXplOGttMFA5S0NSNTJHWkVENUNLdTVuV3puMWotQ2dDQVRlWWl6dy10dTNMb3hvX2pJVnFnaElva2NxaUNiRi1Jb1l6NFFlNXdJR1VjbDB6eXQ5dVZPMzV0YWVJY25Ec29iY3ktZXhTM0Z1aXY2eHZBYmNycFFHak8tVGVvbzNST1ZfQ1A2NnE2cWVQSVVzb3Q5aE9hUWdVeUpCSXFfd2RPSWl1MXA2TUJFakd3NnZLQU5fSkIxaUFmWk82TndFZWMxbEZuSjlTcmRpQlhHUQ?oc=5": {
     "outlet": "Irish Independent",
@@ -7133,6 +7181,29 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5": {
+    "outlet": "Limerick Leader",
+    "published": "Tue, 14 Jul 2026 09:00:00 GMT",
+    "headline": "Príomh Chomhairleoir of Limerick Council meets An Tánaiste in Government Buildings",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5",
+    "summary": "Limerick Leader reports: Príomh Chomhairleoir of Limerick Council meets An Tánaiste in Government Buildings.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "pr-omh-chomhairleoir-of-limerick-council-meets-an-t-naiste-in-government-buildin",
+    "first_seen": "2026-07-14T14:26:23Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "regional",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVFiTFRJWUFhaWlwMXVLdkhGdW5rcWVfSWpvSkhkY0xhQjFsd0pvUFljRnljcUE2Nm5Ga3ZMbkRObkJQcnUyVWsxYVdkVmM4R1BZejY2SGppUFdRTjVKUXRoQ1pwV1N6SldoU0x1T0FFcXFpdWI3U05LLUhDbEJnNy01QzBEWjlQeHlkcjNqWEdwSnMxZmltZTZPMVUzWW15MVF2YXNqanZRVG1sekhRYm1wWGdkVVk1ZEVjWU1ob0h6b3dJTUhHdzhSSkgwNDA?oc=5": {
     "outlet": "Irish Independent",
     "published": "Wed, 24 Jun 2026 10:29:46 GMT",
@@ -8644,6 +8715,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/": {
+    "outlet": "TheJournal.ie",
+    "published": "Tue, 14 Jul 2026 14:43:32 +0100",
+    "headline": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "link": "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/",
+    "summary": "TheJournal.ie reports: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "hard-to-know-when-aughinish-alumina-workers-will-have-clarity-t-naiste-says",
+    "first_seen": "2026-07-14T14:26:23Z",
+    "source_feed": "TheJournal.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.thejournal.ie/ban-vape-flavours-ireland-7080217-Jun2026/": {
