@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 14 Jul 2026 06:37 GMT
+Updated: Tue, 14 Jul 2026 10:54 GMT
 
 ## Snapshot
 
-- Recent coverage: 88 item(s) in the last 7 days.
+- Recent coverage: 90 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 12.
 
 ## Trend Summary
 
-- Coverage volume: 88 item(s) in the last 7 days; up 45 vs previous 7 days.
+- Coverage volume: 90 item(s) in the last 7 days; up 47 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 45 item(s).
+- Main topic: Other leads recent coverage with 47 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 17 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 15 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 16 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,7 +37,7 @@ Updated: Tue, 14 Jul 2026 06:37 GMT
 
 ## Top Topics
 
-- Other: 45
+- Other: 47
 - Finance: 25
 - Foreign affairs: 7
 - Fine Gael: 6
@@ -50,9 +50,9 @@ Updated: Tue, 14 Jul 2026 06:37 GMT
 
 - Irish Independent: 17
 - Business Post: 9
+- BreakingNews.ie: 6
 - MSN: 5
 - Irish Mirror: 4
-- BreakingNews.ie: 4
 - The Irish Times: 3
 - RTE.ie: 3
 - The Journal: 2
@@ -72,6 +72,8 @@ Updated: Tue, 14 Jul 2026 06:37 GMT
 
 ## Recent Items
 
+- [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html)
+- [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5)
 - [neutral factual] Extra.ie: Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’ (https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5)
 - [neutral factual] Irish Independent: David W Higgins: It’s time for Fine Gael and Fianna Fáil to admit they are centre right (https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5)
 - [neutral factual] Irish Mirror: 'Merit' in considering English language proficiency for Irish citizenship, says Tánaiste (https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGhvSGZKNk5Zc2tZWld2ZG9uemc2bFF2cTRkUVctaWlsMG04cWotZzFRZS1kMV9tZGZFYTEzdG03SDZhZ3Z0WXhYdGMzbWxXOGZXQnZXUUJvQnVNcjBEcV9UQmg4ZFAxdHdQWnJEeTBWb0ZjRGRETnROWS14eVRHb0ZkLXdYV1FQRXpBZnV1Y0ZmT0d6c0pEZEZBMGxCVkRqTXRCX2QwZHl3UlHSAbABQVVfeXFMTjRDNkpLQXBieXBDUEtUWVUyQ01HVWoteFItQlNNcVhuR2pCbGE3Z2tzV20zSjZkVTBGUDRUbVdjVXozQ2k2d2xmb1dFNEdBR2FHbEZBZ0lpaTgwLTZfQW52Y3FYb0htMUplT2dzdzRHRTV6Unk1d1hUM1VyUGtGSzVqUlplTjF4WUYxNVZOUTdtX2ZPRWwyRzRqa1FTU2RNbjZPQ1FMUkk1QnBKVFI1cnI?oc=5)
@@ -90,5 +92,3 @@ Updated: Tue, 14 Jul 2026 06:37 GMT
 - [mixed framing] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0tEZmJtSTA1V1ZCNzkxakZhYmNtczJBYVRkX2VyeU9PeFBvYmM4aDdBOFQ1Zm1HaU04c051bHc0SGxjQXpLQjEwdThwajhCTjVlYkdWUVktNmVGeU45TmxMWTNvbWk1UV9XQWktM1EtcTJCWDZIRGFUOGpBTXlrNkVRQnpTNU9fdzNoMjdzNXFldXJxeHlqLWFYTVBkUVg3MTdtZGhXZ2gtVkRrNXc?oc=5)
 - [mixed framing] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5)
 - [mixed framing] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
-- [mixed framing] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
-- [neutral factual] Irish Independent: Simon Harris thrown in at the deep end during his first EU presidency gig in Brussels (https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5)

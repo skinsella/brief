@@ -408,6 +408,36 @@
     ]
   },
   {
+    "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
+    "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-14T10:15:00Z",
+    "latest_seen": "2026-07-14T11:15:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 13,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5"
+    ]
+  },
+  {
     "key": "other:announces-blueprint-for-unity:553992f6",
     "title": "Simon Harris announces 'blueprint' for Irish unity",
     "topic": "Other",

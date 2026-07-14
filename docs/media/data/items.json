@@ -6301,6 +6301,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Tue, 14 Jul 2026 10:15:00 GMT",
+    "headline": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5",
+    "summary": "BreakingNews.ie reports: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "hard-to-know-when-aughinish-alumina-workers-will-have-clarity-t-naiste-says",
+    "first_seen": "2026-07-14T10:54:14Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0Z5bFBuWnJUeDVjbzRPU0RhUkJ0LWZSaF9udU0yQnlhczdjNXBELVhwX19MUENJNVlnc0cxbFloOFhlNG1kYWlLRkVIUC05N21jUmZGb2JZV3Y1a1VkT2NJNWlhM1ZZbklSekE4VG9FN05RWExDYjk1clRPX2F4ZWF5cnMyNUVrMFhWLWNiZUwyYlJXMDE3QndzT0pwdGc3NVBlNWZnYWlSMGlVQmdydVhPcDRzWHJmcHZCMDdleHE5dw?oc=5": {
     "outlet": "Shannonside.ie",
     "published": "Sun, 05 Jul 2026 13:50:15 GMT",
@@ -7337,6 +7362,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html": {
+    "outlet": "BreakingNews.ie",
+    "published": "Tue, 14 Jul 2026 11:15:00 Europe/Dublin",
+    "headline": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
+    "link": "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
+    "summary": "BreakingNews.ie reports: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "hard-to-know-when-aughinish-alumina-workers-will-have-clarity-t-naiste-says",
+    "first_seen": "2026-07-14T10:54:14Z",
+    "source_feed": "BreakingNews.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.breakingnews.ie/ireland/irish-government-considering-social-media-ban-for-under-16s-1913797.html": {
