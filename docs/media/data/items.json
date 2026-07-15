@@ -2558,6 +2558,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5": {
+    "outlet": "RTE.ie",
+    "published": "Wed, 15 Jul 2026 00:13:50 GMT",
+    "headline": "Tánaiste to address EU Parliament committee",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5",
+    "summary": "RTE.ie reports: Tánaiste to address EU Parliament committee.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-to-address-eu-parliament-committee",
+    "first_seen": "2026-07-15T00:54:59Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMickFVX3lxTE5BTzBZVUlKTFVqa0FiYkVPRjVmN28tcldXQklVQVVtbUZFelc2d0tvdUd0blZ4TFdTdTMzTWVTSTdUd0ZwanJXNXlJbV9zdHlweTRDYVdGY2VyUkNRXzZMYy1VckJoWXc5Q05OQnBGNkhxZw?oc=5": {
     "outlet": "The Journal",
     "published": "Mon, 15 Jun 2026 11:42:00 GMT",
@@ -8368,6 +8393,31 @@
     "google_link": "",
     "source_link": "https://www.rte.ie/news/2026/0709/1582457-simon-harris-eu/",
     "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/": {
+    "outlet": "RTE News",
+    "published": "Wed, 15 Jul 2026 01:13:50 +0100",
+    "headline": "Tánaiste to address EU Parliament committee",
+    "link": "https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/",
+    "summary": "RTE News reports: Tánaiste to address EU Parliament committee.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-to-address-eu-parliament-committee",
+    "first_seen": "2026-07-15T00:54:59Z",
+    "source_feed": "RTE News RSS",
+    "google_link": "",
+    "source_link": "https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/",
+    "topic": "Foreign affairs",
     "attention": [
       "High-reach outlet"
     ],

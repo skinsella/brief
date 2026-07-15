@@ -102,6 +102,7 @@ https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUWQ2NGRsbVl5aWtpMkdGWjBiU3J
 https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5
 https://news.google.com/rss/articles/CBMic0FVX3lxTE9jQk40WGtSNWRjOUNFbTdQUlJjUWhxY0NsNmFUdTB6UUw1Y1ZoUm9TNXVCVmhXbllqYWI5c0pnVkpaRVJ1elphMEdRTkR2NkI2b2JwVWRWNEtCX3FkcEtGTHgxUmJkMW50MXV4Z3lDZUVpYW8?oc=5
 https://news.google.com/rss/articles/CBMicEFVX3lxTE5MRjgwWjVVaVZST21yOE1LeGh6aXRvV0ZTcm9TQmRBTXJwZWlwRjJSVnhIMVJudG5Vb0RmVURid3RiWk54NFRrWEswaTBwT0xTSGhCSnQyc2tDeDRZN2pWVUdudWtnNE5Md0JYX1JGd3Q?oc=5
+https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5
 https://news.google.com/rss/articles/CBMickFVX3lxTE5BTzBZVUlKTFVqa0FiYkVPRjVmN28tcldXQklVQVVtbUZFelc2d0tvdUd0blZ4TFdTdTMzTWVTSTdUd0ZwanJXNXlJbV9zdHlweTRDYVdGY2VyUkNRXzZMYy1VckJoWXc5Q05OQnBGNkhxZw?oc=5
 https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRUxNOVNqeUtxYkFKODB6Ni03d3cyQnQ0elhXSGJJaGx1N3VYbGpvb3BsMjdnaFRnX0JjMldqRUdZZGlqVkswOXlWWDVFeUV4NENaMDFKSUNJVTcxdXB5S3paN21NdF9VdkdUTENETFNEdEJ2?oc=5
 https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5
@@ -341,6 +342,7 @@ https://www.rte.ie/news/2026/0703/1581622-powerscourt-dialog/
 https://www.rte.ie/news/2026/0704/1581804-political-poll-fine-gael/
 https://www.rte.ie/news/2026/0706/1581901-siptu-ballot/
 https://www.rte.ie/news/2026/0709/1582457-simon-harris-eu/
+https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/
 https://www.rte.ie/news/business/2026/0615/1578420-world-oil-prices/
 https://www.rte.ie/news/business/2026/0616/1578633-paternity-leave-ireland/
 https://www.rte.ie/news/business/2026/0623/1579913-diageo-ireland-informs-government-of-potential-job-cuts/

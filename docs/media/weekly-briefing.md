@@ -1,30 +1,29 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 14 Jul 2026 23:29 GMT
+Updated: Wed, 15 Jul 2026 00:54 GMT
 
 ## Snapshot
 
-- Recent coverage: 100 item(s) in the last 7 days.
+- Recent coverage: 89 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 12.
+- Significant items: 11.
 
 ## Trend Summary
 
-- Coverage volume: 100 item(s) in the last 7 days; up 57 vs previous 7 days.
+- Coverage volume: 89 item(s) in the last 7 days; up 35 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 57 item(s).
+- Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 17 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 10 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 11 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
 ## Needs Attention
 
-- [Polling, High-reach outlet] Irish Independent: Wicklow sheds, youth centres and cancer supports to share €200,000 in community funding (https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2VOOHZOYnBNX2I5SkJaLUU3NVVoZEphVzJPUFVkZDEtTy1LYjJwUjJxRVI2T3RWaUpZc1lveUNfb2hidXJtWTFPc2JzcEpxV0xhNDl3ekVxdmxGNV9TRVFWWHhubUJzenIyVXRHU3R0VmpYN09BX1BTR0ZmV05WdlVLazA0U1FfenBoMUV2Ul9tX1ZZWXZHMmRGclNZWElVYVdNYl90Vm13ZEJPWS05b3FkZERIVnRJMGpialQzQzFub3loclRNWmpIN2ZPcWFvemhaSTd6V0JZazA?oc=5)
 - [Policy, High-reach outlet] The Journal: Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief (https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5)
 - [Policy, High-reach outlet] The Irish Times: Central Bank warns spending trajectory could ‘deplete fiscal buffers’ (https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUdiUWdpZmg2NV9LRUZOWDZPeWJDTld5RUlpQXJJOHAyX0NOMmZoaExPb3ZCVGY0Q2JTVkhjcW5qZDBoOGd6bnBrZHM3aTJMYV81RUpSVTV6THRSMDBMRnlPUzlXMFM0MElwR3JXUEZ6bnFuellXZzRRV1RjcDZZZEp2amotUUFyOGVhel82d250d3pjMFRON2xoRzdLRG9fVFRvQWk1ZVhxQldXaHlyal9mc09WUQ?oc=5)
 - [Policy, High-reach outlet] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0tEZmJtSTA1V1ZCNzkxakZhYmNtczJBYVRkX2VyeU9PeFBvYmM4aDdBOFQ1Zm1HaU04c051bHc0SGxjQXpLQjEwdThwajhCTjVlYkdWUVktNmVGeU45TmxMWTNvbWk1UV9XQWktM1EtcTJCWDZIRGFUOGpBTXlrNkVRQnpTNU9fdzNoMjdzNXFldXJxeHlqLWFYTVBkUVg3MTdtZGhXZ2gtVkRrNXc?oc=5)
@@ -34,28 +33,27 @@ Updated: Tue, 14 Jul 2026 23:29 GMT
 - [Fast Reaction, Critical framing] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
 - [Policy] businessplus.ie: Central Bank governor warns of potential €25.7bn deficit if overruns persist (https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZF9jTmhlckFxUjN4alM1ZnhVWDdSR2MtWFlaZHNNLXZidjJ4REVlSmROLXlTRHl2SE9rYUZaVllNOHBYWnhIWXJYNVotbGk5Ui1tSFppNjF2TkQ3OFE4?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5)
+- [Policy, High-reach outlet] Irish Independent: Simon Harris favours tax cuts over welfare spend for October Budget (https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html)
 
 ## Top Topics
 
-- Other: 57
+- Other: 50
 - Finance: 25
-- Foreign affairs: 7
-- Fine Gael: 6
+- Foreign affairs: 8
+- Fine Gael: 3
 - Constituency/local: 2
 - Tax: 1
-- Housing: 1
-- Polling: 1
 
 ## Top Outlets
 
-- Irish Independent: 17
-- Business Post: 9
+- Irish Independent: 16
+- Business Post: 8
 - BreakingNews.ie: 6
 - MSN: 6
+- RTE.ie: 4
 - Limerick Leader: 4
 - Irish Mirror: 4
-- The Journal: 3
-- The Irish Times: 3
+- RTE News: 3
 
 ## Story Clusters
 
@@ -72,6 +70,8 @@ Updated: Tue, 14 Jul 2026 23:29 GMT
 
 ## Recent Items
 
+- [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5)
+- [neutral factual] RTE News: Tánaiste to address EU Parliament committee (https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/)
 - [neutral factual] Mshale: Tánaiste Simon Harris On Rotunda Climbdown & Ireland Vs. Israel Vietnam War (j7oaZnSuac) (https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5)
 - [neutral factual] Limerick Leader: Limerick minister is absent from Government Cabinet meeting (https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWd5ZmZxRGFKcWFvX3MxUFFaSnlpNEZSWXpPeUFMTUZsSlBleXhkc2pMTEhHRElqdnR5MVl6YUZreXMzd1FZZWFsRThTLTk2dlBtRnY0OHVJUDhwQVFKRmdqWnVPUE9jMUVGT2lxcTB2dWRPNW45QzF4QWxRbXhZb29oak9Pa2x4VEw1eTJ3d1ZvdzNoc3dWZ0JnR2xET2hwbXhTamVRUzd3d2NBVVVXUw?oc=5)
 - [neutral factual] Limerick Leader: No appearance by Limerick minister at Government Cabinet meeting (https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWNkTklwYXFwX25WWmNOd2NhckNOeDkxYkFWcWJpUm1IekQyWUdEbWdRT1UzdHlwOWRsOGN5amN1VloyQnRfTEtsazM5SXVvVndGbF9hRUd1aFhpbk9oQXNranJMN25saTEwNG0weVhMU3I5bEFGLXlMUzR1U29wejVMUldfVGIyTWNtd2w2SDJ2WDZPQ0t4NEtYYVlGYnhMUWlBblhQYmRKa25sNVhuYkRFU05iM0E?oc=5)
@@ -90,5 +90,3 @@ Updated: Tue, 14 Jul 2026 23:29 GMT
 - [neutral factual] Irish Mirror: Tánaiste says 16 is the golden age for allowing teens on social media (https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF30gGXAUFVX3lxTE1USFVmanA4cnRNY1JCS25RMkVrZC0ydENTYWZzX0tOdUVBX2J1d2tjNk5tbGJjY1o1Mjg0OU5WZlBMdmV3RXFwUm5MNDNRVmxZQy1aY0t5NEJ4QmR5ZmI1amVNVmlxLXJlTXEybjJfaFFNQ0JTSEJ5RDgwVV8tUTBnMXVGT0J3N2pNaVZQdDFXSGJfdHJNQXc?oc=5)
 - [neutral factual] Irish Mirror: Tánaiste says 16 is the golden age for allowing teens on social media (https://news.google.com/rss/articles/CBMikgFBVV95cUxNWWVoOFZyMUkwUTVZWGV2VGtRdm5UeFBiYWJmWkF6aHhLV3BJMlRnMHZ2VHlfdU4yRVpOQnUyVXRnQzhGRVkxb3R4eG1qNkFOTmgzenBERzhPMEJuWlNIb25qR3UyMGowcWw4WGF6YkpfTnp5VXJwcldrSktia2J6NVktb2Q1T3g5WEtEdlFLSXRod9IBlwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF3?oc=5)
 - [neutral factual] The Irish Times: Government favours blanket ban on social media for under-16s despite EU proposals (https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5)
-- [neutral factual] Irish Independent: Simon Harris calls for 'uniformity' across EU on social media ban for children (https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXI2ZVg3djN5NXloRHFraEZtUmVpazFxUmRzTG50VUh3aEk3TGlUSmI1dWozRUtTYWhTOGtWTmhrU1ZCVndyNDBmcVl4YjJOQmJwRHhYXzZhOW5LMDlHY0t5eFJxNUhXSmF0a2dBZjNRYjRsb2lTc19sc1JqWXBxMkhwa1JuT2JyUjJFQm1pa3c1cFp2N3hkcXlER0pWTVBrbWRuUzlwWXZoc3lnbDJkTkZ1YVZ4MWVIRU1uRjlRQjdEOE1iTEE?oc=5)
-- [mixed framing] The Journal: Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief (https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5)
