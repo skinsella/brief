@@ -2584,35 +2584,6 @@
     ]
   },
   {
-    "key": "other:climbdown-israel-j7oaznsuac-rotunda-vietnam-war:a0869ae1",
-    "title": "Tánaiste Simon Harris On Rotunda Climbdown & Ireland Vs. Israel Vietnam War (j7oaZnSuac)",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Mshale"
-    ],
-    "first_seen": "2026-07-14T19:54:02Z",
-    "latest_seen": "2026-07-14T19:54:02Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5"
-    ]
-  },
-  {
     "key": "other:absent-cabinet-government-limerick-meeting:c6d63cb7",
     "title": "Limerick minister is absent from Government Cabinet meeting",
     "topic": "Other",
@@ -2686,7 +2657,7 @@
     "latest_seen": "2026-07-14T02:50:30Z",
     "lifespan_hours": 8,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 2,
     "tone_counts": {
       "favourable": 0,
@@ -2697,7 +2668,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM09mV3VrbF92QVBCQi1XampQcy1QT0l3VkZMVXVaUEdhWW5OMEhWZ1JBYnhHUWpNUkhSSFRZekUtTG9pcmx0TGN6VVltMFJ3TUpnejZJNDY2SEJuYm9aMnFsb01zNlFRSWxBV3J1eWhWdkRaRzQ4d2Vzdi1vN3g4UHBIcnFsWUdwcjN5aEtERF9pT2pUdVR4Ym9KdmFmZUNGQS1ablZTVGsxNGFrU2hHbExpY0hKTlFRbUx6eUZJUUpTWWliV1llZzJCN25MTGd4UjdxMFFUcw?oc=5",
       "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGhvSGZKNk5Zc2tZWld2ZG9uemc2bFF2cTRkUVctaWlsMG04cWotZzFRZS1kMV9tZGZFYTEzdG03SDZhZ3Z0WXhYdGMzbWxXOGZXQnZXUUJvQnVNcjBEcV9UQmg4ZFAxdHdQWnJEeTBWb0ZjRGRETnROWS14eVRHb0ZkLXdYV1FQRXpBZnV1Y0ZmT0d6c0pEZEZBMGxCVkRqTXRCX2QwZHl3UlHSAbABQVVfeXFMTjRDNkpLQXBieXBDUEtUWVUyQ01HVWoteFItQlNNcVhuR2pCbGE3Z2tzV20zSjZkVTBGUDRUbVdjVXozQ2k2d2xmb1dFNEdBR2FHbEZBZ0lpaTgwLTZfQW52Y3FYb0htMUplT2dzdzRHRTV6Unk1d1hUM1VyUGtGSzVqUlplTjF4WUYxNVZOUTdtX2ZPRWwyRzRqa1FTU2RNbjZPQ1FMUkk1QnBKVFI1cnI?oc=5"
@@ -6941,6 +6912,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:climbdown-israel-j7oaznsuac-rotunda-vietnam-war:a0869ae1",
+    "title": "Tánaiste Simon Harris On Rotunda Climbdown & Ireland Vs. Israel Vietnam War (j7oaZnSuac)",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Mshale"
+    ],
+    "first_seen": "2026-07-14T19:54:02Z",
+    "latest_seen": "2026-07-14T19:54:02Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5"
     ]
   },
   {

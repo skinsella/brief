@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 15 Jul 2026 00:54 GMT
+Updated: Wed, 15 Jul 2026 04:13 GMT
 
 ## Snapshot
 
@@ -18,7 +18,7 @@ Updated: Wed, 15 Jul 2026 00:54 GMT
 
 ## Narrative Summary
 
-- Active narratives: 11 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 10 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
