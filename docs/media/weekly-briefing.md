@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 15 Jul 2026 04:13 GMT
+Updated: Wed, 15 Jul 2026 06:38 GMT
 
 ## Snapshot
 
-- Recent coverage: 89 item(s) in the last 7 days.
+- Recent coverage: 93 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 11.
 
 ## Trend Summary
 
-- Coverage volume: 89 item(s) in the last 7 days; up 35 vs previous 7 days.
+- Coverage volume: 93 item(s) in the last 7 days; up 39 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 10 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 9 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -39,21 +39,21 @@ Updated: Wed, 15 Jul 2026 04:13 GMT
 
 - Other: 50
 - Finance: 25
-- Foreign affairs: 8
+- Foreign affairs: 12
 - Fine Gael: 3
 - Constituency/local: 2
 - Tax: 1
 
 ## Top Outlets
 
-- Irish Independent: 16
+- Irish Independent: 18
 - Business Post: 8
 - BreakingNews.ie: 6
 - MSN: 6
-- RTE.ie: 4
+- RTE.ie: 5
+- RTE News: 4
 - Limerick Leader: 4
 - Irish Mirror: 4
-- RTE News: 3
 
 ## Story Clusters
 
@@ -70,8 +70,12 @@ Updated: Wed, 15 Jul 2026 04:13 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5)
+- [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html)
 - [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5)
 - [neutral factual] RTE News: Tánaiste to address EU Parliament committee (https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/)
+- [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5)
+- [neutral factual] RTE News: Tánaiste to address EU Parliament committee (https://www.rte.ie/news/2026/0715/1583400-brussels-eu/)
 - [neutral factual] Mshale: Tánaiste Simon Harris On Rotunda Climbdown & Ireland Vs. Israel Vietnam War (j7oaZnSuac) (https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5)
 - [neutral factual] Limerick Leader: Limerick minister is absent from Government Cabinet meeting (https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWd5ZmZxRGFKcWFvX3MxUFFaSnlpNEZSWXpPeUFMTUZsSlBleXhkc2pMTEhHRElqdnR5MVl6YUZreXMzd1FZZWFsRThTLTk2dlBtRnY0OHVJUDhwQVFKRmdqWnVPUE9jMUVGT2lxcTB2dWRPNW45QzF4QWxRbXhZb29oak9Pa2x4VEw1eTJ3d1ZvdzNoc3dWZ0JnR2xET2hwbXhTamVRUzd3d2NBVVVXUw?oc=5)
 - [neutral factual] Limerick Leader: No appearance by Limerick minister at Government Cabinet meeting (https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWNkTklwYXFwX25WWmNOd2NhckNOeDkxYkFWcWJpUm1IekQyWUdEbWdRT1UzdHlwOWRsOGN5amN1VloyQnRfTEtsazM5SXVvVndGbF9hRUd1aFhpbk9oQXNranJMN25saTEwNG0weVhMU3I5bEFGLXlMUzR1U29wejVMUldfVGIyTWNtd2w2SDJ2WDZPQ0t4NEtYYVlGYnhMUWlBblhQYmRKa25sNVhuYkRFU05iM0E?oc=5)
@@ -86,7 +90,3 @@ Updated: Wed, 15 Jul 2026 04:13 GMT
 - [neutral factual] Extra.ie: Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’ (https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5)
 - [neutral factual] Irish Independent: David W Higgins: It’s time for Fine Gael and Fianna Fáil to admit they are centre right (https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5)
 - [neutral factual] MSN: 'Merit' in considering English language proficiency for Irish citizenship, says Tánaiste (https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM09mV3VrbF92QVBCQi1XampQcy1QT0l3VkZMVXVaUEdhWW5OMEhWZ1JBYnhHUWpNUkhSSFRZekUtTG9pcmx0TGN6VVltMFJ3TUpnejZJNDY2SEJuYm9aMnFsb01zNlFRSWxBV3J1eWhWdkRaRzQ4d2Vzdi1vN3g4UHBIcnFsWUdwcjN5aEtERF9pT2pUdVR4Ym9KdmFmZUNGQS1ablZTVGsxNGFrU2hHbExpY0hKTlFRbUx6eUZJUUpTWWliV1llZzJCN25MTGd4UjdxMFFUcw?oc=5)
-- [neutral factual] Irish Mirror: 'Merit' in considering English language proficiency for Irish citizenship, says Tánaiste (https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGhvSGZKNk5Zc2tZWld2ZG9uemc2bFF2cTRkUVctaWlsMG04cWotZzFRZS1kMV9tZGZFYTEzdG03SDZhZ3Z0WXhYdGMzbWxXOGZXQnZXUUJvQnVNcjBEcV9UQmg4ZFAxdHdQWnJEeTBWb0ZjRGRETnROWS14eVRHb0ZkLXdYV1FQRXpBZnV1Y0ZmT0d6c0pEZEZBMGxCVkRqTXRCX2QwZHl3UlHSAbABQVVfeXFMTjRDNkpLQXBieXBDUEtUWVUyQ01HVWoteFItQlNNcVhuR2pCbGE3Z2tzV20zSjZkVTBGUDRUbVdjVXozQ2k2d2xmb1dFNEdBR2FHbEZBZ0lpaTgwLTZfQW52Y3FYb0htMUplT2dzdzRHRTV6Unk1d1hUM1VyUGtGSzVqUlplTjF4WUYxNVZOUTdtX2ZPRWwyRzRqa1FTU2RNbjZPQ1FMUkk1QnBKVFI1cnI?oc=5)
-- [neutral factual] Irish Mirror: Tánaiste says 16 is the golden age for allowing teens on social media (https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF30gGXAUFVX3lxTE1USFVmanA4cnRNY1JCS25RMkVrZC0ydENTYWZzX0tOdUVBX2J1d2tjNk5tbGJjY1o1Mjg0OU5WZlBMdmV3RXFwUm5MNDNRVmxZQy1aY0t5NEJ4QmR5ZmI1amVNVmlxLXJlTXEybjJfaFFNQ0JTSEJ5RDgwVV8tUTBnMXVGT0J3N2pNaVZQdDFXSGJfdHJNQXc?oc=5)
-- [neutral factual] Irish Mirror: Tánaiste says 16 is the golden age for allowing teens on social media (https://news.google.com/rss/articles/CBMikgFBVV95cUxNWWVoOFZyMUkwUTVZWGV2VGtRdm5UeFBiYWJmWkF6aHhLV3BJMlRnMHZ2VHlfdU4yRVpOQnUyVXRnQzhGRVkxb3R4eG1qNkFOTmgzenBERzhPMEJuWlNIb25qR3UyMGowcWw4WGF6YkpfTnp5VXJwcldrSktia2J6NVktb2Q1T3g5WEtEdlFLSXRod9IBlwFBVV95cUxNVEhVZmpwOHJ0TWNSQktuUTJFa2QtMnRDU2Fmc19LTnVFQV9idXdrYzZObWxiY2NaNTI4NDlOVmZQTHZld0VxcFJuTDQzUVZsWUMtWmNLeTRCeEJkeWZiNWplTVZpcS1yZU1xMm4yX2hRTUNCU0hCeUQ4MFVfLVEwZzF1Rk9CdzdqTWlWUHQxV0hiX3RyTUF3?oc=5)
-- [neutral factual] The Irish Times: Government favours blanket ban on social media for under-16s despite EU proposals (https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnhfZ2NyWWlmMEhFVlQ4eDZPYmxuZ0NVWGhXR18yTzFocW0zenQ4WEg3cjRjR0s4elg0c21jR0ZOYVd4ck1ZR2k0dnBzdGt1Tzc5UDAwaWN4dnNfZDgweFVnalc0MGQ5Y0VLdVBCRjkzaHV4SnM1WFBkejh1V3VvRkYtdEdHWWtvN0lJaHhuRWZHTXkxUFlqWWFCQmV4a3BoZmlGR1pPT0F5VkxybG9UOTNPNnUzdnloTzVNRFR6bmR1SFFwN3hzXw?oc=5)

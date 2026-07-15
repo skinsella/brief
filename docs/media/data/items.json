@@ -1200,6 +1200,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Wed, 15 Jul 2026 05:30:00 GMT",
+    "headline": "Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5",
+    "summary": "Irish Independent reports: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capit",
+    "first_seen": "2026-07-15T06:38:12Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDZlSHN3eG9IV1Axb0dLeXpiUGM0azIwVVdqc0JvNkRhWlI0N0VkVW03ZGpqOTR1aldmbkUzVWNEU3g4aEg3UzF1VTNzeW05SzE3Yy1HMFVNaEhuOEhudlk4dnYtRU84ZEFuNExHZDdKcXM0Zm1GQTFMWFdWNFFSYXprcUR6bGlWWWM1VEhKM2VIUzJTYk1jT2lkaWIwSEZZMDhxaWNUaDVzMW9uYTBzTjVvdlVuTXV4ZEstUHoxdlZyNHhJeE1ZeGdMWE12QkNMQVpVTi1RcDNoUThxeXZGdmtQeHk?oc=5": {
     "outlet": "Irish Independent",
     "published": "Fri, 03 Jul 2026 17:04:49 GMT",
@@ -1929,6 +1954,31 @@
     "attention": [],
     "outlet_tier": "other",
     "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5": {
+    "outlet": "RTE.ie",
+    "published": "Wed, 15 Jul 2026 00:13:50 GMT",
+    "headline": "Tánaiste to address EU Parliament committee",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5",
+    "summary": "RTE.ie reports: Tánaiste to address EU Parliament committee.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-to-address-eu-parliament-committee",
+    "first_seen": "2026-07-15T06:38:12Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
     "favourability": "neutral",
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
@@ -8052,6 +8102,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html": {
+    "outlet": "Irish Independent",
+    "published": "Wed, 15 Jul 2026 04:30:00 GMT",
+    "headline": "Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets",
+    "link": "https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html",
+    "summary": "Irish Independent reports: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capit",
+    "first_seen": "2026-07-15T06:38:12Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html",
+    "topic": "Foreign affairs",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html": {
     "outlet": "Irish Independent",
     "published": "Thu, 09 Jul 2026 15:20:00 GMT",
@@ -8393,6 +8468,31 @@
     "google_link": "",
     "source_link": "https://www.rte.ie/news/2026/0709/1582457-simon-harris-eu/",
     "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/": {
+    "outlet": "RTE News",
+    "published": "Wed, 15 Jul 2026 01:13:50 +0100",
+    "headline": "Tánaiste to address EU Parliament committee",
+    "link": "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/",
+    "summary": "RTE News reports: Tánaiste to address EU Parliament committee.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-to-address-eu-parliament-committee",
+    "first_seen": "2026-07-15T06:38:12Z",
+    "source_feed": "RTE News RSS",
+    "google_link": "",
+    "source_link": "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/",
+    "topic": "Foreign affairs",
     "attention": [
       "High-reach outlet"
     ],

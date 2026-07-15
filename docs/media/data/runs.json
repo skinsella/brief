@@ -1,5 +1,88 @@
 [
   {
+    "checked_at": "2026-07-15T06:38:12Z",
+    "checked_at_display": "Wed, 15 Jul 2026 06:38 GMT",
+    "new_count": 4,
+    "old_skipped": 8,
+    "duplicate_skipped": 5,
+    "mismatched_skipped": 6,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 8,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 46,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5",
+      "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/",
+      "https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html"
+    ],
+    "archive_file": "archive/20260715T063812Z.html"
+  },
+  {
     "checked_at": "2026-07-15T04:13:30Z",
     "checked_at_display": "Wed, 15 Jul 2026 04:13 GMT",
     "new_count": 0,
@@ -7872,83 +7955,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260706T231955Z.html"
-  },
-  {
-    "checked_at": "2026-07-06T22:01:21Z",
-    "checked_at_display": "Mon, 06 Jul 2026 22:01 GMT",
-    "new_count": 0,
-    "old_skipped": 2,
-    "duplicate_skipped": 4,
-    "mismatched_skipped": 8,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 8,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 6,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 24,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 48,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [],
-    "archive_file": "archive/20260706T220121Z.html"
   }
 ]

@@ -1705,6 +1705,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTIzdVVlemhkNWd0aDhCZEJVU1N6eHlsZ0NCWEVyMmZXdUJBTTgxTC1VMEhwTE1YZml5XzFKU1FaWDlOM3c3ZFlZOXI3SUYwNWpsRjUzay01RzlONllVZzg5NjA0eUw2Tl82MnQ5RlpVSnE2VjVRVDdLd2ZlTGdTZ0JVX0VMdmMxRG96UlhwTTZtaTNsQ3JiM29OYzRlQnphUWpVbzB4OUJlWHhYaWlmV3R3TlptSlpWblZjbkdnZ0syMl9RQXZOa2pMeDZNX1E5Z01HcHZDOGNwejg?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Wed, 15 Jul 2026 06:12:01 GMT",
+    "headline": "Roadside cutting restrictions putting rural road users ‘in danger’, Mayo councillors claim",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTIzdVVlemhkNWd0aDhCZEJVU1N6eHlsZ0NCWEVyMmZXdUJBTTgxTC1VMEhwTE1YZml5XzFKU1FaWDlOM3c3ZFlZOXI3SUYwNWpsRjUzay01RzlONllVZzg5NjA0eUw2Tl82MnQ5RlpVSnE2VjVRVDdLd2ZlTGdTZ0JVX0VMdmMxRG96UlhwTTZtaTNsQ3JiM29OYzRlQnphUWpVbzB4OUJlWHhYaWlmV3R3TlptSlpWblZjbkdnZ0syMl9RQXZOa2pMeDZNX1E5Z01HcHZDOGNwejg?oc=5",
+    "summary": "Irish Independent reports: Roadside cutting restrictions putting rural road users ‘in danger’, Mayo councillors claim.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "roadside-cutting-restrictions-putting-rural-road-users-in-danger-mayo-councillor",
+    "first_seen": "2026-07-15T06:38:12Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTIzdVVlemhkNWd0aDhCZEJVU1N6eHlsZ0NCWEVyMmZXdUJBTTgxTC1VMEhwTE1YZml5XzFKU1FaWDlOM3c3ZFlZOXI3SUYwNWpsRjUzay01RzlONllVZzg5NjA0eUw2Tl82MnQ5RlpVSnE2VjVRVDdLd2ZlTGdTZ0JVX0VMdmMxRG96UlhwTTZtaTNsQ3JiM29OYzRlQnphUWpVbzB4OUJlWHhYaWlmV3R3TlptSlpWblZjbkdnZ0syMl9RQXZOa2pMeDZNX1E5Z01HcHZDOGNwejg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeTIzdVVlemhkNWd0aDhCZEJVU1N6eHlsZ0NCWEVyMmZXdUJBTTgxTC1VMEhwTE1YZml5XzFKU1FaWDlOM3c3ZFlZOXI3SUYwNWpsRjUzay01RzlONllVZzg5NjA0eUw2Tl82MnQ5RlpVSnE2VjVRVDdLd2ZlTGdTZ0JVX0VMdmMxRG96UlhwTTZtaTNsQ3JiM29OYzRlQnphUWpVbzB4OUJlWHhYaWlmV3R3TlptSlpWblZjbkdnZ0syMl9RQXZOa2pMeDZNX1E5Z01HcHZDOGNwejg?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMm4xZjZJeGhpRlRjZ01nX095VHoxMFMtOGliTlh2dW5CaF9JeTRhVFhRNkwtV0d1dTFiei10X3dmN3pPWkRQb2ZvNk9LbU9Fc2txYlZNNEJHbGRmX2FJN2g0Zmdib1Y3ZHlQMWFXdHJ4czFhV0FtSWJUSVlob3NvLVNNMmp0QjNaanNIbVpmOWU2N3ZUZ2V6eXVfVkJCLTBHV19VYU95MGFFckMyam5Kc3ZzYWVGbXJISElfYXJLUjFSUElhaGJocDFTNmVzcy1RYktib082U3ZndjA?oc=5": {
     "outlet": "Irish Independent",
     "published": "Sat, 06 Jun 2026 16:30:03 GMT",
@@ -12377,6 +12402,32 @@
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSW1ZZVZTQW5tRXJ6azhlRWhialFBcVBSYVVLMWtsTUZVTWVhYld6NkExU05OT0tlTFZGSzVhd0lfaEtqc1lYQmhVNnFDUzZLbHZIWE0tN191WEthUEF5LTdMU0JpbDNxRkllQm16UjlsaWNxUWo1UDVsRzJ1X3NfTEh6MmF3T3hMWmp1LWFMN0JvSXdM?oc=5": {
+    "outlet": "Midwest Radio",
+    "published": "Wed, 15 Jul 2026 06:12:18 GMT",
+    "headline": "Councillor raises concerns over Bonniconlon water supply",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSW1ZZVZTQW5tRXJ6azhlRWhialFBcVBSYVVLMWtsTUZVTWVhYld6NkExU05OT0tlTFZGSzVhd0lfaEtqc1lYQmhVNnFDUzZLbHZIWE0tN191WEthUEF5LTdMU0JpbDNxRkllQm16UjlsaWNxUWo1UDVsRzJ1X3NfTEh6MmF3T3hMWmp1LWFMN0JvSXdM?oc=5",
+    "summary": "Midwest Radio reports: Councillor raises concerns over Bonniconlon water supply.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "councillor-raises-concerns-over-bonniconlon-water-supply",
+    "first_seen": "2026-07-15T06:38:12Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSW1ZZVZTQW5tRXJ6azhlRWhialFBcVBSYVVLMWtsTUZVTWVhYld6NkExU05OT0tlTFZGSzVhd0lfaEtqc1lYQmhVNnFDUzZLbHZIWE0tN191WEthUEF5LTdMU0JpbDNxRkllQm16UjlsaWNxUWo1UDVsRzJ1X3NfTEh6MmF3T3hMWmp1LWFMN0JvSXdM?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSW1ZZVZTQW5tRXJ6azhlRWhialFBcVBSYVVLMWtsTUZVTWVhYld6NkExU05OT0tlTFZGSzVhd0lfaEtqc1lYQmhVNnFDUzZLbHZIWE0tN191WEthUEF5LTdMU0JpbDNxRkllQm16UjlsaWNxUWo1UDVsRzJ1X3NfTEh6MmF3T3hMWmp1LWFMN0JvSXdM?oc=5",
+    "topic": "Other",
+    "attention": [
+      "Critical framing",
+      "Review tone"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses critical or risk language: concerns."
   },
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDRlRUNOZ3ZEMXpUVy0tWTh0THBrZkFjRWMyWW50RU9jaFU4VkJQaWRfTGNVN0VoMHp2VzR5MXExOW5Samp6TkF1LXFiMUdGZkNPNGFmZzl2d3lnN0pOTDhUeDg5VENxTVAzTmpyZ21LNFpwVWZiYkl3aWRTYTJTT2FtWm03MDhNcjFMV3Y4TkxtWXgw?oc=5": {
     "outlet": "The Irish Sun",

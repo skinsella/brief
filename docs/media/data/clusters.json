@@ -381,7 +381,7 @@
     "key": "foreign affairs:address-committee-parliament:c4f1cb9b",
     "title": "Tánaiste to address EU Parliament committee",
     "topic": "Foreign affairs",
-    "item_count": 2,
+    "item_count": 4,
     "outlet_count": 2,
     "outlets": [
       "RTE News",
@@ -390,20 +390,22 @@
     "first_seen": "2026-07-15T00:13:50Z",
     "latest_seen": "2026-07-15T00:13:50Z",
     "lifespan_hours": 0,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
+    "velocity_6h": 0,
+    "velocity_24h": 4,
+    "reach_score": 12,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 2,
+      "neutral": 4,
       "unfavourable": 0,
       "mixed": 0
     },
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 14,
-    "status": "emerging",
+    "status": "active",
     "item_links": [
+      "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/",
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5",
       "https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5"
     ]
@@ -470,6 +472,36 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5",
       "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5"
+    ]
+  },
+  {
+    "key": "foreign affairs:beyond-capital-counterparts-established-markets-move:9deea3b7",
+    "title": "Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets",
+    "topic": "Foreign affairs",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-15T04:30:00Z",
+    "latest_seen": "2026-07-15T05:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 13,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5",
+      "https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html"
     ]
   },
   {
@@ -2627,7 +2659,7 @@
     "latest_seen": "2026-07-14T05:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2638,7 +2670,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5"
     ]
@@ -7072,7 +7104,7 @@
     "latest_seen": "2026-07-14T06:25:34Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7083,7 +7115,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5"
     ]
