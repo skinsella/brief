@@ -887,6 +887,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Headline uses critical or risk language: urgent review, hit with."
   },
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5": {
+    "outlet": "The Irish News",
+    "published": "Wed, 15 Jul 2026 18:08:28 GMT",
+    "headline": "‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
+    "summary": "The Irish News reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-15T18:16:54Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
+  },
   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUFxVVJsUlpLd21QaXRsWlo5SzJ3cFlkMUxjc1VURElZdEZOSEU5dW1xTVVCaDF5NlRaMzF4SElsQ1Vwb1ZWSEFRdnFDcGNGQ0FsNERMNHZBemNQbjNBdmkwVUhTYjlUNFYyMU50WkF6VXoxZ2cwN00yRThLX293LWhLcXRJTGx6THN5bGdZdll5Skh0Njg5TXloOGExQ1NHdmVZTjI4aS1ET0hNaWlmR0JtMEtkaVJJRnJHNllaQ0pGZHVKbU9PY3VGZ0pKSkR2emNpYUpJekRPSUI1cWc?oc=5": {
     "outlet": "Irish Independent",
     "published": "Thu, 09 Jul 2026 16:28:00 GMT",
@@ -6804,6 +6829,32 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Wed, 15 Jul 2026 17:08:02 GMT",
+    "headline": "‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5",
+    "summary": "BreakingNews.ie reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-15T18:16:54Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
   },
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGw4VUs1QmxOOUx6MTlnZlVWMWdKeUhHd000R05ZQnpLZVZ0WmVqbVpibGZlT3Q0Wk9xY2ZVckV0c2NTek16MnZGdU1KbFdxV3ItQVJTcWd6UUFONnM0SXJWUFJwSFYyQzRZWTVyZTZkU2VLTnNxVEFLak9kN1JGQ19pRVpOWlJvS0ZobFZqd3RCbU0zUURSZWpjMVhzZWtFdWg3UGE5QldDVmp2U1lnT0Q5TDFpVl9lUlViSWFyTm8wV1lwZUE?oc=5": {
     "outlet": "Table.Briefings",

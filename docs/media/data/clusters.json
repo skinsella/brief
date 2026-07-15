@@ -253,6 +253,37 @@
     ]
   },
   {
+    "key": "finance:bank-bizarre-bonds-central-country-for:eae147d6",
+    "title": "‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "BreakingNews.ie",
+      "The Irish News"
+    ],
+    "first_seen": "2026-07-15T17:08:02Z",
+    "latest_seen": "2026-07-15T18:08:28Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 4,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 2
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 22,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5"
+    ]
+  },
+  {
     "key": "finance:50bn-budgetary-government-position-returns-strengthen:0ab06b9e",
     "title": "Strong tax returns of €50bn strengthen Government’s budgetary position",
     "topic": "Finance",
