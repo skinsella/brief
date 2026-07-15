@@ -6544,6 +6544,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VNkpOQk9VbndJSTBUOUxkaDZYMUNDQjhVZkdnbEdManAydUlVU1pTZHlkZTA2TDRLdTA2a0dtOUMzMmtWVGN6dUstbzFWMi1VV1ZZNXRIT29zZG1rNHlQNDh5aEw4ZGZwSXZObWV3?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Wed, 15 Jul 2026 20:28:00 GMT",
+    "headline": "Cork floods: Minister approves €20.5m Blackpool flood relief scheme",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VNkpOQk9VbndJSTBUOUxkaDZYMUNDQjhVZkdnbEdManAydUlVU1pTZHlkZTA2TDRLdTA2a0dtOUMzMmtWVGN6dUstbzFWMi1VV1ZZNXRIT29zZG1rNHlQNDh5aEw4ZGZwSXZObWV3?oc=5",
+    "summary": "Irish Examiner reports: Cork floods: Minister approves €20.5m Blackpool flood relief scheme.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "cork-floods-minister-approves-20-5m-blackpool-flood-relief-scheme",
+    "first_seen": "2026-07-15T21:11:19Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VNkpOQk9VbndJSTBUOUxkaDZYMUNDQjhVZkdnbEdManAydUlVU1pTZHlkZTA2TDRLdTA2a0dtOUMzMmtWVGN6dUstbzFWMi1VV1ZZNXRIT29zZG1rNHlQNDh5aEw4ZGZwSXZObWV3?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VNkpOQk9VbndJSTBUOUxkaDZYMUNDQjhVZkdnbEdManAydUlVU1pTZHlkZTA2TDRLdTA2a0dtOUMzMmtWVGN6dUstbzFWMi1VV1ZZNXRIT29zZG1rNHlQNDh5aEw4ZGZwSXZObWV3?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qTXJKVHAxNWZtVnQ4STZpdDFNMVcxWEUzcmEwVEtBQ0s4enhWNEFrRV9CeExhOUZQeDNjdWtjNjV6eHFHTVZQVzh4c29fWUVTVmZsRmUxVjRBYmFQcDNyQ1Y2STdiOVMtNzBvWDFn?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Wed, 15 Jul 2026 19:42:00 GMT",
