@@ -358,7 +358,7 @@
     "latest_seen": "2026-07-14T13:43:32Z",
     "lifespan_hours": 3,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 12,
     "tone_counts": {
       "favourable": 0,
@@ -369,7 +369,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 15,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/",
       "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
@@ -7046,7 +7046,7 @@
     "latest_seen": "2026-07-14T14:22:30Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7057,7 +7057,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5"
     ]
