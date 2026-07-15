@@ -2534,6 +2534,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5": {
+    "outlet": "The Journal",
+    "published": "Wed, 15 Jul 2026 15:56:00 GMT",
+    "headline": "'It's not a luxury': Government urged to end 23% VAT on sunscreen",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5",
+    "summary": "The Journal reports: 'It's not a luxury': Government urged to end 23% VAT on sunscreen.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "it-s-not-a-luxury-government-urged-to-end-23-vat-on-sunscreen",
+    "first_seen": "2026-07-15T16:41:09Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Wed, 10 Jun 2026 20:21:00 GMT",

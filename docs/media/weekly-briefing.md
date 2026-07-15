@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 15 Jul 2026 14:59 GMT
+Updated: Wed, 15 Jul 2026 16:41 GMT
 
 ## Snapshot
 
-- Recent coverage: 94 item(s) in the last 7 days.
+- Recent coverage: 95 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 11.
 
 ## Trend Summary
 
-- Coverage volume: 94 item(s) in the last 7 days; up 40 vs previous 7 days.
+- Coverage volume: 95 item(s) in the last 7 days; up 41 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Wed, 15 Jul 2026 14:59 GMT
 
 ## Narrative Summary
 
-- Active narratives: 6 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 5 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -41,8 +41,8 @@ Updated: Wed, 15 Jul 2026 14:59 GMT
 - Finance: 25
 - Foreign affairs: 13
 - Fine Gael: 3
+- Tax: 2
 - Constituency/local: 2
-- Tax: 1
 
 ## Top Outlets
 
@@ -51,9 +51,9 @@ Updated: Wed, 15 Jul 2026 14:59 GMT
 - BreakingNews.ie: 6
 - MSN: 6
 - RTE.ie: 5
+- The Journal: 4
 - RTE News: 4
 - Limerick Leader: 4
-- Irish Mirror: 4
 
 ## Story Clusters
 
@@ -70,6 +70,7 @@ Updated: Wed, 15 Jul 2026 14:59 GMT
 
 ## Recent Items
 
+- [neutral factual] The Journal: 'It's not a luxury': Government urged to end 23% VAT on sunscreen (https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5)
 - [neutral factual] Highland Radio: Ireland’s priorities for EU Presidency to be revealed by Simon Harris (https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamt4WVltM0hLcTc4V1NaR0Y1ODZ0SkhkaU5mbFJmbEFMZUZRZXd2a0RkNDZGWldYdUNmTTVVU1RweFVROGh3N1Z6LTI0aVNsaENNOU05UWttdXNwaFBkVG1ndjNTN3R5dVpSU21oZDJmRkVJVHBsVkNMalFsN3VsSXEySkhUR0QweF9PX1NWODIxVV9odzdIQ0gzaEMyd3NWRTdCdG1zT2FEdw?oc=5)
 - [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5)
 - [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html)
@@ -89,4 +90,3 @@ Updated: Wed, 15 Jul 2026 14:59 GMT
 - [neutral factual] Limerick Leader: Príomh Chomhairleoir of Limerick Council meets An Tánaiste in Government Buildings (https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5)
 - [neutral factual] t.co: Simon Harris TD – moron. (https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5)
 - [neutral factual] Extra.ie: Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’ (https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5)
-- [neutral factual] Irish Independent: David W Higgins: It’s time for Fine Gael and Fianna Fáil to admit they are centre right (https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5)

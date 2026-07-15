@@ -1995,6 +1995,35 @@
     ]
   },
   {
+    "key": "tax:end-government-luxury-sunscreen-urged-vat:142692f3",
+    "title": "'It's not a luxury': Government urged to end 23% VAT on sunscreen",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Journal"
+    ],
+    "first_seen": "2026-07-15T15:56:00Z",
+    "latest_seen": "2026-07-15T15:56:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5"
+    ]
+  },
+  {
     "key": "foreign affairs:beyond-capital-counterparts-established-markets-move:9deea3b7",
     "title": "Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets",
     "topic": "Foreign affairs",
@@ -2629,7 +2658,7 @@
     "latest_seen": "2026-07-14T15:17:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 2,
     "tone_counts": {
       "favourable": 0,
@@ -2640,7 +2669,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1o5aFZubHZ6OGJJSk03ZWdCdjl5bFlTdGctcElJN1QtaGV4UzE0ZXdYb3ZrOTFzQ0xmUnVJZERpYVI2T1Q3eUQyQVhXOF9FeGF4OTdXUGZmTTRNcjViQTVUZ0tVMmhPMXg3Z0ROR2J2NWtmR1A4SzlYZmhmMGtwOEZZbERZUWZlSS1Sc0tJa1p3a0l4X2ROZHcyQ1E3bHhLZEU5UkFneVhESkRnYU5QSkhfMVdYV3p2VVE?oc=5",
       "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWd5ZmZxRGFKcWFvX3MxUFFaSnlpNEZSWXpPeUFMTUZsSlBleXhkc2pMTEhHRElqdnR5MVl6YUZreXMzd1FZZWFsRThTLTk2dlBtRnY0OHVJUDhwQVFKRmdqWnVPUE9jMUVGT2lxcTB2dWRPNW45QzF4QWxRbXhZb29oak9Pa2x4VEw1eTJ3d1ZvdzNoc3dWZ0JnR2xET2hwbXhTamVRUzd3d2NBVVVXUw?oc=5"
@@ -7017,7 +7046,7 @@
     "latest_seen": "2026-07-14T15:17:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7028,7 +7057,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWNkTklwYXFwX25WWmNOd2NhckNOeDkxYkFWcWJpUm1IekQyWUdEbWdRT1UzdHlwOWRsOGN5amN1VloyQnRfTEtsazM5SXVvVndGbF9hRUd1aFhpbk9oQXNranJMN25saTEwNG0weVhMU3I5bEFGLXlMUzR1U29wejVMUldfVGIyTWNtd2w2SDJ2WDZPQ0t4NEtYYVlGYnhMUWlBblhQYmRKa25sNVhuYkRFU05iM0E?oc=5"
     ]
