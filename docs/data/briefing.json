@@ -1,10 +1,14 @@
 {
-  "generated_at": "2026-07-15T21:11:25Z",
-  "morning_note": "Media coverage is steady today (10 items, neutral tone; 97 items over the past week). Brent is at $70, down 2.8% on the week. Irish home heating oil averages \u20ac638 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Home heating oil saw its largest weekly rise (6.1%) in the recorded window.",
+  "generated_at": "2026-07-15T21:48:53Z",
+  "morning_note": "Media coverage is steady today (10 items, neutral tone; 97 items over the past week). Brent is at $82, up 17.3% on the week. Irish home heating oil averages \u20ac659 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 17.3% on the week. Home heating oil saw its largest weekly rise (9.7%) in the recorded window.",
   "alerts": [
     {
       "kind": "energy",
-      "text": "Home heating oil saw its largest weekly rise (6.1%) in the recorded window."
+      "text": "Brent is up 17.3% on the week."
+    },
+    {
+      "kind": "energy",
+      "text": "Home heating oil saw its largest weekly rise (9.7%) in the recorded window."
     }
   ],
   "tiles": {
@@ -16,16 +20,10 @@
       "asof": "2026-07-15T21:11:19Z"
     },
     "brent": {
-      "value": 69.56,
+      "value": 81.62,
       "unit": "$/bbl",
-      "delta_pct": -2.84,
+      "delta_pct": 17.34,
       "spark": [
-        88.64,
-        84.36,
-        80.5,
-        80.33,
-        79.35,
-        80.46,
         76.49,
         75.69,
         72.09,
@@ -36,16 +34,20 @@
         69.24,
         68.53,
         68.68,
-        69.56
+        69.56,
+        71.78,
+        76.5,
+        74.46,
+        74.34,
+        81.62
       ],
-      "asof": "2026-07-06"
+      "asof": "2026-07-13"
     },
     "eurusd": {
-      "value": 1.1405,
+      "value": 1.1406,
       "unit": "$",
-      "delta_pct": -0.24,
+      "delta_pct": 0.02,
       "spark": [
-        1.1591,
         1.1461,
         1.1467,
         1.1456,
@@ -64,14 +66,15 @@
         1.1435,
         1.143,
         1.1424,
-        1.1405
+        1.1405,
+        1.1406
       ],
-      "asof": "2026-07-14"
+      "asof": "2026-07-15"
     },
     "heating_oil": {
-      "value": 638.14,
+      "value": 659.25,
       "unit": "\u20ac/500L",
-      "delta_pct": 6.14,
+      "delta_pct": 9.65,
       "spark": [
         635.34,
         631.32,
@@ -92,9 +95,9 @@
         621.49,
         619.43,
         638.14,
-        638.14
+        659.25
       ],
-      "asof": "2026-07-15T02:03:39.726518+00:00"
+      "asof": "2026-07-15T21:48:45.605099+00:00"
     },
     "ie10y": {
       "value": 3.126,
@@ -143,7 +146,7 @@
       "asof": "2026-07-15T21:11:19Z"
     },
     "energy": {
-      "asof": "2026-07-15T02:03:24.939999+00:00"
+      "asof": "2026-07-15T21:48:39.497333+00:00"
     },
     "economy": {
       "asof": "2026-07-11T09:42:55Z"
