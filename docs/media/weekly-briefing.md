@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 15 Jul 2026 22:33 GMT
+Updated: Wed, 15 Jul 2026 23:36 GMT
 
 ## Snapshot
 
@@ -18,7 +18,7 @@ Updated: Wed, 15 Jul 2026 22:33 GMT
 
 ## Narrative Summary
 
-- Active narratives: 5 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 5 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -64,7 +64,7 @@ Updated: Wed, 15 Jul 2026 22:33 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [emerging] ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says — 2 item(s), 2 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News
+- [active] ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says — 2 item(s), 2 outlet(s), 1 in 6h, 2 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 - [dormant] Central Bank warns spending overruns could push deficit to €25.7bn — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Business Post
 
