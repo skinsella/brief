@@ -7816,6 +7816,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tSTZBQ1F4U0hZMFJVWmQ0OXoxSDVhbkdfSWZrUFlpVUo5a1Vsa1J3R1FDcDhtLTFXc05ndUpWdmhrVjZ2UTRNUTZtQ0lzZzFkOTVrZlpneV9rU05oanJiVHJJejhHd3pyV3JlU1l2NW5CUWJPaVltR2MtRQ?oc=5": {
+    "outlet": "The Journal",
+    "published": "Wed, 15 Jul 2026 21:46:00 GMT",
+    "headline": "Government's Occupied Territories Bill passes amid criticism over lack of ban on services",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tSTZBQ1F4U0hZMFJVWmQ0OXoxSDVhbkdfSWZrUFlpVUo5a1Vsa1J3R1FDcDhtLTFXc05ndUpWdmhrVjZ2UTRNUTZtQ0lzZzFkOTVrZlpneV9rU05oanJiVHJJejhHd3pyV3JlU1l2NW5CUWJPaVltR2MtRQ?oc=5",
+    "summary": "The Journal reports: Government's Occupied Territories Bill passes amid criticism over lack of ban on services.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-s-occupied-territories-bill-passes-amid-criticism-over-lack-of-ban-on",
+    "first_seen": "2026-07-15T22:33:55Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tSTZBQ1F4U0hZMFJVWmQ0OXoxSDVhbkdfSWZrUFlpVUo5a1Vsa1J3R1FDcDhtLTFXc05ndUpWdmhrVjZ2UTRNUTZtQ0lzZzFkOTVrZlpneV9rU05oanJiVHJJejhHd3pyV3JlU1l2NW5CUWJPaVltR2MtRQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tSTZBQ1F4U0hZMFJVWmQ0OXoxSDVhbkdfSWZrUFlpVUo5a1Vsa1J3R1FDcDhtLTFXc05ndUpWdmhrVjZ2UTRNUTZtQ0lzZzFkOTVrZlpneV9rU05oanJiVHJJejhHd3pyV3JlU1l2NW5CUWJPaVltR2MtRQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vVE85MklpcHNISTk2TXFERWF6QTZZQnNNQ0dUdnQ1cDhrd0xNVzRUN29zVWl6V0Qzbzc2QWVza2Y1ZzBESVRzUy1XMHpRWVh4UzJNdkM5RGN0bXoyYjJNa2IybTN5ZTNCQlRkc2lQMS1wTFlTa0dZU1JRb9IBgAFBVV95cUxNRGtxc3lfRUhEYS0tdFlKb1ZNVnl5eUVETzF5ODhpYUtZeDJWeFJCQkNIZTRNYVRsZ0ozdUVGN2Y3UUVKcjVScExscnNCYW94YlhkeXBDYkg5VHM5bmNkZ2lVaWJEcmh0NUlIT0ZSN2JIcnVtbE9VYWE2WW5vckE2Yw?oc=5": {
     "outlet": "Cork Beo",
     "published": "Mon, 13 Jul 2026 11:17:21 GMT",
