@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-07-15T06:38:12Z",
+  "updated_at": "2026-07-15T09:18:52Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
-      "total": 6,
+      "total": 7,
       "counts": {
         "favourable": 0,
-        "neutral": 6,
+        "neutral": 7,
         "unfavourable": 0,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 18,
+        "neutral": 19,
         "unfavourable": 0,
         "mixed": 0
       },
       "net": 0,
       "weighted_net": 0,
       "targets": {
-        "Simon Harris": 6
+        "Simon Harris": 7
       },
       "themes": {
         "Foreign affairs": {
-          "total": 6,
+          "total": 7,
           "favourable": 0,
-          "neutral": 6,
+          "neutral": 7,
           "unfavourable": 0,
           "mixed": 0
         }
       }
     },
     "seven_day": {
-      "total": 93,
+      "total": 94,
       "counts": {
         "favourable": 0,
-        "neutral": 85,
+        "neutral": 86,
         "unfavourable": 1,
         "mixed": 7
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 183,
+        "neutral": 184,
         "unfavourable": 4,
         "mixed": 33
       },
@@ -49,7 +49,7 @@
       "weighted_net": -2,
       "targets": {
         "Government/policy": 25,
-        "Simon Harris": 67,
+        "Simon Harris": 68,
         "unclear": 1
       },
       "themes": {
@@ -68,9 +68,9 @@
           "mixed": 7
         },
         "Foreign affairs": {
-          "total": 12,
+          "total": 13,
           "favourable": 0,
-          "neutral": 12,
+          "neutral": 13,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -98,16 +98,16 @@
       }
     },
     "thirty_day": {
-      "total": 314,
+      "total": 315,
       "counts": {
         "favourable": 9,
-        "neutral": 286,
+        "neutral": 287,
         "unfavourable": 7,
         "mixed": 12
       },
       "weighted_counts": {
         "favourable": 23,
-        "neutral": 710,
+        "neutral": 711,
         "unfavourable": 26,
         "mixed": 54
       },
@@ -115,7 +115,7 @@
       "weighted_net": 0,
       "targets": {
         "Government/policy": 123,
-        "Simon Harris": 160,
+        "Simon Harris": 161,
         "unclear": 31
       },
       "themes": {
@@ -148,9 +148,9 @@
           "mixed": 0
         },
         "Foreign affairs": {
-          "total": 20,
+          "total": 21,
           "favourable": 1,
-          "neutral": 19,
+          "neutral": 20,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -192,16 +192,16 @@
       }
     },
     "all_time": {
-      "total": 410,
+      "total": 411,
       "counts": {
         "favourable": 18,
-        "neutral": 365,
+        "neutral": 366,
         "unfavourable": 10,
         "mixed": 17
       },
       "weighted_counts": {
         "favourable": 56,
-        "neutral": 917,
+        "neutral": 918,
         "unfavourable": 42,
         "mixed": 71
       },
@@ -209,7 +209,7 @@
       "weighted_net": 1,
       "targets": {
         "Government/policy": 168,
-        "Simon Harris": 203,
+        "Simon Harris": 204,
         "unclear": 39
       },
       "themes": {
@@ -249,9 +249,9 @@
           "mixed": 0
         },
         "Foreign affairs": {
-          "total": 26,
+          "total": 27,
           "favourable": 1,
-          "neutral": 25,
+          "neutral": 26,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -2392,29 +2392,29 @@
       }
     },
     "2026-07-15": {
-      "total": 6,
+      "total": 7,
       "counts": {
         "favourable": 0,
-        "neutral": 6,
+        "neutral": 7,
         "unfavourable": 0,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 18,
+        "neutral": 19,
         "unfavourable": 0,
         "mixed": 0
       },
       "net": 0,
       "weighted_net": 0,
       "targets": {
-        "Simon Harris": 6
+        "Simon Harris": 7
       },
       "themes": {
         "Foreign affairs": {
-          "total": 6,
+          "total": 7,
           "favourable": 0,
-          "neutral": 6,
+          "neutral": 7,
           "unfavourable": 0,
           "mixed": 0
         }

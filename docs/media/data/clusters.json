@@ -404,10 +404,10 @@
     "attention_score": 14,
     "status": "active",
     "item_links": [
-      "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/",
-      "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5",
       "https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/",
-      "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5"
+      "https://www.rte.ie/news/2026/0715/1583400-brussels-eu/",
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5",
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5"
     ]
   },
   {
@@ -2613,6 +2613,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "foreign affairs:for-presidency-priorities-revealed:ce799c28",
+    "title": "Ireland’s priorities for EU Presidency to be revealed by Simon Harris",
+    "topic": "Foreign affairs",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Highland Radio"
+    ],
+    "first_seen": "2026-07-15T06:45:15Z",
+    "latest_seen": "2026-07-15T06:45:15Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamt4WVltM0hLcTc4V1NaR0Y1ODZ0SkhkaU5mbFJmbEFMZUZRZXd2a0RkNDZGWldYdUNmTTVVU1RweFVROGh3N1Z6LTI0aVNsaENNOU05UWttdXNwaFBkVG1ndjNTN3R5dVpSU21oZDJmRkVJVHBsVkNMalFsN3VsSXEySkhUR0QweF9PX1NWODIxVV9odzdIQ0gzaEMyd3NWRTdCdG1zT2FEdw?oc=5"
     ]
   },
   {
@@ -7046,7 +7075,7 @@
     "latest_seen": "2026-07-14T09:00:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7057,7 +7086,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5"
     ]
@@ -7075,7 +7104,7 @@
     "latest_seen": "2026-07-14T07:32:35Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7086,7 +7115,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5"
     ]

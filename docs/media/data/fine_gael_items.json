@@ -5304,6 +5304,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WTVpQZUgxUEoyWmNOZ3pqSkR2Sk5jZ2pTRzAyQnhyc0FVM0s2eUlqc2JvYXdFLVloSjNrVFE0VmVVMllrRURGeGM1b0Y2TUZ0VnNVSGZqQ0Y3eTNwc3dVVURn?oc=5": {
+    "outlet": "Newstalk",
+    "published": "Wed, 15 Jul 2026 08:37:53 GMT",
+    "headline": "Pregnancy loss: Government hopes new paid leave will tackle 'stigma'",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WTVpQZUgxUEoyWmNOZ3pqSkR2Sk5jZ2pTRzAyQnhyc0FVM0s2eUlqc2JvYXdFLVloSjNrVFE0VmVVMllrRURGeGM1b0Y2TUZ0VnNVSGZqQ0Y3eTNwc3dVVURn?oc=5",
+    "summary": "Newstalk reports: Pregnancy loss: Government hopes new paid leave will tackle 'stigma'.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "pregnancy-loss-government-hopes-new-paid-leave-will-tackle-stigma",
+    "first_seen": "2026-07-15T09:18:52Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WTVpQZUgxUEoyWmNOZ3pqSkR2Sk5jZ2pTRzAyQnhyc0FVM0s2eUlqc2JvYXdFLVloSjNrVFE0VmVVMllrRURGeGM1b0Y2TUZ0VnNVSGZqQ0Y3eTNwc3dVVURn?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WTVpQZUgxUEoyWmNOZ3pqSkR2Sk5jZ2pTRzAyQnhyc0FVM0s2eUlqc2JvYXdFLVloSjNrVFE0VmVVMllrRURGeGM1b0Y2TUZ0VnNVSGZqQ0Y3eTNwc3dVVURn?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwdC1RcWNrYUdWSE53SGtRemw5MS1DckF5a29qSG9zcVdsUVRVWHRmOEJvSHM1ZE02SWt0cGVQTElXcVhVcDlBOUtyTXFiY3J5dFE2QkJ5TktMUXI0NjRqN1pR?oc=5": {
     "outlet": "Roscommon People",
     "published": "Thu, 18 Jun 2026 10:18:45 GMT",
@@ -19241,6 +19266,32 @@
     "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTk4ZTd4TGxOU0htRVh3X21PaWx0eHFoekUtdkVpckpfXzcyeXp4S0Z0dnZPWGFwVjhyOG9JMXRFdF8wZzR4am1hMndMejhCSWNINVk4R0dZTy1VQjhjU1BYa2tzZ0QtbjNBWGFCc2k2QVQ5LS0zTFBqc1JEbG5sNEUwOW1JNUI1d1hmMnJpZVQtQ3haclpkT1Q3dXFoTlBPWDRHZUtfcmkxQzczb3pwRU5FU20?oc=5",
     "source_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTk4ZTd4TGxOU0htRVh3X21PaWx0eHFoekUtdkVpckpfXzcyeXp4S0Z0dnZPWGFwVjhyOG9JMXRFdF8wZzR4am1hMndMejhCSWNINVk4R0dZTy1VQjhjU1BYa2tzZ0QtbjNBWGFCc2k2QVQ5LS0zTFBqc1JEbG5sNEUwOW1JNUI1d1hmMnJpZVQtQ3haclpkT1Q3dXFoTlBPWDRHZUtfcmkxQzczb3pwRU5FU20?oc=5",
     "topic": "Foreign affairs",
+    "attention": [
+      "Critical framing",
+      "Review tone"
+    ],
+    "outlet_tier": "regional",
+    "outlet_weight": 1,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses critical or risk language: concerns."
+  },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUktYXBQZGFXeEdVRWw1TnR1Rkc3OG5vNDBNdXd0cUF1Y3JPS2UwanJzdzRPblZRanZnekw0VTlQZEpTNGNNNWZSY0hLUEhaeFJtSUVxZ1ppUFRxV3NMZnY4RHlPb01SVUk5bkpZOHMwTVJxbGw0aE1CNW1wZlVENTNoMDB5ZmVoSThDX3IxZlZTNlFOelladzhXVmNKMDZHdklUM3lMQ2htSGlzQUt3akVqOUw?oc=5": {
+    "outlet": "kfmradio.com",
+    "published": "Wed, 15 Jul 2026 08:37:20 GMT",
+    "headline": "Concerns Raised As Third Accident Occurs On Kildare Road In Recent Months",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUktYXBQZGFXeEdVRWw1TnR1Rkc3OG5vNDBNdXd0cUF1Y3JPS2UwanJzdzRPblZRanZnekw0VTlQZEpTNGNNNWZSY0hLUEhaeFJtSUVxZ1ppUFRxV3NMZnY4RHlPb01SVUk5bkpZOHMwTVJxbGw0aE1CNW1wZlVENTNoMDB5ZmVoSThDX3IxZlZTNlFOelladzhXVmNKMDZHdklUM3lMQ2htSGlzQUt3akVqOUw?oc=5",
+    "summary": "kfmradio.com reports: Concerns Raised As Third Accident Occurs On Kildare Road In Recent Months.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "concerns-raised-as-third-accident-occurs-on-kildare-road-in-recent-months",
+    "first_seen": "2026-07-15T09:18:52Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUktYXBQZGFXeEdVRWw1TnR1Rkc3OG5vNDBNdXd0cUF1Y3JPS2UwanJzdzRPblZRanZnekw0VTlQZEpTNGNNNWZSY0hLUEhaeFJtSUVxZ1ppUFRxV3NMZnY4RHlPb01SVUk5bkpZOHMwTVJxbGw0aE1CNW1wZlVENTNoMDB5ZmVoSThDX3IxZlZTNlFOelladzhXVmNKMDZHdklUM3lMQ2htSGlzQUt3akVqOUw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdUktYXBQZGFXeEdVRWw1TnR1Rkc3OG5vNDBNdXd0cUF1Y3JPS2UwanJzdzRPblZRanZnekw0VTlQZEpTNGNNNWZSY0hLUEhaeFJtSUVxZ1ppUFRxV3NMZnY4RHlPb01SVUk5bkpZOHMwTVJxbGw0aE1CNW1wZlVENTNoMDB5ZmVoSThDX3IxZlZTNlFOelladzhXVmNKMDZHdklUM3lMQ2htSGlzQUt3akVqOUw?oc=5",
+    "topic": "Other",
     "attention": [
       "Critical framing",
       "Review tone"

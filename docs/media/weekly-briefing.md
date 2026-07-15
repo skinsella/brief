@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 15 Jul 2026 06:38 GMT
+Updated: Wed, 15 Jul 2026 09:18 GMT
 
 ## Snapshot
 
-- Recent coverage: 93 item(s) in the last 7 days.
+- Recent coverage: 94 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 11.
 
 ## Trend Summary
 
-- Coverage volume: 93 item(s) in the last 7 days; up 39 vs previous 7 days.
+- Coverage volume: 94 item(s) in the last 7 days; up 40 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Wed, 15 Jul 2026 06:38 GMT
 
 ## Narrative Summary
 
-- Active narratives: 9 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 8 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -39,7 +39,7 @@ Updated: Wed, 15 Jul 2026 06:38 GMT
 
 - Other: 50
 - Finance: 25
-- Foreign affairs: 12
+- Foreign affairs: 13
 - Fine Gael: 3
 - Constituency/local: 2
 - Tax: 1
@@ -70,12 +70,13 @@ Updated: Wed, 15 Jul 2026 06:38 GMT
 
 ## Recent Items
 
+- [neutral factual] Highland Radio: Ireland’s priorities for EU Presidency to be revealed by Simon Harris (https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamt4WVltM0hLcTc4V1NaR0Y1ODZ0SkhkaU5mbFJmbEFMZUZRZXd2a0RkNDZGWldYdUNmTTVVU1RweFVROGh3N1Z6LTI0aVNsaENNOU05UWttdXNwaFBkVG1ndjNTN3R5dVpSU21oZDJmRkVJVHBsVkNMalFsN3VsSXEySkhUR0QweF9PX1NWODIxVV9odzdIQ0gzaEMyd3NWRTdCdG1zT2FEdw?oc=5)
 - [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5)
 - [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html)
-- [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5)
-- [neutral factual] RTE News: Tánaiste to address EU Parliament committee (https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/)
 - [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5)
+- [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5)
 - [neutral factual] RTE News: Tánaiste to address EU Parliament committee (https://www.rte.ie/news/2026/0715/1583400-brussels-eu/)
+- [neutral factual] RTE News: Tánaiste to address EU Parliament committee (https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/)
 - [neutral factual] Mshale: Tánaiste Simon Harris On Rotunda Climbdown & Ireland Vs. Israel Vietnam War (j7oaZnSuac) (https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5)
 - [neutral factual] Limerick Leader: Limerick minister is absent from Government Cabinet meeting (https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWd5ZmZxRGFKcWFvX3MxUFFaSnlpNEZSWXpPeUFMTUZsSlBleXhkc2pMTEhHRElqdnR5MVl6YUZreXMzd1FZZWFsRThTLTk2dlBtRnY0OHVJUDhwQVFKRmdqWnVPUE9jMUVGT2lxcTB2dWRPNW45QzF4QWxRbXhZb29oak9Pa2x4VEw1eTJ3d1ZvdzNoc3dWZ0JnR2xET2hwbXhTamVRUzd3d2NBVVVXUw?oc=5)
 - [neutral factual] Limerick Leader: No appearance by Limerick minister at Government Cabinet meeting (https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWNkTklwYXFwX25WWmNOd2NhckNOeDkxYkFWcWJpUm1IekQyWUdEbWdRT1UzdHlwOWRsOGN5amN1VloyQnRfTEtsazM5SXVvVndGbF9hRUd1aFhpbk9oQXNranJMN25saTEwNG0weVhMU3I5bEFGLXlMUzR1U29wejVMUldfVGIyTWNtd2w2SDJ2WDZPQ0t4NEtYYVlGYnhMUWlBblhQYmRKa25sNVhuYkRFU05iM0E?oc=5)
@@ -89,4 +90,3 @@ Updated: Wed, 15 Jul 2026 06:38 GMT
 - [neutral factual] t.co: Simon Harris TD – moron. (https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5)
 - [neutral factual] Extra.ie: Tánaiste: ‘I am adopting a new rule of not commenting on everything that Leo says’ (https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5)
 - [neutral factual] Irish Independent: David W Higgins: It’s time for Fine Gael and Fianna Fáil to admit they are centre right (https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHMyYUpUa1NWQ1VtV012SURKSmlSX3ZMVEN4czUxNjN1cnljaDhMS3RXT2d1TVlqS18yTTJQVzNuQ25yU1R2MUtHUmFKSktnTlZFU2FzMWhndUt6T2tVeU85cHV5WDdzdC14U3c2RzhoY1hadkFhWnZEUmxGbGdSMk4wMTFHcUs1bVBUcENQOGg1UTVHWVFEMjVTSjRGMF9HS0M1SFkwUzQ2bjdOUF9QZldkRmdSUEtTeHRybDFMRGRQR2IxVEQ1QVI0YnBkeTQxR2xqWnUtQzhCTXgwOWc?oc=5)
-- [neutral factual] MSN: 'Merit' in considering English language proficiency for Irish citizenship, says Tánaiste (https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM09mV3VrbF92QVBCQi1XampQcy1QT0l3VkZMVXVaUEdhWW5OMEhWZ1JBYnhHUWpNUkhSSFRZekUtTG9pcmx0TGN6VVltMFJ3TUpnejZJNDY2SEJuYm9aMnFsb01zNlFRSWxBV3J1eWhWdkRaRzQ4d2Vzdi1vN3g4UHBIcnFsWUdwcjN5aEtERF9pT2pUdVR4Ym9KdmFmZUNGQS1ablZTVGsxNGFrU2hHbExpY0hKTlFRbUx6eUZJUUpTWWliV1llZzJCN25MTGd4UjdxMFFUcw?oc=5)
