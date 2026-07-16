@@ -198,6 +198,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbDlWZUFYR20wLUl0aW92eVZCZk53bGVIdVhnc3ZMaGljRWk5V0Jub3pOZ295Z1l5VzRDS2gwZm5fdExXcTE5Zm1BRlpqUjR4RzYwd3JUNjZwN0s2d1pPU0IzWjJjQU93bnRrMU5FdHlwc0ZHY1lfT2tyOHBMUl9TQkdfMjlnTmxqc2xjZHNjamlCX0Ixdy1FekI3RVZaMXlLQUpFRnJPeUU4VFpITU5ZN1hhZV8zZFFYS3NmYmtwRThtTFFldUVSdHo4Y0JoTWw5Nl9oamYwRjZaTWx1eWh1SEtFSVV2Wlg0NlB4Q25pd3hCbGFfenJwVExn?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 16 Jul 2026 17:19:01 GMT",
+    "headline": "‘Offensive waste of public money’ – Costs linked to failed rail traffic management system expected to grow",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbDlWZUFYR20wLUl0aW92eVZCZk53bGVIdVhnc3ZMaGljRWk5V0Jub3pOZ295Z1l5VzRDS2gwZm5fdExXcTE5Zm1BRlpqUjR4RzYwd3JUNjZwN0s2d1pPU0IzWjJjQU93bnRrMU5FdHlwc0ZHY1lfT2tyOHBMUl9TQkdfMjlnTmxqc2xjZHNjamlCX0Ixdy1FekI3RVZaMXlLQUpFRnJPeUU4VFpITU5ZN1hhZV8zZFFYS3NmYmtwRThtTFFldUVSdHo4Y0JoTWw5Nl9oamYwRjZaTWx1eWh1SEtFSVV2Wlg0NlB4Q25pd3hCbGFfenJwVExn?oc=5",
+    "summary": "Irish Independent reports: ‘Offensive waste of public money’ – Costs linked to failed rail traffic management system expected to grow.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "offensive-waste-of-public-money-costs-linked-to-failed-rail-traffic-management-s",
+    "first_seen": "2026-07-16T18:15:29Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbDlWZUFYR20wLUl0aW92eVZCZk53bGVIdVhnc3ZMaGljRWk5V0Jub3pOZ295Z1l5VzRDS2gwZm5fdExXcTE5Zm1BRlpqUjR4RzYwd3JUNjZwN0s2d1pPU0IzWjJjQU93bnRrMU5FdHlwc0ZHY1lfT2tyOHBMUl9TQkdfMjlnTmxqc2xjZHNjamlCX0Ixdy1FekI3RVZaMXlLQUpFRnJPeUU4VFpITU5ZN1hhZV8zZFFYS3NmYmtwRThtTFFldUVSdHo4Y0JoTWw5Nl9oamYwRjZaTWx1eWh1SEtFSVV2Wlg0NlB4Q25pd3hCbGFfenJwVExn?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbDlWZUFYR20wLUl0aW92eVZCZk53bGVIdVhnc3ZMaGljRWk5V0Jub3pOZ295Z1l5VzRDS2gwZm5fdExXcTE5Zm1BRlpqUjR4RzYwd3JUNjZwN0s2d1pPU0IzWjJjQU93bnRrMU5FdHlwc0ZHY1lfT2tyOHBMUl9TQkdfMjlnTmxqc2xjZHNjamlCX0Ixdy1FekI3RVZaMXlLQUpFRnJPeUU4VFpITU5ZN1hhZV8zZFFYS3NmYmtwRThtTFFldUVSdHo4Y0JoTWw5Nl9oamYwRjZaTWx1eWh1SEtFSVV2Wlg0NlB4Q25pd3hCbGFfenJwVExn?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdndOYkpwT0l5b0F5R2hYeUFFcnlySkt4M29WODV5SzM2ZVJxcmNXRXBqZnRKcFhPTXE4bk5Jc0hERGZuejJLdFhEQ0c4T0RCTkVqQnplUFp4ZUY3eC1HUzJncW1VS2ZGV1otZXpZUVJsclpSVTc2Q3BUakd5U3Z1MjAyVS1BekN6cDJ2dFBOalNKUnM1Z0REWXFuaVE1OW8temdPRmYzMFp6cjFWY0x0S2NnZzFsYkx6SkdHZnhHNF93a2tfU0pwQzhaWXF0Vld4ZnVUM0VfVnVxYUo1aFAzTzNiZHJPRVJ1YXhnU21KX0g4aXNzTVJiSldB?oc=5": {
     "outlet": "Irish Independent",
     "published": "Wed, 24 Jun 2026 04:35:03 GMT",

@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 16:51 GMT
+Updated: Thu, 16 Jul 2026 18:15 GMT
 
 ## Snapshot
 
@@ -13,7 +13,7 @@ Updated: Thu, 16 Jul 2026 16:51 GMT
 - Coverage volume: 93 item(s) in the last 7 days; up 24 vs previous 7 days.
 - Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 52 item(s).
-- Critical concentration: Finance accounts for 1 recent critical item(s).
+- Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 13 item(s).
 
 ## Narrative Summary
@@ -62,7 +62,7 @@ Updated: Thu, 16 Jul 2026 16:51 GMT
 - [persistent] Simon Harris met with a group of influencers this week to talk about his new savings scheme — 6 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net -17%. Outlets: MSN, The Irish Times, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
-- [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
+- [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [emerging] United Ireland debate should focus on opportunities not costs, says Tánaiste — 4 item(s), 3 outlet(s), 4 in 6h, 4 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, The Irish News
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
