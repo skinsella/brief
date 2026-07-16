@@ -1301,6 +1301,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 16 Jul 2026 15:30:00 GMT",
+    "headline": "Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
+    "summary": "Irish Independent reports: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "unity-would-mean-making-up-northern-ireland-s-annual-deficit-of-8-25bn-says-simo",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcThPczE5eXozTnN2VWNES0xYbExCMGRUR3hqWU00SU1FYUVTeloza3QzMDV1eEtCeThfak1ILXFZYWc3eEVPQkZHdDY1X0hPbXFMX1MtbHVZcmF5Sk9mdm1QUFhQdlJjQWdmaTU0WnVWSmJNU01FTDM0dDFyZmN6bUpfR2dOTmRaTTdMVUF5VWxFN0FaXzAtWUhFN0lzY1RtZGJPRS1ZRFRGSDNJNnNzbzdacDB5UDF1dVdpbW1CTjJvWWtTYUxHRlZ6S0FyR01KUjBqUFowQlNPZWQ2YThUWTBSNjAwQQ?oc=5": {
     "outlet": "Irish Independent",
     "published": "Wed, 24 Jun 2026 04:36:00 GMT",
@@ -1349,6 +1374,29 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5": {
+    "outlet": "The Irish News",
+    "published": "Thu, 16 Jul 2026 16:04:46 GMT",
+    "headline": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
+    "summary": "The Irish News reports: United Ireland debate should focus on opportunities not costs, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "united-ireland-debate-should-focus-on-opportunities-not-costs-says-t-naiste",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVUdSV0Y1Tmt3M0xsVGJXVUZlRGNGLWlYT3Bmb0dzanUydkJMSktwUVBNcmdBcWpPVlcyQXlrbUE5RFhuenBIZ0ktMjJPWTNTU0dpOGFQZHJ0QlkyejM0TmxuLVpqdFR6Rm1rbWZPZ1pnTk5jZFlyMGNGVGF4bFUtdkhCeEJ0MW9fOGdkXzhTQ3IyYU41WVVRTW5sb0s4SFRScWlWd1RjODNUUVpIa1Y2THQwcF9wM1pieWpKMEFtQnhxUHZ2MlI5Z2ZhXzdyUTlwdl93RlptU3JaaTBMVnpzam1rb05lZXM?oc=5": {
@@ -2359,6 +2407,33 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Thu, 16 Jul 2026 15:13:00 GMT",
+    "headline": "Government accused of 'sleepwalking' into alumina exports crisis",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5",
+    "summary": "Irish Examiner reports: Government accused of 'sleepwalking' into alumina exports crisis.",
+    "tag": "SIGNIFICANT",
+    "reason": "The framing is critical or unresolved and may need a quick response.",
+    "cluster_key": "government-accused-of-sleepwalking-into-alumina-exports-crisis",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "Fast Reaction",
+      "Critical framing",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Headline uses critical or risk language: accused."
+  },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUXFjREF4ajhoTXVsTFJhQWMtQU5mT1FMZWs2dzlxVDZJZkU1VmE5UEhhY3NXWFNvTFd5QWFZdTFZTlpxckJyenRhRzVnTXlERVlNOU1aOGViRzZ5QjBTdTB4UndHNmZSU1VuSWUzUQ?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Mon, 13 Jul 2026 16:13:00 GMT",
@@ -2433,6 +2508,31 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Headline describes an adverse event or risk (worried) rather than approval or criticism of Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Thu, 16 Jul 2026 16:01:00 GMT",
+    "headline": "All-island euro would benefit businesses and consumers, says Simon Harris",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5",
+    "summary": "Irish Examiner reports: All-island euro would benefit businesses and consumers, says Simon Harris.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "all-island-euro-would-benefit-businesses-and-consumers-says-simon-harris",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5",
+    "topic": "Enterprise",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE96STZkY3NGWVh0UW1XdTJMTEEzZGxqOGdtY29JNlltb01jcno3NzFYbzdDR2YxYnktaGVTeVhVS0U0TG9KR3doMTN5WnRxSjdybExfN2ZuQWwzVlJSVy1uMTlQUkNaMGZXRExDRV9jNA?oc=5": {
     "outlet": "Irish Examiner",
@@ -6881,6 +6981,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Thu, 16 Jul 2026 15:17:53 GMT",
+    "headline": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
+    "summary": "BreakingNews.ie reports: United Ireland debate should focus on opportunities not costs, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "united-ireland-debate-should-focus-on-opportunities-not-costs-says-t-naiste",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0Z5bFBuWnJUeDVjbzRPU0RhUkJ0LWZSaF9udU0yQnlhczdjNXBELVhwX19MUENJNVlnc0cxbFloOFhlNG1kYWlLRkVIUC05N21jUmZGb2JZV3Y1a1VkT2NJNWlhM1ZZbklSekE4VG9FN05RWExDYjk1clRPX2F4ZWF5cnMyNUVrMFhWLWNiZUwyYlJXMDE3QndzT0pwdGc3NVBlNWZnYWlSMGlVQmdydVhPcDRzWHJmcHZCMDdleHE5dw?oc=5": {
     "outlet": "Shannonside.ie",
     "published": "Sun, 05 Jul 2026 13:50:15 GMT",
@@ -8397,6 +8522,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html": {
+    "outlet": "BreakingNews.ie",
+    "published": "Thu, 16 Jul 2026 16:17:53 Europe/Dublin",
+    "headline": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
+    "link": "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html",
+    "summary": "BreakingNews.ie reports: United Ireland debate should focus on opportunities not costs, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "united-ireland-debate-should-focus-on-opportunities-not-costs-says-t-naiste",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "BreakingNews.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://www.breakingnews.ie/ireland/ursula-von-der-leyen-to-meet-taoiseach-and-tanaiste-in-cork-1921327.html": {
     "outlet": "BreakingNews.ie",
     "published": "Thu, 02 Jul 2026 07:23:59 Europe/Dublin",
@@ -8513,6 +8663,31 @@
     "topic": "Finance",
     "attention": [
       "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 16 Jul 2026 14:30:00 GMT",
+    "headline": "Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris",
+    "link": "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html",
+    "summary": "Irish Independent reports: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "unity-would-mean-making-up-northern-ireland-s-annual-deficit-of-8-25bn-says-simo",
+    "first_seen": "2026-07-16T16:51:28Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html",
+    "topic": "Other",
+    "attention": [
       "High-reach outlet"
     ],
     "outlet_tier": "national",

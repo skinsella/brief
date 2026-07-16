@@ -242,6 +242,40 @@
     ]
   },
   {
+    "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
+    "title": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
+    "topic": "Other",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "Belfast Telegraph",
+      "BreakingNews.ie",
+      "The Irish News"
+    ],
+    "first_seen": "2026-07-16T15:00:33Z",
+    "latest_seen": "2026-07-16T16:17:53Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 4,
+    "velocity_24h": 4,
+    "reach_score": 8,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 23,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html",
+      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5"
+    ]
+  },
+  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -406,6 +440,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5",
       "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html"
+    ]
+  },
+  {
+    "key": "other:accused-alumina-crisis-exports-government-into:7f7bac75",
+    "title": "Government accused of 'sleepwalking' into alumina exports crisis",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-16T15:13:00Z",
+    "latest_seen": "2026-07-16T15:13:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 1,
+      "mixed": 0
+    },
+    "net_framing": -100,
+    "significant_count": 1,
+    "attention_score": 16,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5"
     ]
   },
   {
@@ -599,6 +662,36 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5",
       "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:25bn-annual-deficit-making-mean-northern:a6d10f88",
+    "title": "Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-16T14:30:00Z",
+    "latest_seen": "2026-07-16T15:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 13,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
+      "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html"
     ]
   },
   {
@@ -2152,6 +2245,35 @@
     ]
   },
   {
+    "key": "enterprise:all-benefit-businesses-consumers-euro-island:114fbf00",
+    "title": "All-island euro would benefit businesses and consumers, says Simon Harris",
+    "topic": "Enterprise",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-16T16:01:00Z",
+    "latest_seen": "2026-07-16T16:01:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5"
+    ]
+  },
+  {
     "key": "finance:bank-base-bizarre-bonds-central-here:0973d31a",
     "title": "Central Bank: ‘Bizarre’ to base Israeli bonds here",
     "topic": "Finance",
@@ -2802,35 +2924,6 @@
     ]
   },
   {
-    "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
-    "title": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Belfast Telegraph"
-    ],
-    "first_seen": "2026-07-16T15:00:33Z",
-    "latest_seen": "2026-07-16T15:00:33Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5"
-    ]
-  },
-  {
     "key": "tax:end-government-luxury-sunscreen-urged-vat:142692f3",
     "title": "'It's not a luxury': Government urged to end 23% VAT on sunscreen",
     "topic": "Tax",
@@ -2843,7 +2936,7 @@
     "latest_seen": "2026-07-15T15:56:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2854,7 +2947,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5"
     ]

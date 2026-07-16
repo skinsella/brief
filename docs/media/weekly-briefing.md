@@ -1,29 +1,30 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 15:11 GMT
+Updated: Thu, 16 Jul 2026 16:51 GMT
 
 ## Snapshot
 
-- Recent coverage: 86 item(s) in the last 7 days.
-- Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 16.
+- Recent coverage: 93 item(s) in the last 7 days.
+- Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
+- Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 86 item(s) in the last 7 days; up 17 vs previous 7 days.
-- Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 46 item(s).
+- Coverage volume: 93 item(s) in the last 7 days; up 24 vs previous 7 days.
+- Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
+- Main topic: Other leads recent coverage with 52 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 11 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 13 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 8 active cluster(s), including 3 emerging in the last 6 hours.
+- Active narratives: 10 active cluster(s), including 5 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
 ## Needs Attention
 
+- [Fast Reaction, Critical framing, High-reach outlet] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
 - [Policy, High-reach outlet] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)
 - [Policy, High-reach outlet] BreakingNews.ie: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5)
 - [Policy, High-reach outlet] The Journal: Budget overspend could lead to €26bn deficit in public finances by 2030, says Central Bank chief (https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFMyLU5KWlNzX0twT2ZyVjcyNEJLbEpIcXdUb0hoa0xtMnNZUHd3enN2NWR2V2ExSFNoMjdKemJnM1pVaDdsb1ktOC1sVFdSNlE1M2dTcmZRai1IVVFIWWJZeXNZNEYwZGhCNngxbWVXWmg1QWRGSzR0LTk5TnRMeWxNZ3o?oc=5)
@@ -33,26 +34,26 @@ Updated: Thu, 16 Jul 2026 15:11 GMT
 - [Policy, High-reach outlet] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
 - [Policy, High-reach outlet] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
 - [Fast Reaction, Critical framing] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
-- [Policy, High-reach outlet] Irish Examiner: 'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says (https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5)
 
 ## Top Topics
 
-- Other: 46
+- Other: 52
 - Finance: 22
 - Foreign affairs: 13
 - Tax: 3
 - Fine Gael: 2
+- Enterprise: 1
 
 ## Top Outlets
 
-- Irish Independent: 11
-- BreakingNews.ie: 9
+- Irish Independent: 13
+- BreakingNews.ie: 11
 - Business Post: 7
+- Irish Examiner: 5
 - The Journal: 5
 - MSN: 5
 - RTE.ie: 4
 - Limerick Leader: 4
-- Irish Mirror: 4
 
 ## Story Clusters
 
@@ -63,15 +64,22 @@ Updated: Thu, 16 Jul 2026 15:11 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
+- [emerging] United Ireland debate should focus on opportunities not costs, says Tánaiste — 4 item(s), 3 outlet(s), 4 in 6h, 4 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, The Irish News
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [emerging] More efficient way of of assessing new drugs needed, says Tánaiste — 3 item(s), 2 outlet(s), 3 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, Ireland Live
-- [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 
 ## Recent Items
 
+- [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html)
+- [neutral factual] The Irish News: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5)
+- [neutral factual] Irish Examiner: All-island euro would benefit businesses and consumers, says Simon Harris (https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5)
+- [neutral factual] Irish Independent: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris (https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5)
+- [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5)
+- [critical] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
 - [neutral factual] Belfast Telegraph: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5)
 - [neutral factual] BreakingNews.ie: More efficient way of of assessing new drugs needed, says Tánaiste (https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html)
 - [neutral factual] Irish Examiner: 'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says (https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5)
+- [neutral factual] Irish Independent: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris (https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html)
 - [neutral factual] RTE.ie: Single currency would benefit a united Ireland - Tánaiste (https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5)
 - [neutral factual] RTE News: Single currency would benefit a united Ireland - Tánaiste (https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/)
 - [neutral factual] The Journal: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5)
@@ -82,10 +90,3 @@ Updated: Thu, 16 Jul 2026 15:11 GMT
 - [mixed framing] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)
 - [mixed framing] The Irish News: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5)
 - [mixed framing] BreakingNews.ie: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5)
-- [neutral factual] The Journal: 'It's not a luxury': Government urged to end 23% VAT on sunscreen (https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5)
-- [neutral factual] MSN: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMiiANBVV95cUxOcFNwN3VVUmwwMlBOVmVaUGRfei04LWIzSE1pY1NYN0Q5RzMzWnFZNklEcmN5RjUtS1VpbnBnSEZya250a0YyZnZackJfTXZZRUU5RGFDeEl2VUNvR1lOaG1xdDdyR00tSXNxLU1INHJXa2c0MW8wY3p1ZnhPeUxxcHEzb1J2YXNRSXBkNTM4eTJSSVkwWnR5NW1JbTY1WXZkeEhPUzBvQU1NNXpTQzAtWXM2bHpxYlFnT2pNSkVsNlQyUFZPczlSUVZWeC1HXzhSYTJFanVvRG1kUUJQZW1GSTFsWU1pTTNVMi1RSFVQNTdXazNmSWcwWHJvU1JxeW5aY2hBMmIzcGRveHotbm9xT2VDeEwwQjZkYUE2aFVLRlFUMzhxQTdzQXhLcE42SFNmelVtTW4zcG5MQWgwU1dhTnkxeEc3dGJTRXhQdnJZNE5sNmJTOENqN1JxUzZ2MVFNdU1mZlZLdzVmSzFJLU5hTXByUThiZFdfLURkdjAyNHYxcFI1Q0ZxNQ?oc=5)
-- [neutral factual] Highland Radio: Ireland’s priorities for EU Presidency to be revealed by Simon Harris (https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamt4WVltM0hLcTc4V1NaR0Y1ODZ0SkhkaU5mbFJmbEFMZUZRZXd2a0RkNDZGWldYdUNmTTVVU1RweFVROGh3N1Z6LTI0aVNsaENNOU05UWttdXNwaFBkVG1ndjNTN3R5dVpSU21oZDJmRkVJVHBsVkNMalFsN3VsSXEySkhUR0QweF9PX1NWODIxVV9odzdIQ0gzaEMyd3NWRTdCdG1zT2FEdw?oc=5)
-- [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5)
-- [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html)
-- [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5)
-- [neutral factual] RTE.ie: Tánaiste to address EU Parliament committee (https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5)
