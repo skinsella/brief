@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 19:43 GMT
+Updated: Thu, 16 Jul 2026 21:12 GMT
 
 ## Snapshot
 
-- Recent coverage: 95 item(s) in the last 7 days.
+- Recent coverage: 96 item(s) in the last 7 days.
 - Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
 - Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 95 item(s) in the last 7 days; up 26 vs previous 7 days.
+- Coverage volume: 96 item(s) in the last 7 days; up 27 vs previous 7 days.
 - Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 53 item(s).
+- Main topic: Other leads recent coverage with 54 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 13 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 11 active cluster(s), including 5 emerging in the last 6 hours.
+- Active narratives: 11 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,7 +37,7 @@ Updated: Thu, 16 Jul 2026 19:43 GMT
 
 ## Top Topics
 
-- Other: 53
+- Other: 54
 - Finance: 22
 - Foreign affairs: 13
 - Tax: 3
@@ -61,7 +61,7 @@ Updated: Thu, 16 Jul 2026 19:43 GMT
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [persistent] Simon Harris met with a group of influencers this week to talk about his new savings scheme — 6 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net -17%. Outlets: MSN, The Irish Times, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
-- [emerging] United Ireland debate should focus on opportunities not costs, says Tanaiste — 5 item(s), 4 outlet(s), 5 in 6h, 5 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, The Irish News
+- [emerging] United Ireland debate should focus on opportunities not costs, says Tanaiste — 6 item(s), 5 outlet(s), 4 in 6h, 6 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, Nenagh Live, The Irish News
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
@@ -79,6 +79,7 @@ Updated: Thu, 16 Jul 2026 19:43 GMT
 - [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5)
 - [critical] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
 - [neutral factual] Belfast Telegraph: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5)
+- [neutral factual] Nenagh Live: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0pKWmswSkF3ekJOXy0yOFNTOWRROUh3QmV3SEZnTDMyaVFZSDV5aC1PR3FTblI1OWtDRlVDY19objVjYm9yVmVDa1V4eG5QNm4zOUpfd1gzVnN5R2NnQm56YWxYYkMwMmwxa2xGRUJBNjFzTktGV015RTBLOEg5QlhnQi1pcDJEUzNucGwyQ0UwS2lQNXZVMnBkeFR4ZEtWWGlSX1hCaXNmUldBNk9RbjdHVWF2NE1lX3c?oc=5)
 - [neutral factual] BreakingNews.ie: More efficient way of of assessing new drugs needed, says Tánaiste (https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html)
 - [neutral factual] Irish Examiner: 'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says (https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5)
 - [neutral factual] Irish Independent: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris (https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html)
@@ -89,4 +90,3 @@ Updated: Thu, 16 Jul 2026 19:43 GMT
 - [neutral factual] BreakingNews.ie: More efficient way of of assessing new drugs needed, says Tánaiste (https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5)
 - [neutral factual] Ireland Live: More efficient way of of assessing new drugs needed, says Tánaiste (https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5)
 - [mixed framing] businessplus.ie: Central Bank: ‘Bizarre’ to base Israeli bonds here (https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5)
-- [mixed framing] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)

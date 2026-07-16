@@ -6092,6 +6092,33 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Thu, 16 Jul 2026 20:38:00 GMT",
+    "headline": "Government accused of 'sleepwalking' into alumina exports crisis",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5",
+    "summary": "Irish Examiner reports: Government accused of 'sleepwalking' into alumina exports crisis.",
+    "tag": "SIGNIFICANT",
+    "reason": "The framing is critical or unresolved and may need a quick response.",
+    "cluster_key": "government-accused-of-sleepwalking-into-alumina-exports-crisis",
+    "first_seen": "2026-07-16T21:12:31Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "Fast Reaction",
+      "Critical framing",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Headline uses critical or risk language: accused."
+  },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE44dVJuTWZ4dU5nXzJxeFNTc2FZVWhCejlJc0p6c2JuTXhkOF8zeXFpT21oc1Nvb093WkVadUQ0S1BfNXl1cHlGb2hOUm5JUi1wM1Y5OGltbVduMmh4anNPVDZoUUkzUGlvbzNvVElNYw?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Wed, 24 Jun 2026 14:56:00 GMT",

@@ -150,36 +150,38 @@
     "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
     "title": "United Ireland debate should focus on opportunities not costs, says Tanaiste",
     "topic": "Other",
-    "item_count": 5,
-    "outlet_count": 4,
+    "item_count": 6,
+    "outlet_count": 5,
     "outlets": [
       "Belfast News Letter",
       "Belfast Telegraph",
       "BreakingNews.ie",
+      "Nenagh Live",
       "The Irish News"
     ],
-    "first_seen": "2026-07-16T15:00:33Z",
+    "first_seen": "2026-07-16T14:50:00Z",
     "latest_seen": "2026-07-16T18:55:00Z",
     "lifespan_hours": 4,
-    "velocity_6h": 5,
-    "velocity_24h": 5,
-    "reach_score": 9,
+    "velocity_6h": 4,
+    "velocity_24h": 6,
+    "reach_score": 10,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 5,
+      "neutral": 6,
       "unfavourable": 0,
       "mixed": 0
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 28,
+    "attention_score": 27,
     "status": "emerging",
     "item_links": [
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5",
       "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html",
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
-      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5"
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5",
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0pKWmswSkF3ekJOXy0yOFNTOWRROUh3QmV3SEZnTDMyaVFZSDV5aC1PR3FTblI1OWtDRlVDY19objVjYm9yVmVDa1V4eG5QNm4zOUpfd1gzVnN5R2NnQm56YWxYYkMwMmwxa2xGRUJBNjFzTktGV015RTBLOEg5QlhnQi1pcDJEUzNucGwyQ0UwS2lQNXZVMnBkeFR4ZEtWWGlSX1hCaXNmUldBNk9RbjdHVWF2NE1lX3c?oc=5"
     ]
   },
   {
@@ -442,38 +444,6 @@
     ]
   },
   {
-    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
-    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
-    "topic": "Other",
-    "item_count": 3,
-    "outlet_count": 2,
-    "outlets": [
-      "BreakingNews.ie",
-      "Ireland Live"
-    ],
-    "first_seen": "2026-07-16T12:30:00Z",
-    "latest_seen": "2026-07-16T14:44:23Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 2,
-    "velocity_24h": 3,
-    "reach_score": 7,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 3,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 15,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
-    ]
-  },
-  {
     "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
     "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
     "topic": "Other",
@@ -505,68 +475,6 @@
       "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5",
       "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5"
-    ]
-  },
-  {
-    "key": "other:benefit-currency-single-united-would:874ce787",
-    "title": "Single currency would benefit a united Ireland - Tánaiste",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "RTE News",
-      "RTE.ie"
-    ],
-    "first_seen": "2026-07-16T13:56:51Z",
-    "latest_seen": "2026-07-16T13:56:51Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 14,
-    "status": "emerging",
-    "item_links": [
-      "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/",
-      "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5"
-    ]
-  },
-  {
-    "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
-    "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "The Journal",
-      "TheJournal.ie"
-    ],
-    "first_seen": "2026-07-16T13:45:21Z",
-    "latest_seen": "2026-07-16T13:54:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 14,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
-      "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/"
     ]
   },
   {
@@ -667,36 +575,6 @@
     ]
   },
   {
-    "key": "other:25bn-annual-deficit-making-mean-northern:a6d10f88",
-    "title": "Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-16T14:30:00Z",
-    "latest_seen": "2026-07-16T15:30:00Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 13,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
-      "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html"
-    ]
-  },
-  {
     "key": "other:announces-blueprint-for-unity:553992f6",
     "title": "Simon Harris announces 'blueprint' for Irish unity",
     "topic": "Other",
@@ -757,35 +635,6 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
-    ]
-  },
-  {
-    "key": "tax:ataxia-behind-drug-friedreich-mixed-science:fa908758",
-    "title": "'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Examiner"
-    ],
-    "first_seen": "2026-07-16T14:40:00Z",
-    "latest_seen": "2026-07-16T14:40:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5"
     ]
   },
   {
@@ -1014,6 +863,36 @@
     ]
   },
   {
+    "key": "other:25bn-annual-deficit-making-mean-northern:a6d10f88",
+    "title": "Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-16T14:30:00Z",
+    "latest_seen": "2026-07-16T15:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 1,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 10,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
+      "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html"
+    ]
+  },
+  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -1079,6 +958,67 @@
       "https://www.breakingnews.ie/ireland/tanaiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row-1910978.html",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hya2U5ZUFVMWFIbFQ0eFdDZ3FHeDd1akVIS0xOVXFLYWotSDdBR1B3VTdXcG56dlB0VFN2VlM4c3JjbFRQdE9LQk5LQXR0TVRBbmg1TXVzLU12aDFzZjEwWEI5bUw3QmdRUXQ1Y3lwVUxOaGtid2VnUXBzQlV4WF9vRWlNM0o4b2dxNnBzRU0tUjh2YW1mQXA1OC1MSVhZWmEzekUzNXZpblFKNi1vMlo0RnBIcllqWHVoWg?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXF0dXdybDN5d0lEYW81QlVKOXE0Zlg0ZlBvNFFvQTdnUDZGbGdtWkVsdUF1d2ZiZlVWa054OVZ5ZjlFQ3g4ZjhodmNEUTdYS3RNVEhUNTYwS0NNRlk4N0c1WjUzaWlBUWZvNFl3VUR0NFh6OG5sdnlRZWptc25xVlJQSHY0SjhESUFUR3VSTU5kNWc1R043eXZqWDdzYTk3YU5KQjE5RWtfckN3VDRveUJnNm9oUWdMYkQ0?oc=5"
+    ]
+  },
+  {
+    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
+    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
+    "topic": "Other",
+    "item_count": 3,
+    "outlet_count": 2,
+    "outlets": [
+      "BreakingNews.ie",
+      "Ireland Live"
+    ],
+    "first_seen": "2026-07-16T12:30:00Z",
+    "latest_seen": "2026-07-16T14:44:23Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 0,
+    "velocity_24h": 3,
+    "reach_score": 7,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
+    ]
+  },
+  {
+    "key": "tax:ataxia-behind-drug-friedreich-mixed-science:fa908758",
+    "title": "'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-16T14:40:00Z",
+    "latest_seen": "2026-07-16T14:40:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5"
     ]
   },
   {
@@ -1781,6 +1721,68 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5"
+    ]
+  },
+  {
+    "key": "other:benefit-currency-single-united-would:874ce787",
+    "title": "Single currency would benefit a united Ireland - Tánaiste",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "RTE News",
+      "RTE.ie"
+    ],
+    "first_seen": "2026-07-16T13:56:51Z",
+    "latest_seen": "2026-07-16T13:56:51Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 8,
+    "status": "active",
+    "item_links": [
+      "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/",
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
+    "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-16T13:45:21Z",
+    "latest_seen": "2026-07-16T13:54:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 8,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
+      "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/"
     ]
   },
   {
