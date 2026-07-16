@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 01:05 GMT
+Updated: Thu, 16 Jul 2026 04:22 GMT
 
 ## Snapshot
 
-- Recent coverage: 74 item(s) in the last 7 days.
+- Recent coverage: 75 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 13.
 
 ## Trend Summary
 
-- Coverage volume: 74 item(s) in the last 7 days; up 5 vs previous 7 days.
+- Coverage volume: 75 item(s) in the last 7 days; up 6 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 38 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Thu, 16 Jul 2026 01:05 GMT
 
 ## Narrative Summary
 
-- Active narratives: 4 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 5 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -38,7 +38,7 @@ Updated: Thu, 16 Jul 2026 01:05 GMT
 ## Top Topics
 
 - Other: 38
-- Finance: 19
+- Finance: 20
 - Foreign affairs: 13
 - Tax: 2
 - Fine Gael: 2
@@ -48,8 +48,8 @@ Updated: Thu, 16 Jul 2026 01:05 GMT
 - Irish Independent: 11
 - BreakingNews.ie: 7
 - Business Post: 7
+- MSN: 5
 - Limerick Leader: 4
-- MSN: 4
 - Irish Mirror: 4
 - The Journal: 3
 - RTE.ie: 3
@@ -72,6 +72,7 @@ Updated: Thu, 16 Jul 2026 01:05 GMT
 - [mixed framing] The Irish News: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5)
 - [mixed framing] BreakingNews.ie: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5)
 - [neutral factual] The Journal: 'It's not a luxury': Government urged to end 23% VAT on sunscreen (https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nb19Zc0JOWElESVdNaVZUM3pUajROTHJFUVEySXJpNW9oQ3prX05nMGNxdGZVbmVqTS04S0VKd0xEYnFWbTJZYkRTMTVHSEpveE9fWUtuMmxCZ19SZ1FJNVFRRDRNTnFrd1ZBbWZn?oc=5)
+- [neutral factual] MSN: Simon Harris to chair two-day meeting of EU finance and economy ministers in Brussels (https://news.google.com/rss/articles/CBMiiANBVV95cUxOcFNwN3VVUmwwMlBOVmVaUGRfei04LWIzSE1pY1NYN0Q5RzMzWnFZNklEcmN5RjUtS1VpbnBnSEZya250a0YyZnZackJfTXZZRUU5RGFDeEl2VUNvR1lOaG1xdDdyR00tSXNxLU1INHJXa2c0MW8wY3p1ZnhPeUxxcHEzb1J2YXNRSXBkNTM4eTJSSVkwWnR5NW1JbTY1WXZkeEhPUzBvQU1NNXpTQzAtWXM2bHpxYlFnT2pNSkVsNlQyUFZPczlSUVZWeC1HXzhSYTJFanVvRG1kUUJQZW1GSTFsWU1pTTNVMi1RSFVQNTdXazNmSWcwWHJvU1JxeW5aY2hBMmIzcGRveHotbm9xT2VDeEwwQjZkYUE2aFVLRlFUMzhxQTdzQXhLcE42SFNmelVtTW4zcG5MQWgwU1dhTnkxeEc3dGJTRXhQdnJZNE5sNmJTOENqN1JxUzZ2MVFNdU1mZlZLdzVmSzFJLU5hTXByUThiZFdfLURkdjAyNHYxcFI1Q0ZxNQ?oc=5)
 - [neutral factual] Highland Radio: Ireland’s priorities for EU Presidency to be revealed by Simon Harris (https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamt4WVltM0hLcTc4V1NaR0Y1ODZ0SkhkaU5mbFJmbEFMZUZRZXd2a0RkNDZGWldYdUNmTTVVU1RweFVROGh3N1Z6LTI0aVNsaENNOU05UWttdXNwaFBkVG1ndjNTN3R5dVpSU21oZDJmRkVJVHBsVkNMalFsN3VsSXEySkhUR0QweF9PX1NWODIxVV9odzdIQ0gzaEMyd3NWRTdCdG1zT2FEdw?oc=5)
 - [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://news.google.com/rss/articles/CBMi4wFBVV95cUxPME44MWNOM3FqN0tnY21kWkQ1OUp6RDhYZWoxMVVTaTA5eXluNTZHcTc2Nm9qUzBlY3M1RkItbFRac3IyQllTMGQ3dE5JRmdiTGpYdVFmZFdOeDczakNRVVBpSGtZY3F4c0pSNDhZbzdTVnJOQ3FhSWRBMGtucEpnVXFNR0xOb3BWMXBnZERvaVpiY1VEMTVnNmhUU0lOS3dJNV9MTEVmcU5ZS00zLW9mWC1GdHhCTE5NUVdOTEIyUHlianlJQmxaM0I5SWd3U0lSd3c2ZnF5OW1WQktxSkptcngxQQ?oc=5)
 - [neutral factual] Irish Independent: Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets (https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html)
@@ -88,4 +89,3 @@ Updated: Thu, 16 Jul 2026 01:05 GMT
 - [neutral factual] The Journal: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5)
 - [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html)
 - [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5)
-- [neutral factual] Limerick Leader: Príomh Chomhairleoir of Limerick Council meets An Tánaiste in Government Buildings (https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5)

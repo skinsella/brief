@@ -1148,6 +1148,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVV9jLXVRTjYtU0NWTHFoUHRXYktMYnl1UTRIT1NqcU16Vkd3QkF0Y2RQdVAyQS1ucEx1M3FBTy1MbUJKUnp2VTBPRVdHSHFJMkxXYUpueURRTFZLM3JHbGFKVWd1VnltNWp5X183U3lPd1UtQ0NOZlp3dGIxZ1M3a2o5bjBKVVVDaFd3OHpiY2I1WEFvMzc3dURTejJTcC1zY1dlSEJTRTdfLUZIYldlX0IyNG9ZaTNpSEZTOC01R3hZTmp3czhXR0c0d2dqVHZPeEozREJqNA?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 16 Jul 2026 04:15:52 GMT",
+    "headline": "Kerry councillor Bobby O’Connell elected Cathaoirleach of Southern Regional Assembly",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVV9jLXVRTjYtU0NWTHFoUHRXYktMYnl1UTRIT1NqcU16Vkd3QkF0Y2RQdVAyQS1ucEx1M3FBTy1MbUJKUnp2VTBPRVdHSHFJMkxXYUpueURRTFZLM3JHbGFKVWd1VnltNWp5X183U3lPd1UtQ0NOZlp3dGIxZ1M3a2o5bjBKVVVDaFd3OHpiY2I1WEFvMzc3dURTejJTcC1zY1dlSEJTRTdfLUZIYldlX0IyNG9ZaTNpSEZTOC01R3hZTmp3czhXR0c0d2dqVHZPeEozREJqNA?oc=5",
+    "summary": "Irish Independent reports: Kerry councillor Bobby O’Connell elected Cathaoirleach of Southern Regional Assembly.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "kerry-councillor-bobby-o-connell-elected-cathaoirleach-of-southern-regional-asse",
+    "first_seen": "2026-07-16T04:22:22Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVV9jLXVRTjYtU0NWTHFoUHRXYktMYnl1UTRIT1NqcU16Vkd3QkF0Y2RQdVAyQS1ucEx1M3FBTy1MbUJKUnp2VTBPRVdHSHFJMkxXYUpueURRTFZLM3JHbGFKVWd1VnltNWp5X183U3lPd1UtQ0NOZlp3dGIxZ1M3a2o5bjBKVVVDaFd3OHpiY2I1WEFvMzc3dURTejJTcC1zY1dlSEJTRTdfLUZIYldlX0IyNG9ZaTNpSEZTOC01R3hZTmp3czhXR0c0d2dqVHZPeEozREJqNA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVV9jLXVRTjYtU0NWTHFoUHRXYktMYnl1UTRIT1NqcU16Vkd3QkF0Y2RQdVAyQS1ucEx1M3FBTy1MbUJKUnp2VTBPRVdHSHFJMkxXYUpueURRTFZLM3JHbGFKVWd1VnltNWp5X183U3lPd1UtQ0NOZlp3dGIxZ1M3a2o5bjBKVVVDaFd3OHpiY2I1WEFvMzc3dURTejJTcC1zY1dlSEJTRTdfLUZIYldlX0IyNG9ZaTNpSEZTOC01R3hZTmp3czhXR0c0d2dqVHZPeEozREJqNA?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUpzaVZjSnBSbUVXSWNTMm9nSVVlZGh4LVlrbmp0Uko1UXFIOUVJd2tjM1NTNHpseFFKdnRKa0FYaVpvcVQ3akhvck9zQmlVTjhEM1FaZ2xxMnpxUzZlVzVkQktXaFRJM2RhWWlKb0p3d24wQmZveWVLdmExQ1F2S2RzU2tGZzIwWDMtSVZrZ1RSdEUxdEkwVEk2TENOcUhtMkdWaXdYaXRidGZ5cEFZYk1iVUdDdWlaN2FGYWRsUl9ORnpZWnZuaXVFbG9ONTdTTl94UmdiYw?oc=5": {
     "outlet": "Irish Independent",
     "published": "Fri, 26 Jun 2026 05:26:14 GMT",
