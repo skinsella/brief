@@ -147,6 +147,42 @@
     ]
   },
   {
+    "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
+    "title": "United Ireland debate should focus on opportunities not costs, says Tanaiste",
+    "topic": "Other",
+    "item_count": 5,
+    "outlet_count": 4,
+    "outlets": [
+      "Belfast News Letter",
+      "Belfast Telegraph",
+      "BreakingNews.ie",
+      "The Irish News"
+    ],
+    "first_seen": "2026-07-16T15:00:33Z",
+    "latest_seen": "2026-07-16T18:55:00Z",
+    "lifespan_hours": 4,
+    "velocity_6h": 5,
+    "velocity_24h": 5,
+    "reach_score": 9,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 5,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 28,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5",
+      "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html",
+      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5"
+    ]
+  },
+  {
     "key": "tax:administered-announces-derelict-frustrated-revenue-sites:060363d9",
     "title": "'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue",
     "topic": "Tax",
@@ -242,40 +278,6 @@
     ]
   },
   {
-    "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
-    "title": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
-    "topic": "Other",
-    "item_count": 4,
-    "outlet_count": 3,
-    "outlets": [
-      "Belfast Telegraph",
-      "BreakingNews.ie",
-      "The Irish News"
-    ],
-    "first_seen": "2026-07-16T15:00:33Z",
-    "latest_seen": "2026-07-16T16:17:53Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 4,
-    "velocity_24h": 4,
-    "reach_score": 8,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 23,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html",
-      "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5",
-      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5"
-    ]
-  },
-  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -317,38 +319,6 @@
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3F1Xy0zR3RYeGFId0l4clNpWmxFSmhDTERXaTJYOU5nNzZORld4QjJxbGUwMFFqdFBJRlRLQ0xBazdCb0pOcW9kRVI4RHZjNTZnQVpiVXlMY1h0T1A0eU4yZVZfR0tKWWo3YXZRMDRvN3ZhMEEySjhQVDNiemdSTktLT01yTzRyV0J5RDl3bi1QaURucVYxZUJzamNqUEpsOGEyZHZEN3RJRlhCbVhvLVQtcGVSYnpjUHF2S2tQRVhLd2dOS2xVTDRvVFNiaWt1UmNuaDNUMkRUVV9pRjJqWEI5UXdjZDA?oc=5",
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXRaak5Tb1UzejNNRXZ4ZmJteTg2SzFOcjNzZGFYa1R3R21VZWt5Y2YwZDcxaDV3a3JQekZBbU5OT2d2U3VucS1LOEo0V0hkMFdhQzNIZF9LaUR2WE9xcGdmcTY3VThUMDZBclRaalZNZ0lRTlJSZlhUSkNhU0JSMlRzWjZFOVM4RVBUT0NJa0w0SGxQV095eHJzUlZYWkZoZU53Vkd6QkFyd0VKODZvS3BlOENyVWdJ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVRZUURDdVBlc3ZKMVF3Vk5SVk5pSVNKc0RSb2Npc2RvZU1OV2hoTjA1WWFMa2JnUklrRkJlczJHSUZkTTZHT2ExQU5rMGt2WTNXeUpZdG1EMExSZE1ubjdVQUIzRXVLT1RuZkJDaWZWU25IUXMwUzVYY3Y1VjFHV3NkN2Jua2NLSlA2bWFRSzJpQUFTWWtvT2JBZWU0NkdLUG55RDZya096YnZsOG80dmwxaGtRM0ZYX3hDeTZKbFBLUQ?oc=5"
-    ]
-  },
-  {
-    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
-    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
-    "topic": "Other",
-    "item_count": 3,
-    "outlet_count": 2,
-    "outlets": [
-      "BreakingNews.ie",
-      "Ireland Live"
-    ],
-    "first_seen": "2026-07-16T12:30:00Z",
-    "latest_seen": "2026-07-16T14:44:23Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 3,
-    "velocity_24h": 3,
-    "reach_score": 7,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 3,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 18,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
     ]
   },
   {
@@ -469,6 +439,38 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
+    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
+    "topic": "Other",
+    "item_count": 3,
+    "outlet_count": 2,
+    "outlets": [
+      "BreakingNews.ie",
+      "Ireland Live"
+    ],
+    "first_seen": "2026-07-16T12:30:00Z",
+    "latest_seen": "2026-07-16T14:44:23Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 2,
+    "velocity_24h": 3,
+    "reach_score": 7,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 15,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
     ]
   },
   {
@@ -2921,6 +2923,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "enterprise:action-aer-government-jobs-lingus-mayo:ac5add1f",
+    "title": "Mayo TD urges Government action to save Aer Lingus jobs",
+    "topic": "Enterprise",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Mayo News"
+    ],
+    "first_seen": "2026-07-16T16:10:00Z",
+    "latest_seen": "2026-07-16T16:10:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0hBRzNjbmZRUzZsOE1BV0NZS2tOUjVNYzRqSDllbV8wR1lsOHpXMXJCMGI2a054YVg5ekdaVzJhbkhPZV9LM1M3ZFNJZm5lMUVtZ3V6TUJIcjlXTFFhVVpVNWR6Sm9aeE5SMkFxX2F3Zl80RzlUWVJzc1lXVUwzTUVBRXBtcGJnYS1UWEE5d2xJMFFVLVdR?oc=5"
     ]
   },
   {
