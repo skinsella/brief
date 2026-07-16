@@ -1401,6 +1401,29 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5": {
+    "outlet": "Belfast Telegraph",
+    "published": "Thu, 16 Jul 2026 15:00:33 GMT",
+    "headline": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5",
+    "summary": "Belfast Telegraph reports: United Ireland debate should focus on opportunities not costs, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "united-ireland-debate-should-focus-on-opportunities-not-costs-says-t-naiste",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3F1Xy0zR3RYeGFId0l4clNpWmxFSmhDTERXaTJYOU5nNzZORld4QjJxbGUwMFFqdFBJRlRLQ0xBazdCb0pOcW9kRVI4RHZjNTZnQVpiVXlMY1h0T1A0eU4yZVZfR0tKWWo3YXZRMDRvN3ZhMEEySjhQVDNiemdSTktLT01yTzRyV0J5RDl3bi1QaURucVYxZUJzamNqUEpsOGEyZHZEN3RJRlhCbVhvLVQtcGVSYnpjUHF2S2tQRVhLd2dOS2xVTDRvVFNiaWt1UmNuaDNUMkRUVV9pRjJqWEI5UXdjZDA?oc=5": {
     "outlet": "Belfast Telegraph",
     "published": "Thu, 25 Jun 2026 15:40:53 GMT",
@@ -2185,6 +2208,32 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Thu, 16 Jul 2026 14:40:00 GMT",
+    "headline": "'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5",
+    "summary": "Irish Examiner reports: 'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "mixed-views-on-the-science-behind-drug-to-treat-friedreich-s-ataxia-t-naiste-say",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1STU9yUlAyMlpvUXFxeUVGYlFqZ1dnU2J2X3Z3TVloVHF5bzVNVHJ2aHJoTG1aMGpxZWdIUzAzSnExcUlPcFZPTFN6VVBITzRXMDNQMGlObU5jNTBGX2VFOFRteExSUkdnMlh1OHZGQQ?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Tue, 07 Jul 2026 15:00:00 GMT",
@@ -2734,6 +2783,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5": {
+    "outlet": "The Journal",
+    "published": "Thu, 16 Jul 2026 13:54:00 GMT",
+    "headline": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
+    "summary": "The Journal reports: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-says-swift-action-will-be-taken-on-e-scooters-as-taoiseach-leans-toward",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMickFVX3lxTE5BTzBZVUlKTFVqa0FiYkVPRjVmN28tcldXQklVQVVtbUZFelc2d0tvdUd0blZ4TFdTdTMzTWVTSTdUd0ZwanJXNXlJbV9zdHlweTRDYVdGY2VyUkNRXzZMYy1VckJoWXc5Q05OQnBGNkhxZw?oc=5": {
     "outlet": "The Journal",
     "published": "Mon, 15 Jun 2026 11:42:00 GMT",
@@ -2883,6 +2957,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5": {
+    "outlet": "RTE.ie",
+    "published": "Thu, 16 Jul 2026 13:56:51 GMT",
+    "headline": "Single currency would benefit a united Ireland - Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5",
+    "summary": "RTE.ie reports: Single currency would benefit a united Ireland - Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "single-currency-would-benefit-a-united-ireland-t-naiste",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GV1d1VHBxcVFseHlFbDZaRU55cnJVZmhrVEZqc29QbzdPR01zX1E3SkJEeXNfT2Z3ay1CcEFtaEVjWFNBWU0wbWx4ZWV2UXF5emFwa2lVXzZlTUdvb2lJVWlNc0RZMmhWcnZubmNpNmh4QmdURzZNRA?oc=5": {
@@ -5442,6 +5541,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Thu, 16 Jul 2026 13:44:23 GMT",
+    "headline": "More efficient way of of assessing new drugs needed, says Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
+    "summary": "BreakingNews.ie reports: More efficient way of of assessing new drugs needed, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "more-efficient-way-of-of-assessing-new-drugs-needed-says-t-naiste",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkhnQ0pjeTU5OURjdkd1U0N6TEU5Q0lDWkpLTDNFTnM3TFJNSmxsNFpuVS1RbkpsRFFYOENyMkE2NlVKVnZVQWpRcERmVmFFWmhTTlRVclJFZFp5X1p1czktcGZiRUFCeXhla2p0NlBGdno5MzNidDNzS3NhNEItOVoycC1Wa295SklYSFo5Q0hsWS1zMlQtMXdWQktTWVZBN2M2S3dpZ1FKOGJLZ09pNDJheHg?oc=5": {
     "outlet": "Irish Independent",
     "published": "Sun, 14 Jun 2026 14:43:18 GMT",
@@ -7970,6 +8094,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html": {
+    "outlet": "BreakingNews.ie",
+    "published": "Thu, 16 Jul 2026 14:44:23 Europe/Dublin",
+    "headline": "More efficient way of of assessing new drugs needed, says Tánaiste",
+    "link": "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
+    "summary": "BreakingNews.ie reports: More efficient way of of assessing new drugs needed, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "more-efficient-way-of-of-assessing-new-drugs-needed-says-t-naiste",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "BreakingNews.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://www.breakingnews.ie/ireland/neutrality-a-strength-but-un-mandate-for-peacekeeping-not-working-tanaiste-1911151.html": {
     "outlet": "BreakingNews.ie",
     "published": "Tue, 09 Jun 2026 12:13:03 Europe/Dublin",
@@ -9153,6 +9302,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/": {
+    "outlet": "RTE News",
+    "published": "Thu, 16 Jul 2026 14:56:51 +0100",
+    "headline": "Single currency would benefit a united Ireland - Tánaiste",
+    "link": "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/",
+    "summary": "RTE News reports: Single currency would benefit a united Ireland - Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "single-currency-would-benefit-a-united-ireland-t-naiste",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "RTE News RSS",
+    "google_link": "",
+    "source_link": "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://www.thejournal.ie/abortion-vote-ireland-explained-three-day-wait-7075012-Jun2026/": {
     "outlet": "TheJournal.ie",
     "published": "Thu, 18 Jun 2026 16:00:37 +0100",
@@ -9754,6 +9928,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/": {
+    "outlet": "TheJournal.ie",
+    "published": "Thu, 16 Jul 2026 14:45:21 +0100",
+    "headline": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
+    "link": "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/",
+    "summary": "TheJournal.ie reports: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "t-naiste-says-swift-action-will-be-taken-on-e-scooters-as-taoiseach-leans-toward",
+    "first_seen": "2026-07-16T15:11:30Z",
+    "source_feed": "TheJournal.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.thejournal.ie/irish-government-will-borrow-to-save-7065086-Jun2026/": {
