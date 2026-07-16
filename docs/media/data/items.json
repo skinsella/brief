@@ -2635,6 +2635,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Headline describes an adverse event or risk (threat) rather than approval or criticism of Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5": {
+    "outlet": "The Journal",
+    "published": "Thu, 16 Jul 2026 06:30:00 GMT",
+    "headline": "'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5",
+    "summary": "The Journal reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-16T07:05:19Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
+  },
   "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MRjgwWjVVaVZST21yOE1LeGh6aXRvV0ZTcm9TQmRBTXJwZWlwRjJSVnhIMVJudG5Vb0RmVURid3RiWk54NFRrWEswaTBwT0xTSGhCSnQyc2tDeDRZN2pWVUdudWtnNE5Md0JYX1JGd3Q?oc=5": {
     "outlet": "Extra.ie",
     "published": "Mon, 15 Jun 2026 16:28:22 GMT",
