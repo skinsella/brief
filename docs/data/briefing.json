@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T21:12:37Z",
-  "morning_note": "Media coverage is busy today (22 items, unfavourable tone; 96 items over the past week). Brent is at $82, up 17.3% on the week. Irish home heating oil averages \u20ac659 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 17.3% on the week. Home heating oil saw its largest weekly rise (10.5%) in the recorded window.",
+  "generated_at": "2026-07-16T21:56:34Z",
+  "morning_note": "Media coverage is busy today (22 items, unfavourable tone; 96 items over the past week). Brent is at $82, up 17.3% on the week. Irish home heating oil averages \u20ac661 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 17.3% on the week. Home heating oil saw its largest weekly rise (10.7%) in the recorded window.",
   "alerts": [
     {
       "kind": "energy",
@@ -8,7 +8,7 @@
     },
     {
       "kind": "energy",
-      "text": "Home heating oil saw its largest weekly rise (10.5%) in the recorded window."
+      "text": "Home heating oil saw its largest weekly rise (10.7%) in the recorded window."
     }
   ],
   "tiles": {
@@ -44,11 +44,10 @@
       "asof": "2026-07-13"
     },
     "eurusd": {
-      "value": 1.1406,
+      "value": 1.1467,
       "unit": "$",
-      "delta_pct": 0.02,
+      "delta_pct": 0.28,
       "spark": [
-        1.1461,
         1.1467,
         1.1456,
         1.1392,
@@ -67,14 +66,15 @@
         1.143,
         1.1424,
         1.1405,
-        1.1406
+        1.1406,
+        1.1467
       ],
-      "asof": "2026-07-15"
+      "asof": "2026-07-16"
     },
     "heating_oil": {
-      "value": 659.25,
+      "value": 660.52,
       "unit": "\u20ac/500L",
-      "delta_pct": 10.51,
+      "delta_pct": 10.73,
       "spark": [
         631.32,
         630.62,
@@ -95,9 +95,9 @@
         619.43,
         638.14,
         659.25,
-        659.25
+        660.52
       ],
-      "asof": "2026-07-16T02:12:57.381257+00:00"
+      "asof": "2026-07-16T21:56:26.112462+00:00"
     },
     "ie10y": {
       "value": 3.126,
@@ -146,7 +146,7 @@
       "asof": "2026-07-16T21:12:31Z"
     },
     "energy": {
-      "asof": "2026-07-16T02:12:38.248467+00:00"
+      "asof": "2026-07-16T21:56:21.337872+00:00"
     },
     "economy": {
       "asof": "2026-07-11T09:42:55Z"
