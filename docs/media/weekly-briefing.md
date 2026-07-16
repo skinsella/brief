@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 11:20 GMT
+Updated: Thu, 16 Jul 2026 13:04 GMT
 
 ## Snapshot
 
-- Recent coverage: 77 item(s) in the last 7 days.
+- Recent coverage: 78 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 15.
 
 ## Trend Summary
 
-- Coverage volume: 77 item(s) in the last 7 days; up 8 vs previous 7 days.
+- Coverage volume: 78 item(s) in the last 7 days; up 9 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 38 item(s).
+- Main topic: Other leads recent coverage with 39 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 11 item(s).
 
@@ -37,7 +37,7 @@ Updated: Thu, 16 Jul 2026 11:20 GMT
 
 ## Top Topics
 
-- Other: 38
+- Other: 39
 - Finance: 22
 - Foreign affairs: 13
 - Tax: 2
@@ -60,8 +60,8 @@ Updated: Thu, 16 Jul 2026 11:20 GMT
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [persistent] Simon Harris met with a group of influencers this week to talk about his new savings scheme — 6 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net -17%. Outlets: MSN, The Irish Times, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
-- [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 1 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
+- [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
@@ -69,6 +69,7 @@ Updated: Thu, 16 Jul 2026 11:20 GMT
 
 ## Recent Items
 
+- [neutral factual] Ireland Live: More efficient way of of assessing new drugs needed, says Tánaiste (https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5)
 - [mixed framing] businessplus.ie: Central Bank: ‘Bizarre’ to base Israeli bonds here (https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5)
 - [mixed framing] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)
 - [mixed framing] The Irish News: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5)
@@ -88,4 +89,3 @@ Updated: Thu, 16 Jul 2026 11:20 GMT
 - [neutral factual] Ireland Live News: Limerick minister is absent from Government Cabinet meeting (https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1o5aFZubHZ6OGJJSk03ZWdCdjl5bFlTdGctcElJN1QtaGV4UzE0ZXdYb3ZrOTFzQ0xmUnVJZERpYVI2T1Q3eUQyQVhXOF9FeGF4OTdXUGZmTTRNcjViQTVUZ0tVMmhPMXg3Z0ROR2J2NWtmR1A4SzlYZmhmMGtwOEZZbERZUWZlSS1Sc0tJa1p3a0l4X2ROZHcyQ1E3bHhLZEU5UkFneVhESkRnYU5QSkhfMVdYV3p2VVE?oc=5)
 - [neutral factual] Gript: Harris: Government should consider language tests for citizenship (https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5)
 - [neutral factual] TheJournal.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/)
-- [neutral factual] The Journal: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5)

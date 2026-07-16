@@ -147,39 +147,6 @@
     ]
   },
   {
-    "key": "finance:bank-bizarre-bonds-central-country-for:eae147d6",
-    "title": "'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says",
-    "topic": "Finance",
-    "item_count": 3,
-    "outlet_count": 3,
-    "outlets": [
-      "BreakingNews.ie",
-      "The Irish News",
-      "The Journal"
-    ],
-    "first_seen": "2026-07-15T17:08:02Z",
-    "latest_seen": "2026-07-16T06:30:00Z",
-    "lifespan_hours": 13,
-    "velocity_6h": 1,
-    "velocity_24h": 3,
-    "reach_score": 7,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 3
-    },
-    "net_framing": 0,
-    "significant_count": 3,
-    "attention_score": 28,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5",
-      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
-      "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5"
-    ]
-  },
-  {
     "key": "tax:administered-announces-derelict-frustrated-revenue-sites:060363d9",
     "title": "'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue",
     "topic": "Tax",
@@ -209,6 +176,39 @@
       "https://www.breakingnews.ie/ireland/frustrated-simon-harris-announces-new-derelict-sites-tax-to-be-administered-by-revenue-1913603.html",
       "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2N6dkFFVFZXcjZBQnl2cjRTTFRPVHFmQS1ZbVQxQ0V5d1UtRHdHc1hEcWE1a1RZQmhiTzU0WER0TFlZVWRxbnZ2dDBJbmZRQ0lQZmZOMDJPYWVDdl9WclA2bXEzQXlZWGJHT2hJa2w0UWp0QU5mQnNsMFZFelAyNmgwU3dNNWkwQWlpZnVELUp2Sl9HZkw5aTZ0eUNZOW1HSFBNRF9FWUdydXRJVDJqa3NFZ1FtZU9oSlJMYUNJSXVWVDJBc1JYRjJ3T0pDRXRf?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE96STZkY3NGWVh0UW1XdTJMTEEzZGxqOGdtY29JNlltb01jcno3NzFYbzdDR2YxYnktaGVTeVhVS0U0TG9KR3doMTN5WnRxSjdybExfN2ZuQWwzVlJSVy1uMTlQUkNaMGZXRExDRV9jNA?oc=5"
+    ]
+  },
+  {
+    "key": "finance:bank-bizarre-bonds-central-country-for:eae147d6",
+    "title": "'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says",
+    "topic": "Finance",
+    "item_count": 3,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "The Irish News",
+      "The Journal"
+    ],
+    "first_seen": "2026-07-15T17:08:02Z",
+    "latest_seen": "2026-07-16T06:30:00Z",
+    "lifespan_hours": 13,
+    "velocity_6h": 0,
+    "velocity_24h": 3,
+    "reach_score": 7,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 3
+    },
+    "net_framing": 0,
+    "significant_count": 3,
+    "attention_score": 25,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5",
+      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5"
     ]
   },
   {
@@ -585,7 +585,7 @@
     "latest_seen": "2026-07-15T12:59:41Z",
     "lifespan_hours": 151,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 9,
     "tone_counts": {
       "favourable": 0,
@@ -596,7 +596,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 12,
-    "status": "active",
+    "status": "persistent",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiiANBVV95cUxOcFNwN3VVUmwwMlBOVmVaUGRfei04LWIzSE1pY1NYN0Q5RzMzWnFZNklEcmN5RjUtS1VpbnBnSEZya250a0YyZnZackJfTXZZRUU5RGFDeEl2VUNvR1lOaG1xdDdyR00tSXNxLU1INHJXa2c0MW8wY3p1ZnhPeUxxcHEzb1J2YXNRSXBkNTM4eTJSSVkwWnR5NW1JbTY1WXZkeEhPUzBvQU1NNXpTQzAtWXM2bHpxYlFnT2pNSkVsNlQyUFZPczlSUVZWeC1HXzhSYTJFanVvRG1kUUJQZW1GSTFsWU1pTTNVMi1RSFVQNTdXazNmSWcwWHJvU1JxeW5aY2hBMmIzcGRveHotbm9xT2VDeEwwQjZkYUE2aFVLRlFUMzhxQTdzQXhLcE42SFNmelVtTW4zcG5MQWgwU1dhTnkxeEc3dGJTRXhQdnJZNE5sNmJTOENqN1JxUzZ2MVFNdU1mZlZLdzVmSzFJLU5hTXByUThiZFdfLURkdjAyNHYxcFI1Q0ZxNQ?oc=5",
       "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjlxSmxkVmdlQW9Ta21lSUhvN010ZFF5aXVNdTI2ZjFKSkFzcXkxa1M3N1RTSnl4Z09wUEszOGowVkZENzUzeFpRamxEcklsVE9mM19VOVJSVWw1dGdFUTFyR05ncUJhS3k0WXVCaDlOQ1dJM3h1YjdMc05SNXNaWF8wdlN1dlJvcVpOUEZqQ1VGamg1UUd0TUFhMlNpdWhqRmUzbk1kMVhDOFFFUXZyazFtTU9wQ0Z5bUhfYTNjLWVmemxCc1ptSWZKd1hUUlVSRVpPRHFJWndOYzgxc25zdHVSOTZWTmNhcUpQOGNB?oc=5",
@@ -793,35 +793,6 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5"
-    ]
-  },
-  {
-    "key": "finance:bank-base-bizarre-bonds-central-here:0973d31a",
-    "title": "Central Bank: ‘Bizarre’ to base Israeli bonds here",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "businessplus.ie"
-    ],
-    "first_seen": "2026-07-16T07:00:00Z",
-    "latest_seen": "2026-07-16T07:00:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 1
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5"
     ]
   },
   {
@@ -2058,6 +2029,35 @@
     ]
   },
   {
+    "key": "finance:bank-base-bizarre-bonds-central-here:0973d31a",
+    "title": "Central Bank: ‘Bizarre’ to base Israeli bonds here",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "businessplus.ie"
+    ],
+    "first_seen": "2026-07-16T07:00:00Z",
+    "latest_seen": "2026-07-16T07:00:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5"
+    ]
+  },
+  {
     "key": "foreign affairs:beyond-capital-counterparts-established-markets-move:9deea3b7",
     "title": "Simon Harris urges EU counterparts to ‘move beyond established positions’ on capital markets",
     "topic": "Foreign affairs",
@@ -2676,6 +2676,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
+    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Ireland Live"
+    ],
+    "first_seen": "2026-07-16T12:30:00Z",
+    "latest_seen": "2026-07-16T12:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
     ]
   },
   {
