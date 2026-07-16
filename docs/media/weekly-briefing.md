@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 07:05 GMT
+Updated: Thu, 16 Jul 2026 09:24 GMT
 
 ## Snapshot
 
-- Recent coverage: 76 item(s) in the last 7 days.
+- Recent coverage: 77 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 14.
+- Significant items: 15.
 
 ## Trend Summary
 
-- Coverage volume: 76 item(s) in the last 7 days; up 7 vs previous 7 days.
+- Coverage volume: 77 item(s) in the last 7 days; up 8 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 38 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Thu, 16 Jul 2026 07:05 GMT
 
 ## Narrative Summary
 
-- Active narratives: 3 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 4 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -33,12 +33,12 @@ Updated: Thu, 16 Jul 2026 07:05 GMT
 - [Policy, High-reach outlet] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
 - [Policy, High-reach outlet] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
 - [Fast Reaction, Critical framing] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
-- [Policy] The Irish News: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5)
+- [Policy] businessplus.ie: Central Bank: ‘Bizarre’ to base Israeli bonds here (https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5)
 
 ## Top Topics
 
 - Other: 38
-- Finance: 21
+- Finance: 22
 - Foreign affairs: 13
 - Tax: 2
 - Fine Gael: 2
@@ -69,6 +69,7 @@ Updated: Thu, 16 Jul 2026 07:05 GMT
 
 ## Recent Items
 
+- [mixed framing] businessplus.ie: Central Bank: ‘Bizarre’ to base Israeli bonds here (https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5)
 - [mixed framing] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)
 - [mixed framing] The Irish News: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5)
 - [mixed framing] BreakingNews.ie: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5)
@@ -88,4 +89,3 @@ Updated: Thu, 16 Jul 2026 07:05 GMT
 - [neutral factual] Gript: Harris: Government should consider language tests for citizenship (https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWxNWllES2lmU1NzNFNZQ1k0ZGVuTzFiZFFEVnBvN0twX1ZSSFVweHh5U0JJWEhoV25CT28xRy1qbXZJN0p2TEozR2tVbzBGandYZlJ2aTE1VHU4YUV6XzY0SEJGekhxV1dYdzdpbW1xRTI5bGx1T054OFhjcXUzc0djb2w1YlhTSnc?oc=5)
 - [neutral factual] TheJournal.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/)
 - [neutral factual] The Journal: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSFVuU202YlJSZFU3OUNGMmxYMlJiUkVkajNBbkwzU1IxNk96RENhREFVN2RmZXlvLXR5b0hoaGN6U3FiMnpEemZDMFJMRi1zN2pQekY3X2hRM3IyZ1YyYldrZmYwLVg0Q2Nud0pfeXlsdFptTHc?oc=5)
-- [neutral factual] BreakingNews.ie: ‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says (https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html)

@@ -796,6 +796,35 @@
     ]
   },
   {
+    "key": "finance:bank-base-bizarre-bonds-central-here:0973d31a",
+    "title": "Central Bank: ‘Bizarre’ to base Israeli bonds here",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "businessplus.ie"
+    ],
+    "first_seen": "2026-07-16T07:00:00Z",
+    "latest_seen": "2026-07-16T07:00:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 10,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5"
+    ]
+  },
+  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",

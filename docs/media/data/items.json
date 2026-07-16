@@ -1985,6 +1985,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5": {
+    "outlet": "businessplus.ie",
+    "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "headline": "Central Bank: ‘Bizarre’ to base Israeli bonds here",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5",
+    "summary": "businessplus.ie reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-16T09:24:03Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
+  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLV3IwdWxaaVNtY09NWEhJMmlMdEYyRkc4OXg0RkpZbWFqd3pMUWxGZVp4V2hBQ2Z0TDY3OTI4WGdUTlFKYjZiNWszNG95N2ZDYm9SUngxdG1hQ0dfeEEzeWJUXzU?oc=5": {
     "outlet": "RTE.ie",
     "published": "Wed, 15 Jul 2026 00:13:50 GMT",
