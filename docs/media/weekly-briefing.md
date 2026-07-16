@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 15 Jul 2026 23:36 GMT
+Updated: Thu, 16 Jul 2026 01:05 GMT
 
 ## Snapshot
 
-- Recent coverage: 97 item(s) in the last 7 days.
+- Recent coverage: 74 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 13.
 
 ## Trend Summary
 
-- Coverage volume: 97 item(s) in the last 7 days; up 43 vs previous 7 days.
+- Coverage volume: 74 item(s) in the last 7 days; up 5 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 50 item(s).
+- Main topic: Other leads recent coverage with 38 item(s).
 - Critical concentration: Finance accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 11 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 5 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 4 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,23 +37,22 @@ Updated: Wed, 15 Jul 2026 23:36 GMT
 
 ## Top Topics
 
-- Other: 50
-- Finance: 27
+- Other: 38
+- Finance: 19
 - Foreign affairs: 13
-- Fine Gael: 3
 - Tax: 2
-- Constituency/local: 2
+- Fine Gael: 2
 
 ## Top Outlets
 
-- Irish Independent: 18
-- Business Post: 8
+- Irish Independent: 11
 - BreakingNews.ie: 7
-- MSN: 6
-- RTE.ie: 5
-- The Journal: 4
-- RTE News: 4
+- Business Post: 7
 - Limerick Leader: 4
+- MSN: 4
+- Irish Mirror: 4
+- The Journal: 3
+- RTE.ie: 3
 
 ## Story Clusters
 
@@ -64,9 +63,9 @@ Updated: Wed, 15 Jul 2026 23:36 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [active] ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says — 2 item(s), 2 outlet(s), 1 in 6h, 2 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 - [dormant] Central Bank warns spending overruns could push deficit to €25.7bn — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Business Post
+- [dormant] Simon Harris favours tax cuts over welfare spend for October Budget — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Irish Independent
 
 ## Recent Items
 
