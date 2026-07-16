@@ -1,5 +1,85 @@
 [
   {
+    "checked_at": "2026-07-16T23:31:56Z",
+    "checked_at_display": "Thu, 16 Jul 2026 23:31 GMT",
+    "new_count": 1,
+    "old_skipped": 13,
+    "duplicate_skipped": 3,
+    "mismatched_skipped": 3,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 11,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 6,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 47,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUgzMzcyV2tXWW1DV3R4MTNNbEExajNidTBZcVlBQkUwYm5mOVFOWjF0MFJDblVWYXhnQllLRVVHOURPakhNdVVGRUhRLXdnZUpFYkZhWkg1X29HSkQ0SF82TFhpcUw1NkJacUNiemN3R1JNekF0eWh0Q3ZsTHV5SmZZcnNETG5seGVMUENUeDBhRjFKWU5ZOHlTMnlVWEF1ZDNoSGlqYTNkTTVYYW1FX0lDT3pfdUs3Y09KSUIxOVZJYWdlMEx3dUxB?oc=5"
+    ],
+    "archive_file": "archive/20260716T233156Z.html"
+  },
+  {
     "checked_at": "2026-07-16T22:32:59Z",
     "checked_at_display": "Thu, 16 Jul 2026 22:32 GMT",
     "new_count": 0,
@@ -7884,85 +7964,5 @@
       "https://www.thejournal.ie/simon-harris-to-chair-meeting-of-eu-finance-and-economy-ministers-in-brussels-7095993-Jul2026/"
     ],
     "archive_file": "archive/20260709T080452Z.html"
-  },
-  {
-    "checked_at": "2026-07-09T04:35:14Z",
-    "checked_at_display": "Thu, 09 Jul 2026 04:35 GMT",
-    "new_count": 1,
-    "old_skipped": 10,
-    "duplicate_skipped": 8,
-    "mismatched_skipped": 4,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 11,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 24,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSkJCMW8wTHBGNEE4Y1JlS2MwY1puM3dFRkVrZFQwRDB5TlZWOEp1VmVkc0JsR2NpUi1CSUViRjl0UjB6UW9sTnBYVWRnWnBodFVkdkJ0WEhyQVNydmxyM28zUklCY1Q1TVdkRTdHVFhUZW5Hd3lEbFAwbG9DaEpGdlVjMm9FanExem5kN1NKZjAtN1Q3VUdfSUtLMWlqUXVaU0NIRHltcmpXTmZoWlM1VzVZSm5hMmdvNkRucmFIYlRuUjlET0pRNUs3X3JEQnpoUDBGUy1ZNjBPU19I?oc=5"
-    ],
-    "archive_file": "archive/20260709T043514Z.html"
   }
 ]

@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 16 Jul 2026 22:32 GMT
+Updated: Thu, 16 Jul 2026 23:31 GMT
 
 ## Snapshot
 
-- Recent coverage: 96 item(s) in the last 7 days.
+- Recent coverage: 97 item(s) in the last 7 days.
 - Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
 - Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 96 item(s) in the last 7 days; up 27 vs previous 7 days.
+- Coverage volume: 97 item(s) in the last 7 days; up 28 vs previous 7 days.
 - Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 54 item(s).
+- Main topic: Other leads recent coverage with 55 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 13 item(s).
 
@@ -37,7 +37,7 @@ Updated: Thu, 16 Jul 2026 22:32 GMT
 
 ## Top Topics
 
-- Other: 54
+- Other: 55
 - Finance: 22
 - Foreign affairs: 13
 - Tax: 3
@@ -49,9 +49,9 @@ Updated: Thu, 16 Jul 2026 22:32 GMT
 - Irish Independent: 13
 - BreakingNews.ie: 11
 - Business Post: 7
+- MSN: 6
 - Irish Examiner: 5
 - The Journal: 5
-- MSN: 5
 - RTE.ie: 4
 - Limerick Leader: 4
 
@@ -65,12 +65,13 @@ Updated: Thu, 16 Jul 2026 22:32 GMT
 - [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [active] United Ireland debate should focus on opportunities not costs, says Tanaiste — 6 item(s), 5 outlet(s), 1 in 6h, 6 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, Nenagh Live, The Irish News
+- [active] United Ireland debate should focus on opportunities not costs, says Tanaiste — 7 item(s), 6 outlet(s), 1 in 6h, 7 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, MSN, Nenagh Live, The Irish News
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 
 ## Recent Items
 
 - [neutral factual] Belfast News Letter: United Ireland debate should focus on opportunities not costs, says Tanaiste (https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5)
+- [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUgzMzcyV2tXWW1DV3R4MTNNbEExajNidTBZcVlBQkUwYm5mOVFOWjF0MFJDblVWYXhnQllLRVVHOURPakhNdVVGRUhRLXdnZUpFYkZhWkg1X29HSkQ0SF82TFhpcUw1NkJacUNiemN3R1JNekF0eWh0Q3ZsTHV5SmZZcnNETG5seGVMUENUeDBhRjFKWU5ZOHlTMnlVWEF1ZDNoSGlqYTNkTTVYYW1FX0lDT3pfdUs3Y09KSUIxOVZJYWdlMEx3dUxB?oc=5)
 - [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html)
 - [neutral factual] The Mayo News: Mayo TD urges Government action to save Aer Lingus jobs (https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0hBRzNjbmZRUzZsOE1BV0NZS2tOUjVNYzRqSDllbV8wR1lsOHpXMXJCMGI2a054YVg5ekdaVzJhbkhPZV9LM1M3ZFNJZm5lMUVtZ3V6TUJIcjlXTFFhVVpVNWR6Sm9aeE5SMkFxX2F3Zl80RzlUWVJzc1lXVUwzTUVBRXBtcGJnYS1UWEE5d2xJMFFVLVdR?oc=5)
 - [neutral factual] The Irish News: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5)
@@ -89,4 +90,3 @@ Updated: Thu, 16 Jul 2026 22:32 GMT
 - [neutral factual] TheJournal.ie: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/)
 - [neutral factual] BreakingNews.ie: More efficient way of of assessing new drugs needed, says Tánaiste (https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5)
 - [neutral factual] Ireland Live: More efficient way of of assessing new drugs needed, says Tánaiste (https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5)
-- [mixed framing] businessplus.ie: Central Bank: ‘Bizarre’ to base Israeli bonds here (https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5)
