@@ -713,6 +713,40 @@
     ]
   },
   {
+    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
+    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
+    "topic": "Other",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "Carlow Live",
+      "Ireland Live"
+    ],
+    "first_seen": "2026-07-16T12:30:00Z",
+    "latest_seen": "2026-07-16T14:44:23Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 0,
+    "velocity_24h": 4,
+    "reach_score": 8,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 11,
+    "status": "active",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3R3aVRBakpiTUpGdDNyZ09KMXZkaTN6YWFzWC1ScUc5ZFY0NkY1eHJvVlRGN1dsRHJvVzFCeXh4WHN2X05lSE1EWTczdUZ6NHRXZl84TDdVaUkyU3V1azZhanJtQVZtZUxLYmRmWnhCaGgwN21CREZHbGJBeFI5UEUyTTktejlCSjNQS055b0JNdFB5M2lZWVFfdU5haFl4dDBQRkRySVk2VVdr?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
+    ]
+  },
+  {
     "key": "finance:accused-budget-government-helping-next-off:d9eb2b23",
     "title": "Government accused of helping 'the well-off' in next Budget",
     "topic": "Finance",
@@ -931,38 +965,6 @@
       "https://www.breakingnews.ie/ireland/tanaiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row-1910978.html",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hya2U5ZUFVMWFIbFQ0eFdDZ3FHeDd1akVIS0xOVXFLYWotSDdBR1B3VTdXcG56dlB0VFN2VlM4c3JjbFRQdE9LQk5LQXR0TVRBbmg1TXVzLU12aDFzZjEwWEI5bUw3QmdRUXQ1Y3lwVUxOaGtid2VnUXBzQlV4WF9vRWlNM0o4b2dxNnBzRU0tUjh2YW1mQXA1OC1MSVhZWmEzekUzNXZpblFKNi1vMlo0RnBIcllqWHVoWg?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXF0dXdybDN5d0lEYW81QlVKOXE0Zlg0ZlBvNFFvQTdnUDZGbGdtWkVsdUF1d2ZiZlVWa054OVZ5ZjlFQ3g4ZjhodmNEUTdYS3RNVEhUNTYwS0NNRlk4N0c1WjUzaWlBUWZvNFl3VUR0NFh6OG5sdnlRZWptc25xVlJQSHY0SjhESUFUR3VSTU5kNWc1R043eXZqWDdzYTk3YU5KQjE5RWtfckN3VDRveUJnNm9oUWdMYkQ0?oc=5"
-    ]
-  },
-  {
-    "key": "other:assessing-drugs-efficient-more-needed-way:fbb4613b",
-    "title": "More efficient way of of assessing new drugs needed, says Tánaiste",
-    "topic": "Other",
-    "item_count": 3,
-    "outlet_count": 2,
-    "outlets": [
-      "BreakingNews.ie",
-      "Ireland Live"
-    ],
-    "first_seen": "2026-07-16T12:30:00Z",
-    "latest_seen": "2026-07-16T14:44:23Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 0,
-    "velocity_24h": 3,
-    "reach_score": 7,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 3,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 9,
-    "status": "active",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
     ]
   },
   {

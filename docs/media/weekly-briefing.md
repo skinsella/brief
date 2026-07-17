@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 17 Jul 2026 01:06 GMT
+Updated: Fri, 17 Jul 2026 04:22 GMT
 
 ## Snapshot
 
-- Recent coverage: 84 item(s) in the last 7 days.
+- Recent coverage: 85 item(s) in the last 7 days.
 - Weighted net framing: -5% (supportive minus critical, reach/significance-weighted).
 - Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 84 item(s) in the last 7 days; up 17 vs previous 7 days.
+- Coverage volume: 85 item(s) in the last 7 days; up 18 vs previous 7 days.
 - Net framing: -5% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 48 item(s).
+- Main topic: Other leads recent coverage with 49 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 13 item(s).
 
@@ -37,7 +37,7 @@ Updated: Fri, 17 Jul 2026 01:06 GMT
 
 ## Top Topics
 
-- Other: 48
+- Other: 49
 - Finance: 19
 - Foreign affairs: 10
 - Tax: 3

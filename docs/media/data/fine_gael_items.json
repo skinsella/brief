@@ -24945,6 +24945,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxObENfajF2eWxnS01XYnNSa0RLbDJYZ0hnUDBKaUFEOU1PWFJkNWV6VUdYQ3ctNmdYS05TQzZKRlJxS3hXVUVrb2pDbWxIejhPOGVQa096YzJwMGM0RmhBUmlhU3ZjWWh5aG1iTmVhTTVlSjBCLVRmazhIZWR1TzQ0OXpmX1VmMzZGZENXRmhxWk0yT2JfWFpsUE9LTkg0OFJ2bU9ONTFCbkNHVnlveU05MUZoTURObUNYSW15NHFvOUtXbDg4N2VLSkN3?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Fri, 17 Jul 2026 04:21:15 GMT",
+    "headline": "Springer spaniel is helping Uisce Éireann to sniff out water leaks in Mayo",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObENfajF2eWxnS01XYnNSa0RLbDJYZ0hnUDBKaUFEOU1PWFJkNWV6VUdYQ3ctNmdYS05TQzZKRlJxS3hXVUVrb2pDbWxIejhPOGVQa096YzJwMGM0RmhBUmlhU3ZjWWh5aG1iTmVhTTVlSjBCLVRmazhIZWR1TzQ0OXpmX1VmMzZGZENXRmhxWk0yT2JfWFpsUE9LTkg0OFJ2bU9ONTFCbkNHVnlveU05MUZoTURObUNYSW15NHFvOUtXbDg4N2VLSkN3?oc=5",
+    "summary": "Irish Independent reports: Springer spaniel is helping Uisce Éireann to sniff out water leaks in Mayo.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "springer-spaniel-is-helping-uisce-ireann-to-sniff-out-water-leaks-in-mayo",
+    "first_seen": "2026-07-17T04:22:04Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObENfajF2eWxnS01XYnNSa0RLbDJYZ0hnUDBKaUFEOU1PWFJkNWV6VUdYQ3ctNmdYS05TQzZKRlJxS3hXVUVrb2pDbWxIejhPOGVQa096YzJwMGM0RmhBUmlhU3ZjWWh5aG1iTmVhTTVlSjBCLVRmazhIZWR1TzQ0OXpmX1VmMzZGZENXRmhxWk0yT2JfWFpsUE9LTkg0OFJ2bU9ONTFCbkNHVnlveU05MUZoTURObUNYSW15NHFvOUtXbDg4N2VLSkN3?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObENfajF2eWxnS01XYnNSa0RLbDJYZ0hnUDBKaUFEOU1PWFJkNWV6VUdYQ3ctNmdYS05TQzZKRlJxS3hXVUVrb2pDbWxIejhPOGVQa096YzJwMGM0RmhBUmlhU3ZjWWh5aG1iTmVhTTVlSjBCLVRmazhIZWR1TzQ0OXpmX1VmMzZGZENXRmhxWk0yT2JfWFpsUE9LTkg0OFJ2bU9ONTFCbkNHVnlveU05MUZoTURObUNYSW15NHFvOUtXbDg4N2VLSkN3?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYU54Y2RoSHVYRXdTUEl2ZTRGNk9feXI3VDVjZndWX3F3THhFQXNVeXI0LS1mQ0lUNG5VNWhoNUR5cVphSGxDUmVXVmM4THJyWjM1VmNVM1dBQXhNMWtwMHpnR051OXVEeC1FN3JlU3ZIZno2Q2UyUjAwRkRHeFZlRjhTWXhXRGNVVk1DYkFDcGZSNUNNRWVxck5mVFJCSHhXWW5sRm8yWDRfanF3b3hMVXRxQUtsalR1TENNVzFDc1BNcHVLczNDS2FB?oc=5": {
     "outlet": "Irish Independent",
     "published": "Fri, 05 Jun 2026 04:39:18 GMT",
