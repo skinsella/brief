@@ -1127,6 +1127,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Fri, 17 Jul 2026 05:30:00 GMT",
+    "headline": "‘All options on the table’ as government leaders to discuss outright ban on e-scooters",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5",
+    "summary": "Irish Independent reports: ‘All options on the table’ as government leaders to discuss outright ban on e-scooters.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "all-options-on-the-table-as-government-leaders-to-discuss-outright-ban-on-e-scoo",
+    "first_seen": "2026-07-17T16:22:41Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5",
+    "topic": "Fine Gael",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb3BzNjc2QlJiRG90eHNRQ3Noakw3TnBwYXhSdnZVYzJaY0pFaGRZYmFVWXpnR0h2ZmxBODJvckVvSzdvcVgxaG80MmdSQkd4dDdtMUg0WHFWbV96d2F5d1R6cl9STE02WEYxUFE5TVFlMW1sdXU3Ny1vaWtsREFZVHAxUTFiOFFBMHRpVVA0Y3ZsOWRPNGY1Wk9nVFJyR2xyNTQ3Y1FQcUJpTnd5ektlXzI5R1czUzVKeUJJdEU1S1RaOUNRUVJjYVJDRk13ZDNoRkFlZU5mUUFsMW5XYXpiMDdB?oc=5": {
     "outlet": "Belfast Telegraph",
     "published": "Tue, 30 Jun 2026 16:54:16 GMT",

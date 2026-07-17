@@ -303,7 +303,7 @@
     "latest_seen": "2026-07-17T12:13:33Z",
     "lifespan_hours": 21,
     "velocity_6h": 1,
-    "velocity_24h": 8,
+    "velocity_24h": 4,
     "reach_score": 13,
     "tone_counts": {
       "favourable": 0,
@@ -562,7 +562,7 @@
     "latest_seen": "2026-07-16T15:13:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -573,7 +573,7 @@
     "net_framing": -100,
     "significant_count": 1,
     "attention_score": 13,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5"
     ]
@@ -2239,7 +2239,7 @@
     "latest_seen": "2026-07-16T15:30:00Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -2250,7 +2250,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5",
       "https://www.independent.ie/irish-news/politics/unity-would-mean-making-up-northern-irelands-annual-deficit-of-8.25bn-says-simon-harris/a/158826098.html"
@@ -2936,16 +2936,16 @@
     ]
   },
   {
-    "key": "enterprise:all-benefit-businesses-consumers-euro-island:114fbf00",
-    "title": "All-island euro would benefit businesses and consumers, says Simon Harris",
-    "topic": "Enterprise",
+    "key": "fine gael:all-ban-discuss-government-leaders-options:eb3798ba",
+    "title": "‘All options on the table’ as government leaders to discuss outright ban on e-scooters",
+    "topic": "Fine Gael",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Examiner"
+      "Irish Independent"
     ],
-    "first_seen": "2026-07-16T16:01:00Z",
-    "latest_seen": "2026-07-16T16:01:00Z",
+    "first_seen": "2026-07-17T05:30:00Z",
+    "latest_seen": "2026-07-17T05:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
     "velocity_24h": 1,
@@ -2960,6 +2960,35 @@
     "significant_count": 0,
     "attention_score": 4,
     "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5"
+    ]
+  },
+  {
+    "key": "enterprise:all-benefit-businesses-consumers-euro-island:114fbf00",
+    "title": "All-island euro would benefit businesses and consumers, says Simon Harris",
+    "topic": "Enterprise",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-16T16:01:00Z",
+    "latest_seen": "2026-07-16T16:01:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 0,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5"
     ]
@@ -7366,7 +7395,7 @@
     "latest_seen": "2026-07-16T16:10:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7377,7 +7406,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0hBRzNjbmZRUzZsOE1BV0NZS2tOUjVNYzRqSDllbV8wR1lsOHpXMXJCMGI2a054YVg5ekdaVzJhbkhPZV9LM1M3ZFNJZm5lMUVtZ3V6TUJIcjlXTFFhVVpVNWR6Sm9aeE5SMkFxX2F3Zl80RzlUWVJzc1lXVUwzTUVBRXBtcGJnYS1UWEE5d2xJMFFVLVdR?oc=5"
     ]
