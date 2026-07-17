@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-17T09:18:00Z",
+    "checked_at_display": "Fri, 17 Jul 2026 09:18 GMT",
+    "new_count": 0,
+    "old_skipped": 13,
+    "duplicate_skipped": 4,
+    "mismatched_skipped": 5,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 2,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 13,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 5,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 48,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260717T091800Z.html"
+  },
+  {
     "checked_at": "2026-07-17T06:59:40Z",
     "checked_at_display": "Fri, 17 Jul 2026 06:59 GMT",
     "new_count": 2,
@@ -7873,88 +7951,5 @@
       "https://news.google.com/rss/articles/CBMiswNBVV95cUxPeFNkWnFybU1VOFBHd1pRMDFGUE1jQUJESGRTaTgwdjJGOVI0TGJOeHJtRlEtNC1CNzdQdlZrMWJCUllweUNKWHdKT3RjUHVQd1c0OEZLVmY0NG1SUnhLRmFXeWVMWEVySXQyVklPcW85cXdIVldRV2Ziejd3V1VmSnVKZTdjM0U3NW4yVmV6eGRtYWFKWGg2eGl0SlFDRU5NMlRmQ0lCQ05pdmVHY3dDdmczN1lTa295eS1tOW8ydTNLN3c2NW9MUXh1bUNsTHlMNzVkQXdHRVVZZE1zQWNlOHZUZjdkeDh4Ymp1TmdGWnZtMXNJaHBaZnUyalFFeUhCc25HbDVSVmZzZmhxeFdxT1hpT1NnTENqQVVLMWpjN2VKRDdpOVVOeU5FcHJqVWFvZl9xODVzRVRhejhYMkNwWHJ2UGhpRU41VFpRelotbzRmcGtHWktZZ0lfRVg5N0oxZ0t3dmZQZ3FWaEVxc3FOcjNEb0xXX1E5OUpvVHhpc1ZvQWpNU3l3SVc1ckVFNmNoamViWXUxaWRIZHRaakxqcmRQSzBpTXN4dlBobEUtYzE4UEU?oc=5"
     ],
     "archive_file": "archive/20260709T185821Z.html"
-  },
-  {
-    "checked_at": "2026-07-09T17:03:47Z",
-    "checked_at_display": "Thu, 09 Jul 2026 17:03 GMT",
-    "new_count": 4,
-    "old_skipped": 14,
-    "duplicate_skipped": 14,
-    "mismatched_skipped": 2,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 4,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 16,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 29,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYXVYVVJLaUNod0ljRlg0UkM3cUJ1eUU0OHFzbDRZQ2o4ZW1TTm93eDRRM21EQ0trTy13YU9ua3N3Qi1nTnpFZXdBQTI0em1xdFIwZ1U0VEtmc29ZQVRKVXVLQmFFSXBraWQyVm5CYmFiOWRJN213b2ZueEt1V0w5M3BXMG1PMWdTU1NkOVN0ZnVHOVpuaDVUcERFSG5rSFNXVlFVeEo3RGJpYkF4aWZkeGM2LTV0S2g4bnRpTnZFTElUNWtsMWdyZUwzN3V3MlVJcDdN?oc=5",
-      "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ0RLTExFWjkxVlFJNGJKR3VJa0lkaTIxY1FzS2hOSmxHaEJkanBseXdmbzlVbWN1UWgwdGVIdmdPWHhkLVkxM2dFeWRiSTdNREZSUG0yTXhxSE5yX2NBUU43N2FMdi1iRzJMVDM4c2xYN1R5WWtqcV9XZHhPbUNCUHg2YVJEVFZtWjNqa0V4TEJVMXJzcE50djRma0FPWFNsQ2VHb0hzRE91bl9jaDhHUWJwS1J5VUJSWHFsTFZyNVRYbjhrTlY1WldhLWdxTll2dEpRNS13?oc=5",
-      "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3RqRmYtcFJjLVdYSWxXOUJFZFJTNF9NbnU4eWF4bXVheHFnbzk4aGFNZDBNMlN1cFJjdkRVb0gxaXFGeE9IM2NLblIwRzNSWnE5LXpWUVlwV250c05rSTB0TXNIUzZEenNhVlhhTklFeDdKT0h1MHloeUVQV0lmOGtaYmhwT2pWNTBRdGJYc0ZYdnpLZmNrcDhWOWZmNVhEX29lNU5nU0NfOURVd2dTNw?oc=5",
-      "https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html"
-    ],
-    "archive_file": "archive/20260709T170347Z.html"
   }
 ]
