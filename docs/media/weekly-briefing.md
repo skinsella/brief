@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 17 Jul 2026 04:22 GMT
+Updated: Fri, 17 Jul 2026 06:59 GMT
 
 ## Snapshot
 
-- Recent coverage: 85 item(s) in the last 7 days.
-- Weighted net framing: -5% (supportive minus critical, reach/significance-weighted).
+- Recent coverage: 87 item(s) in the last 7 days.
+- Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
 - Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 85 item(s) in the last 7 days; up 18 vs previous 7 days.
-- Net framing: -5% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 49 item(s).
+- Coverage volume: 87 item(s) in the last 7 days; up 20 vs previous 7 days.
+- Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
+- Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 13 item(s).
 
@@ -37,18 +37,18 @@ Updated: Fri, 17 Jul 2026 04:22 GMT
 
 ## Top Topics
 
-- Other: 49
+- Other: 50
 - Finance: 19
 - Foreign affairs: 10
+- Fine Gael: 3
 - Tax: 3
 - Enterprise: 2
-- Fine Gael: 2
 
 ## Top Outlets
 
 - Irish Independent: 13
 - BreakingNews.ie: 10
-- MSN: 6
+- MSN: 7
 - Irish Examiner: 5
 - The Journal: 5
 - Business Post: 5
@@ -62,7 +62,7 @@ Updated: Fri, 17 Jul 2026 04:22 GMT
 - [persistent] Simon Harris met with a group of influencers this week to talk about his new savings scheme — 6 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net -17%. Outlets: MSN, The Irish Times, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
-- [active] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
+- [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
 - [active] United Ireland debate should focus on opportunities not costs, says Tanaiste — 8 item(s), 6 outlet(s), 0 in 6h, 8 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, MSN, Nenagh Live, The Irish News
@@ -70,6 +70,8 @@ Updated: Fri, 17 Jul 2026 04:22 GMT
 
 ## Recent Items
 
+- [supportive] Irish Echo Newspaper: IAUC Welcomes Fine Gael Unity Blueprint (https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWHNjMThmck9VN1kxQndFd3JmNlJRUi1BNHRpODdMOWhNVGFuLUpQbHhkTlBLWjBxbFJQUGlmdWs5TE82UDE5bUZ2T0dWYTJWNm5qU0daenladGI5dUJGU2QwUEZlY04yV2J1dDZGcVdaUEdBOS1vSFlXd1A?oc=5)
+- [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMi4gFBVV95cUxQME5iQXAzTm5QMUZQWTJYQWdnSjJ1amtOaXBqa09XTGE1VnBrRFNzUmRKUDU4MGpleWhEeXVmVmx4V3pTczg2dzE3a1R0R3Q5WkpxSUplQXp4MHRWQXB1eUlhQndFVU1ST2d6V1FrWmRnSzNlREhJY3ZaMThubmlrTVF1ekFpOW9iTFpwWkdPOTV4S05BOF95dDBfQU9vcFh1UTJuNHVhMnI4RXUtS04zd1ZDNk9QbU5ybHZTa2JpekNYbkF1S09kZS01d05yVU9vOFhpYmEyMEkxS2ZPNGdpbElR?oc=5)
 - [neutral factual] Belfast News Letter: United Ireland debate should focus on opportunities not costs, says Tanaiste (https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5)
 - [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFhmdkR1NkFTU3AxbUVJZC1TQ1FFQXFlQzc3b09yMHUyclJ0S2Z6UGo1QWZtYzVsYjNIVnJtdklVR1J4T1BCc0RRS09LMEhxU09ZSGNUTTZSSWk4OU1UNDh0ZkU5SlVzaXV6b1hjRmc1bldWUDBMRkRSbWFqbGNaTmxQdzI2SWowbmk2VlRiaEZMOThpQUlUMTA3Si1ZcmFtMEYzUTI1X2d2bEtSMUZuSXFBdmVvLWI1TndRQ21UVEd3bnBBQldFRUZR?oc=5)
 - [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUgzMzcyV2tXWW1DV3R4MTNNbEExajNidTBZcVlBQkUwYm5mOVFOWjF0MFJDblVWYXhnQllLRVVHOURPakhNdVVGRUhRLXdnZUpFYkZhWkg1X29HSkQ0SF82TFhpcUw1NkJacUNiemN3R1JNekF0eWh0Q3ZsTHV5SmZZcnNETG5seGVMUENUeDBhRjFKWU5ZOHlTMnlVWEF1ZDNoSGlqYTNkTTVYYW1FX0lDT3pfdUs3Y09KSUIxOVZJYWdlMEx3dUxB?oc=5)
@@ -88,5 +90,3 @@ Updated: Fri, 17 Jul 2026 04:22 GMT
 - [neutral factual] RTE.ie: Single currency would benefit a united Ireland - Tánaiste (https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5)
 - [neutral factual] RTE News: Single currency would benefit a united Ireland - Tánaiste (https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/)
 - [neutral factual] The Journal: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5)
-- [neutral factual] TheJournal.ie: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/)
-- [neutral factual] BreakingNews.ie: More efficient way of of assessing new drugs needed, says Tánaiste (https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5)

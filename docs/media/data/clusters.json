@@ -193,7 +193,7 @@
     "latest_seen": "2026-07-16T06:30:00Z",
     "lifespan_hours": 13,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 7,
     "tone_counts": {
       "favourable": 0,
@@ -204,7 +204,7 @@
     "net_framing": 0,
     "significant_count": 3,
     "attention_score": 25,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5",
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVpsdlRJVVU5MGlpSkdKNTI1VzJvczB0WVc4QmtqX3E5bmFZZHJSR0NJRm4wMXRMdU5nd3E0VU0yWXRBM09iMzNRdTdjUmdXY1hFSHJTTGlab2pCUTFkNXEwNmNPV0FFdHU0YXZ4bDNiVHNkdmcwc1BQdEdyd0hrWU5XNUtZZDJFVEJFYUV5MlA0WTZ6MkRDSEVGeENDRFp6Vy1OR0pRczR6cEYzYU1hRUF2RW1FWXJwWUxvMVpHYVh3OC0wRVJMYUlqNXpWT2J4YWQ4Y2tvaVlGZlNS?oc=5",
@@ -897,6 +897,39 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5"
+    ]
+  },
+  {
+    "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
+    "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
+    "topic": "Other",
+    "item_count": 3,
+    "outlet_count": 3,
+    "outlets": [
+      "MSN",
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-16T13:45:21Z",
+    "latest_seen": "2026-07-16T20:02:44Z",
+    "lifespan_hours": 6,
+    "velocity_6h": 0,
+    "velocity_24h": 3,
+    "reach_score": 7,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 10,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQME5iQXAzTm5QMUZQWTJYQWdnSjJ1amtOaXBqa09XTGE1VnBrRFNzUmRKUDU4MGpleWhEeXVmVmx4V3pTczg2dzE3a1R0R3Q5WkpxSUplQXp4MHRWQXB1eUlhQndFVU1ST2d6V1FrWmRnSzNlREhJY3ZaMThubmlrTVF1ekFpOW9iTFpwWkdPOTV4S05BOF95dDBfQU9vcFh1UTJuNHVhMnI4RXUtS04zd1ZDNk9QbU5ybHZTa2JpekNYbkF1S09kZS01d05yVU9vOFhpYmEyMEkxS2ZPNGdpbElR?oc=5",
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
+      "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/"
     ]
   },
   {
@@ -1727,37 +1760,6 @@
     "item_links": [
       "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/",
       "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5"
-    ]
-  },
-  {
-    "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
-    "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "The Journal",
-      "TheJournal.ie"
-    ],
-    "first_seen": "2026-07-16T13:45:21Z",
-    "latest_seen": "2026-07-16T13:54:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 8,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE45RXc2aFlZN0JLZlpPbHRlSkJYUGdjQUNZcHMtek9mVENVRE5Nc2thQ2s0NUVETUNPRzdWbklqUmhEdWVWVVRQbFVrWWJESEZZd1NQSG5raXFPdXI0aEZkYjVsTEFDSVdVdW55Mlc2ZTVrdw?oc=5",
-      "https://www.thejournal.ie/ireland-e-scooter-ban-7104061-Jul2026/"
     ]
   },
   {
@@ -7290,6 +7292,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "fine gael:blueprint-fine-gael-iauc-unity-welcomes:42359c06",
+    "title": "IAUC Welcomes Fine Gael Unity Blueprint",
+    "topic": "Fine Gael",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Echo Newspaper"
+    ],
+    "first_seen": "2026-07-17T00:11:59Z",
+    "latest_seen": "2026-07-17T00:11:59Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 1,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 100,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWHNjMThmck9VN1kxQndFd3JmNlJRUi1BNHRpODdMOWhNVGFuLUpQbHhkTlBLWjBxbFJQUGlmdWs5TE82UDE5bUZ2T0dWYTJWNm5qU0daenladGI5dUJGU2QwUEZlY04yV2J1dDZGcVdaUEdBOS1vSFlXd1A?oc=5"
     ]
   },
   {
