@@ -303,7 +303,7 @@
     "latest_seen": "2026-07-17T12:13:33Z",
     "lifespan_hours": 21,
     "velocity_6h": 1,
-    "velocity_24h": 4,
+    "velocity_24h": 2,
     "reach_score": 13,
     "tone_counts": {
       "favourable": 0,
@@ -7380,6 +7380,64 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWHNjMThmck9VN1kxQndFd3JmNlJRUi1BNHRpODdMOWhNVGFuLUpQbHhkTlBLWjBxbFJQUGlmdWs5TE82UDE5bUZ2T0dWYTJWNm5qU0daenladGI5dUJGU2QwUEZlY04yV2J1dDZGcVdaUEdBOS1vSFlXd1A?oc=5"
+    ]
+  },
+  {
+    "key": "other:challenges-control-lou-mary-mcdonald-out:8e93e1fd",
+    "title": "Mary Lou McDonald challenges Tánaiste on \"out of control\" scrambler and e-scooter scourge",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "sinnfein.ie"
+    ],
+    "first_seen": "2026-07-16T21:37:06Z",
+    "latest_seen": "2026-07-16T21:37:06Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS21JRnNzUGY1R0VKOWNud3pyZEtXSGZBTl9jdGhobElKVWFJenJEeHY3TTloUlk5ZHVUd2QtV3VVcWJrYXRUWVh6bThYSkloVVRjTGVmc0R5NkY1NEZIc1lkRTl2bzZhc2QwbldnVUptd3FKclhPV3lRdWtUV0FGNGROVlRsSXlDejhERXRvZnN0am1rd2F5WExsc01xU3hNUW40cTZzU2lmNzBDckRvSVY4Zw?oc=5"
+    ]
+  },
+  {
+    "key": "enterprise:aer-effort-every-government-jobs-lingus:72bacf67",
+    "title": "Government must make every effort to save jobs at Aer Lingus – Rose Conway-Walsh TD",
+    "topic": "Enterprise",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "sinnfein.ie"
+    ],
+    "first_seen": "2026-07-16T20:36:58Z",
+    "latest_seen": "2026-07-16T20:36:58Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUpfb2NORlZBUTc1TTdYazB0Sk1CTVl4dFJtV3ZIM1NZSFl3bE5xR0hkNnNoT3VMUGgwMk5KeE9sMXNiM3NLVHhnbDV5MDc0a0tWelk0dFAtQXlVWVIxUUtKUnZBZGNvZDJWY2k1T1FsMU1ZVGpmNkQtelpLb0xlZGR6OFRlczk0YnVDU05XNURHYUQ2UmQyUGRTREhibWlkWnRQM1N4d19Ob0E?oc=5"
     ]
   },
   {
