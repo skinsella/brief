@@ -287,9 +287,9 @@
   },
   {
     "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
-    "title": "United Ireland debate should focus on opportunities not costs, says Tanaiste",
+    "title": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
     "topic": "Other",
-    "item_count": 8,
+    "item_count": 9,
     "outlet_count": 6,
     "outlets": [
       "Belfast News Letter",
@@ -300,22 +300,23 @@
       "The Irish News"
     ],
     "first_seen": "2026-07-16T14:50:00Z",
-    "latest_seen": "2026-07-16T18:55:00Z",
-    "lifespan_hours": 4,
-    "velocity_6h": 0,
-    "velocity_24h": 8,
-    "reach_score": 12,
+    "latest_seen": "2026-07-17T12:13:33Z",
+    "lifespan_hours": 21,
+    "velocity_6h": 1,
+    "velocity_24h": 9,
+    "reach_score": 13,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 8,
+      "neutral": 9,
       "unfavourable": 0,
       "mixed": 0
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 18,
+    "attention_score": 22,
     "status": "active",
     "item_links": [
+      "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUJWNndzQUFIaHJlQW5NTzF6QjlwaHhaOVVnZENTbmx4emNmWUdyMXZKV0lrQlNIa19sVXllR2U3X2t2OUFSZGtsVGsySkE0Rkt4bkxnX05WMVlwWUFvQjBDUHkxZFdWeEZZeE54ZVFBcmYyc3VGT3FqYnB0SEFqR3BRaWRTRlFTMjBXdGlfeDY2bkdPeXJ4eW9meDNlZGJTTmdLa2lqZDdsWnlOSzJZZkg5cjJlYktIOWo1TG1TRDRNZ0FxbFUxSVo4dUduNTQzeEp0RzNPd19vbmxyalpIMmpZdEpnUWJBbjZV?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5",
       "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFhmdkR1NkFTU3AxbUVJZC1TQ1FFQXFlQzc3b09yMHUyclJ0S2Z6UGo1QWZtYzVsYjNIVnJtdklVR1J4T1BCc0RRS09LMEhxU09ZSGNUTTZSSWk4OU1UNDh0ZkU5SlVzaXV6b1hjRmc1bldWUDBMRkRSbWFqbGNaTmxQdzI2SWowbmk2VlRiaEZMOThpQUlUMTA3Si1ZcmFtMEYzUTI1X2d2bEtSMUZuSXFBdmVvLWI1TndRQ21UVEd3bnBBQldFRUZR?oc=5",
       "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUgzMzcyV2tXWW1DV3R4MTNNbEExajNidTBZcVlBQkUwYm5mOVFOWjF0MFJDblVWYXhnQllLRVVHOURPakhNdVVGRUhRLXdnZUpFYkZhWkg1X29HSkQ0SF82TFhpcUw1NkJacUNiemN3R1JNekF0eWh0Q3ZsTHV5SmZZcnNETG5seGVMUENUeDBhRjFKWU5ZOHlTMnlVWEF1ZDNoSGlqYTNkTTVYYW1FX0lDT3pfdUs3Y09KSUIxOVZJYWdlMEx3dUxB?oc=5",
@@ -727,7 +728,7 @@
     "latest_seen": "2026-07-16T14:44:23Z",
     "lifespan_hours": 2,
     "velocity_6h": 0,
-    "velocity_24h": 4,
+    "velocity_24h": 2,
     "reach_score": 8,
     "tone_counts": {
       "favourable": 0,
@@ -2903,6 +2904,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "fine gael:ban-discuss-government-leaders-outright-scooters:5969a53c",
+    "title": "Government Leaders To Discuss Outright Ban On E-Scooters",
+    "topic": "Fine Gael",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Ireland's Classic Hits Radio"
+    ],
+    "first_seen": "2026-07-17T11:54:41Z",
+    "latest_seen": "2026-07-17T11:54:41Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5"
     ]
   },
   {
