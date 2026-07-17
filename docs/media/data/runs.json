@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-17T19:23:17Z",
+    "checked_at_display": "Fri, 17 Jul 2026 19:23 GMT",
+    "new_count": 0,
+    "old_skipped": 6,
+    "duplicate_skipped": 10,
+    "mismatched_skipped": 27,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 6,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 16,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 13,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 48,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260717T192317Z.html"
+  },
+  {
     "checked_at": "2026-07-17T17:42:23Z",
     "checked_at_display": "Fri, 17 Jul 2026 17:42 GMT",
     "new_count": 2,
@@ -7873,85 +7951,5 @@
       "https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/"
     ],
     "archive_file": "archive/20260710T161040Z.html"
-  },
-  {
-    "checked_at": "2026-07-10T08:03:17Z",
-    "checked_at_display": "Fri, 10 Jul 2026 08:03 GMT",
-    "new_count": 1,
-    "old_skipped": 9,
-    "duplicate_skipped": 8,
-    "mismatched_skipped": 3,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 11,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 7,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 38,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5"
-    ],
-    "archive_file": "archive/20260710T080317Z.html"
   }
 ]

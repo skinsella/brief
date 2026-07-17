@@ -302,8 +302,8 @@
     "first_seen": "2026-07-16T14:50:00Z",
     "latest_seen": "2026-07-17T12:13:33Z",
     "lifespan_hours": 21,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
     "reach_score": 13,
     "tone_counts": {
       "favourable": 0,
@@ -313,7 +313,7 @@
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 22,
+    "attention_score": 19,
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUJWNndzQUFIaHJlQW5NTzF6QjlwaHhaOVVnZENTbmx4emNmWUdyMXZKV0lrQlNIa19sVXllR2U3X2t2OUFSZGtsVGsySkE0Rkt4bkxnX05WMVlwWUFvQjBDUHkxZFdWeEZZeE54ZVFBcmYyc3VGT3FqYnB0SEFqR3BRaWRTRlFTMjBXdGlfeDY2bkdPeXJ4eW9meDNlZGJTTmdLa2lqZDdsWnlOSzJZZkg5cjJlYktIOWo1TG1TRDRNZ0FxbFUxSVo4dUduNTQzeEp0RzNPd19vbmxyalpIMmpZdEpnUWJBbjZV?oc=5",
@@ -2904,35 +2904,6 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
-    ]
-  },
-  {
-    "key": "fine gael:ban-discuss-government-leaders-outright-scooters:5969a53c",
-    "title": "Government Leaders To Discuss Outright Ban On E-Scooters",
-    "topic": "Fine Gael",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Ireland's Classic Hits Radio"
-    ],
-    "first_seen": "2026-07-17T11:54:41Z",
-    "latest_seen": "2026-07-17T11:54:41Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5"
     ]
   },
   {
@@ -7351,6 +7322,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "fine gael:ban-discuss-government-leaders-outright-scooters:5969a53c",
+    "title": "Government Leaders To Discuss Outright Ban On E-Scooters",
+    "topic": "Fine Gael",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Ireland's Classic Hits Radio"
+    ],
+    "first_seen": "2026-07-17T11:54:41Z",
+    "latest_seen": "2026-07-17T11:54:41Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5"
     ]
   },
   {
