@@ -303,7 +303,7 @@
     "latest_seen": "2026-07-17T12:13:33Z",
     "lifespan_hours": 21,
     "velocity_6h": 1,
-    "velocity_24h": 9,
+    "velocity_24h": 8,
     "reach_score": 13,
     "tone_counts": {
       "favourable": 0,
@@ -728,7 +728,7 @@
     "latest_seen": "2026-07-16T14:44:23Z",
     "lifespan_hours": 2,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 8,
     "tone_counts": {
       "favourable": 0,
@@ -739,7 +739,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 11,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5",
@@ -915,7 +915,7 @@
     "latest_seen": "2026-07-16T20:02:44Z",
     "lifespan_hours": 6,
     "velocity_6h": 0,
-    "velocity_24h": 3,
+    "velocity_24h": 1,
     "reach_score": 7,
     "tone_counts": {
       "favourable": 0,
@@ -1014,7 +1014,7 @@
     "latest_seen": "2026-07-16T14:40:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -1025,7 +1025,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5"
     ]
@@ -1746,7 +1746,7 @@
     "latest_seen": "2026-07-16T13:56:51Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1757,7 +1757,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 8,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://www.rte.ie/news/politics/2026/0716/1583690-united-ireland-dail/",
       "https://news.google.com/rss/articles/CBMie0FVX3lxTE40SkxFS1BrdDVaeWtEbGZoQkp2TWMtZmo0NnpwYmZVU0JMbEF6NFZFcmRxV0VmaXpwaDd1MjhtN1lyYWRiWjJvS3Q3ODJoT1pJR1V6bTlVNlNSU1lhczZOM3pmMS1rbGFsUFF4UWhsZndHUW0yNVFzci1qbw?oc=5"
@@ -2239,7 +2239,7 @@
     "latest_seen": "2026-07-16T15:30:00Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 1,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
