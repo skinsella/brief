@@ -7136,6 +7136,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCT3VvQi1ZV2ZUcHpCVFQ2VVJRSk81SkE5clY4NHZsNGI0OXlhRFJORW9pb0FObFlSY1JNOVJJOUwtY0FPdjRmNjBqdnNzc1g2aDdSbUNrcXM3TXFvUktDMXFFc0ZTRVlPZ3hvaVN3?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Sat, 18 Jul 2026 07:36:00 GMT",
+    "headline": "Water mains bursts and low pressure raise safety fears in Carrigaline",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCT3VvQi1ZV2ZUcHpCVFQ2VVJRSk81SkE5clY4NHZsNGI0OXlhRFJORW9pb0FObFlSY1JNOVJJOUwtY0FPdjRmNjBqdnNzc1g2aDdSbUNrcXM3TXFvUktDMXFFc0ZTRVlPZ3hvaVN3?oc=5",
+    "summary": "Irish Examiner reports: Water mains bursts and low pressure raise safety fears in Carrigaline.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "water-mains-bursts-and-low-pressure-raise-safety-fears-in-carrigaline",
+    "first_seen": "2026-07-18T08:25:10Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCT3VvQi1ZV2ZUcHpCVFQ2VVJRSk81SkE5clY4NHZsNGI0OXlhRFJORW9pb0FObFlSY1JNOVJJOUwtY0FPdjRmNjBqdnNzc1g2aDdSbUNrcXM3TXFvUktDMXFFc0ZTRVlPZ3hvaVN3?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCT3VvQi1ZV2ZUcHpCVFQ2VVJRSk81SkE5clY4NHZsNGI0OXlhRFJORW9pb0FObFlSY1JNOVJJOUwtY0FPdjRmNjBqdnNzc1g2aDdSbUNrcXM3TXFvUktDMXFFc0ZTRVlPZ3hvaVN3?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVc0tKMTByVmF5c05rZzctbDN3dUNTMmR0TDNkY1lZT0dGNUcxUW9JQ191b1dtSzdUTHN1MGhEbGl1emJFUl96RW1uMmRtc1JqU19IbW81SzNiaTJxaWVlY1huZkdlODF6SmdQS013?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Fri, 19 Jun 2026 21:04:00 GMT",
