@@ -41,6 +41,45 @@
     ]
   },
   {
+    "key": "finance:savings-plan",
+    "title": "Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’",
+    "topic": "Finance",
+    "item_count": 7,
+    "outlet_count": 5,
+    "outlets": [
+      "Business Post",
+      "MSN",
+      "The Irish Times",
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-06-04T11:32:10Z",
+    "latest_seen": "2026-07-18T09:11:59Z",
+    "lifespan_hours": 1054,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 19,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 6,
+      "unfavourable": 1,
+      "mixed": 0
+    },
+    "net_framing": -14,
+    "significant_count": 2,
+    "attention_score": 38,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVhHT25HdUFwZDhsNV8wXzZ1TFJHUE5lYVktaWMwVGRFTUx1NkNwT0FMaEwyUFRyYy0yYzUybnBaVjI5X2ZwU2k4YmRWSnR3cndnQzVka0NtX2hRXzV0SG1QdVhjc3dsRXF0MDQ0ckJPOXMtc0ZpVVJNZzhaaXJBZF9XMTdwM2s4bU5SUGZwN0ktcXNmcGdQOHpGVHpQQldud0JVRDAxa1c4RUJ4cGJBXzB0T2hHaUk?oc=5",
+      "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeTQ0WlpQa1dabTNPWkRSYVZlQXFKcDZfUlVnVU13eEpzZm5acnl3Z3RtTHpOcTJsZ1RhcGhFcm1nN2NjWTY3enlHZ0pfeEFqMHI0S0pmR1REWkVqZW9jeGZHSm9ZYndheHVOVHlsaWJvcnhzVDE1ODBNV3NOT0tzNUJhWTNpWlpPcnkxYVF3MlNVcjRLQ21BNTZRVHktUDRIdmt6YjY5d3cwMldRempKYkhOWHBkT3REQXFTd2hWX2lUdHNHcFZvWDgtSHQ1UkpUVTN4ZDRTcUQ4YlFTczRmZkdpSmY3MmV2anpJVTBEOXdXMTVkVE9sYkR3?oc=5",
+      "https://www.thejournal.ie/simon-harris-savings-scheme-social-media-7083273-Jun2026/",
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXdESHBaVGpnYkh0b2Nma1lRU3VqV2NfX19lbFJpZzJtSWRVS19rSXk1M1Z1djNlSWlnYXNKc1JDdDdqQ1Nla3Nrcy12QXM5aktWR19HODVuSnJxb2JLMnNyVGNPdENMOUExZlh6ZVgtd2hwN1k0N1ZtZkkzSzQtWW9mZy1LcGdBMDBz?oc=5",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaW4tQTJ5VEczSVJQRVZnNDJHZGo3dXMwOGszTklUcmVOajN1eXhhclVMc0IwQ3FNZEJfcVJLeDIyWVlFdGxMcHNSSHZ4UTFmTldDTFoxUUR4UnJJMWhHenlMaXhMb2RFd0p3d0Q0NUpiRmRaenBCTHZmcHVaV1E2RWMwOHBSMXJaMkFzWVBmT05NT1JBajk0U3NJYWpwZzd1WWdBN1hvZXJlUThtYVloUDJZb0xnUUFVMVBTVWt1c3l2YTlFeTNr?oc=5",
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dkaFBOVjNOM0hySm5pUW91c1dPdjdrZVRqeEZjUmZkazd0bTZSNk8wMDBlWndZcWZSd3JJcTMtQXRuZFdLUjNBYUlCLUg4RFl2eE1WUmxxajJjNzhpTmFlcmNGTXlhM3ItODNISTkwa0o2YXZVdHVGN2dfQThITUk4b3FDbkRzZXhNc2hzY1NhVVZnVEJQOHNySmpiZ3BhWXU4WUZ4ZWRsUVR6Z2NkNi1jaXUyOVBkTUhn?oc=5",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5"
+    ]
+  },
+  {
     "key": "polling:polling",
     "title": "Fine Gael is now the most popular party in the country, poll says",
     "topic": "Polling",
@@ -73,43 +112,6 @@
       "https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/",
       "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEbzBjbVhJdFVZbXoxd1dubkxWd1FrNmxGZlNIN19fYUVDTjVwNjdQRzlqZHczdEdGeTNZQmlhX0xIVnNvUWp5MzVxSjMwVlNNOXZNdkdXZVJDZ2h4LWRvdXk5UDIxc0JDRlRxaV91RnFkT0hhM1E?oc=5",
       "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5"
-    ]
-  },
-  {
-    "key": "finance:savings-plan",
-    "title": "Simon Harris met with a group of influencers this week to talk about his new savings scheme",
-    "topic": "Finance",
-    "item_count": 6,
-    "outlet_count": 4,
-    "outlets": [
-      "MSN",
-      "The Irish Times",
-      "The Journal",
-      "TheJournal.ie"
-    ],
-    "first_seen": "2026-06-04T11:32:10Z",
-    "latest_seen": "2026-06-26T19:07:16Z",
-    "lifespan_hours": 536,
-    "velocity_6h": 0,
-    "velocity_24h": 0,
-    "reach_score": 16,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 5,
-      "unfavourable": 1,
-      "mixed": 0
-    },
-    "net_framing": -17,
-    "significant_count": 2,
-    "attention_score": 34,
-    "status": "persistent",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeTQ0WlpQa1dabTNPWkRSYVZlQXFKcDZfUlVnVU13eEpzZm5acnl3Z3RtTHpOcTJsZ1RhcGhFcm1nN2NjWTY3enlHZ0pfeEFqMHI0S0pmR1REWkVqZW9jeGZHSm9ZYndheHVOVHlsaWJvcnhzVDE1ODBNV3NOT0tzNUJhWTNpWlpPcnkxYVF3MlNVcjRLQ21BNTZRVHktUDRIdmt6YjY5d3cwMldRempKYkhOWHBkT3REQXFTd2hWX2lUdHNHcFZvWDgtSHQ1UkpUVTN4ZDRTcUQ4YlFTczRmZkdpSmY3MmV2anpJVTBEOXdXMTVkVE9sYkR3?oc=5",
-      "https://www.thejournal.ie/simon-harris-savings-scheme-social-media-7083273-Jun2026/",
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXdESHBaVGpnYkh0b2Nma1lRU3VqV2NfX19lbFJpZzJtSWRVS19rSXk1M1Z1djNlSWlnYXNKc1JDdDdqQ1Nla3Nrcy12QXM5aktWR19HODVuSnJxb2JLMnNyVGNPdENMOUExZlh6ZVgtd2hwN1k0N1ZtZkkzSzQtWW9mZy1LcGdBMDBz?oc=5",
-      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaW4tQTJ5VEczSVJQRVZnNDJHZGo3dXMwOGszTklUcmVOajN1eXhhclVMc0IwQ3FNZEJfcVJLeDIyWVlFdGxMcHNSSHZ4UTFmTldDTFoxUUR4UnJJMWhHenlMaXhMb2RFd0p3d0Q0NUpiRmRaenBCTHZmcHVaV1E2RWMwOHBSMXJaMkFzWVBmT05NT1JBajk0U3NJYWpwZzd1WWdBN1hvZXJlUThtYVloUDJZb0xnUUFVMVBTVWt1c3l2YTlFeTNr?oc=5",
-      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dkaFBOVjNOM0hySm5pUW91c1dPdjdrZVRqeEZjUmZkazd0bTZSNk8wMDBlWndZcWZSd3JJcTMtQXRuZFdLUjNBYUlCLUg4RFl2eE1WUmxxajJjNzhpTmFlcmNGTXlhM3ItODNISTkwa0o2YXZVdHVGN2dfQThITUk4b3FDbkRzZXhNc2hzY1NhVVZnVEJQOHNySmpiZ3BhWXU4WUZ4ZWRsUVR6Z2NkNi1jaXUyOVBkTUhn?oc=5",
-      "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5"
     ]
   },
   {
@@ -2226,6 +2228,35 @@
     "item_links": [
       "https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5"
+    ]
+  },
+  {
+    "key": "other:autumn-for-government-plenty-problems-stored:2b2fce60",
+    "title": "The government has stored up plenty of problems for autumn",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-18T20:02:34Z",
+    "latest_seen": "2026-07-18T20:02:34Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5"
     ]
   },
   {

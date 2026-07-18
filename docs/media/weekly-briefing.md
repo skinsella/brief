@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 18 Jul 2026 19:47 GMT
+Updated: Sat, 18 Jul 2026 21:01 GMT
 
 ## Snapshot
 
-- Recent coverage: 85 item(s) in the last 7 days.
+- Recent coverage: 87 item(s) in the last 7 days.
 - Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
 - Significant items: 14.
 
 ## Trend Summary
 
-- Coverage volume: 85 item(s) in the last 7 days; up 15 vs previous 7 days.
+- Coverage volume: 87 item(s) in the last 7 days; up 17 vs previous 7 days.
 - Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 50 item(s).
+- Main topic: Other leads recent coverage with 51 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 12 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 1 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 3 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,8 +37,8 @@ Updated: Sat, 18 Jul 2026 19:47 GMT
 
 ## Top Topics
 
-- Other: 50
-- Finance: 15
+- Other: 51
+- Finance: 16
 - Foreign affairs: 10
 - Fine Gael: 5
 - Enterprise: 3
@@ -49,17 +49,17 @@ Updated: Sat, 18 Jul 2026 19:47 GMT
 - Irish Independent: 12
 - MSN: 10
 - BreakingNews.ie: 9
+- Business Post: 5
 - Irish Examiner: 5
 - The Journal: 5
 - RTE.ie: 4
 - Limerick Leader: 4
-- RTE News: 3
 
 ## Story Clusters
 
 - [persistent] New Central Bank map shows ATM locations nationwide — 7 item(s), 7 outlet(s), 0 in 6h, 0 in 24h, net +14%. Outlets: Cork Beo, Highland Radio, Irish Independent, KCLR 96FM, MSN, RTE News
+- [active] Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ — 7 item(s), 5 outlet(s), 0 in 6h, 1 in 24h, net -14%. Outlets: Business Post, MSN, The Irish Times, The Journal, TheJournal.ie
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
-- [persistent] Simon Harris met with a group of influencers this week to talk about his new savings scheme — 6 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net -17%. Outlets: MSN, The Irish Times, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
@@ -70,6 +70,8 @@ Updated: Sat, 18 Jul 2026 19:47 GMT
 
 ## Recent Items
 
+- [neutral factual] Business Post: The government has stored up plenty of problems for autumn (https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5)
+- [neutral factual] Business Post: Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ (https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVhHT25HdUFwZDhsNV8wXzZ1TFJHUE5lYVktaWMwVGRFTUx1NkNwT0FMaEwyUFRyYy0yYzUybnBaVjI5X2ZwU2k4YmRWSnR3cndnQzVka0NtX2hRXzV0SG1QdVhjc3dsRXF0MDQ0ckJPOXMtc0ZpVVJNZzhaaXJBZF9XMTdwM2s4bU5SUGZwN0ktcXNmcGdQOHpGVHpQQldud0JVRDAxa1c4RUJ4cGJBXzB0T2hHaUk?oc=5)
 - [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMiuANBVV95cUxOdnA3NjlJRmpWNVYzbHJIQTBxa3FsWDBpcHR5dDdMcmlnbkdiQjhiQno2Q3JOeDgtX1dWel9UVkV0TkpfRnBmTS13SElrT196XzRNa3A5VlNrXzlOQU9yYzRLUmc5V2lGa2hrU3dlNFZwY0laWUJxNjd3c0haX1NKWDR1OXMxMEE4aTlETFBVM3FDTXVkYU1BeDVKdDdWMWxFZUQ1eHpzZi12bFhnRXRTRHFTdmZub09yWF9NcXVSMnJONC1kZE1oSTlJdklPSTJXV25vUUlmZEhKdXhmUjNDdDRwNVRXaXBZeWJpbTUtbEE1LWgzb0pBVE55Q0k4QUNycUlPY0hPQTJubGVQSTlINDRQcGJ6dWp3OTdVbnptb29NVVNEc25JUl9CUUZ3djduLXN4b3V2cWktOFlKTUVWRHYzYUtCcVVPRGpaTlJTMWJTc1lsRVNPRjhMR3RmOExjdHp2ODFCSlZlODdSSVpjM282ZF9VQ181Z1hVS0NtVExRU05ITWNIOVBVWEdCNU1WNEhIbmVZMnhLcC1zZGZyZkFtQ0wzSmlUQ3pVRHpSR1dQNktwOWxzaA?oc=5)
 - [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUJWNndzQUFIaHJlQW5NTzF6QjlwaHhaOVVnZENTbmx4emNmWUdyMXZKV0lrQlNIa19sVXllR2U3X2t2OUFSZGtsVGsySkE0Rkt4bkxnX05WMVlwWUFvQjBDUHkxZFdWeEZZeE54ZVFBcmYyc3VGT3FqYnB0SEFqR3BRaWRTRlFTMjBXdGlfeDY2bkdPeXJ4eW9meDNlZGJTTmdLa2lqZDdsWnlOSzJZZkg5cjJlYktIOWo1TG1TRDRNZ0FxbFUxSVo4dUduNTQzeEp0RzNPd19vbmxyalpIMmpZdEpnUWJBbjZV?oc=5)
 - [neutral factual] Ireland's Classic Hits Radio: Government Leaders To Discuss Outright Ban On E-Scooters (https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5)
@@ -88,5 +90,3 @@ Updated: Sat, 18 Jul 2026 19:47 GMT
 - [neutral factual] Irish Examiner: All-island euro would benefit businesses and consumers, says Simon Harris (https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5)
 - [neutral factual] Irish Independent: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris (https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5)
 - [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5)
-- [critical] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
-- [neutral factual] Belfast Telegraph: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5)
