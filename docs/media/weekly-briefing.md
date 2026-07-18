@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 18 Jul 2026 11:14 GMT
+Updated: Sat, 18 Jul 2026 12:31 GMT
 
 ## Snapshot
 
@@ -18,7 +18,7 @@ Updated: Sat, 18 Jul 2026 11:14 GMT
 
 ## Narrative Summary
 
-- Active narratives: 2 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 0 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -65,7 +65,7 @@ Updated: Sat, 18 Jul 2026 11:14 GMT
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [active] United Ireland debate should focus on opportunities not costs, says Tánaiste — 9 item(s), 6 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, MSN, Nenagh Live, The Irish News
+- [dormant] United Ireland debate should focus on opportunities not costs, says Tánaiste — 9 item(s), 6 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, MSN, Nenagh Live, The Irish News
 - [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 
 ## Recent Items

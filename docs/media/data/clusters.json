@@ -303,7 +303,7 @@
     "latest_seen": "2026-07-17T12:13:33Z",
     "lifespan_hours": 21,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 13,
     "tone_counts": {
       "favourable": 0,
@@ -314,7 +314,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 19,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUJWNndzQUFIaHJlQW5NTzF6QjlwaHhaOVVnZENTbmx4emNmWUdyMXZKV0lrQlNIa19sVXllR2U3X2t2OUFSZGtsVGsySkE0Rkt4bkxnX05WMVlwWUFvQjBDUHkxZFdWeEZZeE54ZVFBcmYyc3VGT3FqYnB0SEFqR3BRaWRTRlFTMjBXdGlfeDY2bkdPeXJ4eW9meDNlZGJTTmdLa2lqZDdsWnlOSzJZZkg5cjJlYktIOWo1TG1TRDRNZ0FxbFUxSVo4dUduNTQzeEp0RzNPd19vbmxyalpIMmpZdEpnUWJBbjZV?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5",
@@ -7338,7 +7338,7 @@
     "latest_seen": "2026-07-17T11:54:41Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -7349,7 +7349,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5"
     ]

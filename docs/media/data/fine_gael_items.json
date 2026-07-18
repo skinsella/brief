@@ -22403,6 +22403,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Headline uses critical or risk language: concerns."
   },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ29hYklrNERqXzNuVkhnb1pzQW0wdG5iLW5yOXZNZDZsZDl6dnVLMW1QSER1Tmc5LWpvUUIwaFc0blpmaXdNT0JyTU9XNkQ5Ykx0ZkVRdzhISkMyS1lzUzJ6Yl92LWJWUk43a0hWR0pBWVlVT1JzdzlNeXhadVVqR2dCQnhDc1FIeDZHYUFKRmZHcTQtdmN2Z292NVhHZm00NDR3SmVPRFJvTFVjQmR3N1ZaT3pUU0RUTW1z?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sat, 18 Jul 2026 11:34:28 GMT",
+    "headline": "Media Minister Patrick O’Donovan to return to duties in September",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ29hYklrNERqXzNuVkhnb1pzQW0wdG5iLW5yOXZNZDZsZDl6dnVLMW1QSER1Tmc5LWpvUUIwaFc0blpmaXdNT0JyTU9XNkQ5Ykx0ZkVRdzhISkMyS1lzUzJ6Yl92LWJWUk43a0hWR0pBWVlVT1JzdzlNeXhadVVqR2dCQnhDc1FIeDZHYUFKRmZHcTQtdmN2Z292NVhHZm00NDR3SmVPRFJvTFVjQmR3N1ZaT3pUU0RUTW1z?oc=5",
+    "summary": "Irish Independent reports: Media Minister Patrick O’Donovan to return to duties in September.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "media-minister-patrick-o-donovan-to-return-to-duties-in-september",
+    "first_seen": "2026-07-18T12:31:23Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ29hYklrNERqXzNuVkhnb1pzQW0wdG5iLW5yOXZNZDZsZDl6dnVLMW1QSER1Tmc5LWpvUUIwaFc0blpmaXdNT0JyTU9XNkQ5Ykx0ZkVRdzhISkMyS1lzUzJ6Yl92LWJWUk43a0hWR0pBWVlVT1JzdzlNeXhadVVqR2dCQnhDc1FIeDZHYUFKRmZHcTQtdmN2Z292NVhHZm00NDR3SmVPRFJvTFVjQmR3N1ZaT3pUU0RUTW1z?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ29hYklrNERqXzNuVkhnb1pzQW0wdG5iLW5yOXZNZDZsZDl6dnVLMW1QSER1Tmc5LWpvUUIwaFc0blpmaXdNT0JyTU9XNkQ5Ykx0ZkVRdzhISkMyS1lzUzJ6Yl92LWJWUk43a0hWR0pBWVlVT1JzdzlNeXhadVVqR2dCQnhDc1FIeDZHYUFKRmZHcTQtdmN2Z292NVhHZm00NDR3SmVPRFJvTFVjQmR3N1ZaT3pUU0RUTW1z?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGNjVTV5eHJQZF8wcWJFZS1ESWVqOW91V1B3YkdBYWhEUEpVZGcwQ19jNkR3ZlZKY052REVKdE55dWt2OENuQzVUVi1kaE9mVER0T3JfbGZ1clpLQWJNVWVkYW1oTkxVR2tNU3RFYjh5QkJPTjdPa3FBa3dpeDlnNVo2a1FFZnBrcFBMRWxiUGdzZm9HX21kMkhPLWg0bE80NE5uQkljMG9GZ2VYbzU2N2c5SXhyX2x1bU1R?oc=5": {
     "outlet": "westernpeople.ie",
     "published": "Tue, 16 Jun 2026 11:00:00 GMT",

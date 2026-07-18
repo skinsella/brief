@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-18T12:31:23Z",
+    "checked_at_display": "Sat, 18 Jul 2026 12:31 GMT",
+    "new_count": 0,
+    "old_skipped": 0,
+    "duplicate_skipped": 7,
+    "mismatched_skipped": 29,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 2,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 2,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 21,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 11,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 43,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260718T123123Z.html"
+  },
+  {
     "checked_at": "2026-07-18T11:14:58Z",
     "checked_at_display": "Sat, 18 Jul 2026 11:14 GMT",
     "new_count": 0,
@@ -7855,86 +7933,5 @@
       "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html"
     ],
     "archive_file": "archive/20260711T063930Z.html"
-  },
-  {
-    "checked_at": "2026-07-11T04:24:27Z",
-    "checked_at_display": "Sat, 11 Jul 2026 04:24 GMT",
-    "new_count": 2,
-    "old_skipped": 10,
-    "duplicate_skipped": 6,
-    "mismatched_skipped": 4,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 36,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjUyOFBpdFlsWmNWcWZReG1WTGlFUEMtVnlhT2V1VUNUczd5UGk2dG9JOHZwOTAxVE5tZHVBMFBOSER3andVajEwU2U2T2U0UUQ5QXIwQ3ZxSk1uMmkzRzhpNU1CcmVqZFBWSzJxZWh4elhKYnFLQVM1LTlmNUp6RHdEMl9ydk9QRGtBeXlfSkcxVEJGM2tkTmFrVlVhaWdTMjNmV19PbUJBZ05qQWtHM2hFVVQ?oc=5",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5"
-    ],
-    "archive_file": "archive/20260711T042427Z.html"
   }
 ]
