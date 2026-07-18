@@ -2565,6 +2565,32 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1QtN0g0Wkc3ejhMOExaMEVsejl5Nm40ckVfQU81bUV1a3RvaEFiZ0d6c0FiOGVKSnZYU2gtUnZGb0o2Rkt6b1NuM2ZEeGVIZDBrWU1CbEV0Z3ZkcGZSR3pCbHZ3bUowa0M1dFhDRWJibWZkbXBQSXlnVzJabVNxOV91NUs5Y3RMbjdSVkdXenpHSGhxS1JLWWNnQzZwMVFrdkpzcVpBMmlra09WNDEydUt5SXlsUklKOE51V2toMWFRLVNmZlpXRTducW93Q3lkTXRzQkFuNVdWdnpRelhv?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sat, 18 Jul 2026 06:18:37 GMT",
+    "headline": "Mayo councillors seek stronger protections for domestic violence victims in social housing",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1QtN0g0Wkc3ejhMOExaMEVsejl5Nm40ckVfQU81bUV1a3RvaEFiZ0d6c0FiOGVKSnZYU2gtUnZGb0o2Rkt6b1NuM2ZEeGVIZDBrWU1CbEV0Z3ZkcGZSR3pCbHZ3bUowa0M1dFhDRWJibWZkbXBQSXlnVzJabVNxOV91NUs5Y3RMbjdSVkdXenpHSGhxS1JLWWNnQzZwMVFrdkpzcVpBMmlra09WNDEydUt5SXlsUklKOE51V2toMWFRLVNmZlpXRTducW93Q3lkTXRzQkFuNVdWdnpRelhv?oc=5",
+    "summary": "Irish Independent reports: Mayo councillors seek stronger protections for domestic violence victims in social housing.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "mayo-councillors-seek-stronger-protections-for-domestic-violence-victims-in-soci",
+    "first_seen": "2026-07-18T06:30:36Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1QtN0g0Wkc3ejhMOExaMEVsejl5Nm40ckVfQU81bUV1a3RvaEFiZ0d6c0FiOGVKSnZYU2gtUnZGb0o2Rkt6b1NuM2ZEeGVIZDBrWU1CbEV0Z3ZkcGZSR3pCbHZ3bUowa0M1dFhDRWJibWZkbXBQSXlnVzJabVNxOV91NUs5Y3RMbjdSVkdXenpHSGhxS1JLWWNnQzZwMVFrdkpzcVpBMmlra09WNDEydUt5SXlsUklKOE51V2toMWFRLVNmZlpXRTducW93Q3lkTXRzQkFuNVdWdnpRelhv?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1QtN0g0Wkc3ejhMOExaMEVsejl5Nm40ckVfQU81bUV1a3RvaEFiZ0d6c0FiOGVKSnZYU2gtUnZGb0o2Rkt6b1NuM2ZEeGVIZDBrWU1CbEV0Z3ZkcGZSR3pCbHZ3bUowa0M1dFhDRWJibWZkbXBQSXlnVzJabVNxOV91NUs5Y3RMbjdSVkdXenpHSGhxS1JLWWNnQzZwMVFrdkpzcVpBMmlra09WNDEydUt5SXlsUklKOE51V2toMWFRLVNmZlpXRTducW93Q3lkTXRzQkFuNVdWdnpRelhv?oc=5",
+    "topic": "Housing",
+    "attention": [
+      "High-reach outlet",
+      "Review tone"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "favourable",
+    "sentiment_score": 1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses constructive delivery language: protect."
+  },
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUJRb0Rkd0c0REpvNzlKbVpwTmZKLXVPTlVONDBRa1Z2SjBoRHJUQzd5MXFac3FCQzhOSEJJUFc4aTdQRTdVNVBSei1odTc2OE11QUNrOFVfVUZMZ09kRkY2Wk5fOFVkXzBtbHEzMmEyV1VjNWlSbXZmMlA4UGpIczEtQ0RjeHRUcWlxMURuRW5DeXppUWZhYl96Q0NzbnNGNWlyVUVob1h0ZlpFd25QVy1EMnRyUE5QaC1DWFFGajFIOXVfOF9pRkYwREQzZFdGTWg1aDRIbXZleVNyaWVF?oc=5": {
     "outlet": "Midwest Radio",
     "published": "Tue, 30 Jun 2026 12:35:13 GMT",

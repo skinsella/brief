@@ -2920,7 +2920,7 @@
     "latest_seen": "2026-07-17T05:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -2931,7 +2931,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5"
     ]
