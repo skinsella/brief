@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 18 Jul 2026 15:07 GMT
+Updated: Sat, 18 Jul 2026 16:31 GMT
 
 ## Snapshot
 
-- Recent coverage: 84 item(s) in the last 7 days.
+- Recent coverage: 85 item(s) in the last 7 days.
 - Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
 - Significant items: 14.
 
 ## Trend Summary
 
-- Coverage volume: 84 item(s) in the last 7 days; up 14 vs previous 7 days.
+- Coverage volume: 85 item(s) in the last 7 days; up 15 vs previous 7 days.
 - Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 49 item(s).
+- Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 12 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 0 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 1 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -37,7 +37,7 @@ Updated: Sat, 18 Jul 2026 15:07 GMT
 
 ## Top Topics
 
-- Other: 49
+- Other: 50
 - Finance: 15
 - Foreign affairs: 10
 - Fine Gael: 5
@@ -47,7 +47,7 @@ Updated: Sat, 18 Jul 2026 15:07 GMT
 ## Top Outlets
 
 - Irish Independent: 12
-- MSN: 9
+- MSN: 10
 - BreakingNews.ie: 9
 - Irish Examiner: 5
 - The Journal: 5
@@ -70,6 +70,7 @@ Updated: Sat, 18 Jul 2026 15:07 GMT
 
 ## Recent Items
 
+- [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMiuANBVV95cUxOdnA3NjlJRmpWNVYzbHJIQTBxa3FsWDBpcHR5dDdMcmlnbkdiQjhiQno2Q3JOeDgtX1dWel9UVkV0TkpfRnBmTS13SElrT196XzRNa3A5VlNrXzlOQU9yYzRLUmc5V2lGa2hrU3dlNFZwY0laWUJxNjd3c0haX1NKWDR1OXMxMEE4aTlETFBVM3FDTXVkYU1BeDVKdDdWMWxFZUQ1eHpzZi12bFhnRXRTRHFTdmZub09yWF9NcXVSMnJONC1kZE1oSTlJdklPSTJXV25vUUlmZEhKdXhmUjNDdDRwNVRXaXBZeWJpbTUtbEE1LWgzb0pBVE55Q0k4QUNycUlPY0hPQTJubGVQSTlINDRQcGJ6dWp3OTdVbnptb29NVVNEc25JUl9CUUZ3djduLXN4b3V2cWktOFlKTUVWRHYzYUtCcVVPRGpaTlJTMWJTc1lsRVNPRjhMR3RmOExjdHp2ODFCSlZlODdSSVpjM282ZF9VQ181Z1hVS0NtVExRU05ITWNIOVBVWEdCNU1WNEhIbmVZMnhLcC1zZGZyZkFtQ0wzSmlUQ3pVRHpSR1dQNktwOWxzaA?oc=5)
 - [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUJWNndzQUFIaHJlQW5NTzF6QjlwaHhaOVVnZENTbmx4emNmWUdyMXZKV0lrQlNIa19sVXllR2U3X2t2OUFSZGtsVGsySkE0Rkt4bkxnX05WMVlwWUFvQjBDUHkxZFdWeEZZeE54ZVFBcmYyc3VGT3FqYnB0SEFqR3BRaWRTRlFTMjBXdGlfeDY2bkdPeXJ4eW9meDNlZGJTTmdLa2lqZDdsWnlOSzJZZkg5cjJlYktIOWo1TG1TRDRNZ0FxbFUxSVo4dUduNTQzeEp0RzNPd19vbmxyalpIMmpZdEpnUWJBbjZV?oc=5)
 - [neutral factual] Ireland's Classic Hits Radio: Government Leaders To Discuss Outright Ban On E-Scooters (https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5)
 - [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVzJxR01mVE5vZURKVFRoNTQya1FUWi1OUFFxa1ZweEFFY3ppVXlHWVRXQXV0R3lyaHVmeXRrN3hDMlJDUFQtYUE1RWJCZFRqQzU4WnNXWkRSNzJIaFhKYjlpeXZRZ2d5TnY3aWVqMWdhd1VrbWUxSkI5djBwV0JLUjhrQjU3dW5obThuQzNrNmgtZlVOTFVKV3dNU3YzUm5NZWdDWTRObHV6RWRLV21ra2RiSTdiYXlKS3RWNzcza3daNFNtdGZVS2Y3WWQ5dWZ4SU1oVWhkMHJGemtHVHlJTHEwVlJRSVRNNGVzc3RNN01JdlhYU0xrSlBMc0EzTFloMmpYLVZnTnB6T2VhLXZNYW1Qa0VHWXh2TkpqbVJKZFNKRmtBZGlneG41VU5KamI4TWJzbmtOTHRaQlR1dHJ5c1R4RGdFYnlabC1UaGQ4TnY5eEFXbmxsUHNqR2J2Zk9LNHFLdjcyc1owZVlXa1dZdk43WkFianR6?oc=5)
@@ -89,4 +90,3 @@ Updated: Sat, 18 Jul 2026 15:07 GMT
 - [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5)
 - [critical] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
 - [neutral factual] Belfast Telegraph: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTDdUc3IxSlVYUEw5Sjc5UHp1ZjI4Q2VLWkdTbVZFc0hkd1pjeHdmMEIxdFhtekxGZlN0enExVFZVUTB4UFFmWnE1TVI4RTJ1REVjWFNsSU96RUFZMVJjTGhuaS0xNGRJdGZ0UWNwYXp6eS1IazVYeFIzMW1ON3VSUGtEV3lzUWxMQWdZYlAta0RaaGxIMzAxQTEwVTNzUzlYYTNXRkhPdVpsblZFQWVIWGlHWWtzLW1uM3lQcjBWd2I0QjZlYjZNbUl6RjdwTjZDWTcydkpSbEw1ZUVDbXRJQ3dtZDZzb2M?oc=5)
-- [neutral factual] Nenagh Live: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0pKWmswSkF3ekJOXy0yOFNTOWRROUh3QmV3SEZnTDMyaVFZSDV5aC1PR3FTblI1OWtDRlVDY19objVjYm9yVmVDa1V4eG5QNm4zOUpfd1gzVnN5R2NnQm56YWxYYkMwMmwxa2xGRUJBNjFzTktGV015RTBLOEg5QlhnQi1pcDJEUzNucGwyQ0UwS2lQNXZVMnBkeFR4ZEtWWGlSX1hCaXNmUldBNk9RbjdHVWF2NE1lX3c?oc=5)
