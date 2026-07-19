@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:48:58Z",
+  "updated_at": "2026-07-19T21:03:25Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
@@ -37,14 +37,14 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Enterprise": {
+        "Fine Gael": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Fine Gael": {
+        "Enterprise": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
@@ -2623,14 +2623,14 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Enterprise": {
+        "Fine Gael": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Fine Gael": {
+        "Enterprise": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
