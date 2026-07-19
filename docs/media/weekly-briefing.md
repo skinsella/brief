@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Sat, 18 Jul 2026 23:02 GMT
+Updated: Sun, 19 Jul 2026 00:03 GMT
 
 ## Snapshot
 
-- Recent coverage: 87 item(s) in the last 7 days.
-- Weighted net framing: -4% (supportive minus critical, reach/significance-weighted).
-- Significant items: 14.
+- Recent coverage: 82 item(s) in the last 7 days.
+- Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
+- Significant items: 13.
 
 ## Trend Summary
 
-- Coverage volume: 87 item(s) in the last 7 days; up 17 vs previous 7 days.
-- Net framing: -4% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 51 item(s).
+- Coverage volume: 82 item(s) in the last 7 days; up 11 vs previous 7 days.
+- Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
+- Main topic: Other leads recent coverage with 49 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 12 item(s).
 
@@ -33,25 +33,25 @@ Updated: Sat, 18 Jul 2026 23:02 GMT
 - [Policy, High-reach outlet] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
 - [Policy, High-reach outlet] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
-- [Fast Reaction, Critical framing] NorthernSound: Government accused of helping 'the well-off' in next Budget (https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1k5VTEyV2pvTm9kUUYtWWFLQ3pqY3MtOXJqMUVmZnZwQkt6Sy14MDRhUWw0eVBSXy0zQktRMWtTUW9ERkRYZ2RralhCWTdfR2hUV2p6NlVteGNUZlZ2SlpHSk5sNEZ6RjFkMkhLUjNUeVNadnNlZ3lpZGlsRThKcTJuQW9Cam13ay1BOGhQQ1piSndyME9fdThsSkc2QnM?oc=5)
+- [Policy, High-reach outlet] Irish Examiner: 'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says (https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5)
 
 ## Top Topics
 
-- Other: 51
-- Finance: 16
+- Other: 49
+- Finance: 14
 - Foreign affairs: 10
-- Fine Gael: 5
+- Fine Gael: 4
 - Enterprise: 3
 - Tax: 2
 
 ## Top Outlets
 
 - Irish Independent: 12
-- MSN: 10
 - BreakingNews.ie: 9
-- Business Post: 5
+- MSN: 8
 - Irish Examiner: 5
 - The Journal: 5
+- Business Post: 4
 - RTE.ie: 4
 - Limerick Leader: 4
 
