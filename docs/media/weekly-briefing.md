@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Sun, 19 Jul 2026 10:57 GMT
+Updated: Sun, 19 Jul 2026 12:04 GMT
 
 ## Snapshot
 
@@ -18,7 +18,7 @@ Updated: Sun, 19 Jul 2026 10:57 GMT
 
 ## Narrative Summary
 
-- Active narratives: 6 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 6 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -64,9 +64,9 @@ Updated: Sun, 19 Jul 2026 10:57 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
-- [emerging] Why Simon Harris will really struggle to move the dial on income tax in the Budget — 2 item(s), 2 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: Irish Times, The Irish Times
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [active] Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement — 2 item(s), 1 outlet(s), 1 in 6h, 2 in 24h, net 0%. Outlets: Irish Independent
+- [dormant] United Ireland debate should focus on opportunities not costs, says Tánaiste — 9 item(s), 6 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, MSN, Nenagh Live, The Irish News
+- [active] Why Simon Harris will really struggle to move the dial on income tax in the Budget — 2 item(s), 2 outlet(s), 0 in 6h, 2 in 24h, net 0%. Outlets: Irish Times, The Irish Times
 
 ## Recent Items
 
