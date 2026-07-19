@@ -658,7 +658,7 @@
     "latest_seen": "2026-07-18T00:41:04Z",
     "lifespan_hours": 35,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 9,
     "tone_counts": {
       "favourable": 0,
@@ -669,7 +669,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 12,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiuANBVV95cUxOdnA3NjlJRmpWNVYzbHJIQTBxa3FsWDBpcHR5dDdMcmlnbkdiQjhiQno2Q3JOeDgtX1dWel9UVkV0TkpfRnBmTS13SElrT196XzRNa3A5VlNrXzlOQU9yYzRLUmc5V2lGa2hrU3dlNFZwY0laWUJxNjd3c0haX1NKWDR1OXMxMEE4aTlETFBVM3FDTXVkYU1BeDVKdDdWMWxFZUQ1eHpzZi12bFhnRXRTRHFTdmZub09yWF9NcXVSMnJONC1kZE1oSTlJdklPSTJXV25vUUlmZEhKdXhmUjNDdDRwNVRXaXBZeWJpbTUtbEE1LWgzb0pBVE55Q0k4QUNycUlPY0hPQTJubGVQSTlINDRQcGJ6dWp3OTdVbnptb29NVVNEc25JUl9CUUZ3djduLXN4b3V2cWktOFlKTUVWRHYzYUtCcVVPRGpaTlJTMWJTc1lsRVNPRjhMR3RmOExjdHp2ODFCSlZlODdSSVpjM282ZF9VQ181Z1hVS0NtVExRU05ITWNIOVBVWEdCNU1WNEhIbmVZMnhLcC1zZGZyZkFtQ0wzSmlUQ3pVRHpSR1dQNktwOWxzaA?oc=5",
       "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVzJxR01mVE5vZURKVFRoNTQya1FUWi1OUFFxa1ZweEFFY3ppVXlHWVRXQXV0R3lyaHVmeXRrN3hDMlJDUFQtYUE1RWJCZFRqQzU4WnNXWkRSNzJIaFhKYjlpeXZRZ2d5TnY3aWVqMWdhd1VrbWUxSkI5djBwV0JLUjhrQjU3dW5obThuQzNrNmgtZlVOTFVKV3dNU3YzUm5NZWdDWTRObHV6RWRLV21ra2RiSTdiYXlKS3RWNzcza3daNFNtdGZVS2Y3WWQ5dWZ4SU1oVWhkMHJGemtHVHlJTHEwVlJRSVRNNGVzc3RNN01JdlhYU0xrSlBMc0EzTFloMmpYLVZnTnB6T2VhLXZNYW1Qa0VHWXh2TkpqbVJKZFNKRmtBZGlneG41VU5KamI4TWJzbmtOTHRaQlR1dHJ5c1R4RGdFYnlabC1UaGQ4TnY5eEFXbmxsUHNqR2J2Zk9LNHFLdjcyc1owZVlXa1dZdk43WkFianR6?oc=5",
@@ -2231,35 +2231,6 @@
     ]
   },
   {
-    "key": "other:autumn-for-government-plenty-problems-stored:2b2fce60",
-    "title": "The government has stored up plenty of problems for autumn",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-18T20:02:34Z",
-    "latest_seen": "2026-07-18T20:02:34Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5"
-    ]
-  },
-  {
     "key": "other:25bn-annual-deficit-making-mean-northern:a6d10f88",
     "title": "Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris",
     "topic": "Other",
@@ -2937,6 +2908,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:autumn-for-government-plenty-problems-stored:2b2fce60",
+    "title": "The government has stored up plenty of problems for autumn",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-18T20:02:34Z",
+    "latest_seen": "2026-07-18T20:02:34Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5"
     ]
   },
   {
