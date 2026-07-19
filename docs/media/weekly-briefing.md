@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Sun, 19 Jul 2026 18:35 GMT
+Updated: Sun, 19 Jul 2026 19:48 GMT
 
 ## Snapshot
 
-- Recent coverage: 90 item(s) in the last 7 days.
+- Recent coverage: 91 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
 - Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 90 item(s) in the last 7 days; up 19 vs previous 7 days.
+- Coverage volume: 91 item(s) in the last 7 days; up 20 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 51 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
@@ -18,7 +18,7 @@ Updated: Sun, 19 Jul 2026 18:35 GMT
 
 ## Narrative Summary
 
-- Active narratives: 6 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 7 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -40,8 +40,8 @@ Updated: Sun, 19 Jul 2026 18:35 GMT
 - Other: 51
 - Finance: 19
 - Foreign affairs: 10
+- Fine Gael: 5
 - Enterprise: 4
-- Fine Gael: 4
 - Tax: 2
 
 ## Top Outlets
@@ -49,8 +49,8 @@ Updated: Sun, 19 Jul 2026 18:35 GMT
 - Irish Independent: 17
 - BreakingNews.ie: 9
 - MSN: 8
+- Irish Examiner: 6
 - Business Post: 5
-- Irish Examiner: 5
 - The Journal: 5
 - RTE.ie: 4
 - Limerick Leader: 4
@@ -70,6 +70,7 @@ Updated: Sun, 19 Jul 2026 18:35 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Examiner: Government leaders to meet over future of e-scooters (https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5)
 - [neutral factual] Business Post: The government has stored up plenty of problems for autumn (https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd6blppT1ZXZkRsQkJYSXlRU1BaUjZheWh6TVJ3NXN1QXR2R1pLOGwwbFo1dFIzU2J1MmJsU1dzcXlMX0d6N0pZSzhHTFI4SVhWakRHUmhSYkt2MWRPSC04cnpzcDFILVpLZXA5bnNLMTBuaU1QWEpVWjMzQ0J1NmdzZEtpb05jLWpwUnhkOFJfd09ZRDVDSzRCcWJ4S01lc3hnUE5FUExYV1Q3Ty1rcmdNVmx1R1lGTmw3c3FB?oc=5)
 - [neutral factual] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5)
 - [neutral factual] Irish Independent: Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally? (https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5)
@@ -89,4 +90,3 @@ Updated: Sun, 19 Jul 2026 18:35 GMT
 - [neutral factual] sinnfein.ie: Mary Lou McDonald challenges Tánaiste on "out of control" scrambler and e-scooter scourge (https://news.google.com/rss/articles/CBMiswFBVV95cUxQS21JRnNzUGY1R0VKOWNud3pyZEtXSGZBTl9jdGhobElKVWFJenJEeHY3TTloUlk5ZHVUd2QtV3VVcWJrYXRUWVh6bThYSkloVVRjTGVmc0R5NkY1NEZIc1lkRTl2bzZhc2QwbldnVUptd3FKclhPV3lRdWtUV0FGNGROVlRsSXlDejhERXRvZnN0am1rd2F5WExsc01xU3hNUW40cTZzU2lmNzBDckRvSVY4Zw?oc=5)
 - [neutral factual] sinnfein.ie: Government must make every effort to save jobs at Aer Lingus – Rose Conway-Walsh TD (https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUpfb2NORlZBUTc1TTdYazB0Sk1CTVl4dFJtV3ZIM1NZSFl3bE5xR0hkNnNoT3VMUGgwMk5KeE9sMXNiM3NLVHhnbDV5MDc0a0tWelk0dFAtQXlVWVIxUUtKUnZBZGNvZDJWY2k1T1FsMU1ZVGpmNkQtelpLb0xlZGR6OFRlczk0YnVDU05XNURHYUQ2UmQyUGRTREhibWlkWnRQM1N4d19Ob0E?oc=5)
 - [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMi4gFBVV95cUxQME5iQXAzTm5QMUZQWTJYQWdnSjJ1amtOaXBqa09XTGE1VnBrRFNzUmRKUDU4MGpleWhEeXVmVmx4V3pTczg2dzE3a1R0R3Q5WkpxSUplQXp4MHRWQXB1eUlhQndFVU1ST2d6V1FrWmRnSzNlREhJY3ZaMThubmlrTVF1ekFpOW9iTFpwWkdPOTV4S05BOF95dDBfQU9vcFh1UTJuNHVhMnI4RXUtS04zd1ZDNk9QbU5ybHZTa2JpekNYbkF1S09kZS01d05yVU9vOFhpYmEyMEkxS2ZPNGdpbElR?oc=5)
-- [neutral factual] Belfast News Letter: United Ireland debate should focus on opportunities not costs, says Tanaiste (https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5)

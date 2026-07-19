@@ -2203,6 +2203,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Sun, 19 Jul 2026 19:00:00 GMT",
+    "headline": "Government leaders to meet over future of e-scooters",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5",
+    "summary": "Irish Examiner reports: Government leaders to meet over future of e-scooters.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-leaders-to-meet-over-future-of-e-scooters",
+    "first_seen": "2026-07-19T19:48:58Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5",
+    "topic": "Fine Gael",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETzVDOElrMUZlVzRnRWJNWHJvbmE4ZzVpbXpvNE56RmNtWkk4b0hpbUltQms0cHQtOUFDdnR6UVphbUEteHhyVnI1ZnV6NHByQ0VxelZkR2dkTVl0Um44SA?oc=5": {
     "outlet": "Mshale",
     "published": "Tue, 14 Jul 2026 19:54:02 GMT",
