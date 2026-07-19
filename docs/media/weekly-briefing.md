@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Sun, 19 Jul 2026 03:46 GMT
+Updated: Sun, 19 Jul 2026 06:40 GMT
 
 ## Snapshot
 
-- Recent coverage: 82 item(s) in the last 7 days.
+- Recent coverage: 89 item(s) in the last 7 days.
 - Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 13.
+- Significant items: 17.
 
 ## Trend Summary
 
-- Coverage volume: 82 item(s) in the last 7 days; up 11 vs previous 7 days.
+- Coverage volume: 89 item(s) in the last 7 days; up 18 vs previous 7 days.
 - Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 49 item(s).
+- Main topic: Other leads recent coverage with 50 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 12 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 17 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 2 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 7 active cluster(s), including 2 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 6 cluster(s) have lasted at least 48 hours.
 
@@ -33,20 +33,20 @@ Updated: Sun, 19 Jul 2026 03:46 GMT
 - [Policy, High-reach outlet] Business Post: Central Bank warns spending overruns could push deficit to €25.7bn (https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFpTTzRXWThTOXprSFNiclZvR0pVQVhZbDltNkdrWkVDUXBOdlJBM0ctaUNDSzVfN3doNE9qOTNVMWV4X0xuWU9NbU5kQ28ySFBval96V2lmd1V4ZG5UOEx1d3YzUDVQVTVHWWNvcVotd3RDRGt0bk1IY190TVdubXRqNFhiWmlqMU5ULWlnLWlDcGc0YVNZWndjNzNRRDg2RkU3d193dw?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Central Bank warns Simon Harris budget deficit could hit €25.7bn by 2030 if spending overruns persist (https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5)
 - [Policy, High-reach outlet] RTE.ie: Ahead of Budget 2027, Central Bank Governor warns against spending overruns (https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3JiUE5wRXFCN0ZKUGxPbk5LTWJNQW9OVGdRQXNHa0VFczE4eTU1bE1fZEM5UjRCREN5LWZqSExDNTlkSFFBdXFjcjd2eUxxMFdMTlpGN1UyOF9VT2p5X0FjSWlVWjBjQnh0WW5xb19fQlZ3NUNsT3hzdjNUWVhoc2o1enF0YjA0T2taU0k2UEd3UQ?oc=5)
-- [Policy, High-reach outlet] Irish Examiner: 'Mixed views on the science' behind drug to treat Friedreich’s ataxia, Tánaiste says (https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5)
+- [Policy, High-reach outlet] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5)
 
 ## Top Topics
 
-- Other: 49
-- Finance: 14
+- Other: 50
+- Finance: 19
 - Foreign affairs: 10
+- Enterprise: 4
 - Fine Gael: 4
-- Enterprise: 3
 - Tax: 2
 
 ## Top Outlets
 
-- Irish Independent: 12
+- Irish Independent: 17
 - BreakingNews.ie: 9
 - MSN: 8
 - Irish Examiner: 5
@@ -64,12 +64,19 @@ Updated: Sun, 19 Jul 2026 03:46 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
+- [emerging] Why Simon Harris will really struggle to move the dial on income tax in the Budget — 2 item(s), 2 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: Irish Times, The Irish Times
+- [emerging] Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement — 2 item(s), 1 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: Irish Independent
 - [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
-- [dormant] United Ireland debate should focus on opportunities not costs, says Tánaiste — 9 item(s), 6 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast News Letter, Belfast Telegraph, BreakingNews.ie, MSN, Nenagh Live, The Irish News
-- [dormant] Strong tax returns of €50bn strengthen Government’s budgetary position — 2 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish Times
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5)
+- [neutral factual] Irish Independent: Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally? (https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5)
+- [neutral factual] Irish Independent: Willie O’Dea: I couldn’t care less what Simon Harris thinks of Taylor Swift and Travis Kelce’s wedding (https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5)
+- [neutral factual] Irish Independent: Improving financial literacy is key, if the Government’s personal investment account plan is going to work (https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5)
+- [neutral factual] The Irish Times: Why Simon Harris will really struggle to move the dial on income tax in the Budget (https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5)
+- [neutral factual] Irish Times: Why Simon Harris will really struggle to move the dial on income tax in the Budget (https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/)
+- [neutral factual] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html)
 - [neutral factual] Business Post: The government has stored up plenty of problems for autumn (https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5)
 - [neutral factual] Business Post: Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ (https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVhHT25HdUFwZDhsNV8wXzZ1TFJHUE5lYVktaWMwVGRFTUx1NkNwT0FMaEwyUFRyYy0yYzUybnBaVjI5X2ZwU2k4YmRWSnR3cndnQzVka0NtX2hRXzV0SG1QdVhjc3dsRXF0MDQ0ckJPOXMtc0ZpVVJNZzhaaXJBZF9XMTdwM2s4bU5SUGZwN0ktcXNmcGdQOHpGVHpQQldud0JVRDAxa1c4RUJ4cGJBXzB0T2hHaUk?oc=5)
 - [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMiuANBVV95cUxOdnA3NjlJRmpWNVYzbHJIQTBxa3FsWDBpcHR5dDdMcmlnbkdiQjhiQno2Q3JOeDgtX1dWel9UVkV0TkpfRnBmTS13SElrT196XzRNa3A5VlNrXzlOQU9yYzRLUmc5V2lGa2hrU3dlNFZwY0laWUJxNjd3c0haX1NKWDR1OXMxMEE4aTlETFBVM3FDTXVkYU1BeDVKdDdWMWxFZUQ1eHpzZi12bFhnRXRTRHFTdmZub09yWF9NcXVSMnJONC1kZE1oSTlJdklPSTJXV25vUUlmZEhKdXhmUjNDdDRwNVRXaXBZeWJpbTUtbEE1LWgzb0pBVE55Q0k4QUNycUlPY0hPQTJubGVQSTlINDRQcGJ6dWp3OTdVbnptb29NVVNEc25JUl9CUUZ3djduLXN4b3V2cWktOFlKTUVWRHYzYUtCcVVPRGpaTlJTMWJTc1lsRVNPRjhMR3RmOExjdHp2ODFCSlZlODdSSVpjM282ZF9VQ181Z1hVS0NtVExRU05ITWNIOVBVWEdCNU1WNEhIbmVZMnhLcC1zZGZyZkFtQ0wzSmlUQ3pVRHpSR1dQNktwOWxzaA?oc=5)
@@ -83,10 +90,3 @@ Updated: Sun, 19 Jul 2026 03:46 GMT
 - [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMi4gFBVV95cUxQME5iQXAzTm5QMUZQWTJYQWdnSjJ1amtOaXBqa09XTGE1VnBrRFNzUmRKUDU4MGpleWhEeXVmVmx4V3pTczg2dzE3a1R0R3Q5WkpxSUplQXp4MHRWQXB1eUlhQndFVU1ST2d6V1FrWmRnSzNlREhJY3ZaMThubmlrTVF1ekFpOW9iTFpwWkdPOTV4S05BOF95dDBfQU9vcFh1UTJuNHVhMnI4RXUtS04zd1ZDNk9QbU5ybHZTa2JpekNYbkF1S09kZS01d05yVU9vOFhpYmEyMEkxS2ZPNGdpbElR?oc=5)
 - [neutral factual] Belfast News Letter: United Ireland debate should focus on opportunities not costs, says Tanaiste (https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjY4cHdGTHFKYUpWYk9wNVFDSXhiLUZUVHBncEk2UGV0dnJvYzZETUJVWTBrZmI5b2g4Q21UV0t3Zkd6RkFhNGlhV0lNd2dqdGZrVTV4UkRGV21Ua05TVTA4SzdEVUlUUkRvcUZ1R2FsOVlzaE5OVVBDTDF6Snp1aWxfVHlYZXYtdW9nY0RMN0ZGRDJGekNkVXZXTXpuX2k5S1lLNUNCcXA0TGJ6RS1oY180VThUVW9rYkpSX3E2TldlUkFB?oc=5)
 - [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFhmdkR1NkFTU3AxbUVJZC1TQ1FFQXFlQzc3b09yMHUyclJ0S2Z6UGo1QWZtYzVsYjNIVnJtdklVR1J4T1BCc0RRS09LMEhxU09ZSGNUTTZSSWk4OU1UNDh0ZkU5SlVzaXV6b1hjRmc1bldWUDBMRkRSbWFqbGNaTmxQdzI2SWowbmk2VlRiaEZMOThpQUlUMTA3Si1ZcmFtMEYzUTI1X2d2bEtSMUZuSXFBdmVvLWI1TndRQ21UVEd3bnBBQldFRUZR?oc=5)
-- [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUgzMzcyV2tXWW1DV3R4MTNNbEExajNidTBZcVlBQkUwYm5mOVFOWjF0MFJDblVWYXhnQllLRVVHOURPakhNdVVGRUhRLXdnZUpFYkZhWkg1X29HSkQ0SF82TFhpcUw1NkJacUNiemN3R1JNekF0eWh0Q3ZsTHV5SmZZcnNETG5seGVMUENUeDBhRjFKWU5ZOHlTMnlVWEF1ZDNoSGlqYTNkTTVYYW1FX0lDT3pfdUs3Y09KSUIxOVZJYWdlMEx3dUxB?oc=5)
-- [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://www.breakingnews.ie/ireland/united-ireland-debate-should-focus-on-opportunities-not-costs-says-tanaiste-1927777.html)
-- [neutral factual] The Mayo News: Mayo TD urges Government action to save Aer Lingus jobs (https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0hBRzNjbmZRUzZsOE1BV0NZS2tOUjVNYzRqSDllbV8wR1lsOHpXMXJCMGI2a054YVg5ekdaVzJhbkhPZV9LM1M3ZFNJZm5lMUVtZ3V6TUJIcjlXTFFhVVpVNWR6Sm9aeE5SMkFxX2F3Zl80RzlUWVJzc1lXVUwzTUVBRXBtcGJnYS1UWEE5d2xJMFFVLVdR?oc=5)
-- [neutral factual] The Irish News: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTW1YU3NkTjNqU2szM2R5ZlZNeGJOUUsyXzNEdkRicjl4aFNxOWlKbUxsU2NRZ1o0cUVLQVlKSlJOazV3WHBZb0ZtU0NsRmhxX3ZwNXRaQTBIS29WVy1DazdXTTE3WEpQMTJrQ2JsVE1EQWZVNVBOYUpqX2lTT2Y0dDM0NmxkY2ZjVDkxcHZtMVZRYzJNdFcyM2JTODBvYWJxWllKd1dIeFAxSm5yWkZ1eXg2bGtrd2V2andVNTNNbnA3V2ZFbUwwZ2ZmVTVDRmwzNW9rOTMyNEppeGo2dktydVhXZ3N2UQ?oc=5)
-- [neutral factual] Irish Examiner: All-island euro would benefit businesses and consumers, says Simon Harris (https://news.google.com/rss/articles/CBMib0FVX3lxTE92UFprWDh4OWE4bFA1eEpLNGo5amJLQXdUOVkwTk1xdGtQSlhCSm9lbWVVb194VXZWRG0zUU0zVzA4RDBqM0I1dlM5c1FEdDNlc3JVZW1iVXZadU1rMmtLa1RSQU1LaDk2aVBDZmR3UQ?oc=5)
-- [neutral factual] Irish Independent: Unity would mean making up Northern Ireland's annual deficit of €8.25bn, says Simon Harris (https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZnZRN3FySkY3Y3ItT1pSQ3VtOEtmb3N5eHhwMkpXTmxVT1pubzY5T3FQWUpTWTVGVHVBeXVrYVJCaWlHdF9GY3NadjJSakNkbmdfLV95bldyQWg2dzZHaGRmOEZBUDNxNENIV0pYdHRVT3RzMGVXU0ZaNW1fbW9fQjNVdUVFUjR2dFlISkx5cFd0aUN4QjBBWnJNYkVEX3Utc0xnOFkyTHE3UXZJc19IbF9Mc2phNXlvQjlYN0ZLelFZSmN1R0t3RV9JODdtYTlIWERxU1ZUS2ZiR1ExRXFSSlliNER6QQ?oc=5)
-- [neutral factual] BreakingNews.ie: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV9QSnFqcFFibF9wSXdscTZWZmxnRG1TOG9FVDlIdEJ4QUYxWVJJQUZRNWFEdkpMTDFDX1d4UDFSMTFXcG9Jb3l0cHdMcVBSa1E4cXEwZHhRdUdQY2g1cDZBcVJ1NnZKZE1HT0c0MWoza2Z0YUt2LXFLS3NaTGVacXlNMHNQaTlVcURSUVZ0S0VxaU5ENzcza2JEMTc3aWpFcnpfN1I2LUUtamxYX1UtTkF5VkVjaVJfQkt1ckhpOTJjZw?oc=5)

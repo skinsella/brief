@@ -263,6 +263,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 05:30:00 GMT",
+    "headline": "Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
+    "summary": "Irish Independent reports: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statemen",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYklobzNGNUxtanFLbWNzUmpWbUYzdnFnZEVaU3o3cHVpWGV4OC1hU1g3d2xJYnVOUXJuYkxTSUdDWmhwZmpiX2tGWV96Y0w5WnZ0SXJ4N1JROWsxTkhwbTVZbUxmNWVDNjBLcEpPMEtZaEpKaUc0bE90SGJmb3NpcGNtdFdQSFBhUFR6LVlUX1ZldDVhbEtKTWtxeU1jVmZMTTJ2Vk5PZmdoSmx3UlhnbWZobHhiOENFNW1BYUI4SWN2V3IwQW1YOWZja3R6cm1IRVE?oc=5": {
     "outlet": "Irish Independent",
     "published": "Wed, 24 Jun 2026 05:27:00 GMT",
@@ -681,6 +707,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 05:30:00 GMT",
+    "headline": "Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally?",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5",
+    "summary": "Irish Independent reports: Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally?.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "shane-ross-phoney-war-heats-up-over-budget-but-has-simon-harris-found-an-unlikel",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlowRzQ5SmZUMENpakxTRTg1U3BtVG1Pc3JkUktYQzlzUXNnbjNvWl9DVG5DeS1fMk5hSFg2UTZ3eUpyOGZpc0VEMUMtS096SUdPcHBuUkxGaTJ5eVViY1FjWnEwRFJ1d25pV0sySlZ2bkZiOHptc1FjMEhfU2xDYUxBbFl4ZHplUTUzZjNyeDN3ZGN6NlFTNnBuWXM2TmcwYV83NnpvRUNlWnJ2SnlBLVI5d3pVRVpEQkZqWFpHYVBPTVJxTklhRkg2YjdDdEdEdDEzRXFZY0ZzQQ?oc=5": {
@@ -1337,6 +1388,31 @@
     "topic": "Finance",
     "attention": [
       "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 05:30:00 GMT",
+    "headline": "Willie O’Dea: I couldn’t care less what Simon Harris thinks of Taylor Swift and Travis Kelce’s wedding",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5",
+    "summary": "Irish Independent reports: Willie O’Dea: I couldn’t care less what Simon Harris thinks of Taylor Swift and Travis Kelce’s wedding.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "willie-o-dea-i-couldn-t-care-less-what-simon-harris-thinks-of-taylor-swift-and-t",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5",
+    "topic": "Other",
+    "attention": [
       "High-reach outlet"
     ],
     "outlet_tier": "national",
@@ -3469,6 +3545,31 @@
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
+  },
+  "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 05:30:00 GMT",
+    "headline": "Improving financial literacy is key, if the Government’s personal investment account plan is going to work",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5",
+    "summary": "Irish Independent reports: Improving financial literacy is key, if the Government’s personal investment account plan is going to work.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "improving-financial-literacy-is-key-if-the-government-s-personal-investment-acco",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5",
+    "topic": "Enterprise",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGNhbGIxanRhZ0d4ZUVKWjFlRDVhSkxPVEdVYjhtcGpmTFhJT1M3RnU5WkthckEtTzM4UHlCOEJTUUlpRDVHTUxoSFg4dFNnb3l5ZEpyNzB4czVMU0tBVEpiTjR0amtQMndfUUJFaHZjU0JHY0pNZmxmaUpCY3FiS2VVaw?oc=5": {
     "outlet": "The Journal",
@@ -7991,6 +8092,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5": {
+    "outlet": "The Irish Times",
+    "published": "Sun, 19 Jul 2026 05:01:30 GMT",
+    "headline": "Why Simon Harris will really struggle to move the dial on income tax in the Budget",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5",
+    "summary": "The Irish Times reports: Why Simon Harris will really struggle to move the dial on income tax in the Budget.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "why-simon-harris-will-really-struggle-to-move-the-dial-on-income-tax-in-the-budg",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTBhTFRRWU90cWx2R19BOUFPeFRrallSTVFjbEQ3eUxra3VZX3hIZUhaVFI0cFltcVhRSU4yVmFPb2ZqVFhscHh5RjFsZmJ6a20xZ1hHZndXWjRETF9NUjhyOEkyenBwRjhybGZ1Z3ZURWt6TlI0VGdZZjVERFRQODhhUTZ4V21weFhCZ1lZQ0JuNjlDMWR6LUNjaVBaSWxrMUxmcjd3YUVLZS1UQkhuazNYMVlXSzBhVmZIVTR6cnJZbWcxZlNla09VYw?oc=5": {
     "outlet": "Galway Bay FM",
     "published": "Thu, 09 Jul 2026 06:38:54 GMT",
@@ -9122,6 +9249,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 04:30:00 GMT",
+    "headline": "Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement",
+    "link": "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html",
+    "summary": "Irish Independent reports: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statemen",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/": {
     "outlet": "Irish Times",
     "published": "Fri, 10 Jul 2026 13:05:27 +0000",
@@ -9137,6 +9290,32 @@
     "source_link": "https://www.irishtimes.com/business/economy/2026/07/10/simon-harris-channels-father-ted-in-search-for-elusive-eu-deal-on-financial-reforms/",
     "topic": "Foreign affairs",
     "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/": {
+    "outlet": "Irish Times",
+    "published": "Sun, 19 Jul 2026 05:00:00 +0000",
+    "headline": "Why Simon Harris will really struggle to move the dial on income tax in the Budget",
+    "link": "https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/",
+    "summary": "Irish Times reports: Why Simon Harris will really struggle to move the dial on income tax in the Budget.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "why-simon-harris-will-really-struggle-to-move-the-dial-on-income-tax-in-the-budg",
+    "first_seen": "2026-07-19T06:40:10Z",
+    "source_feed": "Irish Times RSS",
+    "google_link": "",
+    "source_link": "https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
       "High-reach outlet"
     ],
     "outlet_tier": "national",

@@ -1,5 +1,91 @@
 [
   {
+    "checked_at": "2026-07-19T06:40:10Z",
+    "checked_at_display": "Sun, 19 Jul 2026 06:40 GMT",
+    "new_count": 7,
+    "old_skipped": 2,
+    "duplicate_skipped": 9,
+    "mismatched_skipped": 8,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 1,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 12,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 33,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5",
+      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
+      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5",
+      "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5",
+      "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5",
+      "https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/",
+      "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html"
+    ],
+    "archive_file": "archive/20260719T064010Z.html"
+  },
+  {
     "checked_at": "2026-07-19T03:46:00Z",
     "checked_at_display": "Sun, 19 Jul 2026 03:46 GMT",
     "new_count": 0,
@@ -7850,83 +7936,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260711T220002Z.html"
-  },
-  {
-    "checked_at": "2026-07-11T21:01:10Z",
-    "checked_at_display": "Sat, 11 Jul 2026 21:01 GMT",
-    "new_count": 0,
-    "old_skipped": 5,
-    "duplicate_skipped": 11,
-    "mismatched_skipped": 8,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 8,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 8,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 27,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [],
-    "archive_file": "archive/20260711T210110Z.html"
   }
 ]

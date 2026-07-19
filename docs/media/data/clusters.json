@@ -244,6 +244,67 @@
     ]
   },
   {
+    "key": "finance:budget-dial-income-move-really-struggle:888f51af",
+    "title": "Why Simon Harris will really struggle to move the dial on income tax in the Budget",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "Irish Times",
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-19T05:00:00Z",
+    "latest_seen": "2026-07-19T05:01:30Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 24,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5",
+      "https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/"
+    ]
+  },
+  {
+    "key": "finance:ahead-budget-doubles-down-economic-pledge:2fbddc72",
+    "title": "Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-19T04:30:00Z",
+    "latest_seen": "2026-07-19T05:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 23,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
+      "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html"
+    ]
+  },
+  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -2228,6 +2289,93 @@
     "item_links": [
       "https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5"
+    ]
+  },
+  {
+    "key": "finance:ally-budget-but-found-heats-phoney:7f3673ed",
+    "title": "Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally?",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-19T05:30:00Z",
+    "latest_seen": "2026-07-19T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5"
+    ]
+  },
+  {
+    "key": "other:care-couldn-dea-less-swift-taylor:fbf4efed",
+    "title": "Willie O’Dea: I couldn’t care less what Simon Harris thinks of Taylor Swift and Travis Kelce’s wedding",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-19T05:30:00Z",
+    "latest_seen": "2026-07-19T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5"
+    ]
+  },
+  {
+    "key": "enterprise:account-financial-going-government-improving-investment:f3c68860",
+    "title": "Improving financial literacy is key, if the Government’s personal investment account plan is going to work",
+    "topic": "Enterprise",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-19T05:30:00Z",
+    "latest_seen": "2026-07-19T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5"
     ]
   },
   {
