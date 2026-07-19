@@ -10631,6 +10631,29 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0V0RWJ3MzJ1X1hFN1hmRUlfVFNDbzNUdVR3YnpPMlhycExLMjZnYlEwdWdlSlhWNi1iMkRJdC1NU0ZaRUc1Nmk2N2lYaVEwcVBFT3p4a2liVEY0SDAyZURsVDh6WkNpSURvMF8yS1VCWHBxU0JoM3BZemkxWlV1eXlZc1NsZw?oc=5": {
+    "outlet": "Limerick Post",
+    "published": "Sun, 19 Jul 2026 15:30:58 GMT",
+    "headline": "Over 20 vacant houses in Newcastle West",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0V0RWJ3MzJ1X1hFN1hmRUlfVFNDbzNUdVR3YnpPMlhycExLMjZnYlEwdWdlSlhWNi1iMkRJdC1NU0ZaRUc1Nmk2N2lYaVEwcVBFT3p4a2liVEY0SDAyZURsVDh6WkNpSURvMF8yS1VCWHBxU0JoM3BZemkxWlV1eXlZc1NsZw?oc=5",
+    "summary": "Limerick Post reports: Over 20 vacant houses in Newcastle West.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "over-20-vacant-houses-in-newcastle-west",
+    "first_seen": "2026-07-19T16:30:18Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0V0RWJ3MzJ1X1hFN1hmRUlfVFNDbzNUdVR3YnpPMlhycExLMjZnYlEwdWdlSlhWNi1iMkRJdC1NU0ZaRUc1Nmk2N2lYaVEwcVBFT3p4a2liVEY0SDAyZURsVDh6WkNpSURvMF8yS1VCWHBxU0JoM3BZemkxWlV1eXlZc1NsZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0V0RWJ3MzJ1X1hFN1hmRUlfVFNDbzNUdVR3YnpPMlhycExLMjZnYlEwdWdlSlhWNi1iMkRJdC1NU0ZaRUc1Nmk2N2lYaVEwcVBFT3p4a2liVEY0SDAyZURsVDh6WkNpSURvMF8yS1VCWHBxU0JoM3BZemkxWlV1eXlZc1NsZw?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmpvVFFMNG9Sc2pLYjFHemp3V0pRN0hFanhyd1NZUmtIRTNDRERXTHpoSXhuMVYydkcta2k3WGxLV2o4NktHQlN0NkxweDU5Zm1YTWhLSk1WYkZYNXJUNlFVTDV6eGNkd3ZtRWNqLXhGdlRVaHQyTjlmTjVEZU5VRTFCTDRlUQ?oc=5": {
     "outlet": "Meath Live",
     "published": "Fri, 05 Jun 2026 13:06:52 GMT",
@@ -26957,6 +26980,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSldvRDJDSnFiZ1AtdVprZlp5NDdtV0sxaVY5WGZLeEV2R0YyNXBBU2k0US1sSzc3SWt5eUJiUDQtUlFGa3BCTl8tcnlCSk9odUNpNUZBMjRDdkdMZFpGZGxjUEZ1YjAxZGlyWk42MWhyQzV0Q3NCT0dUb2pzWHJzT2Y5TE9YNzFMQTk0R2FucGttZS01YmNTT3Z0ZlJRUkc3NmFvem45NU5qYjVEMm01cjI4MGxJOF9FV2d4WjZfMktxZUtVMl9GelBDV0Z3N1E?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 16:15:00 GMT",
+    "headline": "Lifeboat launched after person enters the water from boat in Co Tipperary",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSldvRDJDSnFiZ1AtdVprZlp5NDdtV0sxaVY5WGZLeEV2R0YyNXBBU2k0US1sSzc3SWt5eUJiUDQtUlFGa3BCTl8tcnlCSk9odUNpNUZBMjRDdkdMZFpGZGxjUEZ1YjAxZGlyWk42MWhyQzV0Q3NCT0dUb2pzWHJzT2Y5TE9YNzFMQTk0R2FucGttZS01YmNTT3Z0ZlJRUkc3NmFvem45NU5qYjVEMm01cjI4MGxJOF9FV2d4WjZfMktxZUtVMl9GelBDV0Z3N1E?oc=5",
+    "summary": "Irish Independent reports: Lifeboat launched after person enters the water from boat in Co Tipperary.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "lifeboat-launched-after-person-enters-the-water-from-boat-in-co-tipperary",
+    "first_seen": "2026-07-19T16:30:18Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSldvRDJDSnFiZ1AtdVprZlp5NDdtV0sxaVY5WGZLeEV2R0YyNXBBU2k0US1sSzc3SWt5eUJiUDQtUlFGa3BCTl8tcnlCSk9odUNpNUZBMjRDdkdMZFpGZGxjUEZ1YjAxZGlyWk42MWhyQzV0Q3NCT0dUb2pzWHJzT2Y5TE9YNzFMQTk0R2FucGttZS01YmNTT3Z0ZlJRUkc3NmFvem45NU5qYjVEMm01cjI4MGxJOF9FV2d4WjZfMktxZUtVMl9GelBDV0Z3N1E?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSldvRDJDSnFiZ1AtdVprZlp5NDdtV0sxaVY5WGZLeEV2R0YyNXBBU2k0US1sSzc3SWt5eUJiUDQtUlFGa3BCTl8tcnlCSk9odUNpNUZBMjRDdkdMZFpGZGxjUEZ1YjAxZGlyWk42MWhyQzV0Q3NCT0dUb2pzWHJzT2Y5TE9YNzFMQTk0R2FucGttZS01YmNTT3Z0ZlJRUkc3NmFvem45NU5qYjVEMm01cjI4MGxJOF9FV2d4WjZfMktxZUtVMl9GelBDV0Z3N1E?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3pHWEZpcnVyQ2d1TThFN1NoQ1U1NXpObmtSenJiNko4Yi1uTFdxeUlrQ1RiTEpwX3dkQ1A4ZU4yd21BWDdobDk0WDhiMmdLSHpmX0JKUWEtMUN0RDZ5MDc1aWhsd3V6UGZJbExMazRlNjBjMFUzRnNxN2NVT1FPU1Y3MWhEQVNMbVYxa2J3eFFNcVROblA1aUdvNFZCM2swR04zOHRhTmlDV1R4ZzhLSEVYYmZnTDYyNnBiMGRkVTZMa3FQcWVYQW5FbWFwQTg?oc=5": {
