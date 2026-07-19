@@ -5836,6 +5836,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NM09USGxpX1g3enZPaURKcTBKVThzNWtsLU9Yd1FjdEZtSFhTX3VRMUxJbW5mZVhNcEFoUEw3VkFkdlZBOHFjdW9WZ1pXYnRrR1F5ajZicXJ4ckxNTkg1RTloeEtpLXc?oc=5": {
+    "outlet": "RTE.ie",
+    "published": "Sun, 19 Jul 2026 13:15:42 GMT",
+    "headline": "Halt of e-scooter sales by some retailers welcomed",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NM09USGxpX1g3enZPaURKcTBKVThzNWtsLU9Yd1FjdEZtSFhTX3VRMUxJbW5mZVhNcEFoUEw3VkFkdlZBOHFjdW9WZ1pXYnRrR1F5ajZicXJ4ckxNTkg1RTloeEtpLXc?oc=5",
+    "summary": "RTE.ie reports: Halt of e-scooter sales by some retailers welcomed.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "halt-of-e-scooter-sales-by-some-retailers-welcomed",
+    "first_seen": "2026-07-19T13:46:46Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NM09USGxpX1g3enZPaURKcTBKVThzNWtsLU9Yd1FjdEZtSFhTX3VRMUxJbW5mZVhNcEFoUEw3VkFkdlZBOHFjdW9WZ1pXYnRrR1F5ajZicXJ4ckxNTkg1RTloeEtpLXc?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NM09USGxpX1g3enZPaURKcTBKVThzNWtsLU9Yd1FjdEZtSFhTX3VRMUxJbW5mZVhNcEFoUEw3VkFkdlZBOHFjdW9WZ1pXYnRrR1F5ajZicXJ4ckxNTkg1RTloeEtpLXc?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDQTVwRm5BM0U0anpONTFxanI4UGxEU05qUFNHU25uVnhEdVNSV1lkcFA3bkN6QkRRbTNoWTdaRjNtRGY0Nms2OTN3czZqcUF0bnc1QzZsUzdOa25idVpMcXF4V0k?oc=5": {
     "outlet": "Belfast Media Group",
     "published": "Sat, 27 Jun 2026 10:03:21 GMT",
@@ -9167,6 +9192,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE95d1NIbUZ0UVlYN0JfRS16ZHY1bzhqTTAyLWlFdkJfTmdXbkhPY1g4bS1aOUQyWnp3dkZiaUR2TGFTeUZ6OUp3RHdCWk5FRWRhUGp3bFpQdlVjZ1F4cjA3RjItdWhDMVRXU2tHV0VlVUlPaHBwcE90NlFlTXA?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Sun, 19 Jul 2026 13:42:00 GMT",
+    "headline": "'Do the right thing': Over 1,000 brave heat to protest over plans for Bessborough site",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95d1NIbUZ0UVlYN0JfRS16ZHY1bzhqTTAyLWlFdkJfTmdXbkhPY1g4bS1aOUQyWnp3dkZiaUR2TGFTeUZ6OUp3RHdCWk5FRWRhUGp3bFpQdlVjZ1F4cjA3RjItdWhDMVRXU2tHV0VlVUlPaHBwcE90NlFlTXA?oc=5",
+    "summary": "Irish Examiner reports: 'Do the right thing': Over 1,000 brave heat to protest over plans for Bessborough site.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "do-the-right-thing-over-1-000-brave-heat-to-protest-over-plans-for-bessborough-s",
+    "first_seen": "2026-07-19T13:46:46Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95d1NIbUZ0UVlYN0JfRS16ZHY1bzhqTTAyLWlFdkJfTmdXbkhPY1g4bS1aOUQyWnp3dkZiaUR2TGFTeUZ6OUp3RHdCWk5FRWRhUGp3bFpQdlVjZ1F4cjA3RjItdWhDMVRXU2tHV0VlVUlPaHBwcE90NlFlTXA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95d1NIbUZ0UVlYN0JfRS16ZHY1bzhqTTAyLWlFdkJfTmdXbkhPY1g4bS1aOUQyWnp3dkZiaUR2TGFTeUZ6OUp3RHdCWk5FRWRhUGp3bFpQdlVjZ1F4cjA3RjItdWhDMVRXU2tHV0VlVUlPaHBwcE90NlFlTXA?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LVmprRzd0SWV1UVJQaEVZRGVRcHhHR0hBZ3VNcE9PQkxoOFFXTDFuTEVEU0FxS1JGN1U3MEFTb3N1dkJ5X0R0c2thUWt0MXRVSUc0M01xNmh1VlFCU3czTHhGZDVyNmFQU1Vtd0x3OHRKRE1sckNUc3pyTmk?oc=5": {
@@ -22274,6 +22324,31 @@
     "attention": [],
     "outlet_tier": "other",
     "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkt1ZWpTUmx1UDlPOFhwZHQ3SkVtTzBZdXRnczNVV0tTamU0cVZTWWlvRURkbkJWb09GTUxVa1RJQVlhT05MOFEtZVdlRUlaQXotRld3ZkdHeUI1M1FrOUFuZVp2VHVzRjVXRV8wWDU4YWJLSFR3UkhQTVhrSHFrWnlvRC1IN2g0N2doWmFOZnRIRV9meVFPa2U1bHNSeGdVWEtWLXo5WmtyMDNXYTZRdGhrZWNTMTUwZkE?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Sun, 19 Jul 2026 13:27:24 GMT",
+    "headline": "Amazon Ireland pull e-scooters capable of breaking Irish speed limits",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkt1ZWpTUmx1UDlPOFhwZHQ3SkVtTzBZdXRnczNVV0tTamU0cVZTWWlvRURkbkJWb09GTUxVa1RJQVlhT05MOFEtZVdlRUlaQXotRld3ZkdHeUI1M1FrOUFuZVp2VHVzRjVXRV8wWDU4YWJLSFR3UkhQTVhrSHFrWnlvRC1IN2g0N2doWmFOZnRIRV9meVFPa2U1bHNSeGdVWEtWLXo5WmtyMDNXYTZRdGhrZWNTMTUwZkE?oc=5",
+    "summary": "BreakingNews.ie reports: Amazon Ireland pull e-scooters capable of breaking Irish speed limits.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "amazon-ireland-pull-e-scooters-capable-of-breaking-irish-speed-limits",
+    "first_seen": "2026-07-19T13:46:46Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkt1ZWpTUmx1UDlPOFhwZHQ3SkVtTzBZdXRnczNVV0tTamU0cVZTWWlvRURkbkJWb09GTUxVa1RJQVlhT05MOFEtZVdlRUlaQXotRld3ZkdHeUI1M1FrOUFuZVp2VHVzRjVXRV8wWDU4YWJLSFR3UkhQTVhrSHFrWnlvRC1IN2g0N2doWmFOZnRIRV9meVFPa2U1bHNSeGdVWEtWLXo5WmtyMDNXYTZRdGhrZWNTMTUwZkE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkt1ZWpTUmx1UDlPOFhwZHQ3SkVtTzBZdXRnczNVV0tTamU0cVZTWWlvRURkbkJWb09GTUxVa1RJQVlhT05MOFEtZVdlRUlaQXotRld3ZkdHeUI1M1FrOUFuZVp2VHVzRjVXRV8wWDU4YWJLSFR3UkhQTVhrSHFrWnlvRC1IN2g0N2doWmFOZnRIRV9meVFPa2U1bHNSeGdVWEtWLXo5WmtyMDNXYTZRdGhrZWNTMTUwZkE?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
     "favourability": "neutral",
     "sentiment_score": 0,
     "sentiment_confidence": "low",
