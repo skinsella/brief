@@ -57,7 +57,7 @@
     "latest_seen": "2026-07-18T09:11:59Z",
     "lifespan_hours": 1054,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 19,
     "tone_counts": {
       "favourable": 0,
@@ -68,7 +68,7 @@
     "net_framing": -14,
     "significant_count": 2,
     "attention_score": 38,
-    "status": "active",
+    "status": "persistent",
     "item_links": [
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVhHT25HdUFwZDhsNV8wXzZ1TFJHUE5lYVktaWMwVGRFTUx1NkNwT0FMaEwyUFRyYy0yYzUybnBaVjI5X2ZwU2k4YmRWSnR3cndnQzVka0NtX2hRXzV0SG1QdVhjc3dsRXF0MDQ0ckJPOXMtc0ZpVVJNZzhaaXJBZF9XMTdwM2s4bU5SUGZwN0ktcXNmcGdQOHpGVHpQQldud0JVRDAxa1c4RUJ4cGJBXzB0T2hHaUk?oc=5",
       "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeTQ0WlpQa1dabTNPWkRSYVZlQXFKcDZfUlVnVU13eEpzZm5acnl3Z3RtTHpOcTJsZ1RhcGhFcm1nN2NjWTY3enlHZ0pfeEFqMHI0S0pmR1REWkVqZW9jeGZHSm9ZYndheHVOVHlsaWJvcnhzVDE1ODBNV3NOT0tzNUJhWTNpWlpPcnkxYVF3MlNVcjRLQ21BNTZRVHktUDRIdmt6YjY5d3cwMldRempKYkhOWHBkT3REQXFTd2hWX2lUdHNHcFZvWDgtSHQ1UkpUVTN4ZDRTcUQ4YlFTczRmZkdpSmY3MmV2anpJVTBEOXdXMTVkVE9sYkR3?oc=5",
@@ -275,36 +275,6 @@
     ]
   },
   {
-    "key": "finance:ahead-budget-doubles-down-economic-pledge:2fbddc72",
-    "title": "Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement",
-    "topic": "Finance",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-19T04:30:00Z",
-    "latest_seen": "2026-07-19T05:30:00Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 23,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
-      "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html"
-    ]
-  },
-  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -346,6 +316,36 @@
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3F1Xy0zR3RYeGFId0l4clNpWmxFSmhDTERXaTJYOU5nNzZORld4QjJxbGUwMFFqdFBJRlRLQ0xBazdCb0pOcW9kRVI4RHZjNTZnQVpiVXlMY1h0T1A0eU4yZVZfR0tKWWo3YXZRMDRvN3ZhMEEySjhQVDNiemdSTktLT01yTzRyV0J5RDl3bi1QaURucVYxZUJzamNqUEpsOGEyZHZEN3RJRlhCbVhvLVQtcGVSYnpjUHF2S2tQRVhLd2dOS2xVTDRvVFNiaWt1UmNuaDNUMkRUVV9pRjJqWEI5UXdjZDA?oc=5",
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXRaak5Tb1UzejNNRXZ4ZmJteTg2SzFOcjNzZGFYa1R3R21VZWt5Y2YwZDcxaDV3a3JQekZBbU5OT2d2U3VucS1LOEo0V0hkMFdhQzNIZF9LaUR2WE9xcGdmcTY3VThUMDZBclRaalZNZ0lRTlJSZlhUSkNhU0JSMlRzWjZFOVM4RVBUT0NJa0w0SGxQV095eHJzUlZYWkZoZU53Vkd6QkFyd0VKODZvS3BlOENyVWdJ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVRZUURDdVBlc3ZKMVF3Vk5SVk5pSVNKc0RSb2Npc2RvZU1OV2hoTjA1WWFMa2JnUklrRkJlczJHSUZkTTZHT2ExQU5rMGt2WTNXeUpZdG1EMExSZE1ubjdVQUIzRXVLT1RuZkJDaWZWU25IUXMwUzVYY3Y1VjFHV3NkN2Jua2NLSlA2bWFRSzJpQUFTWWtvT2JBZWU0NkdLUG55RDZya096YnZsOG80dmwxaGtRM0ZYX3hDeTZKbFBLUQ?oc=5"
+    ]
+  },
+  {
+    "key": "finance:ahead-budget-doubles-down-economic-pledge:2fbddc72",
+    "title": "Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-19T04:30:00Z",
+    "latest_seen": "2026-07-19T05:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 1,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 20,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
+      "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html"
     ]
   },
   {
@@ -996,6 +996,36 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGI4MmJsZEZqdmFyMnE1S2lGbWFRcFhsdWl4UEJKRnRrUWFLdlBCaFJ5T0pLNVBZbFVxNk5wSlM2aTFaejBiWUlKUlJWbTU1b3J3SGlkaUN0WkJqcDNWbkpDeVMtYlJWTG4xdkc1X2tqVkNyb3ZyMzBTMmNNV05tWWF3aFRyTktIVFHSAYoBQVVfeXFMT1hiODJibGRGanZhcjJxNUtpRm1hUXBYbHVpeFBCSkZ0a1FhS3ZQQmhSeU9KSzVQWWxVcTZOcEpTNmkxWnowYllJSlJSVm01NW9yd0hpZGlDdFpCanAzVm5KQ3lTLWJSVkxuMXZHNV9ralZDcm92cjMwUzJjTVdObVlhd2hUck5LSFRR?oc=5"
+    ]
+  },
+  {
+    "key": "other:autumn-for-government-plenty-problems-stored:2b2fce60",
+    "title": "The government has stored up plenty of problems for autumn",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-18T20:02:34Z",
+    "latest_seen": "2026-07-19T08:37:54Z",
+    "lifespan_hours": 13,
+    "velocity_6h": 1,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 10,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd6blppT1ZXZkRsQkJYSXlRU1BaUjZheWh6TVJ3NXN1QXR2R1pLOGwwbFo1dFIzU2J1MmJsU1dzcXlMX0d6N0pZSzhHTFI4SVhWakRHUmhSYkt2MWRPSC04cnpzcDFILVpLZXA5bnNLMTBuaU1QWEpVWjMzQ0J1NmdzZEtpb05jLWpwUnhkOFJfd09ZRDVDSzRCcWJ4S01lc3hnUE5FUExYV1Q3Ty1rcmdNVmx1R1lGTmw3c3FB?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5"
     ]
   },
   {
@@ -3056,35 +3086,6 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
-    ]
-  },
-  {
-    "key": "other:autumn-for-government-plenty-problems-stored:2b2fce60",
-    "title": "The government has stored up plenty of problems for autumn",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-18T20:02:34Z",
-    "latest_seen": "2026-07-18T20:02:34Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 4,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5"
     ]
   },
   {

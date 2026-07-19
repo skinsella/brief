@@ -6977,6 +6977,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd6blppT1ZXZkRsQkJYSXlRU1BaUjZheWh6TVJ3NXN1QXR2R1pLOGwwbFo1dFIzU2J1MmJsU1dzcXlMX0d6N0pZSzhHTFI4SVhWakRHUmhSYkt2MWRPSC04cnpzcDFILVpLZXA5bnNLMTBuaU1QWEpVWjMzQ0J1NmdzZEtpb05jLWpwUnhkOFJfd09ZRDVDSzRCcWJ4S01lc3hnUE5FUExYV1Q3Ty1rcmdNVmx1R1lGTmw3c3FB?oc=5": {
+    "outlet": "Business Post",
+    "published": "Sun, 19 Jul 2026 08:37:54 GMT",
+    "headline": "The government has stored up plenty of problems for autumn",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd6blppT1ZXZkRsQkJYSXlRU1BaUjZheWh6TVJ3NXN1QXR2R1pLOGwwbFo1dFIzU2J1MmJsU1dzcXlMX0d6N0pZSzhHTFI4SVhWakRHUmhSYkt2MWRPSC04cnpzcDFILVpLZXA5bnNLMTBuaU1QWEpVWjMzQ0J1NmdzZEtpb05jLWpwUnhkOFJfd09ZRDVDSzRCcWJ4S01lc3hnUE5FUExYV1Q3Ty1rcmdNVmx1R1lGTmw3c3FB?oc=5",
+    "summary": "Business Post reports: The government has stored up plenty of problems for autumn.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "the-government-has-stored-up-plenty-of-problems-for-autumn",
+    "first_seen": "2026-07-19T10:57:31Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd6blppT1ZXZkRsQkJYSXlRU1BaUjZheWh6TVJ3NXN1QXR2R1pLOGwwbFo1dFIzU2J1MmJsU1dzcXlMX0d6N0pZSzhHTFI4SVhWakRHUmhSYkt2MWRPSC04cnpzcDFILVpLZXA5bnNLMTBuaU1QWEpVWjMzQ0J1NmdzZEtpb05jLWpwUnhkOFJfd09ZRDVDSzRCcWJ4S01lc3hnUE5FUExYV1Q3Ty1rcmdNVmx1R1lGTmw3c3FB?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHd6blppT1ZXZkRsQkJYSXlRU1BaUjZheWh6TVJ3NXN1QXR2R1pLOGwwbFo1dFIzU2J1MmJsU1dzcXlMX0d6N0pZSzhHTFI4SVhWakRHUmhSYkt2MWRPSC04cnpzcDFILVpLZXA5bnNLMTBuaU1QWEpVWjMzQ0J1NmdzZEtpb05jLWpwUnhkOFJfd09ZRDVDSzRCcWJ4S01lc3hnUE5FUExYV1Q3Ty1rcmdNVmx1R1lGTmw3c3FB?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEktQTRSOVVLZVJPSWg4dG9KaW9JaDJvOEhmVTVOb180UDhTUHJnZk5TLVpYQno2SFlpLXdyTVdqcU4xS1FiZ0w4ZGZ5cE11SjU1WHpFYk5UZEd2WnM3M3JZUFNNdzM0aWhiN3duOGhYM1FFWDE4eXZGVEZIdWxjMjNwZVJ4ellxR29LazFUN1lmaS1fcnh3MDdMYVFsSWp3Mk1HdDdzeE9IeFBMd0trdGdvS0VWZ2ZkM2JBNVZ3?oc=5": {
     "outlet": "Business Post",
     "published": "Sat, 20 Jun 2026 11:29:06 GMT",
