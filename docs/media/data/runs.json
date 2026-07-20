@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-20T15:31:24Z",
+    "checked_at_display": "Mon, 20 Jul 2026 15:31 GMT",
+    "new_count": 0,
+    "old_skipped": 6,
+    "duplicate_skipped": 6,
+    "mismatched_skipped": 8,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 11,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 24,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260720T153124Z.html"
+  },
+  {
     "checked_at": "2026-07-20T13:28:34Z",
     "checked_at_display": "Mon, 20 Jul 2026 13:28 GMT",
     "new_count": 3,
@@ -7867,83 +7945,5 @@
       "https://www.independent.ie/irish-news/politics/what-would-the-tanaiste-suggest-we-do-if-the-storms-hit-again-pensioner-pleads-with-simon-harris-over-turf-cutting-rules/a/158621115.html"
     ],
     "archive_file": "archive/20260713T050503Z.html"
-  },
-  {
-    "checked_at": "2026-07-13T01:10:56Z",
-    "checked_at_display": "Mon, 13 Jul 2026 01:10 GMT",
-    "new_count": 0,
-    "old_skipped": 2,
-    "duplicate_skipped": 6,
-    "mismatched_skipped": 10,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 21,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [],
-    "archive_file": "archive/20260713T011056Z.html"
   }
 ]
