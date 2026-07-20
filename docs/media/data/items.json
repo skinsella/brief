@@ -684,6 +684,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 20 Jul 2026 10:26:00 GMT",
+    "headline": "Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5",
+    "summary": "Irish Independent reports: Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "se-n-canney-says-e-scooter-decision-a-matter-of-urgency-as-government-meet-to-di",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNVoxd1RrWWF6Q3VPOFhrazUybDlBSXhZNkdtRE9PRDhUZlJ1R0F6T3k3c2xvWXRzbVNWaHQzSVAwVW51TGEzTVpxbm5PVUhzQWNmcF9ZWlFzY013VV9wcFg2dVlVTVV6NUp3dU9uQlA1aG44QTdjMFI0TkRrS2tFbi14M3dLTGF6V1M3dGdfbHc4RzBWeTdrWjUwejFKendaRDF2WlZiNUhDZHNxT3VNMzlESmdfVnpOLXlwWXBVa3poQVhMVkdVREdobHFYZnlCNGFLaEMzdUxPQQ?oc=5": {
     "outlet": "Irish Independent",
     "published": "Mon, 15 Jun 2026 09:32:40 GMT",
@@ -1662,6 +1687,31 @@
     "attention": [],
     "outlet_tier": "other",
     "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 20 Jul 2026 10:23:42 GMT",
+    "headline": "Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5",
+    "summary": "Irish Independent reports: Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "pressure-mounts-on-department-of-education-as-temporary-accommodation-strains-wi",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5",
+    "topic": "Constituency/local",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
     "favourability": "neutral",
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
@@ -3154,6 +3204,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5": {
+    "outlet": "Scannain",
+    "published": "Mon, 20 Jul 2026 10:55:21 GMT",
+    "headline": "Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5",
+    "summary": "Scannain reports: Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "irish-government-commences-40-visual-effects-uplift-to-section-481-film-tax-cred",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRUxNOVNqeUtxYkFKODB6Ni03d3cyQnQ0elhXSGJJaGx1N3VYbGpvb3BsMjdnaFRnX0JjMldqRUdZZGlqVkswOXlWWDVFeUV4NENaMDFKSUNJVTcxdXB5S3paN21NdF9VdkdUTENETFNEdEJ2?oc=5": {
     "outlet": "The Journal",
     "published": "Tue, 30 Jun 2026 14:59:00 GMT",
@@ -4589,6 +4664,56 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5": {
+    "outlet": "The Irish Sun",
+    "published": "Mon, 20 Jul 2026 09:27:04 GMT",
+    "headline": "Tanaiste Harris confirms new €1m tax credit to ‘make Ireland more competitive’",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5",
+    "summary": "The Irish Sun reports: Tanaiste Harris confirms new €1m tax credit to ‘make Ireland more competitive’.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "tanaiste-harris-confirms-new-1m-tax-credit-to-make-ireland-more-competitive",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5": {
+    "outlet": "iftn.ie",
+    "published": "Mon, 20 Jul 2026 10:37:43 GMT",
+    "headline": "Government confirms increased tax credit for large-scale VFX work",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+    "summary": "iftn.ie reports: Government confirms increased tax credit for large-scale VFX work.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-confirms-increased-tax-credit-for-large-scale-vfx-work",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMimgJBVV95cUxOR3liOVVRMWl6NVpaN3FIQWdNMnRyS1A5Y1Itb2dzZnZNX3JGeERISTk4VFk5WjBYWUZqay1EVUdfenJBT3N4TUNmWjJhOERILW5FSGs3MW9oUTFsVmxhZzFPcUtqeTAtSlNKbkhfV2pzblpObEtsZGJjTjFVX2YtLVBVXzRJYlVPRUhEZWFiSy1mWkVnalJSWjJKcTA1VUY5eEFULWNjdmVMeDVqNkpBSmxPbGF3SzZuNGpHN3dlZmdBZi14dlNFZUpVQUtWVGV5MEpZMGNHQ3Y3amJlbC1lQm9wS2E1NGFSaU1KczF4U1h0cjE2cE84NDd6OHJDVFJ5aWU3RnhteGtKVmRmbkhuWDE1ZVNqNC1XY3c?oc=5": {
     "outlet": "Irish Independent",
     "published": "Thu, 18 Jun 2026 11:22:53 GMT",
@@ -4999,6 +5124,29 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5": {
+    "outlet": "Irish Mirror",
+    "published": "Mon, 20 Jul 2026 10:15:11 GMT",
+    "headline": "Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5",
+    "summary": "Irish Mirror reports: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-leaders-considering-e-scooter-ban-today-as-issue-being-treated-as-mat",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5",
+    "topic": "Fine Gael",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkRWclUzRkw2LWU1VzFPeU5XMnJOVWVaVXBaMVRqcFBSNTFpSmhKSERMeGtxZ0kzZ3g2bFJvUW4wcDRUbnVTTVJQSUpPUUNOYVpBcHozaGh2TmVXMExlS0tXZVdrOTYwNmZSOVFvVHR6Wkd4cUstb3JyQjlkU1RlX1Q3MDBYeWdxRzdZN1pFRm1vaTA5LVJfR3R2SlBBUm5KRUIw?oc=5": {
     "outlet": "London Evening Standard",
     "published": "Thu, 25 Jun 2026 17:03:24 GMT",
@@ -5290,6 +5438,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5": {
+    "outlet": "Offaly Independent",
+    "published": "Mon, 20 Jul 2026 10:25:50 GMT",
+    "headline": "New uplift in tax credit for film industry, Government confirm",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5",
+    "summary": "Offaly Independent reports: New uplift in tax credit for film industry, Government confirm.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "new-uplift-in-tax-credit-for-film-industry-government-confirm",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamt4WVltM0hLcTc4V1NaR0Y1ODZ0SkhkaU5mbFJmbEFMZUZRZXd2a0RkNDZGWldYdUNmTTVVU1RweFVROGh3N1Z6LTI0aVNsaENNOU05UWttdXNwaFBkVG1ndjNTN3R5dVpSU21oZDJmRkVJVHBsVkNMalFsN3VsSXEySkhUR0QweF9PX1NWODIxVV9odzdIQ0gzaEMyd3NWRTdCdG1zT2FEdw?oc=5": {
@@ -8314,6 +8487,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 20 Jul 2026 10:23:44 GMT",
+    "headline": "New €7m Wicklow Coast Guard station on track for completion in early 2027",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5",
+    "summary": "Irish Independent reports: New €7m Wicklow Coast Guard station on track for completion in early 2027.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "new-7m-wicklow-coast-guard-station-on-track-for-completion-in-early-2027",
+    "first_seen": "2026-07-20T11:10:17Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5",
+    "topic": "Constituency/local",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODRxcGpJRjZkU3pFakZ0clFidlUzZ0JzblJydHlpd0ZaTU5RY0VwZ0ppSGdSdU1wYkhjd0pLQlE4elpSSGpFNHVrNWk4SFExQ1NNSkN3Q3JDY20yamxxaWlJRlBvbUZ2QlpkckkyQm91US1ma3dtblFFSTluSGZVOGNZNkpObXFBLVVoeVhqX0ZYREpJRE5DbVJPQzVZbkFXU3hGX1J2Skx1Q0RNNjduZzJULTdUaEZLTDZFY2MtMWtsWjJzNEJrVmpMbnI?oc=5": {

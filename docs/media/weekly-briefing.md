@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Mon, 20 Jul 2026 07:43 GMT
+Updated: Mon, 20 Jul 2026 11:10 GMT
 
 ## Snapshot
 
-- Recent coverage: 73 item(s) in the last 7 days.
-- Weighted net framing: -3% (supportive minus critical, reach/significance-weighted).
-- Significant items: 12.
+- Recent coverage: 81 item(s) in the last 7 days.
+- Weighted net framing: -2% (supportive minus critical, reach/significance-weighted).
+- Significant items: 16.
 
 ## Trend Summary
 
-- Coverage volume: 73 item(s) in the last 7 days; down 16 vs previous 7 days.
-- Net framing: -3% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 41 item(s).
+- Coverage volume: 81 item(s) in the last 7 days; down 8 vs previous 7 days.
+- Net framing: -2% weighted over 7 days, separating coverage volume from supportive/critical wording.
+- Main topic: Other leads recent coverage with 42 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 14 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 17 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 4 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 11 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -37,17 +37,18 @@ Updated: Mon, 20 Jul 2026 07:43 GMT
 
 ## Top Topics
 
-- Other: 41
+- Other: 42
 - Finance: 11
+- Tax: 8
 - Foreign affairs: 7
-- Fine Gael: 5
-- Tax: 4
+- Fine Gael: 6
 - Enterprise: 4
+- Constituency/local: 2
 - Courts/security: 1
 
 ## Top Outlets
 
-- Irish Independent: 14
+- Irish Independent: 17
 - MSN: 8
 - BreakingNews.ie: 7
 - Irish Examiner: 4
@@ -71,6 +72,14 @@ Updated: Mon, 20 Jul 2026 07:43 GMT
 
 ## Recent Items
 
+- [neutral factual] Scannain: Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit (https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5)
+- [neutral factual] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5)
+- [neutral factual] Irish Independent: Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban (https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5)
+- [neutral factual] Offaly Independent: New uplift in tax credit for film industry, Government confirm (https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5)
+- [neutral factual] Irish Independent: New €7m Wicklow Coast Guard station on track for completion in early 2027 (https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5)
+- [neutral factual] Irish Independent: Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools (https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5)
+- [neutral factual] Irish Mirror: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency' (https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5)
+- [neutral factual] The Irish Sun: Tanaiste Harris confirms new €1m tax credit to ‘make Ireland more competitive’ (https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5)
 - [neutral factual] Irish Independent: Simon Harris confirms councils must pay residential zoned land tax on own housing land (https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5)
 - [neutral factual] Irish Independent: Simon Harris confirms councils must pay residential zoned land tax on own housing land (https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html)
 - [neutral factual] Irish Examiner: Government leaders to meet over future of e-scooters (https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5)
@@ -83,11 +92,3 @@ Updated: Mon, 20 Jul 2026 07:43 GMT
 - [neutral factual] The Irish Times: Why Simon Harris will really struggle to move the dial on income tax in the Budget (https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5)
 - [neutral factual] Irish Times: Why Simon Harris will really struggle to move the dial on income tax in the Budget (https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/)
 - [neutral factual] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html)
-- [neutral factual] Business Post: The government has stored up plenty of problems for autumn (https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1c4RUdIbE5TYUFRcXRMeXRUekVKOUwtbHdjY29oS2JmcU51WWoxOFVwZGhVcGI2clluRTZ4RHFuWEtkcFVLTEd6dHhvVU5LVmJ4ZHRpM2Roc0pCdU1RUDQxb1dJXzZLRTlOX2xZQUY2WWlRYmF5Vk5YTnE0d2M1NTc3blJzUEpxZG9FZ1R5bEZyR1ZONHV6TDJqTUdBSUt4LU94UnJ6V1Zaakw2UkV5T3VVcVV5R2c?oc=5)
-- [neutral factual] Business Post: Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ (https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVhHT25HdUFwZDhsNV8wXzZ1TFJHUE5lYVktaWMwVGRFTUx1NkNwT0FMaEwyUFRyYy0yYzUybnBaVjI5X2ZwU2k4YmRWSnR3cndnQzVka0NtX2hRXzV0SG1QdVhjc3dsRXF0MDQ0ckJPOXMtc0ZpVVJNZzhaaXJBZF9XMTdwM2s4bU5SUGZwN0ktcXNmcGdQOHpGVHpQQldud0JVRDAxa1c4RUJ4cGJBXzB0T2hHaUk?oc=5)
-- [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMiuANBVV95cUxOdnA3NjlJRmpWNVYzbHJIQTBxa3FsWDBpcHR5dDdMcmlnbkdiQjhiQno2Q3JOeDgtX1dWel9UVkV0TkpfRnBmTS13SElrT196XzRNa3A5VlNrXzlOQU9yYzRLUmc5V2lGa2hrU3dlNFZwY0laWUJxNjd3c0haX1NKWDR1OXMxMEE4aTlETFBVM3FDTXVkYU1BeDVKdDdWMWxFZUQ1eHpzZi12bFhnRXRTRHFTdmZub09yWF9NcXVSMnJONC1kZE1oSTlJdklPSTJXV25vUUlmZEhKdXhmUjNDdDRwNVRXaXBZeWJpbTUtbEE1LWgzb0pBVE55Q0k4QUNycUlPY0hPQTJubGVQSTlINDRQcGJ6dWp3OTdVbnptb29NVVNEc25JUl9CUUZ3djduLXN4b3V2cWktOFlKTUVWRHYzYUtCcVVPRGpaTlJTMWJTc1lsRVNPRjhMR3RmOExjdHp2ODFCSlZlODdSSVpjM282ZF9VQ181Z1hVS0NtVExRU05ITWNIOVBVWEdCNU1WNEhIbmVZMnhLcC1zZGZyZkFtQ0wzSmlUQ3pVRHpSR1dQNktwOWxzaA?oc=5)
-- [neutral factual] MSN: United Ireland debate should focus on opportunities not costs, says Tánaiste (https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMUJWNndzQUFIaHJlQW5NTzF6QjlwaHhaOVVnZENTbmx4emNmWUdyMXZKV0lrQlNIa19sVXllR2U3X2t2OUFSZGtsVGsySkE0Rkt4bkxnX05WMVlwWUFvQjBDUHkxZFdWeEZZeE54ZVFBcmYyc3VGT3FqYnB0SEFqR3BRaWRTRlFTMjBXdGlfeDY2bkdPeXJ4eW9meDNlZGJTTmdLa2lqZDdsWnlOSzJZZkg5cjJlYktIOWo1TG1TRDRNZ0FxbFUxSVo4dUduNTQzeEp0RzNPd19vbmxyalpIMmpZdEpnUWJBbjZV?oc=5)
-- [neutral factual] Ireland's Classic Hits Radio: Government Leaders To Discuss Outright Ban On E-Scooters (https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXJnNzBPSW5pVjlrOVhxRjdkaUFCSWx2eEl1eGFrQy1OaHJvdFB5aEtoOTlTbkRZUTVZWU9iWGo5dWtXbDRUclBHaFg0Z3JjQkFKcEhjX2wtRmhsTFM2cXNoZlpnTkNUbFRDM3VzOTZNWmNSTE5GVzI3TDVQVnhFeFA5eUxKbU8yY2dORmZGRmMzZUZDRWtPVl9QNGZXT0xNdWJrRUJB?oc=5)
-- [neutral factual] MSN: Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban (https://news.google.com/rss/articles/CBMi-AJBVV95cUxOVzJxR01mVE5vZURKVFRoNTQya1FUWi1OUFFxa1ZweEFFY3ppVXlHWVRXQXV0R3lyaHVmeXRrN3hDMlJDUFQtYUE1RWJCZFRqQzU4WnNXWkRSNzJIaFhKYjlpeXZRZ2d5TnY3aWVqMWdhd1VrbWUxSkI5djBwV0JLUjhrQjU3dW5obThuQzNrNmgtZlVOTFVKV3dNU3YzUm5NZWdDWTRObHV6RWRLV21ra2RiSTdiYXlKS3RWNzcza3daNFNtdGZVS2Y3WWQ5dWZ4SU1oVWhkMHJGemtHVHlJTHEwVlJRSVRNNGVzc3RNN01JdlhYU0xrSlBMc0EzTFloMmpYLVZnTnB6T2VhLXZNYW1Qa0VHWXh2TkpqbVJKZFNKRmtBZGlneG41VU5KamI4TWJzbmtOTHRaQlR1dHJ5c1R4RGdFYnlabC1UaGQ4TnY5eEFXbmxsUHNqR2J2Zk9LNHFLdjcyc1owZVlXa1dZdk43WkFianR6?oc=5)
-- [neutral factual] Irish Independent: ‘All options on the table’ as government leaders to discuss outright ban on e-scooters (https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGoxRUxXOVQ0d0MzTFBMQ2cteHE1T1NhMlM5UUx1Qnkwa0FwbXAxeG4wemhobHZxYUtXdmdCOEVvc3FwMUhnZHVURWRveHg1bTFWQm56dldHLTNOQlpSZlhPYWNBZHpFWHhNNFZJWnZmU3RiZXgxeTh4VkJfSmY2SFk5LUdzakZCM202Mm1kdXplNmJMbVBPaC1meHlsUkN1b01UMUtjdHRxMVJyaTFVQTNBaVNpV2RRdGZicTBwdnpjTjVZZkJPUmwzdURFNzd6d3A5OGRlckh2alF2eWxaeE5B?oc=5)
-- [supportive] Irish Echo Newspaper: IAUC Welcomes Fine Gael Unity Blueprint (https://news.google.com/rss/articles/CBMifEFVX3lxTFBIWHNjMThmck9VN1kxQndFd3JmNlJRUi1BNHRpODdMOWhNVGFuLUpQbHhkTlBLWjBxbFJQUGlmdWs5TE82UDE5bUZ2T0dWYTJWNm5qU0daenladGI5dUJGU2QwUEZlY04yV2J1dDZGcVdaUEdBOS1vSFlXd1A?oc=5)
