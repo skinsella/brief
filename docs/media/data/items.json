@@ -4112,6 +4112,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5": {
+    "outlet": "IFTN",
+    "published": "Mon, 20 Jul 2026 14:47:41 GMT",
+    "headline": "Government confirms increased tax credit for large-scale VFX work",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
+    "summary": "IFTN reports: Government confirms increased tax credit for large-scale VFX work.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-confirms-increased-tax-credit-for-large-scale-vfx-work",
+    "first_seen": "2026-07-20T23:34:32Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHRieFhtNHQ2UXVwQ3lfUEdqOWkzdy1FaVVORVkwZHhvdGU4ekhYb1dwMHVETllwcHB1ZFd3Wm9qUHAyYXBtb0h3U3V6ZnJyTlNXbkg1R1RTaWdPR3JhOUVDSUZmOFFPdVZwdjZWdjF1bC1oTUNOcVlzSWZjclI2cDJfT0duVm5OYVVMTEln0gGTAUFVX3lxTE5kWlZkX0t5NVV2dENrcWRWeENEYTFOdzl5UzgtTUtyNUFMMFVNMXc3VHFsUEpRQk82MDZMTFdQYlc0Y0NrcHU5cElMakNmOTlPVXJJS0RaVE11Z2d1NF9vYmVwQ254SG41bGlmSUVrM0IwYjNZNnItaFNmd2pzTXMzTHZPTy1IcnIxeFZRNFFPSDBQdw?oc=5": {
     "outlet": "Irish Mirror",
     "published": "Tue, 16 Jun 2026 19:50:06 GMT",

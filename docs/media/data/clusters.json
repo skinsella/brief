@@ -149,6 +149,39 @@
     ]
   },
   {
+    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
+    "title": "Government confirms increased tax credit for large-scale VFX work",
+    "topic": "Tax",
+    "item_count": 4,
+    "outlet_count": 2,
+    "outlets": [
+      "IFTN",
+      "iftn.ie"
+    ],
+    "first_seen": "2026-07-20T10:37:37Z",
+    "latest_seen": "2026-07-20T18:25:38Z",
+    "lifespan_hours": 8,
+    "velocity_6h": 1,
+    "velocity_24h": 4,
+    "reach_score": 4,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 4,
+    "attention_score": 29,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
+    ]
+  },
+  {
     "key": "tax:residential-zoned-land-tax",
     "title": "Simon Harris confirms councils must pay residential zoned land tax on own housing land",
     "topic": "Tax",
@@ -272,38 +305,6 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/dail-drug-use-committee-chair-accuses-simon-harris-of-classism-over-comments-on-middle-ireland-1919319.html",
       "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdWd4a3gzei1nSzV4ZWQxWEdqaGZiR3phVjhyREFQQ2c2UG1UdS1pSzVSOUd3NXdHN2wxN3dPclNnMmR3ekNjY3pPbTBxWjVDQ3doUkE0TGMzQmlwa0FPWjhSYmlVRjlEaFJUM2NZSlRpWktaZFlpNEtkZURvVEpKUjcwSUlzRy1tVzd0akdpN2VpekVwZTNmdFBTeU0zRGhVOEJNZ0I2RHNaU2x5LVJwYVB5Vi1qYW91cFc1X21lcTNTUEhiTUd3Z21ZWmtfVTFZdmlpVjNJb3BfejA?oc=5"
-    ]
-  },
-  {
-    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
-    "title": "Government confirms increased tax credit for large-scale VFX work",
-    "topic": "Tax",
-    "item_count": 3,
-    "outlet_count": 2,
-    "outlets": [
-      "IFTN",
-      "iftn.ie"
-    ],
-    "first_seen": "2026-07-20T10:37:37Z",
-    "latest_seen": "2026-07-20T18:25:38Z",
-    "lifespan_hours": 8,
-    "velocity_6h": 1,
-    "velocity_24h": 3,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 3,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 3,
-    "attention_score": 23,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
-      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
     ]
   },
   {
