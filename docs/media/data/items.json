@@ -1011,6 +1011,32 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 20 Jul 2026 06:20:00 GMT",
+    "headline": "Simon Harris confirms councils must pay residential zoned land tax on own housing land",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5",
+    "summary": "Irish Independent reports on calls for review or concern around a residential zoned land tax bill.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Residential zoned land tax",
+    "first_seen": "2026-07-20T07:43:13Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5": {
     "outlet": "INSIGHT EU MONITORING",
     "published": "Fri, 10 Jul 2026 14:49:39 GMT",
@@ -8119,6 +8145,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdldBX1FZdlRLUWJVeGMxUTNnQXUtLWRmM2ZhR3YtZzQ2SEZsY0pLTkNUUFZPcTYyOXM1NS1haTdxaTVsSklxZlk1c1JzeWNlMHdWZGtIa1NmWjNNNkVxdWlYUGhHeWdJVlI4WEhHRU4tZVdpUlJWejBfZEYtNE4yNkJPMjBYRW82cElSbFhyZnFlTmN3YTRTR1VhaVNVUzgzVmd1Z0hvWGo0Qk5tOWppT3hxdGdrdzNTeGJQNDlMRmgtdlh6UDBaQWhn?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Sun, 19 Jul 2026 12:11:06 GMT",
+    "headline": "Four balaclava-clad men arrested after major Garda operation in Wicklow",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdldBX1FZdlRLUWJVeGMxUTNnQXUtLWRmM2ZhR3YtZzQ2SEZsY0pLTkNUUFZPcTYyOXM1NS1haTdxaTVsSklxZlk1c1JzeWNlMHdWZGtIa1NmWjNNNkVxdWlYUGhHeWdJVlI4WEhHRU4tZVdpUlJWejBfZEYtNE4yNkJPMjBYRW82cElSbFhyZnFlTmN3YTRTR1VhaVNVUzgzVmd1Z0hvWGo0Qk5tOWppT3hxdGdrdzNTeGJQNDlMRmgtdlh6UDBaQWhn?oc=5",
+    "summary": "Irish Independent reports: Four balaclava-clad men arrested after major Garda operation in Wicklow.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "four-balaclava-clad-men-arrested-after-major-garda-operation-in-wicklow",
+    "first_seen": "2026-07-20T07:43:13Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdldBX1FZdlRLUWJVeGMxUTNnQXUtLWRmM2ZhR3YtZzQ2SEZsY0pLTkNUUFZPcTYyOXM1NS1haTdxaTVsSklxZlk1c1JzeWNlMHdWZGtIa1NmWjNNNkVxdWlYUGhHeWdJVlI4WEhHRU4tZVdpUlJWejBfZEYtNE4yNkJPMjBYRW82cElSbFhyZnFlTmN3YTRTR1VhaVNVUzgzVmd1Z0hvWGo0Qk5tOWppT3hxdGdrdzNTeGJQNDlMRmgtdlh6UDBaQWhn?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdldBX1FZdlRLUWJVeGMxUTNnQXUtLWRmM2ZhR3YtZzQ2SEZsY0pLTkNUUFZPcTYyOXM1NS1haTdxaTVsSklxZlk1c1JzeWNlMHdWZGtIa1NmWjNNNkVxdWlYUGhHeWdJVlI4WEhHRU4tZVdpUlJWejBfZEYtNE4yNkJPMjBYRW82cElSbFhyZnFlTmN3YTRTR1VhaVNVUzgzVmd1Z0hvWGo0Qk5tOWppT3hxdGdrdzNTeGJQNDlMRmgtdlh6UDBaQWhn?oc=5",
+    "topic": "Courts/security",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNDRMeFFxM2dZRjFld2lkX1dCeG1qenhuTVNBOE54VGRxdWVlZTUzNklPSnU3WDlDWUt0dW5mMThqOU0yT2QyVFpHVXROSGF5T2NrTmE4WVhteG9xSVBxZjlfenJVMVhXaUNWdGd2SHVyNjNTVkxfcnhvbkliVkxjRzF3aWxIYXMtTWZxMWx4R0NLRWNWOU5meWdHVHNTUGdxTy0waUozNExBM2ZYM1doTHdHUDAzR1B6Y3dlNmJtb1ZWaGZfNE1DMjhn?oc=5": {
     "outlet": "The Times",
     "published": "Sat, 27 Jun 2026 18:00:00 GMT",
@@ -9213,6 +9264,32 @@
     "source_link": "https://www.independent.ie/county/wicklow/councillors-in-wicklow-call-on-simon-harris-to-end-carers-allowance-means-test/a/158494597.html",
     "topic": "Constituency/local",
     "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html": {
+    "outlet": "Irish Independent",
+    "published": "Mon, 20 Jul 2026 05:20:00 GMT",
+    "headline": "Simon Harris confirms councils must pay residential zoned land tax on own housing land",
+    "link": "https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html",
+    "summary": "Irish Independent reports on calls for review or concern around a residential zoned land tax bill.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "Residential zoned land tax",
+    "first_seen": "2026-07-20T07:43:13Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
       "High-reach outlet"
     ],
     "outlet_tier": "national",

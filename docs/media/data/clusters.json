@@ -115,6 +115,37 @@
     ]
   },
   {
+    "key": "tax:residential-zoned-land-tax",
+    "title": "Simon Harris confirms councils must pay residential zoned land tax on own housing land",
+    "topic": "Tax",
+    "item_count": 3,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-06-04T11:20:00Z",
+    "latest_seen": "2026-07-20T06:20:00Z",
+    "lifespan_hours": 1099,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 9,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 1,
+      "mixed": 0
+    },
+    "net_framing": -33,
+    "significant_count": 3,
+    "attention_score": 35,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5",
+      "https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html",
+      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
+    ]
+  },
+  {
     "key": "tax:childcare-costs-income-priorities-reductions-tax:2a2ba9ab",
     "title": "Reductions in income tax and childcare costs ‘priorities’, Tánaiste says",
     "topic": "Tax",
@@ -343,7 +374,7 @@
     "latest_seen": "2026-07-19T05:01:30Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -354,7 +385,7 @@
     "net_framing": 0,
     "significant_count": 2,
     "attention_score": 18,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDRKRDR6UnlTR29BTG5IeVFUV0UtM3N3am5pM1BibVNDa2lIaFlqOFpqNXpNWGpaRXA1aWVHTjd4TXFzRXNGcXlFM0dGc19iZUNtM1lPVjZQNkVGcWxSeURsNjM5YS1ueUppQWxaWlJORTVNT0VLZVlIMGdmX190dkdqb1A1cXpGUTFsNC05Z1FpTE9oVHJtY3ZENHVXTGluSGwwdzBhZ0FqMG84ekQ0UWo0REJreDVINVVkMHR0TjRRTFMweno1bTdB?oc=5",
       "https://www.irishtimes.com/opinion/2026/07/19/pat-leahy-simon-harris-fine-gael-budget-tax-cuts-public-sector-pay-spending-demands/"
@@ -404,7 +435,7 @@
     "latest_seen": "2026-07-19T05:30:00Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -415,7 +446,7 @@
     "net_framing": 0,
     "significant_count": 2,
     "attention_score": 17,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5",
       "https://www.independent.ie/irish-news/simon-harris-doubles-down-on-budget-tax-pledge-ahead-of-summer-economic-statement/a/158916230.html"
@@ -673,35 +704,6 @@
       "https://www.breakingnews.ie/ireland/simon-harris-announces-blueprint-for-irish-unity-1913504.html",
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQno2ME81N1A0R0kzbHo2dlk0ajQ1blFaYU5rTGZiTmFidjNsWGF3bFNTOFNJZnpWejREc1B6OERfbU9iZTFMSktfSEE0YkdnYnRIU0U0Ml9BRnR4a1dFcmxtdC14RmtmUnYyWTNtdnVuYnJNN29lN2ZBTDRqT0dFbHRZM3UtVDdVRDFEOWl4ZDViQ0VMZVV4SldYYUI?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VuM0dTNWhzT3lhbzNvOXdoR2tnd3loM05PUFdEN1RYRHhkeUFIRDlZVmltc2V4WXBEdnJrS28tMXNuSnl3c3E1NEgtdkx2MHhaTDFDMTEyYnhuM2Y3dkpxajF3VUdlR3hJOTRCMkphcndjZ3IzNnVmTE55VTNTQ2ZUSUZGaDFnTGNEUm8weDVlZG9wTEhBaFpoSzNYdw?oc=5"
-    ]
-  },
-  {
-    "key": "tax:residential-zoned-land-tax",
-    "title": "Call for urgent review as Wicklow council hit with EUR1m residential zoned land tax bill",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-06-04T11:20:00Z",
-    "latest_seen": "2026-06-04T11:20:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 0,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 1,
-      "mixed": 0
-    },
-    "net_framing": -100,
-    "significant_count": 1,
-    "attention_score": 13,
-    "status": "dormant",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
     ]
   },
   {
@@ -3031,16 +3033,16 @@
     ]
   },
   {
-    "key": "finance:ally-budget-but-found-heats-phoney:7f3673ed",
-    "title": "Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally?",
-    "topic": "Finance",
+    "key": "courts/security:arrested-balaclava-clad-four-garda-major:61dec3da",
+    "title": "Four balaclava-clad men arrested after major Garda operation in Wicklow",
+    "topic": "Courts/security",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
       "Irish Independent"
     ],
-    "first_seen": "2026-07-19T05:30:00Z",
-    "latest_seen": "2026-07-19T05:30:00Z",
+    "first_seen": "2026-07-19T12:11:06Z",
+    "latest_seen": "2026-07-19T12:11:06Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
     "velocity_24h": 1,
@@ -3055,6 +3057,35 @@
     "significant_count": 0,
     "attention_score": 4,
     "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdldBX1FZdlRLUWJVeGMxUTNnQXUtLWRmM2ZhR3YtZzQ2SEZsY0pLTkNUUFZPcTYyOXM1NS1haTdxaTVsSklxZlk1c1JzeWNlMHdWZGtIa1NmWjNNNkVxdWlYUGhHeWdJVlI4WEhHRU4tZVdpUlJWejBfZEYtNE4yNkJPMjBYRW82cElSbFhyZnFlTmN3YTRTR1VhaVNVUzgzVmd1Z0hvWGo0Qk5tOWppT3hxdGdrdzNTeGJQNDlMRmgtdlh6UDBaQWhn?oc=5"
+    ]
+  },
+  {
+    "key": "finance:ally-budget-but-found-heats-phoney:7f3673ed",
+    "title": "Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally?",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-19T05:30:00Z",
+    "latest_seen": "2026-07-19T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 0,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5"
     ]
@@ -3072,7 +3103,7 @@
     "latest_seen": "2026-07-19T05:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3083,7 +3114,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5"
     ]
@@ -3101,7 +3132,7 @@
     "latest_seen": "2026-07-19T05:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3112,7 +3143,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5"
     ]
