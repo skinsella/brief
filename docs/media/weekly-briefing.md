@@ -1,16 +1,16 @@
 # Simon Harris Media Briefing
 
-Updated: Mon, 20 Jul 2026 15:31 GMT
+Updated: Mon, 20 Jul 2026 17:04 GMT
 
 ## Snapshot
 
-- Recent coverage: 84 item(s) in the last 7 days.
+- Recent coverage: 85 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
-- Significant items: 17.
+- Significant items: 18.
 
 ## Trend Summary
 
-- Coverage volume: 84 item(s) in the last 7 days; down 5 vs previous 7 days.
+- Coverage volume: 85 item(s) in the last 7 days; down 4 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 45 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
@@ -39,7 +39,7 @@ Updated: Mon, 20 Jul 2026 15:31 GMT
 
 - Other: 45
 - Finance: 11
-- Tax: 8
+- Tax: 9
 - Foreign affairs: 7
 - Fine Gael: 6
 - Enterprise: 4
@@ -76,6 +76,7 @@ Updated: Mon, 20 Jul 2026 15:31 GMT
 - [supportive] Cork Beo: E-scooters to be banned for under-18s as Government puts forward new rules (https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5)
 - [neutral factual] Scannain: Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit (https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5)
 - [neutral factual] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5)
+- [neutral factual] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5)
 - [neutral factual] Screen Ireland: Tánaiste and Minister O’Donovan announce commencement of Section 481 Enhanced Credit for Visual Effects (https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEZfeldvRWtSWV83a2UxOTJPT281UG1TRVdiN05LdWFqRm45S3oxSnVrbHYxUndmdGZDZVBaZk5vM2c0S2I0NldMSkY1OTRET3JmenRVYWxkeDRyZl8yZGFPTXQ4YmNoaWVuVEJxenpjWVkwa1FQLVRJSHZxS0g0YjdLazRBcVlSN0tkQnBhS1BGR3ZuR2Y4UUY3c3RRX0c1S0dCTUpGbUh3aU1KWFpBdnViZHQ5amtrQjZ3NkpVVS1PbkRtR1kyR3RlS2pSOERJTXc?oc=5)
 - [neutral factual] Irish Independent: Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban (https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5)
 - [neutral factual] Offaly Independent: New uplift in tax credit for film industry, Government confirm (https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5)
@@ -91,4 +92,3 @@ Updated: Mon, 20 Jul 2026 15:31 GMT
 - [neutral factual] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5)
 - [neutral factual] Irish Independent: Shane Ross: Phoney war heats up over budget, but has Simon Harris found an unlikely new ally? (https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNhQzZPLTE5Q0hlRVgzMEZrZ1lRLVZ6eUxPM3Mxd2x6c2FidTN0b2FKZm9LNkNlc2dmR1E5RWh6N2JqdEtFT2RSeFpaT05DUUtpUnIxeTN6d3pxRG1NeWlzakhTSndlODNENzZKLWswQzFvdldvNVBkczduT2lUQ3FjY2xGcGJBejd1WXhFaUhXUkdKOWFQVG1QSWxxM2hVc254TlV2MUNaTjgybFJuQkxvemh6c1dRUERzVEF1SHFVejlPRkMzWjF3aGJsVXRzRUVRcWM2b3ByZw?oc=5)
 - [neutral factual] Irish Independent: Willie O’Dea: I couldn’t care less what Simon Harris thinks of Taylor Swift and Travis Kelce’s wedding (https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUzhvbVoxdlM3OWdReFZDU1ZfOGZpNmNQVS1jc2Rlb2VEZmxRNkV6cnNaMFVkeXhXdHJMQkx2YVNhYTdJaEFpWHdFRXZpTEtMU1pkb1ZadnpuN3daM1I1YW4yNkUtUEFyZWhyeVZyblNMdS00THhhd3ZBVVZkeEVKYXNUMU4yQUZEVHlSdnpNSUZQRkpwbkNsbDZLLTBQYkRhWmlTUWxoYUY0S3QyUkRhRWJONVF2enZ5UjRtcGlBMTNRYWNHc1AzZHJ0SkdGQ2NCQXFIRS12Sm1mT09OeV8yNlBqX2Y?oc=5)
-- [neutral factual] Irish Independent: Improving financial literacy is key, if the Government’s personal investment account plan is going to work (https://news.google.com/rss/articles/CBMiggJBVV95cUxOclJhSGM0SkhGcFRNTDlRNEoyRW9oM3BWQS1odEJpNHhZT2FWRmdpMGcyNWxncElFbTE2UThFYS0zMm9BOTRQdGRZMjVrMzFVQXc4b19WYlVXMGhrTUlaakI3MFRhN0NzV0dmY3J6eXdTUW5NcWV1bXUzNk9tbzJLT3NFYkFfWjRVOFdlcmVjOEtPX25XcnZXQ3FCaVZib3RjSTdYSzNIMHlOMlhTblFqeHRUQ1MzT1RFY1NiRzZnRlFsdmRiZnBhVlBlbnkzXzNaZVdUMWt2RU5IWGdzcG9LOUFOS21ULUxiRlVvZmFYOFJ0TVctYnhxVTl6LXdkNGVpa0E?oc=5)

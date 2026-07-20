@@ -644,6 +644,36 @@
     ]
   },
   {
+    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
+    "title": "Government confirms increased tax credit for large-scale VFX work",
+    "topic": "Tax",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "iftn.ie"
+    ],
+    "first_seen": "2026-07-20T10:37:37Z",
+    "latest_seen": "2026-07-20T10:37:43Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 2,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 13,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
+    ]
+  },
+  {
     "key": "other:accused-alumina-crisis-exports-government-into:7f7bac75",
     "title": "Government accused of 'sleepwalking' into alumina exports crisis",
     "topic": "Other",
@@ -1027,93 +1057,6 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5"
-    ]
-  },
-  {
-    "key": "tax:481-commences-credit-effects-film-government:8ce6d038",
-    "title": "Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Scannain"
-    ],
-    "first_seen": "2026-07-20T10:55:21Z",
-    "latest_seen": "2026-07-20T10:55:21Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5"
-    ]
-  },
-  {
-    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
-    "title": "Government confirms increased tax credit for large-scale VFX work",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "iftn.ie"
-    ],
-    "first_seen": "2026-07-20T10:37:43Z",
-    "latest_seen": "2026-07-20T10:37:43Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5"
-    ]
-  },
-  {
-    "key": "tax:confirm-credit-film-for-government-industry:8edc86cc",
-    "title": "New uplift in tax credit for film industry, Government confirm",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Offaly Independent"
-    ],
-    "first_seen": "2026-07-20T10:25:50Z",
-    "latest_seen": "2026-07-20T10:25:50Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5"
     ]
   },
   {
@@ -2439,20 +2382,20 @@
     ]
   },
   {
-    "key": "other:ban-canney-decision-discuss-government-matter:d0556f6c",
-    "title": "Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban",
-    "topic": "Other",
+    "key": "tax:481-commences-credit-effects-film-government:8ce6d038",
+    "title": "Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit",
+    "topic": "Tax",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Independent"
+      "Scannain"
     ],
-    "first_seen": "2026-07-20T10:26:00Z",
-    "latest_seen": "2026-07-20T10:26:00Z",
+    "first_seen": "2026-07-20T10:55:21Z",
+    "latest_seen": "2026-07-20T10:55:21Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 3,
+    "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -2460,28 +2403,28 @@
       "mixed": 0
     },
     "net_framing": 0,
-    "significant_count": 0,
+    "significant_count": 1,
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5"
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5"
     ]
   },
   {
-    "key": "constituency/local:2027-coast-completion-early-for-guard:99b36c61",
-    "title": "New €7m Wicklow Coast Guard station on track for completion in early 2027",
-    "topic": "Constituency/local",
+    "key": "tax:confirm-credit-film-for-government-industry:8edc86cc",
+    "title": "New uplift in tax credit for film industry, Government confirm",
+    "topic": "Tax",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Independent"
+      "Offaly Independent"
     ],
-    "first_seen": "2026-07-20T10:23:44Z",
-    "latest_seen": "2026-07-20T10:23:44Z",
+    "first_seen": "2026-07-20T10:25:50Z",
+    "latest_seen": "2026-07-20T10:25:50Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 3,
+    "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -2489,40 +2432,11 @@
       "mixed": 0
     },
     "net_framing": 0,
-    "significant_count": 0,
+    "significant_count": 1,
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5"
-    ]
-  },
-  {
-    "key": "constituency/local:accommodation-department-education-mounts-pressure-schools:8b145fea",
-    "title": "Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools",
-    "topic": "Constituency/local",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-20T10:23:42Z",
-    "latest_seen": "2026-07-20T10:23:42Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5"
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5"
     ]
   },
   {
@@ -3265,20 +3179,20 @@
     ]
   },
   {
-    "key": "other:481-announce-commencement-credit-donovan-effects:431bede1",
-    "title": "Tánaiste and Minister O’Donovan announce commencement of Section 481 Enhanced Credit for Visual Effects",
+    "key": "other:ban-canney-decision-discuss-government-matter:d0556f6c",
+    "title": "Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban",
     "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Screen Ireland"
+      "Irish Independent"
     ],
-    "first_seen": "2026-07-20T10:30:41Z",
-    "latest_seen": "2026-07-20T10:30:41Z",
+    "first_seen": "2026-07-20T10:26:00Z",
+    "latest_seen": "2026-07-20T10:26:00Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 1,
+    "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -3287,27 +3201,27 @@
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 5,
+    "attention_score": 4,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEZfeldvRWtSWV83a2UxOTJPT281UG1TRVdiN05LdWFqRm45S3oxSnVrbHYxUndmdGZDZVBaZk5vM2c0S2I0NldMSkY1OTRET3JmenRVYWxkeDRyZl8yZGFPTXQ4YmNoaWVuVEJxenpjWVkwa1FQLVRJSHZxS0g0YjdLazRBcVlSN0tkQnBhS1BGR3ZuR2Y4UUY3c3RRX0c1S0dCTUpGbUh3aU1KWFpBdnViZHQ5amtrQjZ3NkpVVS1PbkRtR1kyR3RlS2pSOERJTXc?oc=5"
+      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5"
     ]
   },
   {
-    "key": "fine gael:ban-being-considering-government-issue-leaders:99d052d0",
-    "title": "Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'",
-    "topic": "Fine Gael",
+    "key": "constituency/local:2027-coast-completion-early-for-guard:99b36c61",
+    "title": "New €7m Wicklow Coast Guard station on track for completion in early 2027",
+    "topic": "Constituency/local",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Mirror"
+      "Irish Independent"
     ],
-    "first_seen": "2026-07-20T10:15:11Z",
-    "latest_seen": "2026-07-20T10:15:11Z",
+    "first_seen": "2026-07-20T10:23:44Z",
+    "latest_seen": "2026-07-20T10:23:44Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 1,
+    "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -3316,10 +3230,39 @@
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 5,
+    "attention_score": 4,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5"
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5"
+    ]
+  },
+  {
+    "key": "constituency/local:accommodation-department-education-mounts-pressure-schools:8b145fea",
+    "title": "Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools",
+    "topic": "Constituency/local",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-20T10:23:42Z",
+    "latest_seen": "2026-07-20T10:23:42Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5"
     ]
   },
   {
@@ -7883,6 +7826,64 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:481-announce-commencement-credit-donovan-effects:431bede1",
+    "title": "Tánaiste and Minister O’Donovan announce commencement of Section 481 Enhanced Credit for Visual Effects",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Screen Ireland"
+    ],
+    "first_seen": "2026-07-20T10:30:41Z",
+    "latest_seen": "2026-07-20T10:30:41Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEZfeldvRWtSWV83a2UxOTJPT281UG1TRVdiN05LdWFqRm45S3oxSnVrbHYxUndmdGZDZVBaZk5vM2c0S2I0NldMSkY1OTRET3JmenRVYWxkeDRyZl8yZGFPTXQ4YmNoaWVuVEJxenpjWVkwa1FQLVRJSHZxS0g0YjdLazRBcVlSN0tkQnBhS1BGR3ZuR2Y4UUY3c3RRX0c1S0dCTUpGbUh3aU1KWFpBdnViZHQ5amtrQjZ3NkpVVS1PbkRtR1kyR3RlS2pSOERJTXc?oc=5"
+    ]
+  },
+  {
+    "key": "fine gael:ban-being-considering-government-issue-leaders:99d052d0",
+    "title": "Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'",
+    "topic": "Fine Gael",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Mirror"
+    ],
+    "first_seen": "2026-07-20T10:15:11Z",
+    "latest_seen": "2026-07-20T10:15:11Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5"
     ]
   },
   {
