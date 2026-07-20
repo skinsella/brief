@@ -3522,6 +3522,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Mon, 20 Jul 2026 20:06:00 GMT",
+    "headline": "Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5",
+    "summary": "Irish Examiner reports: Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "louise-burne-time-the-government-stopped-pleading-with-industry-and-retail-on-e-",
+    "first_seen": "2026-07-20T20:38:32Z",
+    "source_feed": "Supplementary web/news search",
+    "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HQVNnR2Q5OHVVckN2X3NqRU5XdjR1YWIwbEdqTC1TdnpPcVkxX1Q1MzFrXzNxUlRmY2h5bjViZVZmMExiTDdoNUVXd3RCQ290UUl3Slh6SnJTS3EwR3F3ckJ6OS1iM1dCZnMwbGpzdG5oSENLNHZOZ21kcGI?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Tue, 16 Jun 2026 04:53:00 GMT",
@@ -4689,6 +4714,31 @@
     ],
     "outlet_tier": "national",
     "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5": {
+    "outlet": "IFTN",
+    "published": "Mon, 20 Jul 2026 18:25:38 GMT",
+    "headline": "Government confirms increased tax credit for large-scale VFX work",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
+    "summary": "IFTN reports: Government confirms increased tax credit for large-scale VFX work.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-confirms-increased-tax-credit-for-large-scale-vfx-work",
+    "first_seen": "2026-07-20T20:38:32Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
     "favourability": "neutral",
     "sentiment_score": 0,
     "sentiment_confidence": "medium",

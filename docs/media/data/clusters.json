@@ -275,6 +275,38 @@
     ]
   },
   {
+    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
+    "title": "Government confirms increased tax credit for large-scale VFX work",
+    "topic": "Tax",
+    "item_count": 3,
+    "outlet_count": 2,
+    "outlets": [
+      "IFTN",
+      "iftn.ie"
+    ],
+    "first_seen": "2026-07-20T10:37:37Z",
+    "latest_seen": "2026-07-20T18:25:38Z",
+    "lifespan_hours": 8,
+    "velocity_6h": 1,
+    "velocity_24h": 3,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 3,
+    "attention_score": 23,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
+    ]
+  },
+  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -641,36 +673,6 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWlHdGg2aHhvSzQxLV9nZVFiZUZaTGJLejJLYlVQUnFVaTNha2dqVEVZaWZOQXo1ZmZhVGxELU9KSWJZQUExQ2RnX3VFaWdEZm43Nk5MNTRrLXRSRVZHNV84V0RELWt6aVlzXzBFS2llbUxlcWhQdzlGWjJHQVh5dkR5NWQ4MTFaZ2NhM1p6bjNiSUhOZ0xOZGdBbVpSckZ2Wmc4NnhRWHFRRGp3aGl1RDd2RlhOcXVCOEdBOUxqVlh1dHpuZER2bkhtYVNVZGUtdmt6T3VDLXNhVlU?oc=5",
       "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUdIB_gFBVV95cUxOcGYwY1BZVXEwZXIwNlBoZWNZak82ZUpiLTI4QnU5eVltVkNvTlQwWC1rNUhJOVRyMldkVF9yOXFDVi1scGRnZUVJeFNRWWVSMkQxVW1Ua21JVjlNTVRsdkl6ZUVoOHVUMFhEYU1zWXpoTU9kbTlZZWhnYXF3RlgyY1JjNWNMaFBJTFV6RVB6eDVTWUFlbDg3eWZNazlBaEdlZjhFcDdhaE81VldOZDhLZ1RISWpsODQtRHhnY3M4a0VCR0pLREUxUDg2emxsRlFDNUc5RFl4T1h5d2YwOXE1eS11T0ctRkpveFJMVXFhQ2N1NnVYeHRfak4wU2llUQ?oc=5"
-    ]
-  },
-  {
-    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
-    "title": "Government confirms increased tax credit for large-scale VFX work",
-    "topic": "Tax",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "iftn.ie"
-    ],
-    "first_seen": "2026-07-20T10:37:37Z",
-    "latest_seen": "2026-07-20T10:37:43Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 2,
-    "reach_score": 2,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 13,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
-      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
     ]
   },
   {
@@ -2324,16 +2326,16 @@
     ]
   },
   {
-    "key": "other:800m-first-for-government-months-stood:0c5de211",
-    "title": "Government surplus stood at €800m for the first three months of the year",
+    "key": "other:burne-government-industry-louise-pleading-retail:7a842e9a",
+    "title": "Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters",
     "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "The Journal"
+      "Irish Examiner"
     ],
-    "first_seen": "2026-07-20T13:08:00Z",
-    "latest_seen": "2026-07-20T13:08:00Z",
+    "first_seen": "2026-07-20T20:06:00Z",
+    "latest_seen": "2026-07-20T20:06:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -2349,7 +2351,7 @@
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmR1WjBxenZoUG42S0xadXMwSmpTN2xYNUt2NnAwTE1aaVlIMEVvNm81Yi1OTU13QTMyY2lEVXkzRktWWnlCb3VaeVNtamJZQkUxR1BHTDhUZi0xSG5VejZLTWhzZ1RuaEZiZlkzRzU1Nmc2czYyUWxxVF9xS3J4Z2ZrdGlETm4zX1J1RVZBWHZ1VnRDSElN?oc=5"
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5"
     ]
   },
   {
@@ -3176,6 +3178,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:800m-first-for-government-months-stood:0c5de211",
+    "title": "Government surplus stood at €800m for the first three months of the year",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Journal"
+    ],
+    "first_seen": "2026-07-20T13:08:00Z",
+    "latest_seen": "2026-07-20T13:08:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmR1WjBxenZoUG42S0xadXMwSmpTN2xYNUt2NnAwTE1aaVlIMEVvNm81Yi1OTU13QTMyY2lEVXkzRktWWnlCb3VaeVNtamJZQkUxR1BHTDhUZi0xSG5VejZLTWhzZ1RuaEZiZlkzRzU1Nmc2czYyUWxxVF9xS3J4Z2ZrdGlETm4zX1J1RVZBWHZ1VnRDSElN?oc=5"
     ]
   },
   {
