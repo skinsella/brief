@@ -4526,6 +4526,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5": {
+    "outlet": "Business Post",
+    "published": "Mon, 20 Jul 2026 12:03:58 GMT",
+    "headline": "Government revenue tops €33 billion in first quarter",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5",
+    "summary": "Business Post reports: Government revenue tops €33 billion in first quarter.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-revenue-tops-33-billion-in-first-quarter",
+    "first_seen": "2026-07-20T19:04:57Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWW52eXliRm0zWHVqLUgwcUI0SHpFeEo3bk9GZ1JzaWM1V0FtZDZ2Vl8tbDczSUl1cmNITlV0am9xSWthbk9oTHNTZHptQ21rUUdaMHFIc1VyVUtzT0tJNlVMOG8zTEFkVVlJWkk1VUxEcnRWSktNSG0zYThudDJCNXJXekpfYWJvOUljUDNqbkg2T1hVM3c?oc=5": {
     "outlet": "Tuam Herald",
     "published": "Mon, 29 Jun 2026 15:25:44 GMT",
@@ -5511,6 +5536,29 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5": {
+    "outlet": "Irish Mirror",
+    "published": "Mon, 20 Jul 2026 10:19:20 GMT",
+    "headline": "Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5",
+    "summary": "Irish Mirror reports: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-leaders-considering-e-scooter-ban-today-as-issue-being-treated-as-mat",
+    "first_seen": "2026-07-20T19:04:57Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5",
+    "topic": "Fine Gael",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRV80b3ZVcjBYUERBcERVM1lGUXJ4cS1vSVJHM1hLWF9ySlJZWmZfc3pjZUQxOUFUbU9zMjhBWUJSTWNGYUNCbjVrb2JNcWUwcUt3eF9tYmptS2dQajRBLVllcHp3WGh3bnUzajhwNEdXZ2JPcDdHb1huSEdwbzQ3MlQ0b3JyaWhJcUx5VnRnTXgweVY1REhfV0E1QkZwaURFUHYxMTQxUDU?oc=5": {

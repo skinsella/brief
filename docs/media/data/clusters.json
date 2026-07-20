@@ -1031,35 +1031,6 @@
     ]
   },
   {
-    "key": "other:18s-banned-for-forward-government-puts:d80dedf0",
-    "title": "E-scooters to be banned for under-18s as Government puts forward new rules",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Cork Beo"
-    ],
-    "first_seen": "2026-07-20T12:56:15Z",
-    "latest_seen": "2026-07-20T12:56:15Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 1,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 100,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -2382,6 +2353,35 @@
     ]
   },
   {
+    "key": "other:18s-banned-for-forward-government-puts:d80dedf0",
+    "title": "E-scooters to be banned for under-18s as Government puts forward new rules",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Cork Beo"
+    ],
+    "first_seen": "2026-07-20T12:56:15Z",
+    "latest_seen": "2026-07-20T12:56:15Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 1,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 100,
+    "significant_count": 1,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5"
+    ]
+  },
+  {
     "key": "tax:481-commences-credit-effects-film-government:8ce6d038",
     "title": "Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit",
     "topic": "Tax",
@@ -3179,6 +3179,35 @@
     ]
   },
   {
+    "key": "other:billion-first-government-quarter-revenue-tops:66388df2",
+    "title": "Government revenue tops €33 billion in first quarter",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-20T12:03:58Z",
+    "latest_seen": "2026-07-20T12:03:58Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5"
+    ]
+  },
+  {
     "key": "other:ban-canney-decision-discuss-government-matter:d0556f6c",
     "title": "Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban",
     "topic": "Other",
@@ -3278,7 +3307,7 @@
     "latest_seen": "2026-07-19T19:00:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3289,7 +3318,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5"
     ]
@@ -7769,6 +7798,36 @@
     ]
   },
   {
+    "key": "fine gael:ban-being-considering-government-issue-leaders:99d052d0",
+    "title": "Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'",
+    "topic": "Fine Gael",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Mirror"
+    ],
+    "first_seen": "2026-07-20T10:15:11Z",
+    "latest_seen": "2026-07-20T10:19:20Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 2,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 3,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5",
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5"
+    ]
+  },
+  {
     "key": "other:age-allowing-for-golden-media-social:03ee5ba6",
     "title": "Tánaiste says 16 is the golden age for allowing teens on social media",
     "topic": "Other",
@@ -7855,35 +7914,6 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEZfeldvRWtSWV83a2UxOTJPT281UG1TRVdiN05LdWFqRm45S3oxSnVrbHYxUndmdGZDZVBaZk5vM2c0S2I0NldMSkY1OTRET3JmenRVYWxkeDRyZl8yZGFPTXQ4YmNoaWVuVEJxenpjWVkwa1FQLVRJSHZxS0g0YjdLazRBcVlSN0tkQnBhS1BGR3ZuR2Y4UUY3c3RRX0c1S0dCTUpGbUh3aU1KWFpBdnViZHQ5amtrQjZ3NkpVVS1PbkRtR1kyR3RlS2pSOERJTXc?oc=5"
-    ]
-  },
-  {
-    "key": "fine gael:ban-being-considering-government-issue-leaders:99d052d0",
-    "title": "Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency'",
-    "topic": "Fine Gael",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Mirror"
-    ],
-    "first_seen": "2026-07-20T10:15:11Z",
-    "latest_seen": "2026-07-20T10:15:11Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 2,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5"
     ]
   },
   {
