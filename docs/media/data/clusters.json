@@ -2292,35 +2292,6 @@
     ]
   },
   {
-    "key": "fine gael:future-government-leaders-meet-scooters:5fc789f9",
-    "title": "Government leaders to meet over future of e-scooters",
-    "topic": "Fine Gael",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Examiner"
-    ],
-    "first_seen": "2026-07-19T19:00:00Z",
-    "latest_seen": "2026-07-19T19:00:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5"
-    ]
-  },
-  {
     "key": "other:autumn-for-government-plenty-problems-stored:2b2fce60",
     "title": "The government has stored up plenty of problems for autumn",
     "topic": "Other",
@@ -3028,6 +2999,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "fine gael:future-government-leaders-meet-scooters:5fc789f9",
+    "title": "Government leaders to meet over future of e-scooters",
+    "topic": "Fine Gael",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-19T19:00:00Z",
+    "latest_seen": "2026-07-19T19:00:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5"
     ]
   },
   {
