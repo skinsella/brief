@@ -1,20 +1,20 @@
 # Simon Harris Media Briefing
 
-Updated: Mon, 20 Jul 2026 23:34 GMT
+Updated: Tue, 21 Jul 2026 01:03 GMT
 
 ## Snapshot
 
-- Recent coverage: 90 item(s) in the last 7 days.
+- Recent coverage: 75 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 20.
 
 ## Trend Summary
 
-- Coverage volume: 90 item(s) in the last 7 days; up 1 vs previous 7 days.
+- Coverage volume: 75 item(s) in the last 7 days; down 25 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 47 item(s).
+- Main topic: Other leads recent coverage with 33 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 17 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
 
 ## Narrative Summary
 
@@ -37,25 +37,25 @@ Updated: Mon, 20 Jul 2026 23:34 GMT
 
 ## Top Topics
 
-- Other: 47
+- Other: 33
 - Tax: 11
 - Finance: 11
-- Fine Gael: 7
 - Foreign affairs: 7
+- Fine Gael: 6
 - Enterprise: 4
 - Constituency/local: 2
 - Courts/security: 1
 
 ## Top Outlets
 
-- Irish Independent: 17
-- MSN: 8
-- BreakingNews.ie: 7
+- Irish Independent: 16
+- MSN: 7
 - Irish Examiner: 5
-- The Journal: 5
+- BreakingNews.ie: 5
+- The Journal: 4
 - Business Post: 4
-- Limerick Leader: 4
 - RTE.ie: 3
+- RTE News: 3
 
 ## Story Clusters
 
@@ -63,8 +63,8 @@ Updated: Mon, 20 Jul 2026 23:34 GMT
 - [persistent] Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ — 7 item(s), 5 outlet(s), 0 in 6h, 0 in 24h, net -14%. Outlets: Business Post, MSN, The Irish Times, The Journal, TheJournal.ie
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
-- [active] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 1 in 6h, 4 in 24h, net 0%. Outlets: IFTN, iftn.ie
 - [active] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 2 in 24h, net -33%. Outlets: Irish Independent
+- [active] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 0 in 6h, 4 in 24h, net 0%. Outlets: IFTN, iftn.ie
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie

@@ -149,39 +149,6 @@
     ]
   },
   {
-    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
-    "title": "Government confirms increased tax credit for large-scale VFX work",
-    "topic": "Tax",
-    "item_count": 4,
-    "outlet_count": 2,
-    "outlets": [
-      "IFTN",
-      "iftn.ie"
-    ],
-    "first_seen": "2026-07-20T10:37:37Z",
-    "latest_seen": "2026-07-20T18:25:38Z",
-    "lifespan_hours": 8,
-    "velocity_6h": 1,
-    "velocity_24h": 4,
-    "reach_score": 4,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 4,
-    "attention_score": 29,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
-      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
-      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
-    ]
-  },
-  {
     "key": "tax:residential-zoned-land-tax",
     "title": "Simon Harris confirms councils must pay residential zoned land tax on own housing land",
     "topic": "Tax",
@@ -210,6 +177,39 @@
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5",
       "https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html",
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
+    ]
+  },
+  {
+    "key": "tax:confirms-credit-for-government-increased-large:ef899440",
+    "title": "Government confirms increased tax credit for large-scale VFX work",
+    "topic": "Tax",
+    "item_count": 4,
+    "outlet_count": 2,
+    "outlets": [
+      "IFTN",
+      "iftn.ie"
+    ],
+    "first_seen": "2026-07-20T10:37:37Z",
+    "latest_seen": "2026-07-20T18:25:38Z",
+    "lifespan_hours": 8,
+    "velocity_6h": 0,
+    "velocity_24h": 4,
+    "reach_score": 4,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 4,
+    "attention_score": 26,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5"
     ]
   },
   {
