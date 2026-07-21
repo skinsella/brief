@@ -193,7 +193,7 @@
     "latest_seen": "2026-07-20T18:25:38Z",
     "lifespan_hours": 8,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 4,
     "tone_counts": {
       "favourable": 0,
@@ -204,7 +204,7 @@
     "net_framing": 0,
     "significant_count": 4,
     "attention_score": 26,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5",
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5",
@@ -2506,6 +2506,35 @@
     "item_links": [
       "https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5"
+    ]
+  },
+  {
+    "key": "other:constructive-extremely-hold-lou-mary-mcdonald:de34c426",
+    "title": "Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-21T18:12:00Z",
+    "latest_seen": "2026-07-21T18:12:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5"
     ]
   },
   {

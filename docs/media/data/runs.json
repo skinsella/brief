@@ -1,5 +1,85 @@
 [
   {
+    "checked_at": "2026-07-21T19:46:07Z",
+    "checked_at_display": "Tue, 21 Jul 2026 19:46 GMT",
+    "new_count": 1,
+    "old_skipped": 10,
+    "duplicate_skipped": 11,
+    "mismatched_skipped": 8,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 2,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 2,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 14,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 32,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5"
+    ],
+    "archive_file": "archive/20260721T194607Z.html"
+  },
+  {
     "checked_at": "2026-07-21T17:41:04Z",
     "checked_at_display": "Tue, 21 Jul 2026 17:41 GMT",
     "new_count": 0,
@@ -7869,86 +7949,5 @@
       "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5"
     ],
     "archive_file": "archive/20260714T122035Z.html"
-  },
-  {
-    "checked_at": "2026-07-14T10:54:14Z",
-    "checked_at_display": "Tue, 14 Jul 2026 10:54 GMT",
-    "new_count": 2,
-    "old_skipped": 14,
-    "duplicate_skipped": 12,
-    "mismatched_skipped": 6,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 15,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 12,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 34,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzlUN2wtYmRBVWp6U0dOeVRLcGZHUDFWS1lobGF1b1h3akFhaVRmdUhQZXVteTBlSG16RHViY0M3UTQtVUZQcVFUSXRWNTVMZ1QwMlBQYmRTT2NnNWM1TTQtR2Z0Y1kySlFRWGZ6WnEtTF9BZGxLYWpSZkRRUlUxUEdjendXRTVfdHkwLWpHRjNSVWxKeUk5dXZ2UUxsS25KV1F2dnJwb1E5RTFLVXJqdmhYYWxhWGRzQ3BDb3pSa29OZw?oc=5",
-      "https://www.breakingnews.ie/ireland/hard-to-know-when-aughinish-alumina-workers-will-have-clarity-tanaiste-says-1926603.html"
-    ],
-    "archive_file": "archive/20260714T105414Z.html"
   }
 ]

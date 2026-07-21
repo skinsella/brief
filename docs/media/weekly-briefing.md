@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 21 Jul 2026 17:41 GMT
+Updated: Tue, 21 Jul 2026 19:46 GMT
 
 ## Snapshot
 
-- Recent coverage: 95 item(s) in the last 7 days.
+- Recent coverage: 96 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 28.
 
 ## Trend Summary
 
-- Coverage volume: 95 item(s) in the last 7 days; down 5 vs previous 7 days.
+- Coverage volume: 96 item(s) in the last 7 days; down 4 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 37 item(s).
+- Main topic: Other leads recent coverage with 38 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
 
@@ -37,7 +37,7 @@ Updated: Tue, 21 Jul 2026 17:41 GMT
 
 ## Top Topics
 
-- Other: 37
+- Other: 38
 - Tax: 18
 - Finance: 12
 - Housing: 8
@@ -49,10 +49,10 @@ Updated: Tue, 21 Jul 2026 17:41 GMT
 ## Top Outlets
 
 - Irish Independent: 18
+- Irish Examiner: 7
 - BreakingNews.ie: 7
 - MSN: 7
 - Business Post: 6
-- Irish Examiner: 6
 - The Journal: 5
 - businessplus.ie: 3
 - RTE.ie: 3
@@ -64,7 +64,7 @@ Updated: Tue, 21 Jul 2026 17:41 GMT
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [persistent] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -33%. Outlets: Irish Independent
-- [active] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: IFTN, iftn.ie
+- [dormant] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: IFTN, iftn.ie
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
@@ -72,6 +72,7 @@ Updated: Tue, 21 Jul 2026 17:41 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Examiner: Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification (https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5)
 - [neutral factual] Business Post: Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink (https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5)
 - [neutral factual] Irish Star: Irish government make major decision on 'dangerous' e-scooters (https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmZTZkhHc0gtNElBSE5qbTY1TFYzR0NBakk3aTZfZVBSX3h4di1lU3dtRmd5S3RFT1pNUWlLZmJmTWJMRjZscE9tNGFJd2U2UHIxanVyVTk3N1M0RlBzWW1pS3BqeW1PODJ2YVROeWFFMUduQkowRVJ6enlaR01XQTR4c20xcjNCVnh1MkhmMFdoZGvSAZgBQVVfeXFMT3kzX0hPTDM4dUJrR1BhQXc2a2liNGhMaWVHZ0JLV0U1dFNCSXY5UmRibjN4dERVdTIwVkJudkVEMG1pN2c2OW9SWjdPM2docmZaS1ZYWmtNN0wzQUpUM19DZ1AzeWEwZG4wd2Vhb0I5WXdPY29GQ0x6d0Y5U2NDMWRTazBaOHpZdTlITk9lRFNOVjRaYlV3TDc?oc=5)
 - [neutral factual] Irish Star: Irish government make major decision on 'dangerous' e-scooters (https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMN9IBmAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMNw?oc=5)
@@ -91,4 +92,3 @@ Updated: Tue, 21 Jul 2026 17:41 GMT
 - [neutral factual] Irish Examiner: Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters (https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5)
 - [neutral factual] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5)
 - [neutral factual] Hotpress: Government announce increased tax credit for films with big visual effects budgets (https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5)
-- [neutral factual] businessplus.ie: Government runs €800m surplus in Q1 as debt rises €5.5bn (https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5)

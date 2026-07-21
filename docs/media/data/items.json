@@ -2672,6 +2672,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Tue, 21 Jul 2026 18:12:00 GMT",
+    "headline": "Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5",
+    "summary": "Irish Examiner reports: Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "simon-harris-and-mary-lou-mcdonald-hold-extremely-constructive-talks-on-irish-un",
+    "first_seen": "2026-07-21T19:46:07Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LT3BneEl2aUxYVlRGWmc4cm85MmwwZ05yVUhMaGhGS3NqRDZJQWZPZjBwT05NNnkwSUdrQmNDa2ZNSl85MXhoVGxRaF9qUC14Ukx1OHdtRU9wQ1owM1lwQUcycTdhU0hSQmZ4eWVMUQ?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Thu, 16 Jul 2026 14:40:00 GMT",

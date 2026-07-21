@@ -796,6 +796,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZC13dVp6b1ZVb0RCa0ZYdHppcjhodkxUSFVOYVd2dktwY01DdWpnQXRMb08tQzhuUlJWZVFvY0R2aXdZZ2xNQjJQcTZMWDdrZ2VHQlNZUlNWM3FNd1NjYVlGYS1Rd1BUZFk2bmJaUFd4VXl2OXRzVC1QcDJIdDJBeVBRa29raFhBaGNQbDVrQWdXUTNGMDlMMXVreVczWS04N1pEZlZiV1BXZTNabmR6Q2tBblFNRUxwUmpnc3d6LTdDN1FaOTNxeEdqbTB2TmU1bUE?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Tue, 21 Jul 2026 19:00:59 GMT",
+    "headline": "Burnham's electricity VAT cut could put pressure on Martin amid cost-of-living pressures",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZC13dVp6b1ZVb0RCa0ZYdHppcjhodkxUSFVOYVd2dktwY01DdWpnQXRMb08tQzhuUlJWZVFvY0R2aXdZZ2xNQjJQcTZMWDdrZ2VHQlNZUlNWM3FNd1NjYVlGYS1Rd1BUZFk2bmJaUFd4VXl2OXRzVC1QcDJIdDJBeVBRa29raFhBaGNQbDVrQWdXUTNGMDlMMXVreVczWS04N1pEZlZiV1BXZTNabmR6Q2tBblFNRUxwUmpnc3d6LTdDN1FaOTNxeEdqbTB2TmU1bUE?oc=5",
+    "summary": "BreakingNews.ie reports: Burnham's electricity VAT cut could put pressure on Martin amid cost-of-living pressures.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "burnham-s-electricity-vat-cut-could-put-pressure-on-martin-amid-cost-of-living-p",
+    "first_seen": "2026-07-21T19:46:07Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZC13dVp6b1ZVb0RCa0ZYdHppcjhodkxUSFVOYVd2dktwY01DdWpnQXRMb08tQzhuUlJWZVFvY0R2aXdZZ2xNQjJQcTZMWDdrZ2VHQlNZUlNWM3FNd1NjYVlGYS1Rd1BUZFk2bmJaUFd4VXl2OXRzVC1QcDJIdDJBeVBRa29raFhBaGNQbDVrQWdXUTNGMDlMMXVreVczWS04N1pEZlZiV1BXZTNabmR6Q2tBblFNRUxwUmpnc3d6LTdDN1FaOTNxeEdqbTB2TmU1bUE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZC13dVp6b1ZVb0RCa0ZYdHppcjhodkxUSFVOYVd2dktwY01DdWpnQXRMb08tQzhuUlJWZVFvY0R2aXdZZ2xNQjJQcTZMWDdrZ2VHQlNZUlNWM3FNd1NjYVlGYS1Rd1BUZFk2bmJaUFd4VXl2OXRzVC1QcDJIdDJBeVBRa29raFhBaGNQbDVrQWdXUTNGMDlMMXVreVczWS04N1pEZlZiV1BXZTNabmR6Q2tBblFNRUxwUmpnc3d6LTdDN1FaOTNxeEdqbTB2TmU1bUE?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDJZMG5KOWpqVG9taUpiSEo4NHFxYkttaWJoa0J0QnZJS3dVdlpZTjRlYmd4eWxCNzdYMHVrV2V5a1paRlhjaWdKUmZobTNGQ2F3QzVKQjRkZ0cwZDJJcmN1cTgxWnNRZDdYWFVPU1FqTmR0OFZRMDBYaUMtY1BIUEFIOEtQOFhoTWNVZnpZWG1mRDBaTzBZSVJKS0FIcjc5WmpxczZWdG16RURCREU1TUxReWhYQTI3amRUeUtYWkhuOUlfeEFlb3BXV01TanZ0OFE?oc=5": {
     "outlet": "Limerick Post",
     "published": "Sat, 06 Jun 2026 09:30:56 GMT",
