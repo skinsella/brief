@@ -1220,36 +1220,6 @@
     ]
   },
   {
-    "key": "other:billion-first-government-quarter-revenue-tops:66388df2",
-    "title": "Government revenue tops €33 billion in first quarter",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-20T12:03:58Z",
-    "latest_seen": "2026-07-21T07:03:21Z",
-    "lifespan_hours": 19,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5",
-      "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -2543,6 +2513,65 @@
     ]
   },
   {
+    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
+    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
+    "topic": "Housing",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-21T10:47:00Z",
+    "latest_seen": "2026-07-21T10:47:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5"
+    ]
+  },
+  {
+    "key": "other:billion-first-government-quarter-revenue-tops:66388df2",
+    "title": "Government revenue tops €33 billion in first quarter",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-20T12:03:58Z",
+    "latest_seen": "2026-07-21T07:03:21Z",
+    "lifespan_hours": 19,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5",
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5"
+    ]
+  },
+  {
     "key": "finance:announce-big-credit-effects-films-for:50532eb0",
     "title": "Government announce increased tax credit for films with big visual effects budgets",
     "topic": "Finance",
@@ -2584,7 +2613,7 @@
     "latest_seen": "2026-07-20T13:48:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -2595,7 +2624,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5"
     ]
@@ -2613,7 +2642,7 @@
     "latest_seen": "2026-07-20T12:56:15Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 1,
@@ -2624,7 +2653,7 @@
     "net_framing": 100,
     "significant_count": 1,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5"
     ]
@@ -3398,6 +3427,35 @@
     ]
   },
   {
+    "key": "other:dangerous-decision-government-major-make-scooters:20844ed8",
+    "title": "Irish government make major decision on 'dangerous' e-scooters",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Star"
+    ],
+    "first_seen": "2026-07-21T13:59:00Z",
+    "latest_seen": "2026-07-21T13:59:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmZTZkhHc0gtNElBSE5qbTY1TFYzR0NBakk3aTZfZVBSX3h4di1lU3dtRmd5S3RFT1pNUWlLZmJmTWJMRjZscE9tNGFJd2U2UHIxanVyVTk3N1M0RlBzWW1pS3BqeW1PODJ2YVROeWFFMUduQkowRVJ6enlaR01XQTR4c20xcjNCVnh1MkhmMFdoZGvSAZgBQVVfeXFMT3kzX0hPTDM4dUJrR1BhQXc2a2liNGhMaWVHZ0JLV0U1dFNCSXY5UmRibjN4dERVdTIwVkJudkVEMG1pN2c2OW9SWjdPM2docmZaS1ZYWmtNN0wzQUpUM19DZ1AzeWEwZG4wd2Vhb0I5WXdPY29GQ0x6d0Y5U2NDMWRTazBaOHpZdTlITk9lRFNOVjRaYlV3TDc?oc=5"
+    ]
+  },
+  {
     "key": "other:burne-government-industry-louise-pleading-retail:7a842e9a",
     "title": "Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters",
     "topic": "Other",
@@ -3439,7 +3497,7 @@
     "latest_seen": "2026-07-20T13:08:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3450,7 +3508,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmR1WjBxenZoUG42S0xadXMwSmpTN2xYNUt2NnAwTE1aaVlIMEVvNm81Yi1OTU13QTMyY2lEVXkzRktWWnlCb3VaeVNtamJZQkUxR1BHTDhUZi0xSG5VejZLTWhzZ1RuaEZiZlkzRzU1Nmc2czYyUWxxVF9xS3J4Z2ZrdGlETm4zX1J1RVZBWHZ1VnRDSElN?oc=5"
     ]

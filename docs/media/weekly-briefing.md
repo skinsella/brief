@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 21 Jul 2026 11:57 GMT
+Updated: Tue, 21 Jul 2026 14:16 GMT
 
 ## Snapshot
 
-- Recent coverage: 91 item(s) in the last 7 days.
+- Recent coverage: 93 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 27.
 
 ## Trend Summary
 
-- Coverage volume: 91 item(s) in the last 7 days; down 9 vs previous 7 days.
+- Coverage volume: 93 item(s) in the last 7 days; down 7 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 35 item(s).
+- Main topic: Other leads recent coverage with 36 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 13 active cluster(s), including 5 emerging in the last 6 hours.
+- Active narratives: 12 active cluster(s), including 5 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -37,10 +37,10 @@ Updated: Tue, 21 Jul 2026 11:57 GMT
 
 ## Top Topics
 
-- Other: 35
+- Other: 36
 - Tax: 17
 - Finance: 12
-- Housing: 7
+- Housing: 8
 - Foreign affairs: 7
 - Fine Gael: 6
 - Enterprise: 4
@@ -51,9 +51,9 @@ Updated: Tue, 21 Jul 2026 11:57 GMT
 - Irish Independent: 18
 - BreakingNews.ie: 7
 - MSN: 7
+- Irish Examiner: 6
 - The Journal: 5
 - Business Post: 5
-- Irish Examiner: 5
 - businessplus.ie: 3
 - RTE.ie: 3
 
@@ -72,7 +72,9 @@ Updated: Tue, 21 Jul 2026 11:57 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Star: Irish government make major decision on 'dangerous' e-scooters (https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmZTZkhHc0gtNElBSE5qbTY1TFYzR0NBakk3aTZfZVBSX3h4di1lU3dtRmd5S3RFT1pNUWlLZmJmTWJMRjZscE9tNGFJd2U2UHIxanVyVTk3N1M0RlBzWW1pS3BqeW1PODJ2YVROeWFFMUduQkowRVJ6enlaR01XQTR4c20xcjNCVnh1MkhmMFdoZGvSAZgBQVVfeXFMT3kzX0hPTDM4dUJrR1BhQXc2a2liNGhMaWVHZ0JLV0U1dFNCSXY5UmRibjN4dERVdTIwVkJudkVEMG1pN2c2OW9SWjdPM2docmZaS1ZYWmtNN0wzQUpUM19DZ1AzeWEwZG4wd2Vhb0I5WXdPY29GQ0x6d0Y5U2NDMWRTazBaOHpZdTlITk9lRFNOVjRaYlV3TDc?oc=5)
 - [neutral factual] BreakingNews.ie: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris (https://www.breakingnews.ie/ireland/irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-simon-harris-1929815.html)
+- [neutral factual] Irish Examiner: ‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste (https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5)
 - [neutral factual] Irish Independent: ‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations (https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5)
 - [neutral factual] BreakingNews.ie: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris (https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5)
 - [neutral factual] TheJournal.ie: Tax and insurance to be introduced for e-scooters, Tánaiste says (https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/)
@@ -90,5 +92,3 @@ Updated: Tue, 21 Jul 2026 11:57 GMT
 - [neutral factual] businessplus.ie: Government runs €800m surplus in Q1 as debt rises €5.5bn (https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5)
 - [neutral factual] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5)
 - [neutral factual] businessplus.ie: Government launches 40% tax credit for visual effects (https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5)
-- [neutral factual] The Journal: Government surplus stood at €800m for the first three months of the year (https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmR1WjBxenZoUG42S0xadXMwSmpTN2xYNUt2NnAwTE1aaVlIMEVvNm81Yi1OTU13QTMyY2lEVXkzRktWWnlCb3VaeVNtamJZQkUxR1BHTDhUZi0xSG5VejZLTWhzZ1RuaEZiZlkzRzU1Nmc2czYyUWxxVF9xS3J4Z2ZrdGlETm4zX1J1RVZBWHZ1VnRDSElN?oc=5)
-- [supportive] Cork Beo: E-scooters to be banned for under-18s as Government puts forward new rules (https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5)
