@@ -2277,6 +2277,29 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5": {
+    "outlet": "businessplus.ie",
+    "published": "Mon, 20 Jul 2026 15:30:00 GMT",
+    "headline": "Government runs €800m surplus in Q1 as debt rises €5.5bn",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5",
+    "summary": "businessplus.ie reports: Government runs €800m surplus in Q1 as debt rises €5.5bn.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-runs-800m-surplus-in-q1-as-debt-rises-5-5bn",
+    "first_seen": "2026-07-21T07:15:08Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNnFKNlU3LVJBQ1NyRWxtNU13cHRhbmxHTXRmMFR1RzNGWWNzdG5wVWgzaWJDS1cwdVVrTng1aWpYNUhqam9ZaEdEWkEtbEY1Q1o0YXQ1TVRhWi14c3FkT0QzUQ?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Mon, 13 Jul 2026 16:10:00 GMT",
@@ -2398,6 +2421,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5": {
+    "outlet": "businessplus.ie",
+    "published": "Mon, 20 Jul 2026 13:48:00 GMT",
+    "headline": "Government launches 40% tax credit for visual effects",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5",
+    "summary": "businessplus.ie reports: Government launches 40% tax credit for visual effects.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-launches-40-tax-credit-for-visual-effects",
+    "first_seen": "2026-07-21T07:15:08Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb3h4Z3RkM3VESlo4U0w3dHZwSjVSM3ZGdGVSU2JDN3VlZEFkY1pnV2g3dDl0bkRSMXhNZ3hPeGRORS1mNmVGWnpldjhuUDdSblZXbTBVUmNsSVkyZjBkc3ViNzI5UEVsZXlYYWlJbTlCZmI0cmhFS3ZtV3JtVEdOZVBDdzRHdUVhUHBQdEVwcHZ6SE5MeG15dW5vX2lsVmRKcW9sUkN5eEo3bmNvU1Y4ZVV2N0ZNdldYN24yODRFbEtmcUVyMWhJQkJiWmdud0dKNHJkTGJSdGt4VlZrSllqRFU3YVVlYy0yalVYWmY4N0syWDJPa2tZNGQwM2k?oc=5": {
@@ -4935,6 +4983,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5": {
+    "outlet": "Business Post",
+    "published": "Tue, 21 Jul 2026 07:03:21 GMT",
+    "headline": "Government revenue tops €33 billion in first quarter",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5",
+    "summary": "Business Post reports: Government revenue tops €33 billion in first quarter.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-revenue-tops-33-billion-in-first-quarter",
+    "first_seen": "2026-07-21T07:15:08Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXpibWpJWHBJS20tbVl0MzJfUms2QXd5YTQzaFluRzhrc05xZkZtcXJaNFl3YlhjeG1JVHIwb0lBQTZiR1doeFJOMGNuS3BxZ0tIRV9xMVo2NTFoTkZaUVJXMVA5WTZHdUtvYjNKM1ZKRE54alk4bEhKcm1Da0tDSHYzV2daejJnX0ZISW5qX24wUVlGN2FEN0RZRdIBoAFBVV95cUxNZW9vNkgtQngtWDl0S3MwQ0UxOVFmLWpKeVdZd1Rwa05kVkpUZWc3eVY3MzVNZGoxRHJYZnpkYTExZFJoWmVibGJtaDRORndpZ1YyS2sxZUtMQ0ExR1hxb09tODkxMENWNEcyUmR1eWFoWDlRQzNERUZIT3dQeHB2SktLb0pmMUtHcGdGUzZ3WklmWjRDbnAwSEw2TTM0Y3Rz?oc=5": {
@@ -7928,6 +8001,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5": {
+    "outlet": "Hotpress",
+    "published": "Mon, 20 Jul 2026 15:39:46 GMT",
+    "headline": "Government announce increased tax credit for films with big visual effects budgets",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5",
+    "summary": "Hotpress reports: Government announce increased tax credit for films with big visual effects budgets.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-announce-increased-tax-credit-for-films-with-big-visual-effects-budge",
+    "first_seen": "2026-07-21T07:15:08Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWS01UTlKak9UOE9ZcGNRQmJBcURISXZ5QzZYWWFESEZMMXFka1hDdGdWWTdDcTh4dWJEa0RqYWM2eG1HZmFlOWNXck5PbTN2dm8welBxZ2hDTjA4T3BraWlGUXYzSkhjb1QxbXc4T0tPM21YMDJ4QUU2WkUtNDljaEtzX2FoMDBya0gyMjhDdzVrQVVObVFKczJ5dGgwa2pYUWhDWFZoSTN2QVFhWjY0QWx1RU95WVdsUnRHdzg2RHQwak0?oc=5": {

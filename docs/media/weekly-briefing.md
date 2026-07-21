@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 21 Jul 2026 04:26 GMT
+Updated: Tue, 21 Jul 2026 07:15 GMT
 
 ## Snapshot
 
-- Recent coverage: 75 item(s) in the last 7 days.
+- Recent coverage: 79 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
-- Significant items: 20.
+- Significant items: 22.
 
 ## Trend Summary
 
-- Coverage volume: 75 item(s) in the last 7 days; down 25 vs previous 7 days.
+- Coverage volume: 79 item(s) in the last 7 days; down 21 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 33 item(s).
+- Main topic: Other leads recent coverage with 35 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 14 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 16 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -37,9 +37,9 @@ Updated: Tue, 21 Jul 2026 04:26 GMT
 
 ## Top Topics
 
-- Other: 33
-- Tax: 11
-- Finance: 11
+- Other: 35
+- Tax: 12
+- Finance: 12
 - Foreign affairs: 7
 - Fine Gael: 6
 - Enterprise: 4
@@ -50,12 +50,12 @@ Updated: Tue, 21 Jul 2026 04:26 GMT
 
 - Irish Independent: 16
 - MSN: 7
+- Business Post: 5
 - Irish Examiner: 5
 - BreakingNews.ie: 5
 - The Journal: 4
-- Business Post: 4
+- businessplus.ie: 3
 - RTE.ie: 3
-- RTE News: 3
 
 ## Story Clusters
 
@@ -63,7 +63,7 @@ Updated: Tue, 21 Jul 2026 04:26 GMT
 - [persistent] Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ — 7 item(s), 5 outlet(s), 0 in 6h, 0 in 24h, net -14%. Outlets: Business Post, MSN, The Irish Times, The Journal, TheJournal.ie
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
-- [active] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 2 in 24h, net -33%. Outlets: Irish Independent
+- [persistent] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -33%. Outlets: Irish Independent
 - [active] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 0 in 6h, 4 in 24h, net 0%. Outlets: IFTN, iftn.ie
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
@@ -72,9 +72,13 @@ Updated: Tue, 21 Jul 2026 04:26 GMT
 
 ## Recent Items
 
+- [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5)
 - [neutral factual] Irish Examiner: Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters (https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5)
 - [neutral factual] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5)
+- [neutral factual] Hotpress: Government announce increased tax credit for films with big visual effects budgets (https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5)
+- [neutral factual] businessplus.ie: Government runs €800m surplus in Q1 as debt rises €5.5bn (https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOT0dNR3hvTkstQl9nTjBuSUFnbzFGQmVsc1JxRHFCM2NCdUYzY3k3bjFDRkZXaWpWQS01dkREVlJPWkRrVUU4WVRUajZwSF84TXNXaG1abU4tZ1NCbkE?oc=5)
 - [neutral factual] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5)
+- [neutral factual] businessplus.ie: Government launches 40% tax credit for visual effects (https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YT3BtMkF2NmYxTlpORURKMktyVVlVTGE3b2lFalI4U2NxTng4Zk9tWHdDX3E5NExDdkdtYWUxWENOVnc0Ymo1MFRvZVg0Wkh4Zlc2M2k0bWtZWUkwX1ludkkyV1daUQ?oc=5)
 - [neutral factual] The Journal: Government surplus stood at €800m for the first three months of the year (https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmR1WjBxenZoUG42S0xadXMwSmpTN2xYNUt2NnAwTE1aaVlIMEVvNm81Yi1OTU13QTMyY2lEVXkzRktWWnlCb3VaeVNtamJZQkUxR1BHTDhUZi0xSG5VejZLTWhzZ1RuaEZiZlkzRzU1Nmc2czYyUWxxVF9xS3J4Z2ZrdGlETm4zX1J1RVZBWHZ1VnRDSElN?oc=5)
 - [supportive] Cork Beo: E-scooters to be banned for under-18s as Government puts forward new rules (https://news.google.com/rss/articles/CBMickFVX3lxTE1GRWZIWnpiYkI4RzhLRjdKM2xDZHhua3dMQ1c2c1FlYll5RGtDelZQTjQyT2xYYXhrSUZDUlFxNlYySE42WGJRX3NHeUtlWWtTR2gtR29hTFRPQTVHRmFRVmplTXh3MVFzVkh1WldtOFV1UdIBd0FVX3lxTFBLUDhEeHUxUGp1YWJSYlVhcF9sWWlncGR0OVVrd1hSSnNmT2k4OXVxQVlxSTBSd0k4NmlQRkZkVm1NcVFHYUVGTTBZcUpVcGM2QkUxY20yMElGWll3Q1VERmN2Zk9OZU9DVlAxSTNfc3ZjS1Nibkhj?oc=5)
 - [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5)
@@ -88,7 +92,3 @@ Updated: Tue, 21 Jul 2026 04:26 GMT
 - [neutral factual] Irish Independent: Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools (https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5)
 - [neutral factual] Irish Mirror: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency' (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5)
 - [neutral factual] Irish Mirror: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency' (https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5)
-- [neutral factual] The Irish Sun: Tanaiste Harris confirms new €1m tax credit to ‘make Ireland more competitive’ (https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5)
-- [neutral factual] Irish Independent: Simon Harris confirms councils must pay residential zoned land tax on own housing land (https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5)
-- [neutral factual] Irish Independent: Simon Harris confirms councils must pay residential zoned land tax on own housing land (https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html)
-- [neutral factual] Irish Examiner: Government leaders to meet over future of e-scooters (https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HeGtiOVd1eE1SRUZNZGc1cFFmbWhZcjFEbTR3amlYRkM4Mi1vRE9tYkFNOUZiSEZvcHhfZnhlenNrNmZtYU02ODNQYk9yZE96QnJmblc5ZlI0MFhoNl9fSWFWbw?oc=5)
