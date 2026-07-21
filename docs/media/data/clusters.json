@@ -193,7 +193,7 @@
     "latest_seen": "2026-07-20T18:25:38Z",
     "lifespan_hours": 8,
     "velocity_6h": 0,
-    "velocity_24h": 4,
+    "velocity_24h": 2,
     "reach_score": 4,
     "tone_counts": {
       "favourable": 0,
@@ -336,6 +336,36 @@
     "item_links": [
       "https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/",
       "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5"
+    ]
+  },
+  {
+    "key": "tax:interest-low-punitive-rates-savers-screwed:8e73a032",
+    "title": "Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris",
+    "topic": "Tax",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-21T09:53:53Z",
+    "latest_seen": "2026-07-21T10:53:53Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 23,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-simon-harris-1929815.html",
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5"
     ]
   },
   {
@@ -577,6 +607,39 @@
     ]
   },
   {
+    "key": "housing:parent-scooter-should-thinking-toy:796c6919",
+    "title": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
+    "topic": "Housing",
+    "item_count": 3,
+    "outlet_count": 3,
+    "outlets": [
+      "Belfast Telegraph",
+      "Limerick Leader",
+      "Waterford Live"
+    ],
+    "first_seen": "2026-07-21T09:24:00Z",
+    "latest_seen": "2026-07-21T09:34:07Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 3,
+    "velocity_24h": 3,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 15,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5",
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVBMDVCcHJjUmdtWTVlNl9TaTRzRjRKVUd6d3JqZDg2Y2hfdDZvREZhZ29Fb3IwSVI5NjBVMGhFcFNPUGl6SV90OGR2cms2M01Va3oyWWgzb0NNdThvZVlSalBoNjBQSzdacUhCNVhHWUl1ZDZkb3VBeGxwRlB4dkFQNzBlWm1iVjRPZWgweW93U2pUY2o3QVJiVzZqNlNCQVNXc0JIMmozd2NxQndyY1loa1lhRE8zTVdlaWVnNA?oc=5",
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxQak9mUlQ3STBsS0RJU2RxNjNHY05ieVRVaElTUWdpXzJQMTl4SHpEWUdLcnpBMEpGMFlweU50elBUOFdMV2R3UUF6Mmx3dGNxV0xScFQyT0JnOTFtT1BaWldvRGVZbldzdUt0RUJvZnBfN1QzY1ZHRDI4bWxXQVNHZzh0VXBqQWVOdDZCdG5acmpJX29Hdmp2NFJYSVRORlBkdmtQWFV0Z0l4QmsyTnFrWWdfMlo2bmJIVnVxV1Rn?oc=5"
+    ]
+  },
+  {
     "key": "other:alumina-aughinish-clarity-hard-know-when:ce70a883",
     "title": "‘Hard to know’ when Aughinish Alumina workers will have clarity, Tánaiste says",
     "topic": "Other",
@@ -655,7 +718,7 @@
     "latest_seen": "2026-07-20T10:25:50Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 2,
     "tone_counts": {
       "favourable": 0,
@@ -666,7 +729,7 @@
     "net_framing": 0,
     "significant_count": 2,
     "attention_score": 14,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlhLMHQzNU5uZXVYNEk4ZmVTc0ZuUWpxWlZ6X0dub1RZYW4tZDh0b3VyclYtOFpoeHRhNzFoblRDMGZPV0NCeVlvU282dkxsNlVrNm5VdDE2QnhvSUM0REh3Zm1kSy13bWlvSXgtdkp1Y3lpT0dfbzBSa2lSRDhEUzk1WDdMV2p0Q2xSY1hpQmJ5NWJzOG9PT2NfNEdURDZYckx6WTNqUHllZFg4NXc?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5"
@@ -860,35 +923,6 @@
       "https://www.breakingnews.ie/ireland/simon-harris-announces-blueprint-for-irish-unity-1913504.html",
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQno2ME81N1A0R0kzbHo2dlk0ajQ1blFaYU5rTGZiTmFidjNsWGF3bFNTOFNJZnpWejREc1B6OERfbU9iZTFMSktfSEE0YkdnYnRIU0U0Ml9BRnR4a1dFcmxtdC14RmtmUnYyWTNtdnVuYnJNN29lN2ZBTDRqT0dFbHRZM3UtVDdVRDFEOWl4ZDViQ0VMZVV4SldYYUI?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VuM0dTNWhzT3lhbzNvOXdoR2tnd3loM05PUFdEN1RYRHhkeUFIRDlZVmltc2V4WXBEdnJrS28tMXNuSnl3c3E1NEgtdkx2MHhaTDFDMTEyYnhuM2Y3dkpxajF3VUdlR3hJOTRCMkphcndjZ3IzNnVmTE55VTNTQ2ZUSUZGaDFnTGNEUm8weDVlZG9wTEhBaFpoSzNYdw?oc=5"
-    ]
-  },
-  {
-    "key": "tax:interest-low-punitive-rates-savers-screwed:8e73a032",
-    "title": "Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "BreakingNews.ie"
-    ],
-    "first_seen": "2026-07-21T09:53:53Z",
-    "latest_seen": "2026-07-21T09:53:53Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5"
     ]
   },
   {
@@ -2608,7 +2642,7 @@
     "latest_seen": "2026-07-20T10:55:21Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -2619,7 +2653,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5"
     ]
@@ -3364,35 +3398,6 @@
     ]
   },
   {
-    "key": "housing:parent-scooter-should-thinking-toy:796c6919",
-    "title": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
-    "topic": "Housing",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Belfast Telegraph"
-    ],
-    "first_seen": "2026-07-21T09:34:07Z",
-    "latest_seen": "2026-07-21T09:34:07Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5"
-    ]
-  },
-  {
     "key": "other:burne-government-industry-louise-pleading-retail:7a842e9a",
     "title": "Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters",
     "topic": "Other",
@@ -3463,7 +3468,7 @@
     "latest_seen": "2026-07-20T10:26:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3474,7 +3479,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5"
     ]
@@ -3492,7 +3497,7 @@
     "latest_seen": "2026-07-20T10:23:44Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3503,7 +3508,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5"
     ]
@@ -3521,7 +3526,7 @@
     "latest_seen": "2026-07-20T10:23:42Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3532,7 +3537,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5"
     ]
@@ -8053,7 +8058,7 @@
     "latest_seen": "2026-07-20T10:19:20Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 2,
     "tone_counts": {
       "favourable": 0,
@@ -8064,7 +8069,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 3,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5",
       "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5"
@@ -8172,7 +8177,7 @@
     "latest_seen": "2026-07-20T10:30:41Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -8183,7 +8188,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEZfeldvRWtSWV83a2UxOTJPT281UG1TRVdiN05LdWFqRm45S3oxSnVrbHYxUndmdGZDZVBaZk5vM2c0S2I0NldMSkY1OTRET3JmenRVYWxkeDRyZl8yZGFPTXQ4YmNoaWVuVEJxenpjWVkwa1FQLVRJSHZxS0g0YjdLazRBcVlSN0tkQnBhS1BGR3ZuR2Y4UUY3c3RRX0c1S0dCTUpGbUh3aU1KWFpBdnViZHQ5amtrQjZ3NkpVVS1PbkRtR1kyR3RlS2pSOERJTXc?oc=5"
     ]
