@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:21:41Z",
+  "updated_at": "2026-07-21T22:30:18Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
@@ -30,14 +30,14 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Tax": {
+        "Other": {
           "total": 7,
           "favourable": 0,
           "neutral": 7,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Other": {
+        "Tax": {
           "total": 7,
           "favourable": 0,
           "neutral": 7,
@@ -2748,14 +2748,14 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Tax": {
+        "Other": {
           "total": 7,
           "favourable": 0,
           "neutral": 7,
           "unfavourable": 0,
           "mixed": 0
         },
-        "Other": {
+        "Tax": {
           "total": 7,
           "favourable": 0,
           "neutral": 7,

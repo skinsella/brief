@@ -863,35 +863,6 @@
     ]
   },
   {
-    "key": "tax:carbon-iran-prompting-rethink-system-tax:fee2405d",
-    "title": "Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-21T15:49:29Z",
-    "latest_seen": "2026-07-21T15:49:29Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5"
-    ]
-  },
-  {
     "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
     "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
     "topic": "Other",
@@ -1251,6 +1222,35 @@
       "https://www.breakingnews.ie/ireland/tanaiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row-1910978.html",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hya2U5ZUFVMWFIbFQ0eFdDZ3FHeDd1akVIS0xOVXFLYWotSDdBR1B3VTdXcG56dlB0VFN2VlM4c3JjbFRQdE9LQk5LQXR0TVRBbmg1TXVzLU12aDFzZjEwWEI5bUw3QmdRUXQ1Y3lwVUxOaGtid2VnUXBzQlV4WF9vRWlNM0o4b2dxNnBzRU0tUjh2YW1mQXA1OC1MSVhZWmEzekUzNXZpblFKNi1vMlo0RnBIcllqWHVoWg?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXF0dXdybDN5d0lEYW81QlVKOXE0Zlg0ZlBvNFFvQTdnUDZGbGdtWkVsdUF1d2ZiZlVWa054OVZ5ZjlFQ3g4ZjhodmNEUTdYS3RNVEhUNTYwS0NNRlk4N0c1WjUzaWlBUWZvNFl3VUR0NFh6OG5sdnlRZWptc25xVlJQSHY0SjhESUFUR3VSTU5kNWc1R043eXZqWDdzYTk3YU5KQjE5RWtfckN3VDRveUJnNm9oUWdMYkQ0?oc=5"
+    ]
+  },
+  {
+    "key": "tax:carbon-iran-prompting-rethink-system-tax:fee2405d",
+    "title": "Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-21T15:49:29Z",
+    "latest_seen": "2026-07-21T15:49:29Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5"
     ]
   },
   {
