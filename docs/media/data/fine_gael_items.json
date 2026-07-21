@@ -1799,6 +1799,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckNLVFNnOEQwclVVRjFpZm54R3c3dVZRT0wyNk5hemExc2daRnoxQjlWZmZBcUF0bHlXV1VGRkIwcmo0ZzB4VDBfOU1pRmpLMUliTmtWR3FjLUZoQ18wRGRNMjcxMXA5RG5WcXpWbUFyM2dyRTFxMFhjcDNGTEw5Ty1LUGN5bGhzOHFWS3ZaZjBVVXgtcnRqNXVSSFF5Y2tYRFlVY284TVhUbk9nNWUxaXQ2QVRib3htTmttM1pRQ1lhVXZPUjNNMHo3a2JjUVp4cXcxYVdMVkt1QQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 21 Jul 2026 04:21:41 GMT",
+    "headline": "Leitrim Councillor elected as chairperson of Northern and Western Regional Assembly",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckNLVFNnOEQwclVVRjFpZm54R3c3dVZRT0wyNk5hemExc2daRnoxQjlWZmZBcUF0bHlXV1VGRkIwcmo0ZzB4VDBfOU1pRmpLMUliTmtWR3FjLUZoQ18wRGRNMjcxMXA5RG5WcXpWbUFyM2dyRTFxMFhjcDNGTEw5Ty1LUGN5bGhzOHFWS3ZaZjBVVXgtcnRqNXVSSFF5Y2tYRFlVY284TVhUbk9nNWUxaXQ2QVRib3htTmttM1pRQ1lhVXZPUjNNMHo3a2JjUVp4cXcxYVdMVkt1QQ?oc=5",
+    "summary": "Irish Independent reports: Leitrim Councillor elected as chairperson of Northern and Western Regional Assembly.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "leitrim-councillor-elected-as-chairperson-of-northern-and-western-regional-assem",
+    "first_seen": "2026-07-21T04:26:17Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckNLVFNnOEQwclVVRjFpZm54R3c3dVZRT0wyNk5hemExc2daRnoxQjlWZmZBcUF0bHlXV1VGRkIwcmo0ZzB4VDBfOU1pRmpLMUliTmtWR3FjLUZoQ18wRGRNMjcxMXA5RG5WcXpWbUFyM2dyRTFxMFhjcDNGTEw5Ty1LUGN5bGhzOHFWS3ZaZjBVVXgtcnRqNXVSSFF5Y2tYRFlVY284TVhUbk9nNWUxaXQ2QVRib3htTmttM1pRQ1lhVXZPUjNNMHo3a2JjUVp4cXcxYVdMVkt1QQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckNLVFNnOEQwclVVRjFpZm54R3c3dVZRT0wyNk5hemExc2daRnoxQjlWZmZBcUF0bHlXV1VGRkIwcmo0ZzB4VDBfOU1pRmpLMUliTmtWR3FjLUZoQ18wRGRNMjcxMXA5RG5WcXpWbUFyM2dyRTFxMFhjcDNGTEw5Ty1LUGN5bGhzOHFWS3ZaZjBVVXgtcnRqNXVSSFF5Y2tYRFlVY284TVhUbk9nNWUxaXQ2QVRib3htTmttM1pRQ1lhVXZPUjNNMHo3a2JjUVp4cXcxYVdMVkt1QQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlowRzQ5SmZUMENpakxTRTg1U3BtVG1Pc3JkUktYQzlzUXNnbjNvWl9DVG5DeS1fMk5hSFg2UTZ3eUpyOGZpc0VEMUMtS096SUdPcHBuUkxGaTJ5eVViY1FjWnEwRFJ1d25pV0sySlZ2bkZiOHptc1FjMEhfU2xDYUxBbFl4ZHplUTUzZjNyeDN3ZGN6NlFTNnBuWXM2TmcwYV83NnpvRUNlWnJ2SnlBLVI5d3pVRVpEQkZqWFpHYVBPTVJxTklhRkg2YjdDdEdEdDEzRXFZY0ZzQQ?oc=5": {
     "outlet": "The Irish Times",
     "published": "Thu, 04 Jun 2026 18:13:49 GMT",
