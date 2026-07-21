@@ -308,6 +308,37 @@
     ]
   },
   {
+    "key": "tax:for-insurance-introduced-scooters-tax:bc7d1d30",
+    "title": "Tax and insurance to be introduced for e-scooters, Tánaiste says",
+    "topic": "Tax",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "The Journal",
+      "TheJournal.ie"
+    ],
+    "first_seen": "2026-07-21T09:36:00Z",
+    "latest_seen": "2026-07-21T09:36:40Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 24,
+    "status": "emerging",
+    "item_links": [
+      "https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/",
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5"
+    ]
+  },
+  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -580,6 +611,68 @@
     ]
   },
   {
+    "key": "housing:bizarre-buy-children-end-for-must:597c2c46",
+    "title": "‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says",
+    "topic": "Housing",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "Irish Times",
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-21T09:29:45Z",
+    "latest_seen": "2026-07-21T09:34:03Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 14,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5",
+      "https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/"
+    ]
+  },
+  {
+    "key": "tax:confirm-credit-film-for-government-industry:8edc86cc",
+    "title": "New uplift in tax credit for film industry, Government confirm",
+    "topic": "Tax",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "Offaly Independent",
+      "Westmeath Independent"
+    ],
+    "first_seen": "2026-07-20T10:25:50Z",
+    "latest_seen": "2026-07-20T10:25:50Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 2,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 14,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlhLMHQzNU5uZXVYNEk4ZmVTc0ZuUWpxWlZ6X0dub1RZYW4tZDh0b3VyclYtOFpoeHRhNzFoblRDMGZPV0NCeVlvU282dkxsNlVrNm5VdDE2QnhvSUM0REh3Zm1kSy13bWlvSXgtdkp1Y3lpT0dfbzBSa2lSRDhEUzk1WDdMV2p0Q2xSY1hpQmJ5NWJzOG9PT2NfNEdURDZYckx6WTNqUHllZFg4NXc?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5"
+    ]
+  },
+  {
     "key": "foreign affairs:address-committee-parliament:c4f1cb9b",
     "title": "Tánaiste to address EU Parliament committee",
     "topic": "Foreign affairs",
@@ -677,6 +770,36 @@
     ]
   },
   {
+    "key": "housing:behavioural-change-parent-push-scooter-should:358ce08c",
+    "title": "‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations",
+    "topic": "Housing",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-21T09:30:00Z",
+    "latest_seen": "2026-07-21T09:59:10Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 13,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5",
+      "https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html"
+    ]
+  },
+  {
     "key": "other:accused-alumina-crisis-exports-government-into:7f7bac75",
     "title": "Government accused of 'sleepwalking' into alumina exports crisis",
     "topic": "Other",
@@ -737,6 +860,35 @@
       "https://www.breakingnews.ie/ireland/simon-harris-announces-blueprint-for-irish-unity-1913504.html",
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQno2ME81N1A0R0kzbHo2dlk0ajQ1blFaYU5rTGZiTmFidjNsWGF3bFNTOFNJZnpWejREc1B6OERfbU9iZTFMSktfSEE0YkdnYnRIU0U0Ml9BRnR4a1dFcmxtdC14RmtmUnYyWTNtdnVuYnJNN29lN2ZBTDRqT0dFbHRZM3UtVDdVRDFEOWl4ZDViQ0VMZVV4SldYYUI?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VuM0dTNWhzT3lhbzNvOXdoR2tnd3loM05PUFdEN1RYRHhkeUFIRDlZVmltc2V4WXBEdnJrS28tMXNuSnl3c3E1NEgtdkx2MHhaTDFDMTEyYnhuM2Y3dkpxajF3VUdlR3hJOTRCMkphcndjZ3IzNnVmTE55VTNTQ2ZUSUZGaDFnTGNEUm8weDVlZG9wTEhBaFpoSzNYdw?oc=5"
+    ]
+  },
+  {
+    "key": "tax:interest-low-punitive-rates-savers-screwed:8e73a032",
+    "title": "Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-21T09:53:53Z",
+    "latest_seen": "2026-07-21T09:53:53Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5"
     ]
   },
   {
@@ -2473,35 +2625,6 @@
     ]
   },
   {
-    "key": "tax:confirm-credit-film-for-government-industry:8edc86cc",
-    "title": "New uplift in tax credit for film industry, Government confirm",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Offaly Independent"
-    ],
-    "first_seen": "2026-07-20T10:25:50Z",
-    "latest_seen": "2026-07-20T10:25:50Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5"
-    ]
-  },
-  {
     "key": "tax:competitive-confirms-credit-make-more-tax:a716899d",
     "title": "Tanaiste Harris confirms new €1m tax credit to ‘make Ireland more competitive’",
     "topic": "Tax",
@@ -2514,7 +2637,7 @@
     "latest_seen": "2026-07-20T09:27:04Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -2525,7 +2648,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5"
     ]
@@ -3238,6 +3361,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "housing:parent-scooter-should-thinking-toy:796c6919",
+    "title": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
+    "topic": "Housing",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Belfast Telegraph"
+    ],
+    "first_seen": "2026-07-21T09:34:07Z",
+    "latest_seen": "2026-07-21T09:34:07Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5"
     ]
   },
   {

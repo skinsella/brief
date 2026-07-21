@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 21 Jul 2026 07:15 GMT
+Updated: Tue, 21 Jul 2026 10:05 GMT
 
 ## Snapshot
 
-- Recent coverage: 79 item(s) in the last 7 days.
+- Recent coverage: 88 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
-- Significant items: 22.
+- Significant items: 26.
 
 ## Trend Summary
 
-- Coverage volume: 79 item(s) in the last 7 days; down 21 vs previous 7 days.
+- Coverage volume: 88 item(s) in the last 7 days; down 12 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 35 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 16 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 20 active cluster(s), including 3 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -27,33 +27,33 @@ Updated: Tue, 21 Jul 2026 07:15 GMT
 - [Fast Reaction, Critical framing, High-reach outlet] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
 - [Policy, High-reach outlet] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)
 - [Policy, High-reach outlet] BreakingNews.ie: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5)
+- [Policy, High-reach outlet] BreakingNews.ie: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris (https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5)
+- [Policy, High-reach outlet] TheJournal.ie: Tax and insurance to be introduced for e-scooters, Tánaiste says (https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/)
+- [Policy, High-reach outlet] The Journal: Tax and insurance to be introduced for e-scooters, Tánaiste says (https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5)
 - [Policy] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5)
 - [Policy] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5)
 - [Policy] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5)
 - [Policy] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5)
-- [Policy, High-reach outlet] Irish Independent: Simon Harris confirms councils must pay residential zoned land tax on own housing land (https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5)
-- [Policy, High-reach outlet] Irish Independent: Simon Harris confirms councils must pay residential zoned land tax on own housing land (https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html)
-- [Policy, High-reach outlet] Irish Independent: Simon Harris doubles down on Budget tax pledge ahead of Summer Economic Statement (https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFRKTGxucEVJOEptUmI3eXhmc3p0cjJ3TDRsSWxPcTdWQlBvRGFwRXZzLU42Qjhkbi1mMk9RbnZiZ2ZKZGh6Y1A3MkxqU0NHdnVOUXRfdmstVlloajI2S3UyUFlONzdYVVBnV21BUnpqSGppYTltZ0NtZE56b011Tjg5WVZPZVVmLTJseFhRTlV1cVBKNGRaUHp5dENZRmZjSWpsNzVfU0tVZW4yakhrMFpMaFNMdVpiNWtkdVV5OUk1VmpoSTg5dTVOeFB0cTdNN2c?oc=5)
 
 ## Top Topics
 
 - Other: 35
-- Tax: 12
+- Tax: 16
 - Finance: 12
 - Foreign affairs: 7
 - Fine Gael: 6
+- Housing: 5
 - Enterprise: 4
 - Constituency/local: 2
-- Courts/security: 1
 
 ## Top Outlets
 
-- Irish Independent: 16
+- Irish Independent: 18
 - MSN: 7
+- BreakingNews.ie: 6
+- The Journal: 5
 - Business Post: 5
 - Irish Examiner: 5
-- BreakingNews.ie: 5
-- The Journal: 4
 - businessplus.ie: 3
 - RTE.ie: 3
 
@@ -68,10 +68,18 @@ Updated: Tue, 21 Jul 2026 07:15 GMT
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
 - [dormant] Simon Harris accused of 'classism' over comments on 'middle Ireland' — 2 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -100%. Outlets: BreakingNews.ie
-- [dormant] Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar — 9 item(s), 8 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Alloa Advertiser, Belfast Telegraph, BreakingNews.ie, Central Fife Times, Cumnock Chronicle, Irvine Times
+- [emerging] Tax and insurance to be introduced for e-scooters, Tánaiste says — 2 item(s), 2 outlet(s), 2 in 6h, 2 in 24h, net 0%. Outlets: The Journal, TheJournal.ie
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: ‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations (https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5)
+- [neutral factual] BreakingNews.ie: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris (https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5)
+- [neutral factual] TheJournal.ie: Tax and insurance to be introduced for e-scooters, Tánaiste says (https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/)
+- [neutral factual] The Journal: Tax and insurance to be introduced for e-scooters, Tánaiste says (https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5)
+- [neutral factual] Belfast Telegraph: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste (https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5)
+- [neutral factual] The Irish Times: ‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says (https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5)
+- [neutral factual] Irish Independent: ‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations (https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html)
+- [neutral factual] Irish Times: ‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says (https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/)
 - [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5)
 - [neutral factual] Irish Examiner: Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters (https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5)
 - [neutral factual] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5)
@@ -84,11 +92,3 @@ Updated: Tue, 21 Jul 2026 07:15 GMT
 - [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5)
 - [neutral factual] Scannain: Irish Government commences 40% Visual Effects Uplift to Section 481 film tax credit (https://news.google.com/rss/articles/CBMickFVX3lxTE9GX2JoSmM0OENjbWxCbFFXTUpPNUIwdkxMWUhqckU3ajUyV2lkWUJXbjZnTXpVbVhYSmFOcGh0enQ5SS1UQW14ei1VUmxkRVBXQmtET0R1X0hsUDVRTUk3R0x3MVR2QjV3MDFoc0tjNEtRUQ?oc=5)
 - [neutral factual] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5)
-- [neutral factual] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5)
-- [neutral factual] Screen Ireland: Tánaiste and Minister O’Donovan announce commencement of Section 481 Enhanced Credit for Visual Effects (https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEZfeldvRWtSWV83a2UxOTJPT281UG1TRVdiN05LdWFqRm45S3oxSnVrbHYxUndmdGZDZVBaZk5vM2c0S2I0NldMSkY1OTRET3JmenRVYWxkeDRyZl8yZGFPTXQ4YmNoaWVuVEJxenpjWVkwa1FQLVRJSHZxS0g0YjdLazRBcVlSN0tkQnBhS1BGR3ZuR2Y4UUY3c3RRX0c1S0dCTUpGbUh3aU1KWFpBdnViZHQ5amtrQjZ3NkpVVS1PbkRtR1kyR3RlS2pSOERJTXc?oc=5)
-- [neutral factual] Irish Independent: Seán Canney says e-scooter decision ‘a matter of urgency’ as Government meet to discuss ban (https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGJYSEd4RzVQZVRRS3IwQ0hBQ3YxYjE2dWVBODFHaU9Tbldad1lydG1QOUgzTWJzN0ZKb0FWSXJBd2ZWeHp3OXhxaHRKNVFEVzhHbVlOeU1FM0VKTjZVdTZWbGRnM1Rodm1USVpxWExNUndCWTY0dUxnVTVGWmREMVlpcHZmRENiZGNKZ1A3eTM3WnNJZGdwOEVVY0k4cFFGNXFvN0M1MnRjLW5PX2ZIUXU2bVo4cjdiSXhZd2lUN1c2blNvdzhCMHg2eEZhNV9mVUx0LTZRVENHUQ?oc=5)
-- [neutral factual] Offaly Independent: New uplift in tax credit for film industry, Government confirm (https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2NjUmNMejltdTR0U2Q4RjBWOG54cWhrSU9RNTNKcHQyWXhUeWkzNDZ6T0lScHJCSkgzTWgwcTVoWElFcnh1UFFUMENrX0hFUExaU3dLUkRVOGNEakpKZy1kQmVzUUVCRTBJcHpMbGR6Q1NDb1ctNzM4Q25maWxMaXBPOUdFcU5JUWM3aVpXVUtORWQ3TVkwU2o2ZlZKX0VYMFJsRjFpQ1RrUQ?oc=5)
-- [neutral factual] Irish Independent: New €7m Wicklow Coast Guard station on track for completion in early 2027 (https://news.google.com/rss/articles/CBMiywFBVV95cUxQblJlTW9UUXk0VWYza2xEZGU0cXBBZEFfWTNsNTJTN1AtU3JGdWt4TlQ3cTNUSkg3LVMyOW55cEd5eTBIUEJBUFdMWDF0N0YzTW9nYWZlRlp2YlctX2FUSFRMaVI4aTJ5bVBjMXR2UUc2eWdVdzZMQS0weVU5NjRaRFJQbTlSeFB0ZDFMSXZZeFF1SFlTcmxrbElvMEFzQXM3LVRocm4taDZBY2NlVlFZQmFYa0xxcE9KZ21odTBjRTNNb2MwSVNwdm5xbw?oc=5)
-- [neutral factual] Irish Independent: Pressure mounts on Department of Education as temporary accommodation strains Wicklow schools (https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXY5VDVVa2R0OFhsSENFT0FrRXVkelZPaXF1TFM5LTBnSWlwTDBJd2h1dG90YkxNdkkyTS1yS0V1Q29GX1FsYTRtU3NoVXd1TGNrVld1VUZGSjlTbDdxc3MwUHAtb0dMam1QaTNmVkg0ZE0yUzlRdlNzczZTbWYwQmJpZ1Z0WkQwSzRyZm9vYjRfaGlPN0xLNEJZMHZBVWNtMmJrX0ctay1abmJNemFCOXBKT1JDU1FFQXU5SkMyMGF0alF3cnEwR1NraWxsYU55eVR3S2JaQ0tRSVZqVGdpMDFqQUZtNGs?oc=5)
-- [neutral factual] Irish Mirror: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency' (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXpGRWJfM29fbmpNbTloUHFkU0FYaFpFTzFOYTZ0bHFrekJ2cnJYem5wUVBBc2pGeXltY3U0bEhNRjhjS1RKMTdHdkRVLVhBZEpQVVVRMEE2WXFDY3ZzTGNhLUViMlVFV0pvNE1kcmVaWXdGeTFvNWFRLXFWNXc5MXJqSWRWazkxeExjcTh0Yy13OUs4MGVFRXNWdVdHd09XaXBCMUIwN3PSAagBQVVfeXFMTlF6RkViXzNvX25qTW05aFBxZFNBWGhaRU8xTmE2dGxxa3pCdnJyWHpucFFQQXNqRnl5bWN1NGxITUY4Y0tUSjE3R3ZEVS1YQWRKUFVVUTBBNllxQ2N2c0xjYS1FYjJVRVdKbzRNZHJlWll3RnkxbzVhUS1xVjV3OTFyaklkVms5MXhMY3E4dGMtdzlLODBlRUVzVnVXR3dPV2lwQjFCMDdz?oc=5)
-- [neutral factual] Irish Mirror: Government leaders considering e-scooter ban today as issue being treated as 'matter of urgency' (https://news.google.com/rss/articles/CBMiowFBVV95cUxNWERJNFg4ZXRaV1BSdGcyRG56QlpNeEhZaXVwN2FrckJwcnZIYWNjWnVtWklpT3Bhb3VPUnNzcm9WZThVWUpBQ2Y3aXJjX2w0RFdPWFRDTk9DYldFVS10LWttQWFZZ0d5Zm1RbDZzN09XWWc4UldiSExXUW92RzNjWHNJRkk4NzNYcU9TdTkyNExJWFhvaVozcmZZU1hLbXBXTmRJ0gGoAUFVX3lxTE5RekZFYl8zb19uak1tOWhQcWRTQVhoWkVPMU5hNnRscWt6QnZyclh6bnBRUEFzakZ5eW1jdTRsSE1GOGNLVEoxN0d2RFUtWEFkSlBVVVEwQTZZcUNjdnNMY2EtRWIyVUVXSm80TWRyZVpZd0Z5MW81YVEtcVY1dzkxcmpJZFZrOTF4TGNxOHRjLXc5SzgwZUVFc1Z1V0d3T1dpcEIxQjA3cw?oc=5)

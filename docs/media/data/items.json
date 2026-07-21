@@ -387,6 +387,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5": {
+    "outlet": "BreakingNews.ie",
+    "published": "Tue, 21 Jul 2026 09:53:53 GMT",
+    "headline": "Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5",
+    "summary": "BreakingNews.ie reports: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-sim",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXhhRmNVMjZ5ZWVMZDZUajZNeFFqSTMzNGJra19ZQWVLWjVmemRzTFhYNk5HOG9ZTW91YXNMME16V2FGSVJjQ1BQRE5lMTFVN0VLVG9jeENBcHNYOXJjOG5EcnRvV0pTRmZaWG1Rallxd2NJd0VwSTNyVmZMcnhmWHJUUGdKaVRIckVDTVowSjJ4U3c1LXVsVTFobW9tTl9oOVIybi15anZtbXlkTG5JNE1zRl9paVF1VWFVZkJtcUV3UU51WU1uQlVYZ3ZxaUxTQk9NNg?oc=5": {
     "outlet": "Irish Independent",
     "published": "Tue, 23 Jun 2026 11:03:38 GMT",
@@ -1739,6 +1765,29 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5": {
+    "outlet": "Belfast Telegraph",
+    "published": "Tue, 21 Jul 2026 09:34:07 GMT",
+    "headline": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5",
+    "summary": "Belfast Telegraph reports: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "no-parent-in-ireland-should-be-thinking-an-e-scooter-is-a-toy-says-t-naiste",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5",
+    "topic": "Housing",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSDY1a1pjS29yN0MxMWF0LVhsMWhHMzVwWjhxYU5wUUhYZjlacUdIM2RVcm85Mkl6YWZ6ZTNGd2hTaHhTS0libW5lbG13NDZxUVEyNWNXTW1PY0UxVFpwY1lVOENEdUR1ZHNzTFdMY1BFVG1tNXgzUVlnUjc2ekpSd0g1YVNES1VfQjYyUS03dEFXSU9zRFAzZ19Zb2VBRlZKOFhWZ01wUFBuVkVjZnJaazZWQVNmZ2NYbndlVzFSSGNZMVQzVFl4X29IV2p1QWk1VmROdWwtbUtJR0E0eDB0ZXlaQy1fYXNZ?oc=5": {
@@ -3476,6 +3525,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5": {
+    "outlet": "The Journal",
+    "published": "Tue, 21 Jul 2026 09:36:00 GMT",
+    "headline": "Tax and insurance to be introduced for e-scooters, Tánaiste says",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5",
+    "summary": "The Journal reports: Tax and insurance to be introduced for e-scooters, Tánaiste says.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "tax-and-insurance-to-be-introduced-for-e-scooters-t-naiste-says",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GV1d1VHBxcVFseHlFbDZaRU55cnJVZmhrVEZqc29QbzdPR01zX1E3SkJEeXNfT2Z3ay1CcEFtaEVjWFNBWU0wbWx4ZWV2UXF5emFwa2lVXzZlTUdvb2lJVWlNc0RZMmhWcnZubmNpNmh4QmdURzZNRA?oc=5": {
     "outlet": "Midwest Radio",
     "published": "Mon, 15 Jun 2026 13:49:45 GMT",
@@ -4514,6 +4589,31 @@
     "google_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
     "source_link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnRFU3Iyc1JQY1dtbFZRV1ZFdkQyZFBUUDBYOGp0ZHZqRmEyYlQ4WTZBTGtvd0xsTDdYLXBBRzQwc3A2cGFsTEhwMWpGdTM1TDhhOUdUZzRQbzJ4SGQ1NTlQTTRLaHROMUFrYmZwcXNZTmI0SUxrbUg5SzBzOWxBa05mUjZySnh6dUZQVDhRVVh2UlprdXcxZW5nMHNGZTlUSzdCLUxITGlGeEdCR1pHc0txMVhORUxWOTg3MWNqOEVmaXMyOVNvMDdpQXVYQXQ3V2FGZDRDT3JEeVJBUkJLNVROYTJvQ2hrUTBWbXdQVE5vYWpQczE1VmlzelJWZVcwbl9iRW9ZTVhLNEpoakU1blBB?oc=5",
     "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 21 Jul 2026 09:59:10 GMT",
+    "headline": "‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5",
+    "summary": "Irish Independent reports: ‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioura",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5",
+    "topic": "Housing",
     "attention": [
       "High-reach outlet"
     ],
@@ -6017,6 +6117,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlhLMHQzNU5uZXVYNEk4ZmVTc0ZuUWpxWlZ6X0dub1RZYW4tZDh0b3VyclYtOFpoeHRhNzFoblRDMGZPV0NCeVlvU282dkxsNlVrNm5VdDE2QnhvSUM0REh3Zm1kSy13bWlvSXgtdkp1Y3lpT0dfbzBSa2lSRDhEUzk1WDdMV2p0Q2xSY1hpQmJ5NWJzOG9PT2NfNEdURDZYckx6WTNqUHllZFg4NXc?oc=5": {
+    "outlet": "Westmeath Independent",
+    "published": "Mon, 20 Jul 2026 10:25:50 GMT",
+    "headline": "New uplift in tax credit for film industry, Government confirm",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlhLMHQzNU5uZXVYNEk4ZmVTc0ZuUWpxWlZ6X0dub1RZYW4tZDh0b3VyclYtOFpoeHRhNzFoblRDMGZPV0NCeVlvU282dkxsNlVrNm5VdDE2QnhvSUM0REh3Zm1kSy13bWlvSXgtdkp1Y3lpT0dfbzBSa2lSRDhEUzk1WDdMV2p0Q2xSY1hpQmJ5NWJzOG9PT2NfNEdURDZYckx6WTNqUHllZFg4NXc?oc=5",
+    "summary": "Westmeath Independent reports: New uplift in tax credit for film industry, Government confirm.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "new-uplift-in-tax-credit-for-film-industry-government-confirm",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlhLMHQzNU5uZXVYNEk4ZmVTc0ZuUWpxWlZ6X0dub1RZYW4tZDh0b3VyclYtOFpoeHRhNzFoblRDMGZPV0NCeVlvU282dkxsNlVrNm5VdDE2QnhvSUM0REh3Zm1kSy13bWlvSXgtdkp1Y3lpT0dfbzBSa2lSRDhEUzk1WDdMV2p0Q2xSY1hpQmJ5NWJzOG9PT2NfNEdURDZYckx6WTNqUHllZFg4NXc?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlhLMHQzNU5uZXVYNEk4ZmVTc0ZuUWpxWlZ6X0dub1RZYW4tZDh0b3VyclYtOFpoeHRhNzFoblRDMGZPV0NCeVlvU282dkxsNlVrNm5VdDE2QnhvSUM0REh3Zm1kSy13bWlvSXgtdkp1Y3lpT0dfbzBSa2lSRDhEUzk1WDdMV2p0Q2xSY1hpQmJ5NWJzOG9PT2NfNEdURDZYckx6WTNqUHllZFg4NXc?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC1XTFozMEROeG9RSUlydk5lelQzQnJZbkhaelJPZjJZUldfSXRFY21ndGFvUjhXQm1wNTdQUEgxY2R3c3BleVM0VWhyZEhtZ2JxVHNubmNXUDhUNnd6WFFQOXExOV9fZ0Z5STFDMWlrRVJTSjRkbTFPdXIxQkVXcHh4Ni1hcG82T2J1WHFRZEhCWmFRbVl4bFlOQlRLalI3bTNHbW9kOW10OS1UQXc?oc=5": {
@@ -8960,6 +9085,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5": {
+    "outlet": "The Irish Times",
+    "published": "Tue, 21 Jul 2026 09:34:03 GMT",
+    "headline": "‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5",
+    "summary": "The Irish Times reports: ‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harri",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5",
+    "topic": "Housing",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS0tEb3FqYnVvZ3VsVjRVT3lTeUd0LU9YdUJIbEZDOFZSNmR2YkRfQm5EajltWWZ5NkxlM3I4TC1yVlB3QmltV0hxQlhZNE5VbHYxd21QWmgwTXdzcmpZTmctZG9NeURfejFtcGpncWFXbkhrVjhmVURSVmFvMFppTGZmaUtEOHRlZGxUTUgzdURvQnhTcFdtVEhTNkdDd0dvY2ZZalBYSHJQNjdwWEc2Zm00bl9QREZCNGdUUDdVY2NSdHRvVHpFckwxcUJidlU?oc=5": {
     "outlet": "Limerick Leader",
     "published": "Tue, 14 Jul 2026 09:00:00 GMT",
@@ -9817,6 +9967,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 21 Jul 2026 09:30:00 GMT",
+    "headline": "‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations",
+    "link": "https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html",
+    "summary": "Irish Independent reports: ‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioura",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html",
+    "topic": "Housing",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html": {
     "outlet": "Irish Independent",
     "published": "Sat, 11 Jul 2026 04:30:00 GMT",
@@ -9960,6 +10135,31 @@
     "topic": "Finance",
     "attention": [
       "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/": {
+    "outlet": "Irish Times",
+    "published": "Tue, 21 Jul 2026 09:29:45 +0000",
+    "headline": "‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says",
+    "link": "https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/",
+    "summary": "Irish Times reports: ‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harri",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "Irish Times RSS",
+    "google_link": "",
+    "source_link": "https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/",
+    "topic": "Housing",
+    "attention": [
       "High-reach outlet"
     ],
     "outlet_tier": "national",
@@ -10921,6 +11121,32 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/": {
+    "outlet": "TheJournal.ie",
+    "published": "Tue, 21 Jul 2026 10:36:40 +0100",
+    "headline": "Tax and insurance to be introduced for e-scooters, Tánaiste says",
+    "link": "https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/",
+    "summary": "TheJournal.ie reports: Tax and insurance to be introduced for e-scooters, Tánaiste says.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "tax-and-insurance-to-be-introduced-for-e-scooters-t-naiste-says",
+    "first_seen": "2026-07-21T10:05:37Z",
+    "source_feed": "TheJournal.ie RSS",
+    "google_link": "",
+    "source_link": "https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.thejournal.ie/eu-migration-pact-vote-7073059-Jun2026/": {
