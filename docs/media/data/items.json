@@ -190,6 +190,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5": {
+    "outlet": "The Irish Times",
+    "published": "Tue, 21 Jul 2026 20:19:44 GMT",
+    "headline": "Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
+    "summary": "The Irish Times reports: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "mary-lou-mcdonald-says-irish-unity-talks-with-simon-harris-extremely-constructiv",
+    "first_seen": "2026-07-21T21:21:41Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWZDcDRrUUx4amtCcGg5LUNVNVlVb0pRaGEyNUhnWXFJaExsTXhCNE5Bdi1RQjg2bUx6M0tOeUtPdFFzTVo0Wm5PTEtIVVNEY1R2SUc5Y3Z3dTQzVVRaS1RFOWRVVXpCQ3ZXZnZiTnEzMWxuZUlIV00tNERhVkVPbUt4LVo1NlBZcmthVVlhaDY4NERSemFURFlqWk9ReEptbHVSZk9pR2h0SWxfbnIxal9zdERHRGVwZDBzZkFOQXdvOVRYdWw5dktxZE5EeE8yQ3c?oc=5": {
     "outlet": "Irish Independent",
     "published": "Fri, 26 Jun 2026 15:24:42 GMT",
@@ -10353,6 +10378,31 @@
     "google_link": "",
     "source_link": "https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/",
     "topic": "Housing",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/": {
+    "outlet": "Irish Times",
+    "published": "Tue, 21 Jul 2026 20:16:09 +0000",
+    "headline": "Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’",
+    "link": "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/",
+    "summary": "Irish Times reports: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "mary-lou-mcdonald-says-irish-unity-talks-with-simon-harris-extremely-constructiv",
+    "first_seen": "2026-07-21T21:21:41Z",
+    "source_feed": "Irish Times RSS",
+    "google_link": "",
+    "source_link": "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/",
+    "topic": "Other",
     "attention": [
       "High-reach outlet"
     ],

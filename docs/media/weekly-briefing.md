@@ -1,18 +1,18 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 21 Jul 2026 19:46 GMT
+Updated: Tue, 21 Jul 2026 21:21 GMT
 
 ## Snapshot
 
-- Recent coverage: 96 item(s) in the last 7 days.
+- Recent coverage: 98 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 28.
 
 ## Trend Summary
 
-- Coverage volume: 96 item(s) in the last 7 days; down 4 vs previous 7 days.
+- Coverage volume: 98 item(s) in the last 7 days; down 2 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 38 item(s).
+- Main topic: Other leads recent coverage with 40 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
 
@@ -37,7 +37,7 @@ Updated: Tue, 21 Jul 2026 19:46 GMT
 
 ## Top Topics
 
-- Other: 38
+- Other: 40
 - Tax: 18
 - Finance: 12
 - Housing: 8
@@ -54,8 +54,8 @@ Updated: Tue, 21 Jul 2026 19:46 GMT
 - MSN: 7
 - Business Post: 6
 - The Journal: 5
-- businessplus.ie: 3
-- RTE.ie: 3
+- The Irish Times: 3
+- Irish Times: 3
 
 ## Story Clusters
 
@@ -72,6 +72,8 @@ Updated: Tue, 21 Jul 2026 19:46 GMT
 
 ## Recent Items
 
+- [neutral factual] The Irish Times: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’ (https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5)
+- [neutral factual] Irish Times: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’ (https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/)
 - [neutral factual] Irish Examiner: Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification (https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5)
 - [neutral factual] Business Post: Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink (https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5)
 - [neutral factual] Irish Star: Irish government make major decision on 'dangerous' e-scooters (https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmZTZkhHc0gtNElBSE5qbTY1TFYzR0NBakk3aTZfZVBSX3h4di1lU3dtRmd5S3RFT1pNUWlLZmJmTWJMRjZscE9tNGFJd2U2UHIxanVyVTk3N1M0RlBzWW1pS3BqeW1PODJ2YVROeWFFMUduQkowRVJ6enlaR01XQTR4c20xcjNCVnh1MkhmMFdoZGvSAZgBQVVfeXFMT3kzX0hPTDM4dUJrR1BhQXc2a2liNGhMaWVHZ0JLV0U1dFNCSXY5UmRibjN4dERVdTIwVkJudkVEMG1pN2c2OW9SWjdPM2docmZaS1ZYWmtNN0wzQUpUM19DZ1AzeWEwZG4wd2Vhb0I5WXdPY29GQ0x6d0Y5U2NDMWRTazBaOHpZdTlITk9lRFNOVjRaYlV3TDc?oc=5)
@@ -90,5 +92,3 @@ Updated: Tue, 21 Jul 2026 19:46 GMT
 - [neutral factual] Limerick Leader: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste (https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVBMDVCcHJjUmdtWTVlNl9TaTRzRjRKVUd6d3JqZDg2Y2hfdDZvREZhZ29Fb3IwSVI5NjBVMGhFcFNPUGl6SV90OGR2cms2M01Va3oyWWgzb0NNdThvZVlSalBoNjBQSzdacUhCNVhHWUl1ZDZkb3VBeGxwRlB4dkFQNzBlWm1iVjRPZWgweW93U2pUY2o3QVJiVzZqNlNCQVNXc0JIMmozd2NxQndyY1loa1lhRE8zTVdlaWVnNA?oc=5)
 - [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5)
 - [neutral factual] Irish Examiner: Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters (https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5)
-- [neutral factual] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5)
-- [neutral factual] Hotpress: Government announce increased tax credit for films with big visual effects budgets (https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYjF0bTlYX1ZkMjI2bl9JY21rU2ZvQ3Q3eTY3V3JXcDg4eVZoRVRaRG1qYXJfWS1TLTJlbnU4dGFtcm40LTZKWWhOYUpwS0E4MFBseldqMzY3Q1pfelNIYkVLN3BrVjZtWFVRSDFLSVczSmtBYWpTRHpPRTFHRENRaTFLLWpyQ1FfWXdKY1dhTndEbl9sMm1hQWFUdV9NZlBrNHpjaC1wYkoxRlV0MXZuS2pHcUhRWFFfZVVrVk1aX1ZUZw?oc=5)

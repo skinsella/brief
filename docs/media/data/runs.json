@@ -1,5 +1,86 @@
 [
   {
+    "checked_at": "2026-07-21T21:21:41Z",
+    "checked_at_display": "Tue, 21 Jul 2026 21:21 GMT",
+    "new_count": 2,
+    "old_skipped": 11,
+    "duplicate_skipped": 13,
+    "mismatched_skipped": 12,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 3,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 3,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 16,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 12,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 33,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
+      "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/"
+    ],
+    "archive_file": "archive/20260721T212141Z.html"
+  },
+  {
     "checked_at": "2026-07-21T19:46:07Z",
     "checked_at_display": "Tue, 21 Jul 2026 19:46 GMT",
     "new_count": 1,
@@ -7869,85 +7950,5 @@
       "https://www.thejournal.ie/aughinish-alumina-report-7101304-Jul2026/"
     ],
     "archive_file": "archive/20260714T142623Z.html"
-  },
-  {
-    "checked_at": "2026-07-14T12:20:35Z",
-    "checked_at_display": "Tue, 14 Jul 2026 12:20 GMT",
-    "new_count": 1,
-    "old_skipped": 15,
-    "duplicate_skipped": 7,
-    "mismatched_skipped": 6,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 16,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 12,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 34,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5"
-    ],
-    "archive_file": "archive/20260714T122035Z.html"
   }
 ]
