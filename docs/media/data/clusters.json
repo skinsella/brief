@@ -352,36 +352,6 @@
     ]
   },
   {
-    "key": "tax:interest-low-punitive-rates-savers-screwed:8e73a032",
-    "title": "Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris",
-    "topic": "Tax",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "BreakingNews.ie"
-    ],
-    "first_seen": "2026-07-21T09:53:53Z",
-    "latest_seen": "2026-07-21T10:53:53Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 20,
-    "status": "active",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-simon-harris-1929815.html",
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5"
-    ]
-  },
-  {
     "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
     "title": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
     "topic": "Other",
@@ -514,6 +484,36 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/strong-tax-returns-of-e50bn-strengthen-governments-budgetary-position-1922125.html",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXViZVN1OVBUdzgxZk1xbXVtQmQ4WGYxamNiRWczV0MxUjNpTEdZNzcwSGpqejlIYlhXY01JMUVzRFFhbWpPajlZUDBRQWVyU1pDSlNRZUdPVnR2WFBacmZwRFJtdXlvTU5XODYySF85RjM0QU5lbV9ORm9XZ2Y4Sl9nWmRpNnJNMUktb1FxOVFXWWF2NThEbnBKQzdZZm1uSGh3S3otMnY5Z3hTa2w3b0hJV1NCbnM?oc=5"
+    ]
+  },
+  {
+    "key": "tax:interest-low-punitive-rates-savers-screwed:8e73a032",
+    "title": "Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris",
+    "topic": "Tax",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-21T09:53:53Z",
+    "latest_seen": "2026-07-21T10:53:53Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 17,
+    "status": "active",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-simon-harris-1929815.html",
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5"
     ]
   },
   {
@@ -2509,35 +2509,6 @@
     ]
   },
   {
-    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
-    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
-    "topic": "Housing",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Examiner"
-    ],
-    "first_seen": "2026-07-21T10:47:00Z",
-    "latest_seen": "2026-07-21T10:47:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5"
-    ]
-  },
-  {
     "key": "housing:behavioural-change-parent-push-scooter-should:358ce08c",
     "title": "‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations",
     "topic": "Housing",
@@ -3483,6 +3454,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
+    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
+    "topic": "Housing",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-21T10:47:00Z",
+    "latest_seen": "2026-07-21T10:47:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5"
     ]
   },
   {
