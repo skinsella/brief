@@ -5058,6 +5058,29 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMN9IBmAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMNw?oc=5": {
+    "outlet": "Irish Star",
+    "published": "Tue, 21 Jul 2026 13:59:00 GMT",
+    "headline": "Irish government make major decision on 'dangerous' e-scooters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMN9IBmAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMNw?oc=5",
+    "summary": "Irish Star reports: Irish government make major decision on 'dangerous' e-scooters.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "irish-government-make-major-decision-on-dangerous-e-scooters",
+    "first_seen": "2026-07-21T16:04:45Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMN9IBmAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMNw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMN9IBmAFBVV95cUxPeTNfSE9MMzh1QmtHUGFBdzZraWI0aExpZUdnQktXRTV0U0JJdjlSZGJuM3h0RFV1MjBWQm52RUQwbWk3ZzY5b1JaN08zZ2hyZlpLVlhaa003TDNBSlQzX0NnUDN5YTBkbjB3ZWFvQjlZd09jb0ZDTHp3RjlTY0MxZFNrMFo4ell1OUhOT2VEU05WNFpiVXdMNw?oc=5",
+    "topic": "Other",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmpCSGZoS0czRDlNU09Yd2VFOTFoS1FybWNRajA4amxUX2JtV2IyLThTbFNKWE9hUkQ1MWllY0VEOHViVkE4QlFDRlpQMjctN2h0emYyMWVWMTIxcnFtQjBTS01fRUFnZkloRWp0bDRXOTBfT2I2dWhvV09qcDJLV2F5cDdMS2txMTNCdi1jd3VHVWE3RWxaakdR?oc=5": {
     "outlet": "The Irish Sun",
     "published": "Mon, 20 Jul 2026 09:27:04 GMT",
@@ -6469,6 +6492,32 @@
     "source_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0pocFhHNlV6OXVwTGxpWDhYR1F3cDlLdDdfeFhENGs1UkF3cXdlVkZIXzY2OU93WlV1aEk3WjJBbUNjdjhITzJaVTV3ZXEzUm55UDhmTjhEVmJjM2pDT084dXhsV01YRENETHY0SUNKcC1NeWhyd041M2ZWZUVLOXF5SktrR0V2UjlwSjlOY0NzQThsYWFzejJXNVc4dHRDMFhtc2JFb1hWU2tIX3pRa293?oc=5",
     "topic": "Other",
     "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5": {
+    "outlet": "Business Post",
+    "published": "Tue, 21 Jul 2026 15:49:29 GMT",
+    "headline": "Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5",
+    "summary": "Business Post reports: Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "t-naiste-says-iran-and-ukraine-wars-are-prompting-carbon-tax-system-rethink",
+    "first_seen": "2026-07-21T16:04:45Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
       "High-reach outlet"
     ],
     "outlet_tier": "national",
