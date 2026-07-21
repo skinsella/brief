@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T21:21:48Z",
-  "morning_note": "Media coverage is busy today (23 items, neutral tone; 98 items over the past week). Brent is at $82, up 17.3% on the week. Irish home heating oil averages \u20ac667 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 17.3% on the week.",
+  "generated_at": "2026-07-21T21:55:50Z",
+  "morning_note": "Media coverage is busy today (23 items, neutral tone; 98 items over the past week). Brent is at $82, up 17.3% on the week. Irish home heating oil averages \u20ac669 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 17.3% on the week.",
   "alerts": [
     {
       "kind": "energy",
@@ -40,11 +40,10 @@
       "asof": "2026-07-13"
     },
     "eurusd": {
-      "value": 1.1426,
+      "value": 1.1418,
       "unit": "$",
-      "delta_pct": 0.02,
+      "delta_pct": 0.11,
       "spark": [
-        1.1392,
         1.134,
         1.1342,
         1.1401,
@@ -63,14 +62,15 @@
         1.1406,
         1.1467,
         1.1435,
-        1.1426
+        1.1426,
+        1.1418
       ],
-      "asof": "2026-07-20"
+      "asof": "2026-07-21"
     },
     "heating_oil": {
-      "value": 666.8,
+      "value": 669.39,
       "unit": "\u20ac/500L",
-      "delta_pct": 7.65,
+      "delta_pct": 8.07,
       "spark": [
         620.9,
         616.37,
@@ -91,9 +91,9 @@
         662.48,
         662.48,
         666.8,
-        666.8
+        669.39
       ],
-      "asof": "2026-07-21T02:21:45.909859+00:00"
+      "asof": "2026-07-21T21:55:43.185105+00:00"
     },
     "ie10y": {
       "value": 3.126,
@@ -142,7 +142,7 @@
       "asof": "2026-07-21T21:21:41Z"
     },
     "energy": {
-      "asof": "2026-07-21T02:21:06.907239+00:00"
+      "asof": "2026-07-21T21:55:36.853379+00:00"
     },
     "economy": {
       "asof": "2026-07-18T09:38:23Z"
