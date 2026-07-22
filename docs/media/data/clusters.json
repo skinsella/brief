@@ -2510,16 +2510,16 @@
     ]
   },
   {
-    "key": "finance:2027-5bn-agree-budget-for-government:8f541f0a",
-    "title": "Government set to agree to €8.5bn package for Budget 2027",
-    "topic": "Finance",
+    "key": "other:economic-government-later-publish-statement-summer:2924888a",
+    "title": "Government to publish summer economic statement later today",
+    "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Examiner"
+      "The Journal"
     ],
-    "first_seen": "2026-07-21T23:05:00Z",
-    "latest_seen": "2026-07-21T23:05:00Z",
+    "first_seen": "2026-07-22T07:03:00Z",
+    "latest_seen": "2026-07-22T07:03:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -2535,7 +2535,7 @@
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5"
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXE1VklFbnVTR3FnYmZPY1FMaVpmZWRjT0VNUklKc0NHeVhLV0dMRFdBUDR0SzgyQl91czFUaWF5d3REVFFDMzJvMVYzNXliYklrTmllWXhZQ1NpYmRERHRmU3BaT0wxRVV2SklmUkkwMmczMUZVbTFB?oc=5"
     ]
   },
   {
@@ -2581,7 +2581,7 @@
     "latest_seen": "2026-07-21T07:03:21Z",
     "lifespan_hours": 19,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -2592,7 +2592,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5",
       "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXJGaUw4ZGxhSE5saTZ4dFJVUnNJSE5sYzMyUGJSSXZWWlgwWHAzOXhRWDBVZWFmMTZfRU41NnBnRHR2eXBTTE5XeFprY2ExRnVfeF9LZV9FTjRVT1NRNWt4Z2FYWngtZDhTOHpTbGxCUjRJUGFfUEtRcjRJUXJtN1k4NFFMWFEzc0FkS2V6cEJ5V0Q3?oc=5"
@@ -3425,6 +3425,37 @@
     ]
   },
   {
+    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
+    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
+    "topic": "Housing",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "Irish Examiner",
+      "Limerick Leader"
+    ],
+    "first_seen": "2026-07-21T09:24:00Z",
+    "latest_seen": "2026-07-21T10:47:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 4,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 6,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYThJb2VEeC1IT0xqcHZub0pGbnBnVktINUhoUDYyam9leXcyNHJwSFdzZlp1TU01N2ZCT1d3WWxsU2E2MWZ6c3FWVno1dmktZlZrdDNVbllSS2g0blBWRUdVMzBUT3ZKMHVtZS0tOVdZX0toZmtaWmo0cUxfcmRQZUJoVTJRVktDYTZnUzk0LVlKLWtJOWl1b0doVEVjelZEclU4QkR2NWo0ZFZSTU1qSHE5RVZvcDQ?oc=5"
+    ]
+  },
+  {
     "key": "housing:parent-scooter-should-thinking-toy:796c6919",
     "title": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
     "topic": "Housing",
@@ -3487,6 +3518,64 @@
     ]
   },
   {
+    "key": "other:brian-burnham-feeney-finally-government-last:f05e078b",
+    "title": "Brian Feeney: Never mind Burnham, at last the Irish government can finally see the value of unity",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish News"
+    ],
+    "first_seen": "2026-07-22T05:00:00Z",
+    "latest_seen": "2026-07-22T05:00:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaVZ6VnQ5RzVZM2x3RG1MSTZscG05N0hYZDhZMXdheE9ZMlpOWDVWaW9vanpaMUxTcVdwZUtwUHRuWVhUcXktdXhMTzlNZmhFWkNZV2JjamRqYTVDNGdoVXdJNEl1U244UjRub2d1UW1uN1dzZUxzLTFOZTBoa3BmUG1FWHN0UE1OeFVNYnNNMjZWYlB1eW9neXdYcjBmVVQtOU5Jb1pUNjdmd0NWTlBfaW9FcTBhZkhnelE0dTVrb29ieGFxZ09KTFlJVnhwcFFRY1hEVFh1bU5IWW1vcmc0ZFR6MWlIaDBFMl9OVkZn?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2027-5bn-agree-budget-for-government:8f541f0a",
+    "title": "Government set to agree to €8.5bn package for Budget 2027",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Examiner"
+    ],
+    "first_seen": "2026-07-21T23:05:00Z",
+    "latest_seen": "2026-07-21T23:05:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5"
+    ]
+  },
+  {
     "key": "other:constructive-extremely-hold-lou-mary-mcdonald:de34c426",
     "title": "Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification",
     "topic": "Other",
@@ -3513,35 +3602,6 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5"
-    ]
-  },
-  {
-    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
-    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
-    "topic": "Housing",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Examiner"
-    ],
-    "first_seen": "2026-07-21T10:47:00Z",
-    "latest_seen": "2026-07-21T10:47:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 0,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 4,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5"
     ]
   },
   {

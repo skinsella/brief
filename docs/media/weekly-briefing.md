@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 22 Jul 2026 04:28 GMT
+Updated: Wed, 22 Jul 2026 07:16 GMT
 
 ## Snapshot
 
-- Recent coverage: 89 item(s) in the last 7 days.
+- Recent coverage: 92 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 26.
 
 ## Trend Summary
 
-- Coverage volume: 89 item(s) in the last 7 days; down 8 vs previous 7 days.
+- Coverage volume: 92 item(s) in the last 7 days; down 5 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 40 item(s).
+- Main topic: Other leads recent coverage with 42 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
 - Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 12 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 13 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -37,10 +37,10 @@ Updated: Wed, 22 Jul 2026 04:28 GMT
 
 ## Top Topics
 
-- Other: 40
+- Other: 42
 - Tax: 17
 - Finance: 11
-- Housing: 8
+- Housing: 9
 - Fine Gael: 6
 - Enterprise: 4
 - Constituency/local: 2
@@ -53,7 +53,7 @@ Updated: Wed, 22 Jul 2026 04:28 GMT
 - MSN: 7
 - Business Post: 6
 - BreakingNews.ie: 6
-- The Journal: 4
+- The Journal: 5
 - The Irish Times: 3
 - Irish Times: 3
 
@@ -72,6 +72,8 @@ Updated: Wed, 22 Jul 2026 04:28 GMT
 
 ## Recent Items
 
+- [neutral factual] The Journal: Government to publish summer economic statement later today (https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXE1VklFbnVTR3FnYmZPY1FMaVpmZWRjT0VNUklKc0NHeVhLV0dMRFdBUDR0SzgyQl91czFUaWF5d3REVFFDMzJvMVYzNXliYklrTmllWXhZQ1NpYmRERHRmU3BaT0wxRVV2SklmUkkwMmczMUZVbTFB?oc=5)
+- [neutral factual] The Irish News: Brian Feeney: Never mind Burnham, at last the Irish government can finally see the value of unity (https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaVZ6VnQ5RzVZM2x3RG1MSTZscG05N0hYZDhZMXdheE9ZMlpOWDVWaW9vanpaMUxTcVdwZUtwUHRuWVhUcXktdXhMTzlNZmhFWkNZV2JjamRqYTVDNGdoVXdJNEl1U244UjRub2d1UW1uN1dzZUxzLTFOZTBoa3BmUG1FWHN0UE1OeFVNYnNNMjZWYlB1eW9neXdYcjBmVVQtOU5Jb1pUNjdmd0NWTlBfaW9FcTBhZkhnelE0dTVrb29ieGFxZ09KTFlJVnhwcFFRY1hEVFh1bU5IWW1vcmc0ZFR6MWlIaDBFMl9OVkZn?oc=5)
 - [neutral factual] Irish Examiner: Government set to agree to €8.5bn package for Budget 2027 (https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5)
 - [neutral factual] The Irish Times: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’ (https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5)
 - [neutral factual] Irish Times: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’ (https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/)
@@ -90,5 +92,3 @@ Updated: Wed, 22 Jul 2026 04:28 GMT
 - [neutral factual] Irish Independent: ‘No parent should be thinking an e-scooter is a toy’: Simon Harris urges ‘behavioural change’ amid push to tighten regulations (https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html)
 - [neutral factual] Irish Times: ‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says (https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/)
 - [neutral factual] Waterford Live: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste (https://news.google.com/rss/articles/CBMivgFBVV95cUxQak9mUlQ3STBsS0RJU2RxNjNHY05ieVRVaElTUWdpXzJQMTl4SHpEWUdLcnpBMEpGMFlweU50elBUOFdMV2R3UUF6Mmx3dGNxV0xScFQyT0JnOTFtT1BaWldvRGVZbldzdUt0RUJvZnBfN1QzY1ZHRDI4bWxXQVNHZzh0VXBqQWVOdDZCdG5acmpJX29Hdmp2NFJYSVRORlBkdmtQWFV0Z0l4QmsyTnFrWWdfMlo2bmJIVnVxV1Rn?oc=5)
-- [neutral factual] Limerick Leader: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste (https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVBMDVCcHJjUmdtWTVlNl9TaTRzRjRKVUd6d3JqZDg2Y2hfdDZvREZhZ29Fb3IwSVI5NjBVMGhFcFNPUGl6SV90OGR2cms2M01Va3oyWWgzb0NNdThvZVlSalBoNjBQSzdacUhCNVhHWUl1ZDZkb3VBeGxwRlB4dkFQNzBlWm1iVjRPZWgweW93U2pUY2o3QVJiVzZqNlNCQVNXc0JIMmozd2NxQndyY1loa1lhRE8zTVdlaWVnNA?oc=5)
-- [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5)
