@@ -1192,35 +1192,6 @@
     ]
   },
   {
-    "key": "tax:confident-cuts-despite-tax-warning:6879d72d",
-    "title": "Tánaiste confident on tax cuts despite warning",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Highland Radio"
-    ],
-    "first_seen": "2026-07-22T14:22:44Z",
-    "latest_seen": "2026-07-22T14:22:44Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -2208,7 +2179,7 @@
     "latest_seen": "2026-07-21T20:19:44Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -2219,7 +2190,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 8,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
       "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/"
@@ -2813,20 +2784,20 @@
     ]
   },
   {
-    "key": "other:behind-councillors-for-government-having-hiding:9a03e7d4",
-    "title": "New plans for local government will prevent councillors from ‘hiding’ behind ‘not having to make decisions’",
-    "topic": "Other",
+    "key": "tax:confident-cuts-despite-tax-warning:6879d72d",
+    "title": "Tánaiste confident on tax cuts despite warning",
+    "topic": "Tax",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Independent"
+      "Highland Radio"
     ],
-    "first_seen": "2026-07-22T14:30:00Z",
-    "latest_seen": "2026-07-22T14:30:00Z",
+    "first_seen": "2026-07-22T14:22:44Z",
+    "latest_seen": "2026-07-22T14:22:44Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 3,
+    "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -2834,40 +2805,11 @@
       "mixed": 0
     },
     "net_framing": 0,
-    "significant_count": 0,
+    "significant_count": 1,
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT1ZDeFRha0tLM3BFNm9zTWVSVHktQTFMQlhiLTQxT2tuSG9RZF8zekRvT0d6QzZETnZMWUFHamdLRHA5NWVCRk1FbnVjUmJIZlVPVjYxb0NTcU9tczFFcjNmbV9LdFFMWUJpYklCTHctUGhZRXhxQ0tWR1Q5U2VEWG1lRTNKR0gzajFrRDNJQThraUpPYXNWTnZhZ2dvWFlDa1dBXzFwaFRpMGZkckhhYWVZMVFUNzJWSU5CUXdBWUduOEFTUDhndG9TR1N2UTc5N3RNUElvMGZYSXgyUmk1eFlGVEdKNXkzWFp1LUdFZzVOVTBpM3RnRlJTVQ?oc=5"
-    ]
-  },
-  {
-    "key": "finance:2027-budget-gets-government-looms-row:4ab9cb96",
-    "title": "Serious Government row looms over who gets what in Budget 2027",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "The Irish Times"
-    ],
-    "first_seen": "2026-07-22T13:55:40Z",
-    "latest_seen": "2026-07-22T13:55:40Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpYOFBRQ3d6Z0ItN0o1MlpJRnJhaTVfSnJ2WWNDMnhEczRFM3pYczNMUWtQNWg5aDc0TDRYbldqYlhFSlU0dmIzZExseEVwYzMzeDVsNXJtWGtkZmNLQUVXemRYcFdpM2NHR29xbnFPcndvbWRRMW9FanItdzJFbEpHNG1WWVRVdjY1MVhJbkE0N1dDVlZvRmw1MEp1bmJoaG1JRXd5bzhlNmY4RENFZm53VFpFbHJyR3c?oc=5"
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5"
     ]
   },
   {
@@ -3850,20 +3792,20 @@
     ]
   },
   {
-    "key": "finance:2026-department-economic-finance-releases-statement:a7a1e438",
-    "title": "Department of Finance releases Summer Economic Statement 2026",
-    "topic": "Finance",
+    "key": "other:behind-councillors-for-government-having-hiding:9a03e7d4",
+    "title": "New plans for local government will prevent councillors from ‘hiding’ behind ‘not having to make decisions’",
+    "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "LMFM"
+      "Irish Independent"
     ],
-    "first_seen": "2026-07-22T15:17:30Z",
-    "latest_seen": "2026-07-22T15:17:30Z",
+    "first_seen": "2026-07-22T14:30:00Z",
+    "latest_seen": "2026-07-22T14:30:00Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 1,
+    "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -3872,10 +3814,39 @@
     },
     "net_framing": 0,
     "significant_count": 0,
-    "attention_score": 5,
+    "attention_score": 4,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5"
+      "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT1ZDeFRha0tLM3BFNm9zTWVSVHktQTFMQlhiLTQxT2tuSG9RZF8zekRvT0d6QzZETnZMWUFHamdLRHA5NWVCRk1FbnVjUmJIZlVPVjYxb0NTcU9tczFFcjNmbV9LdFFMWUJpYklCTHctUGhZRXhxQ0tWR1Q5U2VEWG1lRTNKR0gzajFrRDNJQThraUpPYXNWTnZhZ2dvWFlDa1dBXzFwaFRpMGZkckhhYWVZMVFUNzJWSU5CUXdBWUduOEFTUDhndG9TR1N2UTc5N3RNUElvMGZYSXgyUmk1eFlGVEdKNXkzWFp1LUdFZzVOVTBpM3RnRlJTVQ?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2027-budget-gets-government-looms-row:4ab9cb96",
+    "title": "Serious Government row looms over who gets what in Budget 2027",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-22T13:55:40Z",
+    "latest_seen": "2026-07-22T13:55:40Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpYOFBRQ3d6Z0ItN0o1MlpJRnJhaTVfSnJ2WWNDMnhEczRFM3pYczNMUWtQNWg5aDc0TDRYbldqYlhFSlU0dmIzZExseEVwYzMzeDVsNXJtWGtkZmNLQUVXemRYcFdpM2NHR29xbnFPcndvbWRRMW9FanItdzJFbEpHNG1WWVRVdjY1MVhJbkE0N1dDVlZvRmw1MEp1bmJoaG1JRXd5bzhlNmY4RENFZm53VFpFbHJyR3c?oc=5"
     ]
   },
   {
@@ -8791,6 +8762,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2026-department-economic-finance-releases-statement:a7a1e438",
+    "title": "Department of Finance releases Summer Economic Statement 2026",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "LMFM"
+    ],
+    "first_seen": "2026-07-22T15:17:30Z",
+    "latest_seen": "2026-07-22T15:17:30Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5"
     ]
   },
   {
