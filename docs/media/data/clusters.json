@@ -2755,35 +2755,6 @@
     ]
   },
   {
-    "key": "other:announcements-around-chambers-economic-jack-make:88f77030",
-    "title": "Simon Harris and Jack Chambers make announcements around the Summer Economic Statement",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-22T16:29:11Z",
-    "latest_seen": "2026-07-22T16:29:11Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdW52STJwamlkamtuajJKQ1dXVHJOeS1RLUxaZW5KbzRsc1RaS0ZqaVJpSmNxXzRINHZaZlNIQWxneFI2OVE0ZnVjdmFFYzJwVFd3X0R6UlVTQ2JLOW9EWXFIcEhzN2ZkQlBwblFKQmlKbjQtSVVoMGhrck92aTFobHdJNEJ6VzRyVlllQW5UbEs3dXdCOVJWdlhEVnJZSHNfUnRGWUVOR1U1dlQtSmszWGZiUk1mdFdJOGJJZktJbl81YlFWRmdBUXQ0QWNDUDk5aUln?oc=5"
-    ]
-  },
-  {
     "key": "tax:confident-cuts-despite-tax-warning:6879d72d",
     "title": "Tánaiste confident on tax cuts despite warning",
     "topic": "Tax",
@@ -3789,6 +3760,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:announcements-around-chambers-economic-jack-make:88f77030",
+    "title": "Simon Harris and Jack Chambers make announcements around the Summer Economic Statement",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T16:29:11Z",
+    "latest_seen": "2026-07-22T16:29:11Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdW52STJwamlkamtuajJKQ1dXVHJOeS1RLUxaZW5KbzRsc1RaS0ZqaVJpSmNxXzRINHZaZlNIQWxneFI2OVE0ZnVjdmFFYzJwVFd3X0R6UlVTQ2JLOW9EWXFIcEhzN2ZkQlBwblFKQmlKbjQtSVVoMGhrck92aTFobHdJNEJ6VzRyVlllQW5UbEs3dXdCOVJWdlhEVnJZSHNfUnRGWUVOR1U1dlQtSmszWGZiUk1mdFdJOGJJZktJbl81YlFWRmdBUXQ0QWNDUDk5aUln?oc=5"
     ]
   },
   {
