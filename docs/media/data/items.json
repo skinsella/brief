@@ -1230,6 +1230,29 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5": {
+    "outlet": "Belfast Telegraph",
+    "published": "Tue, 21 Jul 2026 10:24:03 GMT",
+    "headline": "‘No parent in Ireland’ should think an e-scooter is a toy, says Tánaiste",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5",
+    "summary": "Belfast Telegraph reports: ‘No parent in Ireland’ should think an e-scooter is a toy, says Tánaiste.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "no-parent-in-ireland-should-think-an-e-scooter-is-a-toy-says-t-naiste",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5",
+    "topic": "Housing",
+    "attention": [],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5": {
     "outlet": "INSIGHT EU MONITORING",
     "published": "Fri, 10 Jul 2026 14:49:39 GMT",
@@ -3497,6 +3520,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYlhzM3Q3RDFKWTkyV3c0NjUtMVVSN2lIbzNjcFpVQmdBWE9kVVBIbkdQdHBTLXpKVURPUlFDYVBIbXJETjZSRzA2Slo2TUFWLXhndFh4aE1jMy1oeHdBV01ieXAxLWlRNGdHd2lxcmhTQ3FGT1Rv?oc=5": {
+    "outlet": "RTE.ie",
+    "published": "Tue, 21 Jul 2026 23:00:00 GMT",
+    "headline": "Government set to publish Summer Economic Statement",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYlhzM3Q3RDFKWTkyV3c0NjUtMVVSN2lIbzNjcFpVQmdBWE9kVVBIbkdQdHBTLXpKVURPUlFDYVBIbXJETjZSRzA2Slo2TUFWLXhndFh4aE1jMy1oeHdBV01ieXAxLWlRNGdHd2lxcmhTQ3FGT1Rv?oc=5",
+    "summary": "RTE.ie reports: Government set to publish Summer Economic Statement.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-set-to-publish-summer-economic-statement",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYlhzM3Q3RDFKWTkyV3c0NjUtMVVSN2lIbzNjcFpVQmdBWE9kVVBIbkdQdHBTLXpKVURPUlFDYVBIbXJETjZSRzA2Slo2TUFWLXhndFh4aE1jMy1oeHdBV01ieXAxLWlRNGdHd2lxcmhTQ3FGT1Rv?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYlhzM3Q3RDFKWTkyV3c0NjUtMVVSN2lIbzNjcFpVQmdBWE9kVVBIbkdQdHBTLXpKVURPUlFDYVBIbXJETjZSRzA2Slo2TUFWLXhndFh4aE1jMy1oeHdBV01ieXAxLWlRNGdHd2lxcmhTQ3FGT1Rv?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRUxNOVNqeUtxYkFKODB6Ni03d3cyQnQ0elhXSGJJaGx1N3VYbGpvb3BsMjdnaFRnX0JjMldqRUdZZGlqVkswOXlWWDVFeUV4NENaMDFKSUNJVTcxdXB5S3paN21NdF9VdkdUTENETFNEdEJ2?oc=5": {
     "outlet": "The Journal",
     "published": "Tue, 30 Jun 2026 14:59:00 GMT",
@@ -5156,6 +5204,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUJYRkZraVI5eFlWdy1oMXRxY2kzMjVXeVM5MkYwcjdxSnhlZHZ0UGpGc3YyWnY3bjNqX0xvalBqaE9MNl9peXA5YVdWT1ZCai14VTJIN1d2aEllcXFaZkZJbUV4bUpFMUFFMEFhUHdqVGF0amdZbmEwUVNSSUZjLUJ0Qy1WT1RRZ3FXTEtsWW0tUml5VW5fZ0NIbWlBX0FETEFPMzRVeFE4Q0JGb2pGNUExemhJUlphWUhUYVdJUkpRbks2QXlDenA4X2hUalB5WC1uX193VXFXVV9mcWw5b0RfNjVmUVZfdjd1TjhodFp4TlBmRndtbjdUS0ZWRy1tZnh1VlRYWDhMUGZBTFh0cGJLOFZlRVE?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Tue, 21 Jul 2026 10:41:00 GMT",
+    "headline": "Martin and Harris told of public backlash if government backs €40m ESB plan to dismantle two decommissioned midlands power plants",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUJYRkZraVI5eFlWdy1oMXRxY2kzMjVXeVM5MkYwcjdxSnhlZHZ0UGpGc3YyWnY3bjNqX0xvalBqaE9MNl9peXA5YVdWT1ZCai14VTJIN1d2aEllcXFaZkZJbUV4bUpFMUFFMEFhUHdqVGF0amdZbmEwUVNSSUZjLUJ0Qy1WT1RRZ3FXTEtsWW0tUml5VW5fZ0NIbWlBX0FETEFPMzRVeFE4Q0JGb2pGNUExemhJUlphWUhUYVdJUkpRbks2QXlDenA4X2hUalB5WC1uX193VXFXVV9mcWw5b0RfNjVmUVZfdjd1TjhodFp4TlBmRndtbjdUS0ZWRy1tZnh1VlRYWDhMUGZBTFh0cGJLOFZlRVE?oc=5",
+    "summary": "Irish Independent reports: Martin and Harris told of public backlash if government backs €40m ESB plan to dismantle two decommissioned midlands power plants.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "martin-and-harris-told-of-public-backlash-if-government-backs-40m-esb-plan-to-di",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUJYRkZraVI5eFlWdy1oMXRxY2kzMjVXeVM5MkYwcjdxSnhlZHZ0UGpGc3YyWnY3bjNqX0xvalBqaE9MNl9peXA5YVdWT1ZCai14VTJIN1d2aEllcXFaZkZJbUV4bUpFMUFFMEFhUHdqVGF0amdZbmEwUVNSSUZjLUJ0Qy1WT1RRZ3FXTEtsWW0tUml5VW5fZ0NIbWlBX0FETEFPMzRVeFE4Q0JGb2pGNUExemhJUlphWUhUYVdJUkpRbks2QXlDenA4X2hUalB5WC1uX193VXFXVV9mcWw5b0RfNjVmUVZfdjd1TjhodFp4TlBmRndtbjdUS0ZWRy1tZnh1VlRYWDhMUGZBTFh0cGJLOFZlRVE?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUJYRkZraVI5eFlWdy1oMXRxY2kzMjVXeVM5MkYwcjdxSnhlZHZ0UGpGc3YyWnY3bjNqX0xvalBqaE9MNl9peXA5YVdWT1ZCai14VTJIN1d2aEllcXFaZkZJbUV4bUpFMUFFMEFhUHdqVGF0amdZbmEwUVNSSUZjLUJ0Qy1WT1RRZ3FXTEtsWW0tUml5VW5fZ0NIbWlBX0FETEFPMzRVeFE4Q0JGb2pGNUExemhJUlphWUhUYVdJUkpRbks2QXlDenA4X2hUalB5WC1uX193VXFXVV9mcWw5b0RfNjVmUVZfdjd1TjhodFp4TlBmRndtbjdUS0ZWRy1tZnh1VlRYWDhMUGZBTFh0cGJLOFZlRVE?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEFveFJySVpJTGlCY1prUGU4VGtUZUd2WXlBVDVDdHZ1dUpLbkx1aVFiWFBGS3hMYlBpczdKUk9oZFFKS05rZzJyZl9vTlZFTV96MlBxLXlqWVNSdEdLcVNVNFp0dXpQMTg2a0RHREZscFBTeWhUajFJRVE3d1hiNS1FdGZiVmtsUHFzOGlLcGpucjd1RzNNMg?oc=5": {
@@ -7667,6 +7740,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5": {
+    "outlet": "The Irish Times",
+    "published": "Wed, 22 Jul 2026 08:53:03 GMT",
+    "headline": "Harris expects ‘intense engagement’ in Government over budget tax package",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5",
+    "summary": "The Irish Times reports: Harris expects ‘intense engagement’ in Government over budget tax package.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "harris-expects-intense-engagement-in-government-over-budget-tax-package",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1dmNlpFUkZ2OHV0WXMyMHZGTHlLZVYtaVBuVGNmdERtQUZMR19XX1ZzSUlvaTg5NUNiSktmOHRwNkNva3JYVW1NcTNMckcyc0tteTl1YUQ2UVdQQjVOeU5fM0VFTmVjNS1CQmNBWkpYQjZubnl4SGlTMkhsYTUzemRZM1pEMVJNMjZfb2szRXNfTHo4ZVNpNDBjTGl1YkY2LW5XazVZcFFvTmRmNnkxNW9VaVBGTVd2aW9z?oc=5": {
     "outlet": "Irish Independent",
     "published": "Thu, 11 Jun 2026 15:02:34 GMT",
@@ -9297,6 +9396,32 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Wed, 22 Jul 2026 09:15:18 GMT",
+    "headline": "Summer economic statement 2026: Simon Harris says budget tax package will deliver for ‘working people’",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5",
+    "summary": "Irish Independent reports: Summer economic statement 2026: Simon Harris says budget tax package will deliver for ‘working people’.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "summer-economic-statement-2026-simon-harris-says-budget-tax-package-will-deliver",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDhPaUo1bTBDSmtQbGVyV2JRaWlSdi1XdDJIU2hIMG5kc0tWT2hmbHdyUWpOT2ZSeERoTk95a0tMTnZZa0tES0ZnLTUyUkw1cXFJUElNbnNCUFZQQzZqQ180aEtPQmNoeWFYUjVTSk82ZVJaTXdyaWNXMFNTQVBnX0xyVUJMRWh0YVdpM0VjeHdwRUJXdVJINlVoVkdLMlNnVFVSTVI5eWtpRUNWaXplZUZYc0hYbV9QQVcwQ0J6U0RtelZ0WG1FM2k5SWI?oc=5": {
     "outlet": "Irish Independent",
     "published": "Thu, 09 Jul 2026 11:09:31 GMT",
@@ -10320,6 +10445,32 @@
     "source_feed": "Irish Independent RSS",
     "google_link": "",
     "source_link": "https://www.independent.ie/irish-news/politics/simon-harris-favours-tax-cuts-over-welfare-spend-for-october-budget/a/158576181.html",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html": {
+    "outlet": "Irish Independent",
+    "published": "Wed, 22 Jul 2026 08:40:00 GMT",
+    "headline": "Simon Harris says budget tax package will deliver for ‘working people’",
+    "link": "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html",
+    "summary": "Irish Independent reports: Simon Harris says budget tax package will deliver for ‘working people’.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "simon-harris-says-budget-tax-package-will-deliver-for-working-people",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html",
     "topic": "Finance",
     "attention": [
       "Policy",

@@ -407,7 +407,7 @@
     "latest_seen": "2026-07-21T09:36:40Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -418,7 +418,7 @@
     "net_framing": 0,
     "significant_count": 2,
     "attention_score": 18,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://www.thejournal.ie/e-scooters-ban-insurance-tax-7108880-Jul2026/",
       "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5"
@@ -499,7 +499,7 @@
     "latest_seen": "2026-07-21T10:53:53Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 1,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -829,6 +829,93 @@
       "https://www.breakingnews.ie/ireland/simon-harris-announces-blueprint-for-irish-unity-1913504.html",
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQno2ME81N1A0R0kzbHo2dlk0ajQ1blFaYU5rTGZiTmFidjNsWGF3bFNTOFNJZnpWejREc1B6OERfbU9iZTFMSktfSEE0YkdnYnRIU0U0Ml9BRnR4a1dFcmxtdC14RmtmUnYyWTNtdnVuYnJNN29lN2ZBTDRqT0dFbHRZM3UtVDdVRDFEOWl4ZDViQ0VMZVV4SldYYUI?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VuM0dTNWhzT3lhbzNvOXdoR2tnd3loM05PUFdEN1RYRHhkeUFIRDlZVmltc2V4WXBEdnJrS28tMXNuSnl3c3E1NEgtdkx2MHhaTDFDMTEyYnhuM2Y3dkpxajF3VUdlR3hJOTRCMkphcndjZ3IzNnVmTE55VTNTQ2ZUSUZGaDFnTGNEUm8weDVlZG9wTEhBaFpoSzNYdw?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2026-budget-deliver-economic-for-package:e4b21fec",
+    "title": "Summer economic statement 2026: Simon Harris says budget tax package will deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T09:15:18Z",
+    "latest_seen": "2026-07-22T09:15:18Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-engagement-expects-government-intense-package:ad713c71",
+    "title": "Harris expects ‘intense engagement’ in Government over budget tax package",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-22T08:53:03Z",
+    "latest_seen": "2026-07-22T08:53:03Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-deliver-for-package-people-tax:f63b63f9",
+    "title": "Simon Harris says budget tax package will deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T08:40:00Z",
+    "latest_seen": "2026-07-22T08:40:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html"
     ]
   },
   {
@@ -1985,6 +2072,39 @@
     ]
   },
   {
+    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
+    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
+    "topic": "Housing",
+    "item_count": 3,
+    "outlet_count": 3,
+    "outlets": [
+      "Belfast Telegraph",
+      "Irish Examiner",
+      "Limerick Leader"
+    ],
+    "first_seen": "2026-07-21T09:24:00Z",
+    "latest_seen": "2026-07-21T10:47:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 5,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 8,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5",
+      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYThJb2VEeC1IT0xqcHZub0pGbnBnVktINUhoUDYyam9leXcyNHJwSFdzZlp1TU01N2ZCT1d3WWxsU2E2MWZ6c3FWVno1dmktZlZrdDNVbllSS2g0blBWRUdVMzBUT3ZKMHVtZS0tOVdZX0toZmtaWmo0cUxfcmRQZUJoVTJRVktDYTZnUzk0LVlKLWtJOWl1b0doVEVjelZEclU4QkR2NWo0ZFZSTU1qSHE5RVZvcDQ?oc=5"
+    ]
+  },
+  {
     "key": "housing:bizarre-buy-children-end-for-must:597c2c46",
     "title": "‘Bizarre situation’ where parents buy e-scooters for children must end, Simon Harris says",
     "topic": "Housing",
@@ -1998,7 +2118,7 @@
     "latest_seen": "2026-07-21T09:34:03Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -2009,7 +2129,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 8,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5",
       "https://www.irishtimes.com/politics/2026/07/21/bizarre-situation-where-parents-buy-e-scooters-for-children-must-end-simon-harris-says/"
@@ -2551,7 +2671,7 @@
     "latest_seen": "2026-07-21T09:59:10Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -2562,7 +2682,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMikwJBVV95cUxObGlGb1VKa0xhc2xuRDUyWkZ0a0FRVENOS0FMNEF0Z0FDbTMzeWhnbU9XWWRxcTctdlhpSXNfNHZlV2dsUHhzeG00WENnWXZIUnB6My1DMExsS3FjT0wxQ043Qkc3N0t6ZzV2dWg0dTc1djlQSXZFUnd2UHI3c1pLN1dYSDhvWTRxbkk3ejlpMHhCa1psRTFDUHpOdXM2a0VhUU9QMTUyNWJZbzFoUnllTThCUkFESHlDUk15aW5uZ1o3dTVNR3RPN1VuZmFadWloOG5xVTduM3k4UVNCNHRWYTd0ZXI3Zzk5NG1CbGxTZHU3WUZwVExLY0Nod05LcEhPQkhscWd4MFVIZXFSTk5ZZnQ2VQ?oc=5",
       "https://www.independent.ie/irish-news/politics/no-parent-should-be-thinking-an-e-scooter-is-a-toy-simon-harris-urges-behavioural-change-amid-push-to-tighten-regulations/a/158981207.html"
@@ -3425,37 +3545,6 @@
     ]
   },
   {
-    "key": "housing:parent-scooter-should-think-toy:a1ea35c5",
-    "title": "‘No parent in Ireland’ should think of an e-scooter as a toy, says Tánaiste",
-    "topic": "Housing",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "Irish Examiner",
-      "Limerick Leader"
-    ],
-    "first_seen": "2026-07-21T09:24:00Z",
-    "latest_seen": "2026-07-21T10:47:00Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 0,
-    "velocity_24h": 2,
-    "reach_score": 4,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 6,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5",
-      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYThJb2VEeC1IT0xqcHZub0pGbnBnVktINUhoUDYyam9leXcyNHJwSFdzZlp1TU01N2ZCT1d3WWxsU2E2MWZ6c3FWVno1dmktZlZrdDNVbllSS2g0blBWRUdVMzBUT3ZKMHVtZS0tOVdZX0toZmtaWmo0cUxfcmRQZUJoVTJRVktDYTZnUzk0LVlKLWtJOWl1b0doVEVjelZEclU4QkR2NWo0ZFZSTU1qSHE5RVZvcDQ?oc=5"
-    ]
-  },
-  {
     "key": "housing:parent-scooter-should-thinking-toy:796c6919",
     "title": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
     "topic": "Housing",
@@ -3470,7 +3559,7 @@
     "latest_seen": "2026-07-21T09:34:07Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 3,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3481,7 +3570,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 6,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkhPVmVVX1VQaDJZLWN6R1k4ZFcxYW43Z0U3Yi0wOGNuMW9fVTBvZGYwaG5kVGEycXpQVTRScTJ0bkNWYW93YlNfN3JicVRJbUxxbDlORmhpRkRBeENaT2pJRjRxWHd5anc4LXluYy1HREt5bkhpWFJFaVRJRkJlbDNSYmR6T3dVRzZfNWsxNC1BZTZReXlMZ0hrYTNSY2RuV1NFYk1SQXpEbGFNNUlTa0plajVPd0E0LWpTTkw5T25LTklkdDRoYkZGMWxNSTU3MkFnYW5hZ0VvX3NkbkU4MVhmN1NhLTg?oc=5",
       "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVBMDVCcHJjUmdtWTVlNl9TaTRzRjRKVUd6d3JqZDg2Y2hfdDZvREZhZ29Fb3IwSVI5NjBVMGhFcFNPUGl6SV90OGR2cms2M01Va3oyWWgzb0NNdThvZVlSalBoNjBQSzdacUhCNVhHWUl1ZDZkb3VBeGxwRlB4dkFQNzBlWm1iVjRPZWgweW93U2pUY2o3QVJiVzZqNlNCQVNXc0JIMmozd2NxQndyY1loa1lhRE8zTVdlaWVnNA?oc=5",
@@ -3576,6 +3665,35 @@
     ]
   },
   {
+    "key": "other:economic-government-publish-set-statement-summer:d8a5e6df",
+    "title": "Government set to publish Summer Economic Statement",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "RTE.ie"
+    ],
+    "first_seen": "2026-07-21T23:00:00Z",
+    "latest_seen": "2026-07-21T23:00:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XYlhzM3Q3RDFKWTkyV3c0NjUtMVVSN2lIbzNjcFpVQmdBWE9kVVBIbkdQdHBTLXpKVURPUlFDYVBIbXJETjZSRzA2Slo2TUFWLXhndFh4aE1jMy1oeHdBV01ieXAxLWlRNGdHd2lxcmhTQ3FGT1Rv?oc=5"
+    ]
+  },
+  {
     "key": "other:constructive-extremely-hold-lou-mary-mcdonald:de34c426",
     "title": "Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification",
     "topic": "Other",
@@ -3602,6 +3720,35 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:40m-backlash-backs-dismantle-esb-government:60b5f58f",
+    "title": "Martin and Harris told of public backlash if government backs €40m ESB plan to dismantle two decommissioned midlands power plants",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-21T10:41:00Z",
+    "latest_seen": "2026-07-21T10:41:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUJYRkZraVI5eFlWdy1oMXRxY2kzMjVXeVM5MkYwcjdxSnhlZHZ0UGpGc3YyWnY3bjNqX0xvalBqaE9MNl9peXA5YVdWT1ZCai14VTJIN1d2aEllcXFaZkZJbUV4bUpFMUFFMEFhUHdqVGF0amdZbmEwUVNSSUZjLUJ0Qy1WT1RRZ3FXTEtsWW0tUml5VW5fZ0NIbWlBX0FETEFPMzRVeFE4Q0JGb2pGNUExemhJUlphWUhUYVdJUkpRbks2QXlDenA4X2hUalB5WC1uX193VXFXVV9mcWw5b0RfNjVmUVZfdjd1TjhodFp4TlBmRndtbjdUS0ZWRy1tZnh1VlRYWDhMUGZBTFh0cGJLOFZlRVE?oc=5"
     ]
   },
   {

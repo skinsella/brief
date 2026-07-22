@@ -12267,6 +12267,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFl2N3R2eEJLZ0Nzc01UY1BGWVEzLVBLSm5PZFF2OWtvV05hUWNkTGhXbnBnVEI0NDZGUFZfTHp6X2JuWHFWR3ItcWtzSzhLeWM5bmRMS1FJdGE0eTBIX3VmT1owSXQtQURGTVNqSlVHcG9hTy0xWF9nQ3FQeWZnRURDT3E5VVhoVzA2NA?oc=5": {
+    "outlet": "The Irish Sun",
+    "published": "Wed, 22 Jul 2026 09:22:14 GMT",
+    "headline": "Budget 2027 will have tax package ‘that delivers for working people’, Harris confirms as he gives energy support update",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFl2N3R2eEJLZ0Nzc01UY1BGWVEzLVBLSm5PZFF2OWtvV05hUWNkTGhXbnBnVEI0NDZGUFZfTHp6X2JuWHFWR3ItcWtzSzhLeWM5bmRMS1FJdGE0eTBIX3VmT1owSXQtQURGTVNqSlVHcG9hTy0xWF9nQ3FQeWZnRURDT3E5VVhoVzA2NA?oc=5",
+    "summary": "The Irish Sun reports: Budget 2027 will have tax package ‘that delivers for working people’, Harris confirms as he gives energy support update.",
+    "tag": "SIGNIFICANT",
+    "reason": "Polling or party-support coverage may need a quick political readout.",
+    "cluster_key": "budget-2027-will-have-tax-package-that-delivers-for-working-people-harris-confir",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFl2N3R2eEJLZ0Nzc01UY1BGWVEzLVBLSm5PZFF2OWtvV05hUWNkTGhXbnBnVEI0NDZGUFZfTHp6X2JuWHFWR3ItcWtzSzhLeWM5bmRMS1FJdGE0eTBIX3VmT1owSXQtQURGTVNqSlVHcG9hTy0xWF9nQ3FQeWZnRURDT3E5VVhoVzA2NA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFl2N3R2eEJLZ0Nzc01UY1BGWVEzLVBLSm5PZFF2OWtvV05hUWNkTGhXbnBnVEI0NDZGUFZfTHp6X2JuWHFWR3ItcWtzSzhLeWM5bmRMS1FJdGE0eTBIX3VmT1owSXQtQURGTVNqSlVHcG9hTy0xWF9nQ3FQeWZnRURDT3E5VVhoVzA2NA?oc=5",
+    "topic": "Polling",
+    "attention": [
+      "Polling"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "favourable",
+    "sentiment_score": 1,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses constructive delivery language: delivers."
+  },
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlMtbS1wSHlJTmxSQmJuNzUyR0Y5azRndVBzU0VCTFlrTDJaekp3NUlYbDF3MEs5dkotWk84VjJOZ3ZPNy00alVSTF96N09EbWFHNWNqT3IzV25jc19DQkhlRVV4YkdYOVBfaGQ4ZHRtZmxyQ3QyU1VjTjB6UU1UTXVTN0hENEVrU2R1TtIBkgFBVV95cUxNaFBnNVdVWl9ON3FRSFVxLU9aaC1RLTd2aEdVWEY5WElXblo0VlpuVHVmRG9lbzhxX09yZ2lDR3hlT0xFOUc4S0tiaG1lLUJDWlQ0QkVreWk1OV9zVjJacUtCWTNtTm1YelExaEhpQ2xxQUpXN3kzVTFvRndlV3ZoekxKMy1IUDR6cXRRSnlUX1Q1Zw?oc=5": {
     "outlet": "Dublin Live",
     "published": "Fri, 26 Jun 2026 17:05:26 GMT",
@@ -16764,6 +16789,31 @@
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2ozajdJZ0NoUU1xdVIzLUtVRkYzaG5wbmtPUXo4WHJyLV9raUlLSzV4TVlyRFo4VG1vU29sRVIyLTQya2pEMVplV1FEdkp4M3JyTlJVS2NlWWNrb2NHWmZuQmd1NWROU21mMkNJRVFtUmc3bEpLNmpxaENUQkZtUG5wd3Y4WDBRUm1IOEdsWUw4eWstOE1WV3MwcDVvRWRo?oc=5": {
+    "outlet": "Ocean FM",
+    "published": "Wed, 22 Jul 2026 09:23:33 GMT",
+    "headline": "Minister praised as Donegal boy gets green light for Givinostat",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2ozajdJZ0NoUU1xdVIzLUtVRkYzaG5wbmtPUXo4WHJyLV9raUlLSzV4TVlyRFo4VG1vU29sRVIyLTQya2pEMVplV1FEdkp4M3JyTlJVS2NlWWNrb2NHWmZuQmd1NWROU21mMkNJRVFtUmc3bEpLNmpxaENUQkZtUG5wd3Y4WDBRUm1IOEdsWUw4eWstOE1WV3MwcDVvRWRo?oc=5",
+    "summary": "Ocean FM reports: Minister praised as Donegal boy gets green light for Givinostat.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "minister-praised-as-donegal-boy-gets-green-light-for-givinostat",
+    "first_seen": "2026-07-22T10:03:57Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2ozajdJZ0NoUU1xdVIzLUtVRkYzaG5wbmtPUXo4WHJyLV9raUlLSzV4TVlyRFo4VG1vU29sRVIyLTQya2pEMVplV1FEdkp4M3JyTlJVS2NlWWNrb2NHWmZuQmd1NWROU21mMkNJRVFtUmc3bEpLNmpxaENUQkZtUG5wd3Y4WDBRUm1IOEdsWUw4eWstOE1WV3MwcDVvRWRo?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2ozajdJZ0NoUU1xdVIzLUtVRkYzaG5wbmtPUXo4WHJyLV9raUlLSzV4TVlyRFo4VG1vU29sRVIyLTQya2pEMVplV1FEdkp4M3JyTlJVS2NlWWNrb2NHWmZuQmd1NWROU21mMkNJRVFtUmc3bEpLNmpxaENUQkZtUG5wd3Y4WDBRUm1IOEdsWUw4eWstOE1WV3MwcDVvRWRo?oc=5",
+    "topic": "Other",
+    "attention": [
+      "Review tone"
+    ],
+    "outlet_tier": "regional",
+    "outlet_weight": 1,
+    "favourability": "favourable",
+    "sentiment_score": 1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses constructive delivery language: praised."
   },
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzNRY3N1UmRlQlRQc3VhXzRPaEdNUnRlLWI1VURrVWlRNVBneUo0amJDRUhqN1kyS3dVVDI4aVpKeHAwanhqOUtzX1ZCazJFeE1kcEpyUWtRek5kUWtGVnpxNGxMeHFEZ09aRzlVbHIzMjNFdmlZVHZCZ1NicmU5azlwYXdMcW5vX0lCNTQ1Q3pVR0RhYmZDaG84UWVzRzdp?oc=5": {
     "outlet": "waterford-news.ie",
