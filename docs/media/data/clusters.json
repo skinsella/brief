@@ -41,40 +41,6 @@
     ]
   },
   {
-    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
-    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
-    "topic": "Finance",
-    "item_count": 4,
-    "outlet_count": 3,
-    "outlets": [
-      "BreakingNews.ie",
-      "Irish Mirror",
-      "Longford Leader"
-    ],
-    "first_seen": "2026-07-22T08:37:00Z",
-    "latest_seen": "2026-07-22T11:04:45Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 4,
-    "velocity_24h": 4,
-    "reach_score": 8,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 4,
-    "attention_score": 43,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
-      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
-    ]
-  },
-  {
     "key": "finance:savings-plan",
     "title": "Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’",
     "topic": "Finance",
@@ -111,6 +77,40 @@
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaW4tQTJ5VEczSVJQRVZnNDJHZGo3dXMwOGszTklUcmVOajN1eXhhclVMc0IwQ3FNZEJfcVJLeDIyWVlFdGxMcHNSSHZ4UTFmTldDTFoxUUR4UnJJMWhHenlMaXhMb2RFd0p3d0Q0NUpiRmRaenBCTHZmcHVaV1E2RWMwOHBSMXJaMkFzWVBmT05NT1JBajk0U3NJYWpwZzd1WWdBN1hvZXJlUThtYVloUDJZb0xnUUFVMVBTVWt1c3l2YTlFeTNr?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dkaFBOVjNOM0hySm5pUW91c1dPdjdrZVRqeEZjUmZkazd0bTZSNk8wMDBlWndZcWZSd3JJcTMtQXRuZFdLUjNBYUlCLUg4RFl2eE1WUmxxajJjNzhpTmFlcmNGTXlhM3ItODNISTkwa0o2YXZVdHVGN2dfQThITUk4b3FDbkRzZXhNc2hzY1NhVVZnVEJQOHNySmpiZ3BhWXU4WUZ4ZWRsUVR6Z2NkNi1jaXUyOVBkTUhn?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3R4TGlLUEdDSnZqSWdDa0hqNWxHblhIM2oyd3dmVXVjSEVkcEpuMVpoTnB4eW9lWm85VEx6VHl1Z2NnUkNJbk9wOFhLOEJ5TW52M0NZTkpzbWlRelBHV3ozX2Rid19BeTFqaDRRUmVDb0lKanprczFGNXBFeFctYU5lVzZHY2VZTmJvSEZJbWpaSGY4ZDNpVEszYWpBM3dBX1RfeDhocjlyOWNrYjdLUDIzdUw5MWdCZXBaRXNSQVlOLUxFaVE?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
+    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "Irish Mirror",
+      "Longford Leader"
+    ],
+    "first_seen": "2026-07-22T08:37:00Z",
+    "latest_seen": "2026-07-22T11:04:45Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 2,
+    "velocity_24h": 4,
+    "reach_score": 8,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 4,
+    "attention_score": 37,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
     ]
   },
   {
@@ -896,93 +896,6 @@
     ]
   },
   {
-    "key": "finance:2026-budget-deliver-economic-for-package:e4b21fec",
-    "title": "Summer economic statement 2026: Simon Harris says budget tax package will deliver for ‘working people’",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-22T09:15:18Z",
-    "latest_seen": "2026-07-22T09:15:18Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5"
-    ]
-  },
-  {
-    "key": "finance:budget-engagement-expects-government-intense-package:ad713c71",
-    "title": "Harris expects ‘intense engagement’ in Government over budget tax package",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "The Irish Times"
-    ],
-    "first_seen": "2026-07-22T08:53:03Z",
-    "latest_seen": "2026-07-22T08:53:03Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5"
-    ]
-  },
-  {
-    "key": "finance:budget-deliver-for-package-people-tax:f63b63f9",
-    "title": "Simon Harris says budget tax package will deliver for ‘working people’",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-22T08:40:00Z",
-    "latest_seen": "2026-07-22T08:40:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html"
-    ]
-  },
-  {
     "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
     "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
     "topic": "Other",
@@ -1277,6 +1190,35 @@
     ]
   },
   {
+    "key": "tax:confident-cuts-despite-tax-warning:6879d72d",
+    "title": "Tánaiste confident on tax cuts despite warning",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Highland Radio"
+    ],
+    "first_seen": "2026-07-22T14:22:44Z",
+    "latest_seen": "2026-07-22T14:22:44Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 10,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5"
+    ]
+  },
+  {
     "key": "other:immediately-scooters-selling-shops-should-stop:a461e890",
     "title": "Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says",
     "topic": "Other",
@@ -1303,8 +1245,8 @@
     "attention_score": 10,
     "status": "emerging",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2xENXlCREJiR1lJcEdsVThUQ1F6VURfcEpiT0lkX24ycFdmTlYwRGRZd3ZDUFNmQnFja04tbXhPYmNncHVKRVFiMFNQcDFHTGdfN29LdDVHTE5kLVExUFZLQ2RpUDZxdTNSMXA0MVFCV1ZrZl9lWlV4aDVJU2tqdFNYbTBaVGNkV3IxWmhDM3JhTURrbTNMWWNuazZVN1dxeGpnM2pFVQ?oc=5",
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5"
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5",
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2xENXlCREJiR1lJcEdsVThUQ1F6VURfcEpiT0lkX24ycFdmTlYwRGRZd3ZDUFNmQnFja04tbXhPYmNncHVKRVFiMFNQcDFHTGdfN29LdDVHTE5kLVExUFZLQ2RpUDZxdTNSMXA0MVFCV1ZrZl9lWlV4aDVJU2tqdFNYbTBaVGNkV3IxWmhDM3JhTURrbTNMWWNuazZVN1dxeGpnM2pFVQ?oc=5"
     ]
   },
   {
@@ -1376,34 +1318,90 @@
     ]
   },
   {
-    "key": "other:economic-government-later-publish-statement-summer:2924888a",
-    "title": "Government to publish summer economic statement later today",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
+    "key": "finance:2026-budget-deliver-economic-for-package:e4b21fec",
+    "title": "Summer economic statement 2026: Simon Harris says budget tax package will deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
     "outlets": [
-      "MSN",
-      "The Journal"
+      "Irish Independent"
     ],
-    "first_seen": "2026-07-22T07:03:00Z",
-    "latest_seen": "2026-07-22T08:36:17Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 4,
+    "first_seen": "2026-07-22T09:15:18Z",
+    "latest_seen": "2026-07-22T09:15:18Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
-      "neutral": 2,
+      "neutral": 1,
       "unfavourable": 0,
       "mixed": 0
     },
     "net_framing": 0,
-    "significant_count": 0,
+    "significant_count": 1,
     "attention_score": 9,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajVXOXl0QldwX1VyVjNTalRNR0czd0pRcUJmbXdvN0tEc2UyWDFnb1dXRUR1OHhDb3A5amhxZHJXY2NMR0c2aUpzQXE3Vi1NR2x1ZGlZSjJpR2E0NWM3V3VJNF82S0E4SmxjcjI4b1VLSGNIcWxYLVFPMWFxTk1pMEVBVkNSdnpPb2R0RVlPX2pXWVlhVmhFS1o0aHN2eE40VmU4dFNJY0RUb2FZNGphdlFUTWVJc2ZkUnNIUkNnTmxjTndSYnRRQjg1Nm9tNy1QVkpN?oc=5",
-      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXE1VklFbnVTR3FnYmZPY1FMaVpmZWRjT0VNUklKc0NHeVhLV0dMRFdBUDR0SzgyQl91czFUaWF5d3REVFFDMzJvMVYzNXliYklrTmllWXhZQ1NpYmRERHRmU3BaT0wxRVV2SklmUkkwMmczMUZVbTFB?oc=5"
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-engagement-expects-government-intense-package:ad713c71",
+    "title": "Harris expects ‘intense engagement’ in Government over budget tax package",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-22T08:53:03Z",
+    "latest_seen": "2026-07-22T08:53:03Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-deliver-for-package-people-tax:f63b63f9",
+    "title": "Simon Harris says budget tax package will deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T08:40:00Z",
+    "latest_seen": "2026-07-22T08:40:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html"
     ]
   },
   {
@@ -1419,7 +1417,7 @@
     "latest_seen": "2026-07-21T15:49:29Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -1430,7 +1428,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5"
     ]
@@ -3671,6 +3669,37 @@
     ]
   },
   {
+    "key": "other:economic-government-later-publish-statement-summer:2924888a",
+    "title": "Government to publish summer economic statement later today",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "MSN",
+      "The Journal"
+    ],
+    "first_seen": "2026-07-22T07:03:00Z",
+    "latest_seen": "2026-07-22T08:36:17Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 4,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 6,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajVXOXl0QldwX1VyVjNTalRNR0czd0pRcUJmbXdvN0tEc2UyWDFnb1dXRUR1OHhDb3A5amhxZHJXY2NMR0c2aUpzQXE3Vi1NR2x1ZGlZSjJpR2E0NWM3V3VJNF82S0E4SmxjcjI4b1VLSGNIcWxYLVFPMWFxTk1pMEVBVkNSdnpPb2R0RVlPX2pXWVlhVmhFS1o0aHN2eE40VmU4dFNJY0RUb2FZNGphdlFUTWVJc2ZkUnNIUkNnTmxjTndSYnRRQjg1Nm9tNy1QVkpN?oc=5",
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXE1VklFbnVTR3FnYmZPY1FMaVpmZWRjT0VNUklKc0NHeVhLV0dMRFdBUDR0SzgyQl91czFUaWF5d3REVFFDMzJvMVYzNXliYklrTmllWXhZQ1NpYmRERHRmU3BaT0wxRVV2SklmUkkwMmczMUZVbTFB?oc=5"
+    ]
+  },
+  {
     "key": "housing:parent-scooter-should-thinking-toy:796c6919",
     "title": "‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste",
     "topic": "Housing",
@@ -3730,6 +3759,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2026-department-economic-finance-releases-statement:a7a1e438",
+    "title": "Department of Finance releases Summer Economic Statement 2026",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "LMFM"
+    ],
+    "first_seen": "2026-07-22T15:17:30Z",
+    "latest_seen": "2026-07-22T15:17:30Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5"
     ]
   },
   {

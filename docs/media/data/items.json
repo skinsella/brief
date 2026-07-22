@@ -4479,6 +4479,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5": {
+    "outlet": "Highland Radio",
+    "published": "Wed, 22 Jul 2026 14:22:44 GMT",
+    "headline": "Tánaiste confident on tax cuts despite warning",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5",
+    "summary": "Highland Radio reports: Tánaiste confident on tax cuts despite warning.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "t-naiste-confident-on-tax-cuts-despite-warning",
+    "first_seen": "2026-07-22T16:04:55Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5": {
     "outlet": "IFTN",
     "published": "Mon, 20 Jul 2026 14:47:41 GMT",
@@ -5637,6 +5662,29 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5": {
+    "outlet": "LMFM",
+    "published": "Wed, 22 Jul 2026 15:17:30 GMT",
+    "headline": "Department of Finance releases Summer Economic Statement 2026",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5",
+    "summary": "LMFM reports: Department of Finance releases Summer Economic Statement 2026.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "department-of-finance-releases-summer-economic-statement-2026",
+    "first_seen": "2026-07-22T16:04:55Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5",
+    "topic": "Finance",
+    "attention": [],
+    "outlet_tier": "regional",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VuM0dTNWhzT3lhbzNvOXdoR2tnd3loM05PUFdEN1RYRHhkeUFIRDlZVmltc2V4WXBEdnJrS28tMXNuSnl3c3E1NEgtdkx2MHhaTDFDMTEyYnhuM2Y3dkpxajF3VUdlR3hJOTRCMkphcndjZ3IzNnVmTE55VTNTQ2ZUSUZGaDFnTGNEUm8weDVlZG9wTEhBaFpoSzNYdw?oc=5": {

@@ -1,5 +1,86 @@
 [
   {
+    "checked_at": "2026-07-22T16:04:55Z",
+    "checked_at_display": "Wed, 22 Jul 2026 16:04 GMT",
+    "new_count": 2,
+    "old_skipped": 10,
+    "duplicate_skipped": 22,
+    "mismatched_skipped": 20,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 6,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 24,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 16,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 39,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5",
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5"
+    ],
+    "archive_file": "archive/20260722T160455Z.html"
+  },
+  {
     "checked_at": "2026-07-22T14:18:27Z",
     "checked_at_display": "Wed, 22 Jul 2026 14:18 GMT",
     "new_count": 3,
@@ -7880,86 +7961,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260715T041330Z.html"
-  },
-  {
-    "checked_at": "2026-07-15T00:54:59Z",
-    "checked_at_display": "Wed, 15 Jul 2026 00:54 GMT",
-    "new_count": 2,
-    "old_skipped": 9,
-    "duplicate_skipped": 7,
-    "mismatched_skipped": 7,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 1,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 12,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 39,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 49,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQ0p0aVNuSjVEQ01LNnNRMzRXbmw2R0lPZmh5MkZkeG1SX3dmR2R0YUdOOGNTYU9QUHpReFdXYnVuVXcydmhqZ0xUVFhObU01MTFwMnV2UjY3RkJkZkhnNnZfS1RIcjJvVXEtVnRiMnA?oc=5",
-      "https://www.rte.ie/news/2026/0715/1583400-tanaiste-brussels-eu/"
-    ],
-    "archive_file": "archive/20260715T005459Z.html"
   }
 ]

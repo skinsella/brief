@@ -16742,6 +16742,32 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlhuNTI5eUN5QVVFZVB3amJxaUJJLVdqcFRVUlRIQVNVSG5pNkZaRFJ0WFV1T095OXR5QTMyaXl1VWIyTDkwQjJKVk1yRHpacUtsMlE4MFhfRVFQalNKaEpBa0lkbWo5d2Y3cjF0M1ZhSlBOS2N1dDg5S25sUnVVMnBqNWh2Y19VM2Z1WlcwMEFybUxwU216bm14V1JLYXU4?oc=5": {
+    "outlet": "Shannonside.ie",
+    "published": "Wed, 22 Jul 2026 16:03:12 GMT",
+    "headline": "Health Minister comes under fire following visit to Longford",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlhuNTI5eUN5QVVFZVB3amJxaUJJLVdqcFRVUlRIQVNVSG5pNkZaRFJ0WFV1T095OXR5QTMyaXl1VWIyTDkwQjJKVk1yRHpacUtsMlE4MFhfRVFQalNKaEpBa0lkbWo5d2Y3cjF0M1ZhSlBOS2N1dDg5S25sUnVVMnBqNWh2Y19VM2Z1WlcwMEFybUxwU216bm14V1JLYXU4?oc=5",
+    "summary": "Shannonside.ie reports: Health Minister comes under fire following visit to Longford.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "health-minister-comes-under-fire-following-visit-to-longford",
+    "first_seen": "2026-07-22T16:04:55Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlhuNTI5eUN5QVVFZVB3amJxaUJJLVdqcFRVUlRIQVNVSG5pNkZaRFJ0WFV1T095OXR5QTMyaXl1VWIyTDkwQjJKVk1yRHpacUtsMlE4MFhfRVFQalNKaEpBa0lkbWo5d2Y3cjF0M1ZhSlBOS2N1dDg5S25sUnVVMnBqNWh2Y19VM2Z1WlcwMEFybUxwU216bm14V1JLYXU4?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlhuNTI5eUN5QVVFZVB3amJxaUJJLVdqcFRVUlRIQVNVSG5pNkZaRFJ0WFV1T095OXR5QTMyaXl1VWIyTDkwQjJKVk1yRHpacUtsMlE4MFhfRVFQalNKaEpBa0lkbWo5d2Y3cjF0M1ZhSlBOS2N1dDg5S25sUnVVMnBqNWh2Y19VM2Z1WlcwMEFybUxwU216bm14V1JLYXU4?oc=5",
+    "topic": "Other",
+    "attention": [
+      "Critical framing",
+      "Review tone"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "unfavourable",
+    "sentiment_score": -1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Headline uses critical or risk language: under fire."
+  },
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUN6SDY4NlNNa0NLaHZlTVhtb2p4RjNyT2xSRlE2cy1wMktGbzRPbEhvMEVSN3BVYlREWmkxS0dwQVZIZG93ajFoNDAyYnBIQmNiRURnd1hSbkotLVBZTXJxSW5wZ0xzYVNsbWNDb2R5TmxoUTZtLTV3c1NLZjRvU0lmaF9xWXEwM1ZkYk1aT1ZTdDBHQ0Q1X19zVXB4RjM4?oc=5": {
     "outlet": "Cork's 96FM",
     "published": "Sat, 20 Jun 2026 13:12:41 GMT",
