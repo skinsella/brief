@@ -641,37 +641,6 @@
     ]
   },
   {
-    "key": "other:constructive-extremely-lou-mary-mcdonald-talks:dd06faf0",
-    "title": "Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "Irish Times",
-      "The Irish Times"
-    ],
-    "first_seen": "2026-07-21T20:16:09Z",
-    "latest_seen": "2026-07-21T20:19:44Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 14,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
-      "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/"
-    ]
-  },
-  {
     "key": "tax:confirm-credit-film-for-government-industry:8edc86cc",
     "title": "New uplift in tax credit for film industry, Government confirm",
     "topic": "Tax",
@@ -1982,6 +1951,37 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwdnhzM0RKRURxSFA3eHRuRWk5VFkzWTNpOS1tOWlPbWptSU94MFBpMXF5U1JfeWZxbXZWNXFUbloyQ0I1b04xT0JONXhRa29OVG9QTUprYkNZNWhWVDdvazl1N1lNaXNsSkl0NWJ3?oc=5"
+    ]
+  },
+  {
+    "key": "other:constructive-extremely-lou-mary-mcdonald-talks:dd06faf0",
+    "title": "Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "Irish Times",
+      "The Irish Times"
+    ],
+    "first_seen": "2026-07-21T20:16:09Z",
+    "latest_seen": "2026-07-21T20:19:44Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 8,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5",
+      "https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/"
     ]
   },
   {
