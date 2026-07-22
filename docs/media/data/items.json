@@ -3151,6 +3151,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5": {
+    "outlet": "Irish Examiner",
+    "published": "Tue, 21 Jul 2026 23:05:00 GMT",
+    "headline": "Government set to agree to €8.5bn package for Budget 2027",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5",
+    "summary": "Irish Examiner reports: Government set to agree to €8.5bn package for Budget 2027.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "government-set-to-agree-to-8-5bn-package-for-budget-2027",
+    "first_seen": "2026-07-22T01:03:16Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmOVduUHdpcktHX1FIaG4zdWIzVERYczNQSUVoTTk1NXhwM3pJVnhic0drMHl1QUhmZVJMSGRwS28zdy0tNnpoTVZ3Ui1qdnBqRTJyeldnb1JSQTZGSGRlOU5DQmdTMnBDbEJJS3BQbw?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Tue, 16 Jun 2026 08:38:00 GMT",

@@ -1,32 +1,30 @@
 # Simon Harris Media Briefing
 
-Updated: Tue, 21 Jul 2026 23:34 GMT
+Updated: Wed, 22 Jul 2026 01:03 GMT
 
 ## Snapshot
 
-- Recent coverage: 98 item(s) in the last 7 days.
+- Recent coverage: 89 item(s) in the last 7 days.
 - Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
-- Significant items: 28.
+- Significant items: 26.
 
 ## Trend Summary
 
-- Coverage volume: 98 item(s) in the last 7 days; down 2 vs previous 7 days.
+- Coverage volume: 89 item(s) in the last 7 days; down 8 vs previous 7 days.
 - Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 40 item(s).
 - Critical concentration: Other accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 18 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 16 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 11 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 12 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
 ## Needs Attention
 
 - [Fast Reaction, Critical framing, High-reach outlet] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
-- [Policy, High-reach outlet] The Journal: 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMicEFVX3lxTE5Iczh2OGtLeDZqMmNUX0JPRUhoaTRzYkUzVDJINVJFYXJqZy0tNnA3MDZlaFZrbU1rR254Zm9UWHkzSnMzeWxxdnFJR1RxaktsT1FKdkxuVlR4UWpFWUpkNEl1NGJGVW9STjRUbFktcUk?oc=5)
-- [Policy, High-reach outlet] BreakingNews.ie: ‘Bizarre’ for Israel to use Ireland as home country for bonds, Central Bank says (https://news.google.com/rss/articles/CBMixAFBVV95cUxQcVZJaUFGbXhQQmdwclczQ0VxdGZRU0hTWXFDdk9RTURjUGdZam9BdHQxdlZPZE9FQVNmcWl5aEtKbmdWSXpWeXNreXJzT1NQSk5pNDNWaUQ3UENZZUxLTHpxZFdrUnFwZEpmcERYY0JWRFJvbk02OWt4ei0xMDFDdFhkaUZ3cS02VEg0UlNLb0RJa21jelMxWXpGZUtuY053VENpaDh4WGJtTEFJbkp6dGdjREFXMERZZHJ5amZtak14NWRX?oc=5)
 - [Policy, High-reach outlet] Business Post: Tánaiste says Iran and Ukraine wars are prompting carbon tax system rethink (https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzBidjcwUDRyVHVoWXdtcFNvTGo1d2FSbEhPd1o0TkxGcFpNMzhSTU5OVHo3bEhHOUZQQVpoT044NG9zemlWQl91bk5VYVR0aUJEVG1iV0Z1RnlNRjRIelJyWXdQRFVCcGNkbFZ3VmdlZDB4WTh1TVNkZ2dhWTdoTVZNN0lHRk5SYWlNWG5seXZ0TVlpaTdTa3N4WTF0ZGYwVTAtZjBZSUZfeXg1SVJtX3F1NA?oc=5)
 - [Policy, High-reach outlet] BreakingNews.ie: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris (https://www.breakingnews.ie/ireland/irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-simon-harris-1929815.html)
 - [Policy, High-reach outlet] BreakingNews.ie: Irish savers 'screwed over' by punitive tax system and low interest rates, says Simon Harris (https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5)
@@ -34,26 +32,28 @@ Updated: Tue, 21 Jul 2026 23:34 GMT
 - [Policy, High-reach outlet] The Journal: Tax and insurance to be introduced for e-scooters, Tánaiste says (https://news.google.com/rss/articles/CBMie0FVX3lxTE5RSGpkQzNPdFg1eXlwLUdaU0wyaGUwRy1HX09wTmRvQkpPeEtUSUR2UHhrdXE3Nk1hOENHakREN0pZSnByalBRa1pTa3FVYlNKdWJtVWlGMlJ2dEVFT0V3cjVmaGVnQ1lDN2NBbUF5cGJfZzV6R2RJdGhwQQ?oc=5)
 - [Policy] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilwFBVV95cUxNQS1tZlBpSVpTWTJ1NHVab2VCNXBqaERHNG1KYVVNcVNBZ2k5UGxwZ0tKOTg3QTB2REVaWHQwdmx5Z1luVkVvTnJJem9fQ3RCTDNQbzhBanpQd241a3k3RHdKMVRqWjJrUXRrUktXdjg1Z1ZIOE1EX1ZaQ01LNkFKa0ZCMWk1MUltdElBRkRzNXBKYTRHZ0tn?oc=5)
 - [Policy] IFTN: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJoVldTZEhWTm1BMFlwLXBfeWNnV2kwWVJFSTNPVmE4WlRBbHdfMHJkTkFWcVdQZnJhM0xBeDdaSXR5UTNZSnMwS0JkelgyeVZfUVI2VkFwdWprNWRSR2lmMmpVTUpTbWZKNm42SHZaWTNFWmNFRmRMNFhfelhFYXVIdl9fVEJqZmxXbg?oc=5)
+- [Policy] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMimgFBVV95cUxPWG1SaVBiUEpLQWhCZHc0WUE0VWhCeFNSdnU2QkQ4YndCZWRyTHB5dktSbm9ZWE9nSzJraF9SbnVJUWZiT2ZXZ0pna2FtckhDcGRTNXVXZFhOaTRXaHVncmlVdV9mTjVNWVVlOHNkdXkzc1FDZE5HV2pGTHhiUDEtWGxZQmUxTnZ3UEVvUFdqUlBRQkp0SGFySDFR?oc=5)
+- [Policy] iftn.ie: Government confirms increased tax credit for large-scale VFX work (https://news.google.com/rss/articles/CBMilAFBVV95cUxPUDBKbkJFWGNERzN5ZnFQX0pDU2xUeFRRZEpBM19oSmx3elAzbG50VmlIRmQtRnZKT0ZjQW94Tk9qRTIzRUZxM3FjamU4RktjNmRKT1pvVmJaUFBFSnhmek50U2ZleUxSLWF0NjRfcHR4LUFGX0FvVlYySThlS01kZi1VTVo1SDYtN1dEc2Q0aUNuQ2dT?oc=5)
 
 ## Top Topics
 
 - Other: 40
-- Tax: 18
-- Finance: 12
+- Tax: 17
+- Finance: 11
 - Housing: 8
-- Foreign affairs: 7
 - Fine Gael: 6
 - Enterprise: 4
 - Constituency/local: 2
+- Courts/security: 1
 
 ## Top Outlets
 
-- Irish Independent: 18
-- Irish Examiner: 7
-- BreakingNews.ie: 7
+- Irish Independent: 16
+- Irish Examiner: 8
 - MSN: 7
 - Business Post: 6
-- The Journal: 5
+- BreakingNews.ie: 6
+- The Journal: 4
 - The Irish Times: 3
 - Irish Times: 3
 
@@ -72,6 +72,7 @@ Updated: Tue, 21 Jul 2026 23:34 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Examiner: Government set to agree to €8.5bn package for Budget 2027 (https://news.google.com/rss/articles/CBMib0FVX3lxTFBZd1BpeEsyZ0EtbjJPVlJlNkNlUGc3WGJMaVNWS0ZoNXItRzkyMW5uN254YVZkdnpNTWxYLTBWSXgtZnp2c0dHV2lwRVdDNHhSYmRiMlNKekFPbThSejdzWnA2WXhaRV9pNGVLZmRPZw?oc=5)
 - [neutral factual] The Irish Times: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’ (https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRXIxalRQdHFZMTBNLU52ZmVMdHUzU2ZPM2dCakNGNmZoWHpkUlNvY0dqSFRhX2dodjJTUFB2dGZPMzM1Mi1IUUY0Mk1QeXQ0N0VQOFJzcXg4UTJhWUZ4MENnNG5RZF9WTF9Ubm41cjVCSjV4YVhTcU00STIwNVBSX1JuMU43OWVTOWZhVU5mbmtCdFVFUXBsaWVwWklJYzdFU2l1ZWRCa3FBSDZVRTdRNzBHaGYtLXZPZ3pRTWtPc2ZJd2FvN3hqb2NwYXE0bTRh?oc=5)
 - [neutral factual] Irish Times: Mary Lou McDonald says Irish unity talks with Simon Harris ‘extremely constructive’ (https://www.irishtimes.com/politics/2026/07/21/mary-lou-mcdonald-says-talks-with-simon-harris-about-irish-unity-extremely-constructive/)
 - [neutral factual] Irish Examiner: Simon Harris and Mary Lou McDonald hold 'extremely constructive' talks on Irish unification (https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelFTSG9vdzg3M1daZ25FZmNRWkNaYWdtaXVTdmlFY0duMVBWX201bTZrSzF3M1BqT3J1VksyeENEYjc0ajF4eDVpd0Y0TjFocFhTRXhFTzNvN3N3ZDhGME92Y05qbW1DTWtQNUlRSQ?oc=5)
@@ -91,4 +92,3 @@ Updated: Tue, 21 Jul 2026 23:34 GMT
 - [neutral factual] Waterford Live: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste (https://news.google.com/rss/articles/CBMivgFBVV95cUxQak9mUlQ3STBsS0RJU2RxNjNHY05ieVRVaElTUWdpXzJQMTl4SHpEWUdLcnpBMEpGMFlweU50elBUOFdMV2R3UUF6Mmx3dGNxV0xScFQyT0JnOTFtT1BaWldvRGVZbldzdUt0RUJvZnBfN1QzY1ZHRDI4bWxXQVNHZzh0VXBqQWVOdDZCdG5acmpJX29Hdmp2NFJYSVRORlBkdmtQWFV0Z0l4QmsyTnFrWWdfMlo2bmJIVnVxV1Rn?oc=5)
 - [neutral factual] Limerick Leader: ‘No parent in Ireland’ should be thinking an e-scooter is a toy, says Tánaiste (https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVBMDVCcHJjUmdtWTVlNl9TaTRzRjRKVUd6d3JqZDg2Y2hfdDZvREZhZ29Fb3IwSVI5NjBVMGhFcFNPUGl6SV90OGR2cms2M01Va3oyWWgzb0NNdThvZVlSalBoNjBQSzdacUhCNVhHWUl1ZDZkb3VBeGxwRlB4dkFQNzBlWm1iVjRPZWgweW93U2pUY2o3QVJiVzZqNlNCQVNXc0JIMmozd2NxQndyY1loa1lhRE8zTVdlaWVnNA?oc=5)
 - [neutral factual] Business Post: Government revenue tops €33 billion in first quarter (https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkY0ZmtMTkRuMmNsT3N4eDBDNTd5RVdUWGJNU0kyVWI2dGxjai1jSDYteURsM2RXVXBXcUdfYV9McGRwUk0yc2dlRHMxbm8zQWNXVnduU3VPMXRuWnFqcENjd2JPb3VRRF9QUm5weGtJRTVKZTZJYl9ZTDZ5dzFhMk90Nm5tdS1sdXAzdDdwbnhleGJlR0MzLThyWQ?oc=5)
-- [neutral factual] Irish Examiner: Louise Burne: Time the Government stopped 'pleading with industry and retail' on e-scooters (https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnNLN1ZjMzhPOXFZQmRZRmxMRXFua0YtVGZ0Y0VIWkRoeFpKVDVLZ3FxSGVWX2JNQjg0OWNqTVc3QmE0c0tkVXJxa1lxWlVxNHZUZlA5eXl1OGc4LWtIaW42OWRSRkZCYXJsWk9lLUQ5QkhXSG1FR3c1bHA?oc=5)
