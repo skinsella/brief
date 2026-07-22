@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-07-22T12:00:18Z",
+  "updated_at": "2026-07-22T14:18:27Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
-      "total": 17,
+      "total": 20,
       "counts": {
         "favourable": 0,
-        "neutral": 17,
+        "neutral": 20,
         "unfavourable": 0,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 53,
+        "neutral": 62,
         "unfavourable": 0,
         "mixed": 0
       },
       "net": 0,
       "weighted_net": 0,
       "targets": {
-        "Government/policy": 7,
-        "Simon Harris": 10
+        "Government/policy": 8,
+        "Simon Harris": 12
       },
       "themes": {
         "Finance": {
-          "total": 7,
+          "total": 9,
           "favourable": 0,
-          "neutral": 7,
+          "neutral": 9,
           "unfavourable": 0,
           "mixed": 0
         },
         "Other": {
-          "total": 6,
+          "total": 7,
           "favourable": 0,
-          "neutral": 6,
+          "neutral": 7,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -54,38 +54,38 @@
       }
     },
     "seven_day": {
-      "total": 105,
+      "total": 108,
       "counts": {
         "favourable": 2,
-        "neutral": 100,
+        "neutral": 103,
         "unfavourable": 1,
         "mixed": 2
       },
       "weighted_counts": {
         "favourable": 4,
-        "neutral": 274,
+        "neutral": 283,
         "unfavourable": 6,
         "mixed": 8
       },
       "net": 1,
       "weighted_net": -1,
       "targets": {
-        "Government/policy": 40,
-        "Simon Harris": 63,
+        "Government/policy": 41,
+        "Simon Harris": 65,
         "unclear": 2
       },
       "themes": {
         "Other": {
-          "total": 46,
+          "total": 47,
           "favourable": 1,
-          "neutral": 44,
+          "neutral": 45,
           "unfavourable": 1,
           "mixed": 0
         },
         "Finance": {
-          "total": 17,
+          "total": 19,
           "favourable": 0,
-          "neutral": 15,
+          "neutral": 17,
           "unfavourable": 0,
           "mixed": 2
         },
@@ -141,38 +141,38 @@
       }
     },
     "thirty_day": {
-      "total": 355,
+      "total": 358,
       "counts": {
         "favourable": 7,
-        "neutral": 325,
+        "neutral": 328,
         "unfavourable": 8,
         "mixed": 15
       },
       "weighted_counts": {
         "favourable": 17,
-        "neutral": 821,
+        "neutral": 830,
         "unfavourable": 32,
         "mixed": 65
       },
       "net": 0,
       "weighted_net": -2,
       "targets": {
-        "Government/policy": 137,
-        "Simon Harris": 193,
+        "Government/policy": 138,
+        "Simon Harris": 195,
         "unclear": 25
       },
       "themes": {
         "Other": {
-          "total": 163,
+          "total": 164,
           "favourable": 3,
-          "neutral": 155,
+          "neutral": 156,
           "unfavourable": 5,
           "mixed": 0
         },
         "Finance": {
-          "total": 61,
+          "total": 63,
           "favourable": 1,
-          "neutral": 44,
+          "neutral": 46,
           "unfavourable": 1,
           "mixed": 15
         },
@@ -235,38 +235,38 @@
       }
     },
     "all_time": {
-      "total": 519,
+      "total": 522,
       "counts": {
         "favourable": 20,
-        "neutral": 467,
+        "neutral": 470,
         "unfavourable": 11,
         "mixed": 21
       },
       "weighted_counts": {
         "favourable": 60,
-        "neutral": 1195,
+        "neutral": 1204,
         "unfavourable": 48,
         "mixed": 87
       },
       "net": 2,
       "weighted_net": 1,
       "targets": {
-        "Government/policy": 211,
-        "Simon Harris": 267,
+        "Government/policy": 212,
+        "Simon Harris": 269,
         "unclear": 41
       },
       "themes": {
         "Other": {
-          "total": 222,
+          "total": 223,
           "favourable": 8,
-          "neutral": 208,
+          "neutral": 209,
           "unfavourable": 6,
           "mixed": 0
         },
         "Finance": {
-          "total": 86,
+          "total": 88,
           "favourable": 2,
-          "neutral": 61,
+          "neutral": 63,
           "unfavourable": 2,
           "mixed": 21
         },
@@ -329,16 +329,16 @@
       }
     },
     "significant_only": {
-      "total": 101,
+      "total": 102,
       "counts": {
         "favourable": 7,
-        "neutral": 65,
+        "neutral": 66,
         "unfavourable": 8,
         "mixed": 21
       },
       "weighted_counts": {
         "favourable": 33,
-        "neutral": 281,
+        "neutral": 286,
         "unfavourable": 41,
         "mixed": 87
       },
@@ -346,14 +346,14 @@
       "weighted_net": -2,
       "targets": {
         "Government/policy": 54,
-        "Simon Harris": 43,
+        "Simon Harris": 44,
         "unclear": 4
       },
       "themes": {
         "Finance": {
-          "total": 47,
+          "total": 48,
           "favourable": 1,
-          "neutral": 23,
+          "neutral": 24,
           "unfavourable": 2,
           "mixed": 21
         },
@@ -2772,37 +2772,37 @@
       }
     },
     "2026-07-22": {
-      "total": 17,
+      "total": 20,
       "counts": {
         "favourable": 0,
-        "neutral": 17,
+        "neutral": 20,
         "unfavourable": 0,
         "mixed": 0
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 53,
+        "neutral": 62,
         "unfavourable": 0,
         "mixed": 0
       },
       "net": 0,
       "weighted_net": 0,
       "targets": {
-        "Government/policy": 7,
-        "Simon Harris": 10
+        "Government/policy": 8,
+        "Simon Harris": 12
       },
       "themes": {
         "Finance": {
-          "total": 7,
+          "total": 9,
           "favourable": 0,
-          "neutral": 7,
+          "neutral": 9,
           "unfavourable": 0,
           "mixed": 0
         },
         "Other": {
-          "total": 6,
+          "total": 7,
           "favourable": 0,
-          "neutral": 6,
+          "neutral": 7,
           "unfavourable": 0,
           "mixed": 0
         },
