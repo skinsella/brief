@@ -80,40 +80,6 @@
     ]
   },
   {
-    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
-    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
-    "topic": "Finance",
-    "item_count": 4,
-    "outlet_count": 3,
-    "outlets": [
-      "BreakingNews.ie",
-      "Irish Mirror",
-      "Longford Leader"
-    ],
-    "first_seen": "2026-07-22T08:37:00Z",
-    "latest_seen": "2026-07-22T11:04:45Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 2,
-    "velocity_24h": 4,
-    "reach_score": 8,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 4,
-    "attention_score": 37,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
-      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
-    ]
-  },
-  {
     "key": "polling:polling",
     "title": "Fine Gael is now the most popular party in the country, poll says",
     "topic": "Polling",
@@ -146,6 +112,40 @@
       "https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/",
       "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEbzBjbVhJdFVZbXoxd1dubkxWd1FrNmxGZlNIN19fYUVDTjVwNjdQRzlqZHczdEdGeTNZQmlhX0xIVnNvUWp5MzVxSjMwVlNNOXZNdkdXZVJDZ2h4LWRvdXk5UDIxc0JDRlRxaV91RnFkT0hhM1E?oc=5",
       "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5"
+    ]
+  },
+  {
+    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
+    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 4,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "Irish Mirror",
+      "Longford Leader"
+    ],
+    "first_seen": "2026-07-22T08:37:00Z",
+    "latest_seen": "2026-07-22T11:04:45Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 0,
+    "velocity_24h": 4,
+    "reach_score": 8,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 4,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 4,
+    "attention_score": 31,
+    "status": "active",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
     ]
   },
   {
@@ -342,36 +342,6 @@
     ]
   },
   {
-    "key": "polling:burnham-closer-ready-support-ties:816e64f8",
-    "title": "Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste",
-    "topic": "Polling",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "BreakingNews.ie"
-    ],
-    "first_seen": "2026-07-22T10:15:05Z",
-    "latest_seen": "2026-07-22T11:15:05Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 23,
-    "status": "emerging",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5"
-    ]
-  },
-  {
     "key": "other:accelerator-government-led-reform-unity-varadkar:28f2bdf9",
     "title": "Reform-led government in UK could be an ‘accelerator’ to Irish unity – Varadkar",
     "topic": "Other",
@@ -548,6 +518,36 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/strong-tax-returns-of-e50bn-strengthen-governments-budgetary-position-1922125.html",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXViZVN1OVBUdzgxZk1xbXVtQmQ4WGYxamNiRWczV0MxUjNpTEdZNzcwSGpqejlIYlhXY01JMUVzRFFhbWpPajlZUDBRQWVyU1pDSlNRZUdPVnR2WFBacmZwRFJtdXlvTU5XODYySF85RjM0QU5lbV9ORm9XZ2Y4Sl9nWmRpNnJNMUktb1FxOVFXWWF2NThEbnBKQzdZZm1uSGh3S3otMnY5Z3hTa2w3b0hJV1NCbnM?oc=5"
+    ]
+  },
+  {
+    "key": "polling:burnham-closer-ready-support-ties:816e64f8",
+    "title": "Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste",
+    "topic": "Polling",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-22T10:15:05Z",
+    "latest_seen": "2026-07-22T11:15:05Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 17,
+    "status": "active",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html",
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5"
     ]
   },
   {
@@ -1216,37 +1216,6 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5"
-    ]
-  },
-  {
-    "key": "other:immediately-scooters-selling-shops-should-stop:a461e890",
-    "title": "Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says",
-    "topic": "Other",
-    "item_count": 2,
-    "outlet_count": 2,
-    "outlets": [
-      "SPIN1038",
-      "SPINSouthWest"
-    ],
-    "first_seen": "2026-07-22T11:17:27Z",
-    "latest_seen": "2026-07-22T11:17:27Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 2,
-    "velocity_24h": 2,
-    "reach_score": 2,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "emerging",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5",
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2xENXlCREJiR1lJcEdsVThUQ1F6VURfcEpiT0lkX24ycFdmTlYwRGRZd3ZDUFNmQnFja04tbXhPYmNncHVKRVFiMFNQcDFHTGdfN29LdDVHTE5kLVExUFZLQ2RpUDZxdTNSMXA0MVFCV1ZrZl9lWlV4aDVJU2tqdFNYbTBaVGNkV3IxWmhDM3JhTURrbTNMWWNuazZVN1dxeGpnM2pFVQ?oc=5"
     ]
   },
   {
@@ -2754,6 +2723,64 @@
     ]
   },
   {
+    "key": "other:announcements-around-chambers-economic-jack-make:88f77030",
+    "title": "Simon Harris and Jack Chambers make announcements around the Summer Economic Statement",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T16:29:11Z",
+    "latest_seen": "2026-07-22T16:29:11Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdW52STJwamlkamtuajJKQ1dXVHJOeS1RLUxaZW5KbzRsc1RaS0ZqaVJpSmNxXzRINHZaZlNIQWxneFI2OVE0ZnVjdmFFYzJwVFd3X0R6UlVTQ2JLOW9EWXFIcEhzN2ZkQlBwblFKQmlKbjQtSVVoMGhrck92aTFobHdJNEJ6VzRyVlllQW5UbEs3dXdCOVJWdlhEVnJZSHNfUnRGWUVOR1U1dlQtSmszWGZiUk1mdFdJOGJJZktJbl81YlFWRmdBUXQ0QWNDUDk5aUln?oc=5"
+    ]
+  },
+  {
+    "key": "other:behind-councillors-for-government-having-hiding:9a03e7d4",
+    "title": "New plans for local government will prevent councillors from ‘hiding’ behind ‘not having to make decisions’",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T14:30:00Z",
+    "latest_seen": "2026-07-22T14:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT1ZDeFRha0tLM3BFNm9zTWVSVHktQTFMQlhiLTQxT2tuSG9RZF8zekRvT0d6QzZETnZMWUFHamdLRHA5NWVCRk1FbnVjUmJIZlVPVjYxb0NTcU9tczFFcjNmbV9LdFFMWUJpYklCTHctUGhZRXhxQ0tWR1Q5U2VEWG1lRTNKR0gzajFrRDNJQThraUpPYXNWTnZhZ2dvWFlDa1dBXzFwaFRpMGZkckhhYWVZMVFUNzJWSU5CUXdBWUduOEFTUDhndG9TR1N2UTc5N3RNUElvMGZYSXgyUmk1eFlGVEdKNXkzWFp1LUdFZzVOVTBpM3RnRlJTVQ?oc=5"
+    ]
+  },
+  {
     "key": "finance:2027-budget-gets-government-looms-row:4ab9cb96",
     "title": "Serious Government row looms over who gets what in Budget 2027",
     "topic": "Finance",
@@ -3762,6 +3789,35 @@
     ]
   },
   {
+    "key": "finance:2027-budget-must-people-reward-working:743666c5",
+    "title": "Simon Harris says Budget 2027 must 'reward working people'",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Cork Beo"
+    ],
+    "first_seen": "2026-07-22T16:52:30Z",
+    "latest_seen": "2026-07-22T16:52:30Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTFBubEJTTFA1N1lrbHQ5VmctdHZDVV9sb2sxR3lldmpFM2RYWnB2TjdaYThwbUtfMTU2ZVBYTVo4Z0Z3anNzNmxGZGFlSjQ1U3FtZm8zMjBuLVBwdng2QVVUVkZfRVkyNXR4VHEtSC1LNnh6S1dp0gF6QVVfeXFMTTQxLUJjOXpCUzl0TnFYTHZNcjIzaldheWdmV3VNQmpMSWIya0pCVTh2TWRrZU85UmJiV0NYN2NhaDVybWdUM1pzSXdhVEp6Snlrcy1zaGNQWE0ydER5MU44Qm5udG1seUsyVm14emE3cGRlLWFSemxOaEE?oc=5"
+    ]
+  },
+  {
     "key": "finance:2026-department-economic-finance-releases-statement:a7a1e438",
     "title": "Department of Finance releases Summer Economic Statement 2026",
     "topic": "Finance",
@@ -3788,6 +3844,37 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5"
+    ]
+  },
+  {
+    "key": "other:immediately-scooters-selling-shops-should-stop:a461e890",
+    "title": "Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "SPIN1038",
+      "SPINSouthWest"
+    ],
+    "first_seen": "2026-07-22T11:17:27Z",
+    "latest_seen": "2026-07-22T11:17:27Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 2,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5",
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2xENXlCREJiR1lJcEdsVThUQ1F6VURfcEpiT0lkX24ycFdmTlYwRGRZd3ZDUFNmQnFja04tbXhPYmNncHVKRVFiMFNQcDFHTGdfN29LdDVHTE5kLVExUFZLQ2RpUDZxdTNSMXA0MVFCV1ZrZl9lWlV4aDVJU2tqdFNYbTBaVGNkV3IxWmhDM3JhTURrbTNMWWNuazZVN1dxeGpnM2pFVQ?oc=5"
     ]
   },
   {
