@@ -115,6 +115,39 @@
     ]
   },
   {
+    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
+    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 3,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "Irish Mirror",
+      "Longford Leader"
+    ],
+    "first_seen": "2026-07-22T08:37:00Z",
+    "latest_seen": "2026-07-22T11:04:45Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 3,
+    "velocity_24h": 3,
+    "reach_score": 5,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 3,
+    "attention_score": 32,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
+    ]
+  },
+  {
     "key": "tax:childcare-costs-income-priorities-reductions-tax:2a2ba9ab",
     "title": "Reductions in income tax and childcare costs ‘priorities’, Tánaiste says",
     "topic": "Tax",
@@ -305,6 +338,36 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/dail-drug-use-committee-chair-accuses-simon-harris-of-classism-over-comments-on-middle-ireland-1919319.html",
       "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdWd4a3gzei1nSzV4ZWQxWEdqaGZiR3phVjhyREFQQ2c2UG1UdS1pSzVSOUd3NXdHN2wxN3dPclNnMmR3ekNjY3pPbTBxWjVDQ3doUkE0TGMzQmlwa0FPWjhSYmlVRjlEaFJUM2NZSlRpWktaZFlpNEtkZURvVEpKUjcwSUlzRy1tVzd0akdpN2VpekVwZTNmdFBTeU0zRGhVOEJNZ0I2RHNaU2x5LVJwYVB5Vi1qYW91cFc1X21lcTNTUEhiTUd3Z21ZWmtfVTFZdmlpVjNJb3BfejA?oc=5"
+    ]
+  },
+  {
+    "key": "polling:burnham-closer-ready-support-ties:816e64f8",
+    "title": "Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste",
+    "topic": "Polling",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "BreakingNews.ie"
+    ],
+    "first_seen": "2026-07-22T10:15:05Z",
+    "latest_seen": "2026-07-22T11:15:05Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 23,
+    "status": "emerging",
+    "item_links": [
+      "https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html",
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5"
     ]
   },
   {
@@ -499,7 +562,7 @@
     "latest_seen": "2026-07-21T10:53:53Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -510,7 +573,7 @@
     "net_framing": 0,
     "significant_count": 2,
     "attention_score": 17,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://www.breakingnews.ie/ireland/irish-savers-screwed-over-by-punitive-tax-system-and-low-interest-rates-says-simon-harris-1929815.html",
       "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5"
@@ -916,6 +979,37 @@
     "status": "active",
     "item_links": [
       "https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html"
+    ]
+  },
+  {
+    "key": "other:economic-government-later-publish-statement-summer:2924888a",
+    "title": "Government to publish summer economic statement later today",
+    "topic": "Other",
+    "item_count": 2,
+    "outlet_count": 2,
+    "outlets": [
+      "MSN",
+      "The Journal"
+    ],
+    "first_seen": "2026-07-22T07:03:00Z",
+    "latest_seen": "2026-07-22T08:36:17Z",
+    "lifespan_hours": 2,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 4,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 12,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajVXOXl0QldwX1VyVjNTalRNR0czd0pRcUJmbXdvN0tEc2UyWDFnb1dXRUR1OHhDb3A5amhxZHJXY2NMR0c2aUpzQXE3Vi1NR2x1ZGlZSjJpR2E0NWM3V3VJNF82S0E4SmxjcjI4b1VLSGNIcWxYLVFPMWFxTk1pMEVBVkNSdnpPb2R0RVlPX2pXWVlhVmhFS1o0aHN2eE40VmU4dFNJY0RUb2FZNGphdlFUTWVJc2ZkUnNIUkNnTmxjTndSYnRRQjg1Nm9tNy1QVkpN?oc=5",
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXE1VklFbnVTR3FnYmZPY1FMaVpmZWRjT0VNUklKc0NHeVhLV0dMRFdBUDR0SzgyQl91czFUaWF5d3REVFFDMzJvMVYzNXliYklrTmllWXhZQ1NpYmRERHRmU3BaT0wxRVV2SklmUkkwMmczMUZVbTFB?oc=5"
     ]
   },
   {
@@ -2086,7 +2180,7 @@
     "latest_seen": "2026-07-21T10:47:00Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 5,
     "tone_counts": {
       "favourable": 0,
@@ -2097,7 +2191,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 8,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTFhQWnpFbzJ3V0lVVno0d1M3eTQ0Mlk3OUhXaUxZQ1ctNWRJcXlLdDZVLV9CcGhjV0d5aTJ3VVUwWTkycVpObnNWMFM5elJSYmVOYWRPUEh6UHNXNTZtOWJKdw?oc=5",
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5",
@@ -2627,35 +2721,6 @@
     "item_links": [
       "https://www.thejournal.ie/fine-gael-divisions-rotunda-private-care-jennifer-carroll-macneill-7064301-Jun2026/",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUgwMmtrWXhXYTd1WC00WndkZFBpWVJENUl0a05lVjAtWTBjMmxFZ3F3aDVscHFXdi02b0xsSC1wQnJxNGNpUmdQTmdzMUM5ME90WFlaa0FRUEJpN3NxbHFrdDN4cDZKTUxIX1ZRX3pOZE9Uc2VOQW93Q21BX215X0NMNjBhMExEVnE1N0RTbm53VzNIM2hUS3lIN2V2Y0ctbjRhWEsyWXZta2pZVkE?oc=5"
-    ]
-  },
-  {
-    "key": "other:economic-government-later-publish-statement-summer:2924888a",
-    "title": "Government to publish summer economic statement later today",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "The Journal"
-    ],
-    "first_seen": "2026-07-22T07:03:00Z",
-    "latest_seen": "2026-07-22T07:03:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXE1VklFbnVTR3FnYmZPY1FMaVpmZWRjT0VNUklKc0NHeVhLV0dMRFdBUDR0SzgyQl91czFUaWF5d3REVFFDMzJvMVYzNXliYklrTmllWXhZQ1NpYmRERHRmU3BaT0wxRVV2SklmUkkwMmczMUZVbTFB?oc=5"
     ]
   },
   {
@@ -3607,16 +3672,16 @@
     ]
   },
   {
-    "key": "other:brian-burnham-feeney-finally-government-last:f05e078b",
-    "title": "Brian Feeney: Never mind Burnham, at last the Irish government can finally see the value of unity",
+    "key": "other:immediately-scooters-selling-shops-should-stop:a461e890",
+    "title": "Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says",
     "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "The Irish News"
+      "SPINSouthWest"
     ],
-    "first_seen": "2026-07-22T05:00:00Z",
-    "latest_seen": "2026-07-22T05:00:00Z",
+    "first_seen": "2026-07-22T11:17:27Z",
+    "latest_seen": "2026-07-22T11:17:27Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -3632,7 +3697,7 @@
     "attention_score": 5,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaVZ6VnQ5RzVZM2x3RG1MSTZscG05N0hYZDhZMXdheE9ZMlpOWDVWaW9vanpaMUxTcVdwZUtwUHRuWVhUcXktdXhMTzlNZmhFWkNZV2JjamRqYTVDNGdoVXdJNEl1U244UjRub2d1UW1uN1dzZUxzLTFOZTBoa3BmUG1FWHN0UE1OeFVNYnNNMjZWYlB1eW9neXdYcjBmVVQtOU5Jb1pUNjdmd0NWTlBfaW9FcTBhZkhnelE0dTVrb29ieGFxZ09KTFlJVnhwcFFRY1hEVFh1bU5IWW1vcmc0ZFR6MWlIaDBFMl9OVkZn?oc=5"
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5"
     ]
   },
   {
@@ -3735,7 +3800,7 @@
     "latest_seen": "2026-07-21T10:41:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3746,7 +3811,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMilwJBVV95cUxONUJYRkZraVI5eFlWdy1oMXRxY2kzMjVXeVM5MkYwcjdxSnhlZHZ0UGpGc3YyWnY3bjNqX0xvalBqaE9MNl9peXA5YVdWT1ZCai14VTJIN1d2aEllcXFaZkZJbUV4bUpFMUFFMEFhUHdqVGF0amdZbmEwUVNSSUZjLUJ0Qy1WT1RRZ3FXTEtsWW0tUml5VW5fZ0NIbWlBX0FETEFPMzRVeFE4Q0JGb2pGNUExemhJUlphWUhUYVdJUkpRbks2QXlDenA4X2hUalB5WC1uX193VXFXVV9mcWw5b0RfNjVmUVZfdjd1TjhodFp4TlBmRndtbjdUS0ZWRy1tZnh1VlRYWDhMUGZBTFh0cGJLOFZlRVE?oc=5"
     ]
@@ -8517,6 +8582,35 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:brian-burnham-feeney-finally-government-last:f05e078b",
+    "title": "Brian Feeney: Never mind Burnham, at last the Irish government can finally see the value of unity",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "The Irish News"
+    ],
+    "first_seen": "2026-07-22T05:00:00Z",
+    "latest_seen": "2026-07-22T05:00:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaVZ6VnQ5RzVZM2x3RG1MSTZscG05N0hYZDhZMXdheE9ZMlpOWDVWaW9vanpaMUxTcVdwZUtwUHRuWVhUcXktdXhMTzlNZmhFWkNZV2JjamRqYTVDNGdoVXdJNEl1U244UjRub2d1UW1uN1dzZUxzLTFOZTBoa3BmUG1FWHN0UE1OeFVNYnNNMjZWYlB1eW9neXdYcjBmVVQtOU5Jb1pUNjdmd0NWTlBfaW9FcTBhZkhnelE0dTVrb29ieGFxZ09KTFlJVnhwcFFRY1hEVFh1bU5IWW1vcmc0ZFR6MWlIaDBFMl9OVkZn?oc=5"
     ]
   },
   {
