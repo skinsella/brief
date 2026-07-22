@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T21:18:28Z",
-  "morning_note": "Media coverage is busy today (28 items, neutral tone; 116 items over the past week). Brent is at $82, up 17.3% on the week. Irish home heating oil averages \u20ac669 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 17.3% on the week.",
+  "generated_at": "2026-07-22T21:57:54Z",
+  "morning_note": "Media coverage is busy today (28 items, neutral tone; 116 items over the past week). Brent is at $87, up 6.6% on the week. Irish home heating oil averages \u20ac674 per 500L. The Irish 10-year trades at 3.13%, 23 bps over bunds. CPI inflation is 2.8% y/y; unemployment 5.0%. Tax receipts reached \u20ac50.0bn in the year to end-June, up 4.8% on last year; the Exchequer surplus stands at \u20ac0.7bn. Worth noting: Brent is up 6.6% on the week.",
   "alerts": [
     {
       "kind": "energy",
-      "text": "Brent is up 17.3% on the week."
+      "text": "Brent is up 6.6% on the week."
     }
   ],
   "tiles": {
@@ -16,15 +16,10 @@
       "asof": "2026-07-22T21:18:20Z"
     },
     "brent": {
-      "value": 81.62,
+      "value": 86.99,
       "unit": "$/bbl",
-      "delta_pct": 17.34,
+      "delta_pct": 6.58,
       "spark": [
-        76.49,
-        75.69,
-        72.09,
-        73.74,
-        70.16,
         71.59,
         70.46,
         69.24,
@@ -35,16 +30,20 @@
         76.5,
         74.46,
         74.34,
-        81.62
+        81.62,
+        83.69,
+        83.08,
+        81.23,
+        85.01,
+        86.99
       ],
-      "asof": "2026-07-13"
+      "asof": "2026-07-20"
     },
     "eurusd": {
-      "value": 1.1418,
+      "value": 1.1408,
       "unit": "$",
-      "delta_pct": 0.11,
+      "delta_pct": 0.02,
       "spark": [
-        1.134,
         1.1342,
         1.1401,
         1.1406,
@@ -63,14 +62,15 @@
         1.1467,
         1.1435,
         1.1426,
-        1.1418
+        1.1418,
+        1.1408
       ],
-      "asof": "2026-07-21"
+      "asof": "2026-07-22"
     },
     "heating_oil": {
-      "value": 669.39,
+      "value": 673.61,
       "unit": "\u20ac/500L",
-      "delta_pct": 4.9,
+      "delta_pct": 5.56,
       "spark": [
         616.37,
         613.24,
@@ -91,9 +91,9 @@
         662.48,
         666.8,
         669.39,
-        669.39
+        673.61
       ],
-      "asof": "2026-07-22T02:13:34.622141+00:00"
+      "asof": "2026-07-22T21:57:44.669369+00:00"
     },
     "ie10y": {
       "value": 3.126,
@@ -142,7 +142,7 @@
       "asof": "2026-07-22T21:18:20Z"
     },
     "energy": {
-      "asof": "2026-07-22T02:13:29.068349+00:00"
+      "asof": "2026-07-22T21:57:38.810873+00:00"
     },
     "economy": {
       "asof": "2026-07-18T09:38:23Z"
