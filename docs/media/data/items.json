@@ -485,6 +485,29 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1J4dWhHTHVQclE1UFNDNzJncXgtclZ0VnU1Wk8wekRVZWVURmRWVDFvVU5BbTY3WUxkalROZ0RzOVRRVndBUnkzRzVKZEpCNzMwRXlfd215c1RpMVBOZ24xX3dDRGNHWXRiN1NFTTlma3JDRzhGOV9aQ2pMb3o0Smp4NFFXbkJlQy0zNDQ1aUdtNFJpQ0ZCdkRCVi0yMzJGWUN0SnNWQmNfM0VzYXJYaXZ2MjFnRzdJYU5DRmIzNnA3OExDajVLWk1TcjZMS2JTWlZV?oc=5": {
+    "outlet": "Galway Advertiser",
+    "published": "Thu, 23 Jul 2026 00:41:40 GMT",
+    "headline": "Fine Gael Cathaoirleach of Galway County Council meets An Tánaiste in Government Buildings",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1J4dWhHTHVQclE1UFNDNzJncXgtclZ0VnU1Wk8wekRVZWVURmRWVDFvVU5BbTY3WUxkalROZ0RzOVRRVndBUnkzRzVKZEpCNzMwRXlfd215c1RpMVBOZ24xX3dDRGNHWXRiN1NFTTlma3JDRzhGOV9aQ2pMb3o0Smp4NFFXbkJlQy0zNDQ1aUdtNFJpQ0ZCdkRCVi0yMzJGWUN0SnNWQmNfM0VzYXJYaXZ2MjFnRzdJYU5DRmIzNnA3OExDajVLWk1TcjZMS2JTWlZV?oc=5",
+    "summary": "Galway Advertiser reports: Fine Gael Cathaoirleach of Galway County Council meets An Tánaiste in Government Buildings.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "fine-gael-cathaoirleach-of-galway-county-council-meets-an-t-naiste-in-government",
+    "first_seen": "2026-07-23T09:30:52Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1J4dWhHTHVQclE1UFNDNzJncXgtclZ0VnU1Wk8wekRVZWVURmRWVDFvVU5BbTY3WUxkalROZ0RzOVRRVndBUnkzRzVKZEpCNzMwRXlfd215c1RpMVBOZ24xX3dDRGNHWXRiN1NFTTlma3JDRzhGOV9aQ2pMb3o0Smp4NFFXbkJlQy0zNDQ1aUdtNFJpQ0ZCdkRCVi0yMzJGWUN0SnNWQmNfM0VzYXJYaXZ2MjFnRzdJYU5DRmIzNnA3OExDajVLWk1TcjZMS2JTWlZV?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1J4dWhHTHVQclE1UFNDNzJncXgtclZ0VnU1Wk8wekRVZWVURmRWVDFvVU5BbTY3WUxkalROZ0RzOVRRVndBUnkzRzVKZEpCNzMwRXlfd215c1RpMVBOZ24xX3dDRGNHWXRiN1NFTTlma3JDRzhGOV9aQ2pMb3o0Smp4NFFXbkJlQy0zNDQ1aUdtNFJpQ0ZCdkRCVi0yMzJGWUN0SnNWQmNfM0VzYXJYaXZ2MjFnRzdJYU5DRmIzNnA3OExDajVLWk1TcjZMS2JTWlZV?oc=5",
+    "topic": "Fine Gael",
+    "attention": [],
+    "outlet_tier": "regional",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5": {
     "outlet": "BreakingNews.ie",
     "published": "Tue, 21 Jul 2026 09:53:53 GMT",
@@ -1301,6 +1324,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 23 Jul 2026 09:28:27 GMT",
+    "headline": "Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5",
+    "summary": "Irish Independent reports: Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "wicklow-courts-brought-to-near-standstill-as-solicitors-meet-tds-over-legal-aid-",
+    "first_seen": "2026-07-23T09:30:52Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5",
+    "topic": "Courts/security",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnY5bDdNWl9OcVlNczQ3a3hCSEVnTG1YV01QNlZheFdUZXBKU2dIcW5WbGtYSFNWZ0lyQ04xQTYydkNSRVMtRERwNDRaU0V4aFJtN0ZGQy1CbndEY2dpbWxWOWhoMWZ3OTNQSVktcEdiNWtqblROczBvTEd6c0xNY1JFN0toWEVpZXhKUDZyZ2RuWFBxS3J4RGFwWDIwQXd5NHhNRnNBVGFQSDNCWXdwalFlZDI2ZF85WmVCU2pOMFN4dkV5dk52SG1KVjBhUHhISjFBeVByZ1F0QnFBUDVv?oc=5": {

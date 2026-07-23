@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 23 Jul 2026 06:37 GMT
+Updated: Thu, 23 Jul 2026 09:30 GMT
 
 ## Snapshot
 
-- Recent coverage: 97 item(s) in the last 7 days.
+- Recent coverage: 99 item(s) in the last 7 days.
 - Weighted net framing: +1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 36.
 
 ## Trend Summary
 
-- Coverage volume: 97 item(s) in the last 7 days; unchanged vs previous 7 days.
+- Coverage volume: 99 item(s) in the last 7 days; up 2 vs previous 7 days.
 - Net framing: +1% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 32 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 23 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 24 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 16 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 14 active cluster(s), including 1 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -41,14 +41,14 @@ Updated: Thu, 23 Jul 2026 06:37 GMT
 - Finance: 24
 - Tax: 17
 - Housing: 10
-- Fine Gael: 6
+- Fine Gael: 7
 - Polling: 3
+- Courts/security: 2
 - Constituency/local: 2
-- Enterprise: 2
 
 ## Top Outlets
 
-- Irish Independent: 23
+- Irish Independent: 24
 - Irish Examiner: 6
 - BreakingNews.ie: 6
 - MSN: 6
@@ -61,7 +61,7 @@ Updated: Thu, 23 Jul 2026 06:37 GMT
 
 - [persistent] New Central Bank map shows ATM locations nationwide — 7 item(s), 7 outlet(s), 0 in 6h, 0 in 24h, net +14%. Outlets: Cork Beo, Highland Radio, Irish Independent, KCLR 96FM, MSN, RTE News
 - [persistent] Simon Harris defends savings and investment plan as a scheme for ‘middle Ireland’ — 7 item(s), 5 outlet(s), 0 in 6h, 0 in 24h, net -14%. Outlets: Business Post, MSN, The Irish Times, The Journal, TheJournal.ie
-- [active] Simon Harris says budget tax package must deliver for ‘working people’ — 5 item(s), 3 outlet(s), 0 in 6h, 5 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Mirror, Longford Leader
+- [active] Simon Harris says budget tax package must deliver for ‘working people’ — 5 item(s), 3 outlet(s), 0 in 6h, 4 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Mirror, Longford Leader
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [persistent] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -33%. Outlets: Irish Independent
@@ -72,9 +72,11 @@ Updated: Thu, 23 Jul 2026 06:37 GMT
 
 ## Recent Items
 
-- [mixed framing] Irish Independent: Simon Harris uses ‘derogation’ for appointment to Central Bank board (https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5)
+- [neutral factual] Irish Independent: Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute (https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5)
 - [neutral factual] Irish Independent: Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’ (https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5)
+- [mixed framing] Irish Independent: Simon Harris uses ‘derogation’ for appointment to Central Bank board (https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5)
 - [neutral factual] Irish Independent: Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’ (https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html)
+- [neutral factual] Galway Advertiser: Fine Gael Cathaoirleach of Galway County Council meets An Tánaiste in Government Buildings (https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1J4dWhHTHVQclE1UFNDNzJncXgtclZ0VnU1Wk8wekRVZWVURmRWVDFvVU5BbTY3WUxkalROZ0RzOVRRVndBUnkzRzVKZEpCNzMwRXlfd215c1RpMVBOZ24xX3dDRGNHWXRiN1NFTTlma3JDRzhGOV9aQ2pMb3o0Smp4NFFXbkJlQy0zNDQ1aUdtNFJpQ0ZCdkRCVi0yMzJGWUN0SnNWQmNfM0VzYXJYaXZ2MjFnRzdJYU5DRmIzNnA3OExDajVLWk1TcjZMS2JTWlZV?oc=5)
 - [neutral factual] Irish Independent: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris (https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0RuRnBzQXptSmstMVdJTzJpSXNzSHZ1US1DdmpvUExBYnl4Slc4dE5lOVJQc0l1TTlqZ01xQkhaVU5fLWs2QlhVakdqcmlNcURveV9OcktXbUg3YV8zYzRoNm9GcHFLbWNEZV9ONnpGVDdtT2x6MWp5bEhiaS0yUlo2UkR0UEc5WUZCZTRRa05aQmd3UnR2OXhHX2w2TmJhRTUwaHE3cnQ3alI4TW1SVUtXQWJxLTAyNUJZdTkzUUJWYTR3eE5sNHRYYmd5OGs?oc=5)
 - [neutral factual] Cork Beo: Simon Harris says Budget 2027 must 'reward working people' (https://news.google.com/rss/articles/CBMiekFVX3lxTE00MS1CYzl6QlM5dE5xWEx2TXIyM2pXYXlnZld1TUJqTEliMmtKQlU4dk1ka2VPOVJiYldDWDdjYWg1cm1nVDNac0l3YVRKekp5a3Mtc2hjUFhNMnREeTFOOEJubnRtbHlLMlZteHphN3BkZS1hUnpsTmhB0gF6QVVfeXFMTTQxLUJjOXpCUzl0TnFYTHZNcjIzaldheWdmV3VNQmpMSWIya0pCVTh2TWRrZU85UmJiV0NYN2NhaDVybWdUM1pzSXdhVEp6Snlrcy1zaGNQWE0ydER5MU44Qm5udG1seUsyVm14emE3cGRlLWFSemxOaEE?oc=5)
 - [neutral factual] Cork Beo: Simon Harris says Budget 2027 must 'reward working people' (https://news.google.com/rss/articles/CBMidEFVX3lxTFBubEJTTFA1N1lrbHQ5VmctdHZDVV9sb2sxR3lldmpFM2RYWnB2TjdaYThwbUtfMTU2ZVBYTVo4Z0Z3anNzNmxGZGFlSjQ1U3FtZm8zMjBuLVBwdng2QVVUVkZfRVkyNXR4VHEtSC1LNnh6S1dp0gF6QVVfeXFMTTQxLUJjOXpCUzl0TnFYTHZNcjIzaldheWdmV3VNQmpMSWIya0pCVTh2TWRrZU85UmJiV0NYN2NhaDVybWdUM1pzSXdhVEp6Snlrcy1zaGNQWE0ydER5MU44Qm5udG1seUsyVm14emE3cGRlLWFSemxOaEE?oc=5)
@@ -90,5 +92,3 @@ Updated: Thu, 23 Jul 2026 06:37 GMT
 - [neutral factual] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5)
 - [neutral factual] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html)
 - [neutral factual] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5)
-- [neutral factual] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5)
-- [neutral factual] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5)
