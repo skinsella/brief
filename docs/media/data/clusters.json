@@ -80,6 +80,41 @@
     ]
   },
   {
+    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
+    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
+    "topic": "Finance",
+    "item_count": 5,
+    "outlet_count": 3,
+    "outlets": [
+      "BreakingNews.ie",
+      "Irish Mirror",
+      "Longford Leader"
+    ],
+    "first_seen": "2026-07-22T08:37:00Z",
+    "latest_seen": "2026-07-22T11:11:58Z",
+    "lifespan_hours": 3,
+    "velocity_6h": 0,
+    "velocity_24h": 5,
+    "reach_score": 9,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 5,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 5,
+    "attention_score": 37,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5",
+      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5",
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
+    ]
+  },
+  {
     "key": "polling:polling",
     "title": "Fine Gael is now the most popular party in the country, poll says",
     "topic": "Polling",
@@ -112,40 +147,6 @@
       "https://www.thejournal.ie/fine-gael-is-now-the-most-popular-party-in-the-country-poll-says-7091833-Jul2026/",
       "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEbzBjbVhJdFVZbXoxd1dubkxWd1FrNmxGZlNIN19fYUVDTjVwNjdQRzlqZHczdEdGeTNZQmlhX0xIVnNvUWp5MzVxSjMwVlNNOXZNdkdXZVJDZ2h4LWRvdXk5UDIxc0JDRlRxaV91RnFkT0hhM1E?oc=5",
       "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcDNzdldaMVp1UGpuWl9Ybl9KaVlpdm0xZnJEZDVSelE0SU9iWlVuNHRmbHU2eEsyT05ZeG95UlZWR2t6R1ROSUlBZHV6WVhRY3JKbTJYekhmN09GLXZoaGhxQndvNWVkWS13SU1TTFQwcUQxYVBCbFdlcTNacjlIZ1pfRlg2MDJTUHR2NERjSkJHcDkzM1B2MzEwaHZQRUttZEo4bDY1ZTNEd3d5dzlFcDF1WDJrdWNEbVVJY0w5aThha3B1OE02M3VjR1R1U3pvaXpXbGJUWFRkVWJSZ0I5TGtnX25QeGNHR293MG96NEJXcm1LWVVJQldLaHpvSXlINjZxY0U4YWJibC1hcUpRZGNJZw?oc=5"
-    ]
-  },
-  {
-    "key": "finance:budget-deliver-for-must-package-people:2cf0fdff",
-    "title": "Simon Harris says budget tax package must deliver for ‘working people’",
-    "topic": "Finance",
-    "item_count": 4,
-    "outlet_count": 3,
-    "outlets": [
-      "BreakingNews.ie",
-      "Irish Mirror",
-      "Longford Leader"
-    ],
-    "first_seen": "2026-07-22T08:37:00Z",
-    "latest_seen": "2026-07-22T11:04:45Z",
-    "lifespan_hours": 2,
-    "velocity_6h": 0,
-    "velocity_24h": 4,
-    "reach_score": 8,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 4,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 4,
-    "attention_score": 31,
-    "status": "active",
-    "item_links": [
-      "https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html",
-      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlqak1IYlBYb01iY1B2akJuWC0wSjZsWHdfS2tLTHpxUE1DYUJPelBGU0Q0ZzluUG5PVHNydmotV2s5ci0zTlp1SVI2bnZFTnpGUHlKSnRpMFJ0Zm0zMERJR0tJSFJaMm9UbTQybnRCVjBybFY1X3lsOUc2U093YktfbnlxSEVuNGNQVHU1dmFtOG5aLTg4UUdjMjI5TTl0eVhaRlpKd2MzRVlqclljWUYyZFhldw?oc=5"
     ]
   },
   {
@@ -835,6 +836,36 @@
     ]
   },
   {
+    "key": "finance:2027-budget-collins-magic-money-narrow:c837e932",
+    "title": "Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-23T04:30:00Z",
+    "latest_seen": "2026-07-23T05:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 2,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 13,
+    "status": "emerging",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
+      "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html"
+    ]
+  },
+  {
     "key": "other:accused-alumina-crisis-exports-government-into:7f7bac75",
     "title": "Government accused of 'sleepwalking' into alumina exports crisis",
     "topic": "Other",
@@ -895,6 +926,35 @@
       "https://www.breakingnews.ie/ireland/simon-harris-announces-blueprint-for-irish-unity-1913504.html",
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQno2ME81N1A0R0kzbHo2dlk0ajQ1blFaYU5rTGZiTmFidjNsWGF3bFNTOFNJZnpWejREc1B6OERfbU9iZTFMSktfSEE0YkdnYnRIU0U0Ml9BRnR4a1dFcmxtdC14RmtmUnYyWTNtdnVuYnJNN29lN2ZBTDRqT0dFbHRZM3UtVDdVRDFEOWl4ZDViQ0VMZVV4SldYYUI?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1VuM0dTNWhzT3lhbzNvOXdoR2tnd3loM05PUFdEN1RYRHhkeUFIRDlZVmltc2V4WXBEdnJrS28tMXNuSnl3c3E1NEgtdkx2MHhaTDFDMTEyYnhuM2Y3dkpxajF3VUdlR3hJOTRCMkphcndjZ3IzNnVmTE55VTNTQ2ZUSUZGaDFnTGNEUm8weDVlZG9wTEhBaFpoSzNYdw?oc=5"
+    ]
+  },
+  {
+    "key": "finance:appointment-bank-board-central-derogation-for:14db9635",
+    "title": "Simon Harris uses ‘derogation’ for appointment to Central Bank board",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-23T05:30:00Z",
+    "latest_seen": "2026-07-23T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5"
     ]
   },
   {
@@ -8806,7 +8866,7 @@
     "latest_seen": "2026-07-22T05:00:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -8817,7 +8877,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaVZ6VnQ5RzVZM2x3RG1MSTZscG05N0hYZDhZMXdheE9ZMlpOWDVWaW9vanpaMUxTcVdwZUtwUHRuWVhUcXktdXhMTzlNZmhFWkNZV2JjamRqYTVDNGdoVXdJNEl1U244UjRub2d1UW1uN1dzZUxzLTFOZTBoa3BmUG1FWHN0UE1OeFVNYnNNMjZWYlB1eW9neXdYcjBmVVQtOU5Jb1pUNjdmd0NWTlBfaW9FcTBhZkhnelE0dTVrb29ieGFxZ09KTFlJVnhwcFFRY1hEVFh1bU5IWW1vcmc0ZFR6MWlIaDBFMl9OVkZn?oc=5"
     ]

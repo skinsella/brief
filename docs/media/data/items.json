@@ -2353,6 +2353,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 23 Jul 2026 05:30:00 GMT",
+    "headline": "Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
+    "summary": "Irish Independent reports: Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-there-s-n",
+    "first_seen": "2026-07-23T06:37:26Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5": {
     "outlet": "t.co",
     "published": "Tue, 14 Jul 2026 07:32:35 GMT",
@@ -4649,6 +4674,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5": {
+    "outlet": "Irish Mirror",
+    "published": "Wed, 22 Jul 2026 11:11:58 GMT",
+    "headline": "Simon Harris says budget tax package must deliver for ‘working people’",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5",
+    "summary": "Irish Mirror reports: Simon Harris says budget tax package must deliver for ‘working people’.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "simon-harris-says-budget-tax-package-must-deliver-for-working-people",
+    "first_seen": "2026-07-23T06:37:26Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHRieFhtNHQ2UXVwQ3lfUEdqOWkzdy1FaVVORVkwZHhvdGU4ekhYb1dwMHVETllwcHB1ZFd3Wm9qUHAyYXBtb0h3U3V6ZnJyTlNXbkg1R1RTaWdPR3JhOUVDSUZmOFFPdVZwdjZWdjF1bC1oTUNOcVlzSWZjclI2cDJfT0duVm5OYVVMTEln0gGTAUFVX3lxTE5kWlZkX0t5NVV2dENrcWRWeENEYTFOdzl5UzgtTUtyNUFMMFVNMXc3VHFsUEpRQk82MDZMTFdQYlc0Y0NrcHU5cElMakNmOTlPVXJJS0RaVE11Z2d1NF9vYmVwQ254SG41bGlmSUVrM0IwYjNZNnItaFNmd2pzTXMzTHZPTy1IcnIxeFZRNFFPSDBQdw?oc=5": {
@@ -9865,6 +9915,32 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 23 Jul 2026 05:30:00 GMT",
+    "headline": "Simon Harris uses ‘derogation’ for appointment to Central Bank board",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5",
+    "summary": "Irish Independent reports on new rules or guidelines for raising local access-to-cash concerns with the Central Bank.",
+    "tag": "SIGNIFICANT",
+    "reason": "Personnel changes can require fast briefing and lines-to-take.",
+    "cluster_key": "Access to cash",
+    "first_seen": "2026-07-23T06:37:26Z",
+    "source_feed": "Google News 24h catch-up",
+    "google_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Personnel",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "mixed",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Coverage frames a Government safeguard or reporting mechanism, but through public access-to-cash concerns."
+  },
   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0JZd0Z2X2pQOTBuVHJVTHFkd29NckhRRmZCSVBlMHJpZ09pNTY2LTJMcm1tS3I2NkVvMGlDNm5kb3hJV3p2cUQwcUJxMVBfZXMxbEV0NlBDY0steWFNUWtCMk9PYV9EeTJUZTNmZ0V2OUUxR0FVMXFXLUd0aVF0UFpydTdfQVFTNTJYak9TUVlQMUNJZFpVdkpXSEZDOTdaSmRQQndGMkFwamFBQmI3eTR1TVB1UmFMMF95U2M2cHh2OS1jN3lHRF9XbE5wSVE?oc=5": {
     "outlet": "The Irish Times",
     "published": "Tue, 21 Jul 2026 09:34:03 GMT",
@@ -10773,6 +10849,31 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 23 Jul 2026 04:30:00 GMT",
+    "headline": "Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’",
+    "link": "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html",
+    "summary": "Irish Independent reports: Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-there-s-n",
+    "first_seen": "2026-07-23T06:37:26Z",
+    "source_feed": "Irish Independent RSS",
+    "google_link": "",
+    "source_link": "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html",
+    "topic": "Finance",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://www.independent.ie/business/world/simon-harris-urges-eu-counterparts-to-move-beyond-established-positions-on-capital-markets/a/158725614.html": {
