@@ -1,30 +1,29 @@
 # Simon Harris Media Briefing
 
-Updated: Wed, 22 Jul 2026 22:37 GMT
+Updated: Thu, 23 Jul 2026 00:10 GMT
 
 ## Snapshot
 
-- Recent coverage: 116 item(s) in the last 7 days.
-- Weighted net framing: -1% (supportive minus critical, reach/significance-weighted).
-- Significant items: 38.
+- Recent coverage: 93 item(s) in the last 7 days.
+- Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
+- Significant items: 34.
 
 ## Trend Summary
 
-- Coverage volume: 116 item(s) in the last 7 days; up 19 vs previous 7 days.
-- Net framing: -1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 49 item(s).
-- Critical concentration: Other accounts for 1 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 22 item(s).
+- Coverage volume: 93 item(s) in the last 7 days; down 4 vs previous 7 days.
+- Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
+- Main topic: Other leads recent coverage with 32 item(s).
+- Critical concentration: None flagged accounts for 0 recent critical item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 20 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 17 active cluster(s), including 1 emerging in the last 6 hours.
+- Active narratives: 15 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
 ## Needs Attention
 
-- [Fast Reaction, Critical framing, High-reach outlet] Irish Examiner: Government accused of 'sleepwalking' into alumina exports crisis (https://news.google.com/rss/articles/CBMib0FVX3lxTE42anJZTFR6Mjg2LVc3Yl9laHkzUV9TLV9McmhRM1VNNlhtaklUQjM5S2lmeXZmTU4xY2JuVldLZjBVTmNxT1p1dzk1b1VpRDdGUzg5b2lFdHp1VW92a2ZEdVJ0U094dDBUdWdqLS1vVQ?oc=5)
 - [Polling, High-reach outlet] Irish Independent: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris (https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0RuRnBzQXptSmstMVdJTzJpSXNzSHZ1US1DdmpvUExBYnl4Slc4dE5lOVJQc0l1TTlqZ01xQkhaVU5fLWs2QlhVakdqcmlNcURveV9OcktXbUg3YV8zYzRoNm9GcHFLbWNEZV9ONnpGVDdtT2x6MWp5bEhiaS0yUlo2UkR0UEc5WUZCZTRRa05aQmd3UnR2OXhHX2w2TmJhRTUwaHE3cnQ3alI4TW1SVUtXQWJxLTAyNUJZdTkzUUJWYTR3eE5sNHRYYmd5OGs?oc=5)
 - [Polling, High-reach outlet] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html)
 - [Polling, High-reach outlet] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5)
@@ -34,28 +33,29 @@ Updated: Wed, 22 Jul 2026 22:37 GMT
 - [Policy] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Summer economic statement 2026: Simon Harris says budget tax package will deliver for ‘working people’ (https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVdqeU4zMC0xU0hFRDlXOXRoU3NKeEhpWXc4T1FjbUtFSGxPakhKRHhZQk1uSXFKd2REODBtN2ZNY0dLVTdERXBCY0FvQlRFRFA4RUR6VFVBUVNDbjNQRUhORlBydXdZWkI2emtfYllrNV9xOThqN01nWEVHampqLUw0YjJLb0RhT0cyNy1vYnRPUXZOLXZiX3Y0blJVZHJSVXpxMEZGUVhJWUFkYVBWSWRyc0NXVTN1T2xyQkZtMV93bVQ4TUwyTjlFbVc?oc=5)
 - [Policy, High-reach outlet] The Irish Times: Harris expects ‘intense engagement’ in Government over budget tax package (https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1hKWGdHVk5VNTVBY2NDWXF5YlFjYngwS0planBGTHlUN0FBdWlNczEzSVd5bUJrRDN5RE1UeTFJTmxyZlEwWndLZTlWYXplaFI1eUstLXI1OGV3aU1mbDZ4emJ1SHhZdFUyTi03d29HSnkxYTkxXzhQWjVWSUhnRlJoVDdYOGdNRHFneFJ4UGRxb1ZJVTlUN0d5WnB0UG90RzZmOU1GaDZxWEVET3hhcmJRcWtTUVVrdjZ3?oc=5)
+- [Policy, High-reach outlet] Irish Independent: Simon Harris says budget tax package will deliver for ‘working people’ (https://www.independent.ie/irish-news/politics/simon-harris-says-budget-tax-package-will-deliver-for-working-people/a/159038977.html)
 
 ## Top Topics
 
-- Other: 49
-- Finance: 23
-- Tax: 18
+- Other: 32
+- Finance: 20
+- Tax: 17
 - Housing: 10
 - Fine Gael: 6
-- Enterprise: 4
 - Polling: 3
 - Constituency/local: 2
+- Enterprise: 2
 
 ## Top Outlets
 
-- Irish Independent: 22
-- BreakingNews.ie: 10
-- Irish Examiner: 9
-- MSN: 8
+- Irish Independent: 20
+- Irish Examiner: 6
+- BreakingNews.ie: 6
+- MSN: 6
 - Business Post: 6
 - The Irish Times: 5
-- The Journal: 5
 - Cork Beo: 3
+- Irish Mirror: 3
 
 ## Story Clusters
 
