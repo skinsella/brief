@@ -928,35 +928,6 @@
     ]
   },
   {
-    "key": "finance:appointment-bank-board-central-derogation-for:14db9635",
-    "title": "Simon Harris uses ‘derogation’ for appointment to Central Bank board",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-23T05:30:00Z",
-    "latest_seen": "2026-07-23T05:30:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 1
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5"
-    ]
-  },
-  {
     "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
     "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
     "topic": "Other",
@@ -1251,36 +1222,6 @@
     ]
   },
   {
-    "key": "finance:2027-budget-collins-magic-money-narrow:c837e932",
-    "title": "Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’",
-    "topic": "Finance",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-23T04:30:00Z",
-    "latest_seen": "2026-07-23T05:30:00Z",
-    "lifespan_hours": 1,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
-      "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -1349,6 +1290,35 @@
     ]
   },
   {
+    "key": "finance:appointment-bank-board-central-derogation-for:14db9635",
+    "title": "Simon Harris uses ‘derogation’ for appointment to Central Bank board",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-23T05:30:00Z",
+    "latest_seen": "2026-07-23T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 1
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5"
+    ]
+  },
+  {
     "key": "finance:2027-5bn-available-budget-for-government:db39cc59",
     "title": "Budget 2027: Government to have €8.5bn available for spending and tax package",
     "topic": "Finance",
@@ -1361,7 +1331,7 @@
     "latest_seen": "2026-07-22T12:52:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -1372,7 +1342,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HSkhWVXo2c09DMzdVVUZSQzl3VGNGeEFkQjVOVGE1bHBQVGtNc2FYdHA2djVSWE1BT0t1YWNOLXhOMXRsT09wT252TkdvOHg3WUZfYjVGUGlsRkpGUDZmeXZCLUV0V1NsejlnakowNA?oc=5"
     ]
@@ -2840,6 +2810,36 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2027-budget-collins-magic-money-narrow:c837e932",
+    "title": "Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-23T04:30:00Z",
+    "latest_seen": "2026-07-23T05:30:00Z",
+    "lifespan_hours": 1,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
+      "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html"
     ]
   },
   {
