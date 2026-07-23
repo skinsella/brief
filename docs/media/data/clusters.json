@@ -899,6 +899,35 @@
     ]
   },
   {
+    "key": "finance:capital-cost-cutting-finance-gains-officials:76ced896",
+    "title": "Revealed: Finance officials’ warnings on the cost of cutting capital gains tax",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-23T17:27:00Z",
+    "latest_seen": "2026-07-23T17:27:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5"
+    ]
+  },
+  {
     "key": "tax:1bn-cost-cuts-earners-for-government:9ed8300e",
     "title": "Tax cuts for high earners to cost €1.1bn next year, government warned",
     "topic": "Tax",
@@ -925,35 +954,6 @@
     "status": "active",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5"
-    ]
-  },
-  {
-    "key": "tax:cutting-expand-government-instead-justice-should:ef7f8057",
-    "title": "Government should expand social welfare instead of cutting tax - Social Justice Ireland",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Newstalk"
-    ],
-    "first_seen": "2026-07-23T11:14:39Z",
-    "latest_seen": "2026-07-23T11:14:39Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5"
     ]
   },
   {
@@ -1345,6 +1345,35 @@
       "https://www.breakingnews.ie/ireland/tanaiste-urges-fai-to-bring-clarity-to-ireland-vs-israel-match-venue-row-1910978.html",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hya2U5ZUFVMWFIbFQ0eFdDZ3FHeDd1akVIS0xOVXFLYWotSDdBR1B3VTdXcG56dlB0VFN2VlM4c3JjbFRQdE9LQk5LQXR0TVRBbmg1TXVzLU12aDFzZjEwWEI5bUw3QmdRUXQ1Y3lwVUxOaGtid2VnUXBzQlV4WF9vRWlNM0o4b2dxNnBzRU0tUjh2YW1mQXA1OC1MSVhZWmEzekUzNXZpblFKNi1vMlo0RnBIcllqWHVoWg?oc=5",
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXF0dXdybDN5d0lEYW81QlVKOXE0Zlg0ZlBvNFFvQTdnUDZGbGdtWkVsdUF1d2ZiZlVWa054OVZ5ZjlFQ3g4ZjhodmNEUTdYS3RNVEhUNTYwS0NNRlk4N0c1WjUzaWlBUWZvNFl3VUR0NFh6OG5sdnlRZWptc25xVlJQSHY0SjhESUFUR3VSTU5kNWc1R043eXZqWDdzYTk3YU5KQjE5RWtfckN3VDRveUJnNm9oUWdMYkQ0?oc=5"
+    ]
+  },
+  {
+    "key": "tax:cutting-expand-government-instead-justice-should:ef7f8057",
+    "title": "Government should expand social welfare instead of cutting tax - Social Justice Ireland",
+    "topic": "Tax",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Newstalk"
+    ],
+    "first_seen": "2026-07-23T11:14:39Z",
+    "latest_seen": "2026-07-23T11:14:39Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5"
     ]
   },
   {

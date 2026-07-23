@@ -7350,6 +7350,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5": {
+    "outlet": "Business Post",
+    "published": "Thu, 23 Jul 2026 17:27:00 GMT",
+    "headline": "Revealed: Finance officials’ warnings on the cost of cutting capital gains tax",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5",
+    "summary": "Business Post reports: Revealed: Finance officials’ warnings on the cost of cutting capital gains tax.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "revealed-finance-officials-warnings-on-the-cost-of-cutting-capital-gains-tax",
+    "first_seen": "2026-07-23T18:20:42Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFBBRlRnZnBDREdhc19hdk00UFdfeWN6eXZONDR6RGhreXVqZ3RESG5OWE02OGM3VVpvRTBBZ0hXbG5GdVdKZGt0d0wxaGQ1YUFhbWx3Q1ZMRXEyQTNYRzBSOTEyY0JnaHUySjhWS1hDU1FabXY0eHhsMEZNNkxHVV9tdUtEQUdZWXRyMXIyUW9GM2dfV24tX3NFNHh6ZmhkN09qaTZXN0pqOE43RzdHVGt4QzI?oc=5": {
     "outlet": "BreakingNews.ie",
     "published": "Thu, 16 Jul 2026 13:44:23 GMT",
