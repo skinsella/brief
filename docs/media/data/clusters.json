@@ -228,7 +228,7 @@
     "latest_seen": "2026-07-22T19:22:03Z",
     "lifespan_hours": 9,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 9,
     "tone_counts": {
       "favourable": 0,
@@ -239,7 +239,7 @@
     "net_framing": 0,
     "significant_count": 3,
     "attention_score": 26,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0RuRnBzQXptSmstMVdJTzJpSXNzSHZ1US1DdmpvUExBYnl4Slc4dE5lOVJQc0l1TTlqZ01xQkhaVU5fLWs2QlhVakdqcmlNcURveV9OcktXbUg3YV8zYzRoNm9GcHFLbWNEZV9ONnpGVDdtT2x6MWp5bEhiaS0yUlo2UkR0UEc5WUZCZTRRa05aQmd3UnR2OXhHX2w2TmJhRTUwaHE3cnQ3alI4TW1SVUtXQWJxLTAyNUJZdTkzUUJWYTR3eE5sNHRYYmd5OGs?oc=5",
       "https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html",

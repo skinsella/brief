@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 23 Jul 2026 18:20 GMT
+Updated: Thu, 23 Jul 2026 19:57 GMT
 
 ## Snapshot
 
@@ -18,7 +18,7 @@ Updated: Thu, 23 Jul 2026 18:20 GMT
 
 ## Narrative Summary
 
-- Active narratives: 10 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 9 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -65,7 +65,7 @@ Updated: Thu, 23 Jul 2026 18:20 GMT
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
 - [persistent] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -33%. Outlets: Irish Independent
-- [active] Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris — 3 item(s), 2 outlet(s), 0 in 6h, 1 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Independent
+- [dormant] Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Independent
 - [dormant] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: IFTN, iftn.ie
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal
