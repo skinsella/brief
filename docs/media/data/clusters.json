@@ -1251,35 +1251,6 @@
     ]
   },
   {
-    "key": "tax:carbon-government-reviewing-tax-trajectory:030aa93b",
-    "title": "Government reviewing carbon tax trajectory, Harris says",
-    "topic": "Tax",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Gript"
-    ],
-    "first_seen": "2026-07-23T16:15:21Z",
-    "latest_seen": "2026-07-23T16:15:21Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 10,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5"
-    ]
-  },
-  {
     "key": "other:all-escalation-following-for-government-iran:c2276de9",
     "title": "Government prepared for ‘all scenarios’ following escalation of Iran war",
     "topic": "Other",
@@ -2871,20 +2842,20 @@
     ]
   },
   {
-    "key": "other:abuse-domestic-epidemic-hears-laois-refuge:af818b55",
-    "title": "No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears",
-    "topic": "Other",
+    "key": "tax:carbon-government-reviewing-tax-trajectory:030aa93b",
+    "title": "Government reviewing carbon tax trajectory, Harris says",
+    "topic": "Tax",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
-      "Irish Independent"
+      "Gript"
     ],
-    "first_seen": "2026-07-23T15:18:50Z",
-    "latest_seen": "2026-07-23T15:18:50Z",
+    "first_seen": "2026-07-23T16:15:21Z",
+    "latest_seen": "2026-07-23T16:15:21Z",
     "lifespan_hours": 0,
-    "velocity_6h": 1,
+    "velocity_6h": 0,
     "velocity_24h": 1,
-    "reach_score": 3,
+    "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
       "neutral": 1,
@@ -2892,11 +2863,11 @@
       "mixed": 0
     },
     "net_framing": 0,
-    "significant_count": 0,
+    "significant_count": 1,
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5"
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5"
     ]
   },
   {
@@ -3935,6 +3906,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:abuse-domestic-epidemic-hears-laois-refuge:af818b55",
+    "title": "No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-23T15:18:50Z",
+    "latest_seen": "2026-07-23T15:18:50Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5"
     ]
   },
   {
