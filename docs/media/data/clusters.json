@@ -2784,16 +2784,16 @@
     ]
   },
   {
-    "key": "courts/security:aid-brought-courts-legal-meet-near:f98b7f02",
-    "title": "Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute",
-    "topic": "Courts/security",
+    "key": "other:abuse-domestic-epidemic-hears-laois-refuge:af818b55",
+    "title": "No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears",
+    "topic": "Other",
     "item_count": 1,
     "outlet_count": 1,
     "outlets": [
       "Irish Independent"
     ],
-    "first_seen": "2026-07-23T09:28:27Z",
-    "latest_seen": "2026-07-23T09:28:27Z",
+    "first_seen": "2026-07-23T15:18:50Z",
+    "latest_seen": "2026-07-23T15:18:50Z",
     "lifespan_hours": 0,
     "velocity_6h": 1,
     "velocity_24h": 1,
@@ -2809,7 +2809,7 @@
     "attention_score": 7,
     "status": "active",
     "item_links": [
-      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5"
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5"
     ]
   },
   {
@@ -2855,7 +2855,7 @@
     "latest_seen": "2026-07-22T14:22:44Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -2866,7 +2866,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5"
     ]
@@ -3851,6 +3851,35 @@
     ]
   },
   {
+    "key": "courts/security:aid-brought-courts-legal-meet-near:f98b7f02",
+    "title": "Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute",
+    "topic": "Courts/security",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-23T09:28:27Z",
+    "latest_seen": "2026-07-23T09:28:27Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5"
+    ]
+  },
+  {
     "key": "other:announcements-around-chambers-economic-jack-make:88f77030",
     "title": "Simon Harris and Jack Chambers make announcements around the Summer Economic Statement",
     "topic": "Other",
@@ -3892,7 +3921,7 @@
     "latest_seen": "2026-07-22T14:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3903,7 +3932,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT1ZDeFRha0tLM3BFNm9zTWVSVHktQTFMQlhiLTQxT2tuSG9RZF8zekRvT0d6QzZETnZMWUFHamdLRHA5NWVCRk1FbnVjUmJIZlVPVjYxb0NTcU9tczFFcjNmbV9LdFFMWUJpYklCTHctUGhZRXhxQ0tWR1Q5U2VEWG1lRTNKR0gzajFrRDNJQThraUpPYXNWTnZhZ2dvWFlDa1dBXzFwaFRpMGZkckhhYWVZMVFUNzJWSU5CUXdBWUduOEFTUDhndG9TR1N2UTc5N3RNUElvMGZYSXgyUmk1eFlGVEdKNXkzWFp1LUdFZzVOVTBpM3RnRlJTVQ?oc=5"
     ]
@@ -3921,7 +3950,7 @@
     "latest_seen": "2026-07-22T13:55:40Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -3932,7 +3961,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpYOFBRQ3d6Z0ItN0o1MlpJRnJhaTVfSnJ2WWNDMnhEczRFM3pYczNMUWtQNWg5aDc0TDRYbldqYlhFSlU0dmIzZExseEVwYzMzeDVsNXJtWGtkZmNLQUVXemRYcFdpM2NHR29xbnFPcndvbWRRMW9FanItdzJFbEpHNG1WWVRVdjY1MVhJbkE0N1dDVlZvRmw1MEp1bmJoaG1JRXd5bzhlNmY4RENFZm53VFpFbHJyR3c?oc=5"
     ]
@@ -8924,7 +8953,7 @@
     "latest_seen": "2026-07-22T15:17:30Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -8935,7 +8964,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 2,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5"
     ]

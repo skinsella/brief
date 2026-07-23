@@ -755,6 +755,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 23 Jul 2026 15:18:50 GMT",
+    "headline": "No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5",
+    "summary": "Irish Independent reports: No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "no-domestic-abuse-refuge-in-laois-amid-epidemic-of-abuse-and-violence-t-naiste-h",
+    "first_seen": "2026-07-23T15:34:19Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMDJHVUxlS1ZqbnBaWG9zbk1iR0pkcC1ldlUtYmpWSW5iYlhFZ0c0ajBDeXEtSU9zQ1ByTUdfbk5UYVdhaFNiT0pMMS1jWmdMaUhQUGNCU0tjTDViZnVZTVNfcjdFNkhJZ2luWlVaYTVWQXdxSzduNi0yc3N5UVNoRWc3RlA4UmJpd2xQNXZEakIyRTU2c2FQekV4UHh3eU9QTnpkZTVManVEVkI0REVwT0FHbVRhOHVfMHh1MllKMFRtaHl3Ti16bEhuUlFIMGpUZWV2OXRsVWQ?oc=5": {
     "outlet": "Irish Independent",
     "published": "Tue, 23 Jun 2026 15:23:40 GMT",

@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 23 Jul 2026 13:08 GMT
+Updated: Thu, 23 Jul 2026 15:34 GMT
 
 ## Snapshot
 
-- Recent coverage: 100 item(s) in the last 7 days.
+- Recent coverage: 101 item(s) in the last 7 days.
 - Weighted net framing: +1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 37.
 
 ## Trend Summary
 
-- Coverage volume: 100 item(s) in the last 7 days; up 3 vs previous 7 days.
+- Coverage volume: 101 item(s) in the last 7 days; up 4 vs previous 7 days.
 - Net framing: +1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 32 item(s).
+- Main topic: Other leads recent coverage with 33 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 24 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 25 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 12 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 9 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -37,7 +37,7 @@ Updated: Thu, 23 Jul 2026 13:08 GMT
 
 ## Top Topics
 
-- Other: 32
+- Other: 33
 - Finance: 24
 - Tax: 18
 - Housing: 10
@@ -48,7 +48,7 @@ Updated: Thu, 23 Jul 2026 13:08 GMT
 
 ## Top Outlets
 
-- Irish Independent: 24
+- Irish Independent: 25
 - Irish Examiner: 6
 - BreakingNews.ie: 6
 - MSN: 6
@@ -72,6 +72,7 @@ Updated: Thu, 23 Jul 2026 13:08 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears (https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5)
 - [neutral factual] Newstalk: Government should expand social welfare instead of cutting tax - Social Justice Ireland (https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5)
 - [neutral factual] Irish Independent: Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute (https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5)
 - [neutral factual] Irish Independent: Sarah Collins: Budget 2027 options start to narrow as Simon Harris says there’s ‘no new magic money’ (https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5)
@@ -91,4 +92,3 @@ Updated: Thu, 23 Jul 2026 13:08 GMT
 - [neutral factual] SPINSouthWest: Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says (https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5)
 - [neutral factual] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html)
 - [neutral factual] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5)
-- [neutral factual] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html)
