@@ -1,6 +1,6 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 23 Jul 2026 00:10 GMT
+Updated: Thu, 23 Jul 2026 03:57 GMT
 
 ## Snapshot
 
@@ -64,8 +64,8 @@ Updated: Thu, 23 Jul 2026 00:10 GMT
 - [persistent] Fine Gael is now the most popular party in the country, poll says — 4 item(s), 4 outlet(s), 0 in 6h, 0 in 24h, net +25%. Outlets: Irish Independent, RTE.ie, The Journal, TheJournal.ie
 - [active] Simon Harris says budget tax package must deliver for ‘working people’ — 4 item(s), 3 outlet(s), 0 in 6h, 4 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Mirror, Longford Leader
 - [dormant] Reductions in income tax and childcare costs ‘priorities’, Tánaiste says — 4 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: Belfast Telegraph, BreakingNews.ie, Limerick Leader
-- [active] Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris — 3 item(s), 2 outlet(s), 1 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Independent
 - [persistent] Simon Harris confirms councils must pay residential zoned land tax on own housing land — 3 item(s), 1 outlet(s), 0 in 6h, 0 in 24h, net -33%. Outlets: Irish Independent
+- [active] Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris — 3 item(s), 2 outlet(s), 0 in 6h, 3 in 24h, net 0%. Outlets: BreakingNews.ie, Irish Independent
 - [dormant] Government confirms increased tax credit for large-scale VFX work — 4 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: IFTN, iftn.ie
 - [dormant] 'Frustrated' Simon Harris announces new derelict sites tax to be administered by Revenue — 3 item(s), 2 outlet(s), 0 in 6h, 0 in 24h, net +100%. Outlets: BreakingNews.ie, Irish Examiner
 - [dormant] 'Bizarre' for Israel to use Ireland as home country for bonds, Central Bank says — 3 item(s), 3 outlet(s), 0 in 6h, 0 in 24h, net 0%. Outlets: BreakingNews.ie, The Irish News, The Journal

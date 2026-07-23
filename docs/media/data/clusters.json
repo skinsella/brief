@@ -183,38 +183,6 @@
     ]
   },
   {
-    "key": "polling:burnham-closer-ready-support-ties:816e64f8",
-    "title": "Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris",
-    "topic": "Polling",
-    "item_count": 3,
-    "outlet_count": 2,
-    "outlets": [
-      "BreakingNews.ie",
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-22T10:15:05Z",
-    "latest_seen": "2026-07-22T19:22:03Z",
-    "lifespan_hours": 9,
-    "velocity_6h": 1,
-    "velocity_24h": 3,
-    "reach_score": 9,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 3,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 3,
-    "attention_score": 29,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0RuRnBzQXptSmstMVdJTzJpSXNzSHZ1US1DdmpvUExBYnl4Slc4dE5lOVJQc0l1TTlqZ01xQkhaVU5fLWs2QlhVakdqcmlNcURveV9OcktXbUg3YV8zYzRoNm9GcHFLbWNEZV9ONnpGVDdtT2x6MWp5bEhiaS0yUlo2UkR0UEc5WUZCZTRRa05aQmd3UnR2OXhHX2w2TmJhRTUwaHE3cnQ3alI4TW1SVUtXQWJxLTAyNUJZdTkzUUJWYTR3eE5sNHRYYmd5OGs?oc=5",
-      "https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5"
-    ]
-  },
-  {
     "key": "tax:residential-zoned-land-tax",
     "title": "Simon Harris confirms councils must pay residential zoned land tax on own housing land",
     "topic": "Tax",
@@ -243,6 +211,38 @@
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZzFlbHJWYW91SEk1X1JacGY3VU5FY2JzRWo1VzNpUU11YVdzLW54XzlocnFORk1pd0tVLWsybjMtU1lLRzFyRGN0Uk5MOWFBUjlkRFpFNjE1NmhGT3E0UlpDTTEtdTVjQVVCSUViLThpemtuVGdVbURjQUdkSTEwMjVRSVA4NFhQOGZxTzBYMTlNdnVVcy1KYXhaeVp1N1FnVDdnaEZCN01OZFdqalBsREo0ZmNKZHlTNy1FOVdzc0UtcXVmRzVfQWJMS1E0MjZuRlVTbFViRnJDakJyRkE?oc=5",
       "https://www.independent.ie/county/wicklow/simon-harris-confirms-councils-must-pay-residential-zoned-land-tax-on-own-housing-land/a/158806386.html",
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOak9wT0dUVWpkSHZXdm1YQlNrb2EtT25VcWdIWHQ4S3ZvcTNOM24wTkJ2RXZxblR0bklFdUl4YlRPUUFyWWs4bi00QmlFMzFUU2tDdGJLQ25DR2VOZEdRMF9MbEZfU0sxSjhYMm5wZEtERnI5eHhORld2U3JQd3JXeWpNTk5uMGNzdDhoSnB1UmtCSTNJRG1mbXppRlV3ZU5mN2NFVnRMVnMteS1meFJ2Q04tdzFrZldYMUFZemlGMEd5S1lHeWFSZ3lvTzlxZU5Lem53SlZjRFdWVGNE?oc=5"
+    ]
+  },
+  {
+    "key": "polling:burnham-closer-ready-support-ties:816e64f8",
+    "title": "Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste Simon Harris",
+    "topic": "Polling",
+    "item_count": 3,
+    "outlet_count": 2,
+    "outlets": [
+      "BreakingNews.ie",
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-22T10:15:05Z",
+    "latest_seen": "2026-07-22T19:22:03Z",
+    "lifespan_hours": 9,
+    "velocity_6h": 0,
+    "velocity_24h": 3,
+    "reach_score": 9,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 3,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 3,
+    "attention_score": 26,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ0RuRnBzQXptSmstMVdJTzJpSXNzSHZ1US1DdmpvUExBYnl4Slc4dE5lOVJQc0l1TTlqZ01xQkhaVU5fLWs2QlhVakdqcmlNcURveV9OcktXbUg3YV8zYzRoNm9GcHFLbWNEZV9ONnpGVDdtT2x6MWp5bEhiaS0yUlo2UkR0UEc5WUZCZTRRa05aQmd3UnR2OXhHX2w2TmJhRTUwaHE3cnQ3alI4TW1SVUtXQWJxLTAyNUJZdTkzUUJWYTR3eE5sNHRYYmd5OGs?oc=5",
+      "https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html",
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5"
     ]
   },
   {
