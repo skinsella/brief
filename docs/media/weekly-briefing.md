@@ -1,20 +1,20 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 23 Jul 2026 15:34 GMT
+Updated: Thu, 23 Jul 2026 17:02 GMT
 
 ## Snapshot
 
-- Recent coverage: 101 item(s) in the last 7 days.
+- Recent coverage: 103 item(s) in the last 7 days.
 - Weighted net framing: +1% (supportive minus critical, reach/significance-weighted).
-- Significant items: 37.
+- Significant items: 39.
 
 ## Trend Summary
 
-- Coverage volume: 101 item(s) in the last 7 days; up 4 vs previous 7 days.
+- Coverage volume: 103 item(s) in the last 7 days; up 6 vs previous 7 days.
 - Net framing: +1% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 33 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 25 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 26 item(s).
 
 ## Narrative Summary
 
@@ -29,17 +29,17 @@ Updated: Thu, 23 Jul 2026 15:34 GMT
 - [Polling, High-reach outlet] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5)
 - [Policy, High-reach outlet] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html)
 - [Policy, High-reach outlet] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5)
+- [Policy, High-reach outlet] Irish Independent: Tax cuts for high earners to cost €1.1bn next year, government warned (https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5)
 - [Policy, High-reach outlet] Newstalk: Government should expand social welfare instead of cutting tax - Social Justice Ireland (https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5)
 - [Personnel, High-reach outlet] Irish Independent: Simon Harris uses ‘derogation’ for appointment to Central Bank board (https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5)
 - [Policy, High-reach outlet] Irish Examiner: Budget 2027: Government to have €8.5bn available for spending and tax package (https://news.google.com/rss/articles/CBMib0FVX3lxTE9HSkhWVXo2c09DMzdVVUZSQzl3VGNGeEFkQjVOVGE1bHBQVGtNc2FYdHA2djVSWE1BT0t1YWNOLXhOMXRsT09wT252TkdvOHg3WUZfYjVGUGlsRkpGUDZmeXZCLUV0V1NsejlnakowNA?oc=5)
 - [Policy] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5)
-- [Policy] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVhjTUZnNF9ZWXVNYTJpSDZzNzFlRy1GTm92M0YtWGthVDA1M0d0V25tT0o1VlRYU0Q1RkVHZllFQTlFdTROaF9qbVJ2bzRmSXRUUGRuc2xEUjlXZmRpRGV6N3N5THF1ZDV3eTRESjk3ajhubmFXTEhrbWNJdVctSEdzYkR5dGfSAYwBQVVfeXFMUEhMUF9wejJpRGxUSUJHYzRNRDlSN1Jnck9RcHZDN2pSV0VjVWg4dmdpYnZaR2tfemlnbEJab3pzTHpSV3hmWENzckMySjVTanVpZHh3Z21YS2xIQkMySFkxRHZCcmxYZ1c4QVJFSjVHbWtod09TUWdWbmJDQzE4WVBtM2VZbkNIQm5CT3Q?oc=5)
 
 ## Top Topics
 
 - Other: 33
 - Finance: 24
-- Tax: 18
+- Tax: 20
 - Housing: 10
 - Fine Gael: 7
 - Polling: 3
@@ -48,7 +48,7 @@ Updated: Thu, 23 Jul 2026 15:34 GMT
 
 ## Top Outlets
 
-- Irish Independent: 25
+- Irish Independent: 26
 - Irish Examiner: 6
 - BreakingNews.ie: 6
 - MSN: 6
@@ -72,6 +72,8 @@ Updated: Thu, 23 Jul 2026 15:34 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: Tax cuts for high earners to cost €1.1bn next year, government warned (https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5)
+- [neutral factual] Gript: Government reviewing carbon tax trajectory, Harris says (https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5)
 - [neutral factual] Irish Independent: No domestic abuse refuge in Laois amid ‘epidemic of abuse and violence’, Tánaiste hears (https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUpZdW5TcmJRcVhVUWdIcVZkYlBrNENya243N0FlSlFKSEZiOFdhZ2M3THB0dEFKQWNzSktsOVU2ZEdBam5Zdkd3R0F6cnNaVW0yNWNIdFBYUzhldm1RdXA1eXU5Sm5oTVdhOHlST3pIVEF0LW52SjBwU2wtQXo4Z21KRWd1cnVoT3NqaXRiSWhmRVhjODUyS21wMUo5SzY1WjV0UVY3T0lHYk1lNjVFOWEzMXRJeGVZNXRQRC1md2s3Zkp4X0czTXNjSjQxTnBOSTg5cXRhUzQ?oc=5)
 - [neutral factual] Newstalk: Government should expand social welfare instead of cutting tax - Social Justice Ireland (https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5)
 - [neutral factual] Irish Independent: Wicklow courts brought to near standstill as solicitors meet TDs over legal aid dispute (https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5)
@@ -90,5 +92,3 @@ Updated: Thu, 23 Jul 2026 15:34 GMT
 - [neutral factual] Irish Examiner: Budget 2027: Government to have €8.5bn available for spending and tax package (https://news.google.com/rss/articles/CBMib0FVX3lxTE9HSkhWVXo2c09DMzdVVUZSQzl3VGNGeEFkQjVOVGE1bHBQVGtNc2FYdHA2djVSWE1BT0t1YWNOLXhOMXRsT09wT252TkdvOHg3WUZfYjVGUGlsRkpGUDZmeXZCLUV0V1NsejlnakowNA?oc=5)
 - [neutral factual] SPIN1038: Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says (https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2xENXlCREJiR1lJcEdsVThUQ1F6VURfcEpiT0lkX24ycFdmTlYwRGRZd3ZDUFNmQnFja04tbXhPYmNncHVKRVFiMFNQcDFHTGdfN29LdDVHTE5kLVExUFZLQ2RpUDZxdTNSMXA0MVFCV1ZrZl9lWlV4aDVJU2tqdFNYbTBaVGNkV3IxWmhDM3JhTURrbTNMWWNuazZVN1dxeGpnM2pFVQ?oc=5)
 - [neutral factual] SPINSouthWest: Toy Shops Should Stop Selling E-scooters Immediately, Tánaiste Says (https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpyQ0VCeElXNmRCcHh5Q2tMZDJjdGw4SWdkWWJqZHRZaFc0T3loRzdDYm5yTFgxNlNuNTA5YmpBNV9kUkdJZHozZHI4bVVGSlJ1SkVYb24wUW9Jd2MwLVNIc0Y1ZFBFTGJtOXNybEtJSEt4cE1GTlpsQ0h3S1QxOFNCX3dDN3JwcmNOZ25TRFhmQ0ZkWUhXVWQ5TzA2UlBmMXNhTjlPWnQtX21iV3c?oc=5)
-- [neutral factual] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://www.breakingnews.ie/ireland/ireland-ready-to-support-closer-uk-eu-ties-under-burnham-says-deputy-premier-1930362.html)
-- [neutral factual] Irish Mirror: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMijAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdNIBjAFBVV95cUxQSExQX3B6MmlEbFRJQkdjNE1EOVI3UmdyT1FwdkM3alJXRWNVaDh2Z2lidlpHa196aWdsQlpvenNMelJXeGZYQ3NyQzJKNVNqdWlkeHdnbVhLbEhCQzJIWTFEdkJybFhnVzhBUkVKNUdta2h3T1NRZ1ZuYkNDMThZUG0zZVluQ0hCbkJPdA?oc=5)

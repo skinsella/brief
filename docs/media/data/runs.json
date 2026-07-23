@@ -1,5 +1,86 @@
 [
   {
+    "checked_at": "2026-07-23T17:02:55Z",
+    "checked_at_display": "Thu, 23 Jul 2026 17:02 GMT",
+    "new_count": 2,
+    "old_skipped": 8,
+    "duplicate_skipped": 17,
+    "mismatched_skipped": 16,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 7,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 5,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 11,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5",
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5"
+    ],
+    "archive_file": "archive/20260723T170255Z.html"
+  },
+  {
     "checked_at": "2026-07-23T15:34:19Z",
     "checked_at_display": "Thu, 23 Jul 2026 15:34 GMT",
     "new_count": 1,
@@ -7891,83 +7972,5 @@
     ],
     "new_links": [],
     "archive_file": "archive/20260716T010542Z.html"
-  },
-  {
-    "checked_at": "2026-07-15T23:36:20Z",
-    "checked_at_display": "Wed, 15 Jul 2026 23:36 GMT",
-    "new_count": 0,
-    "old_skipped": 6,
-    "duplicate_skipped": 3,
-    "mismatched_skipped": 7,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 0,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 9,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 6,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 44,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [],
-    "archive_file": "archive/20260715T233620Z.html"
   }
 ]

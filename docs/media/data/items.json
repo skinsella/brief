@@ -4135,6 +4135,31 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5": {
+    "outlet": "Gript",
+    "published": "Thu, 23 Jul 2026 16:15:21 GMT",
+    "headline": "Government reviewing carbon tax trajectory, Harris says",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5",
+    "summary": "Gript reports: Government reviewing carbon tax trajectory, Harris says.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-reviewing-carbon-tax-trajectory-harris-says",
+    "first_seen": "2026-07-23T17:02:55Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy"
+    ],
+    "outlet_tier": "other",
+    "outlet_weight": 1,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HQVNnR2Q5OHVVckN2X3NqRU5XdjR1YWIwbEdqTC1TdnpPcVkxX1Q1MzFrXzNxUlRmY2h5bjViZVZmMExiTDdoNUVXd3RCQ290UUl3Slh6SnJTS3EwR3F3ckJ6OS1iM1dCZnMwbGpzdG5oSENLNHZOZ21kcGI?oc=5": {
     "outlet": "Irish Examiner",
     "published": "Tue, 16 Jun 2026 04:53:00 GMT",
@@ -9808,6 +9833,32 @@
     "sentiment_score": 0,
     "sentiment_confidence": "low",
     "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Thu, 23 Jul 2026 16:47:16 GMT",
+    "headline": "Tax cuts for high earners to cost €1.1bn next year, government warned",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5",
+    "summary": "Irish Independent reports: Tax cuts for high earners to cost €1.1bn next year, government warned.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "tax-cuts-for-high-earners-to-cost-1-1bn-next-year-government-warned",
+    "first_seen": "2026-07-23T17:02:55Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVk1yYmEwd0sxLXRFdjJuNHJTVmV3cU0zdlVqeVlLZFFVeG5nem1WbzA4aUU5VWcyaVBnZE9kMC1KMWpQb1hVMTc5dVpFaGlNZ002WlR1Y09HSnFialRaVldyZzgxZGFiQm4xLW14bWtXYlYzdUM4cURBVU1rcGJYX3prUTgxbjdfdE8xS1l1OXFnSlZXeTM2SWNwdjF6VDBBbVNqZUhqXzNSaUF1RkxqNFBpZ1pHaXNqdFBOSm1HcUJ5SUNhN2FZYXlsTQ?oc=5": {
