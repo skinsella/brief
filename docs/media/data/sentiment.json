@@ -1,24 +1,25 @@
 {
-  "updated_at": "2026-07-23T09:30:52Z",
+  "updated_at": "2026-07-23T11:27:54Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
-      "total": 6,
+      "total": 7,
       "counts": {
         "favourable": 0,
-        "neutral": 5,
+        "neutral": 6,
         "unfavourable": 0,
         "mixed": 1
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 13,
+        "neutral": 18,
         "unfavourable": 0,
         "mixed": 5
       },
       "net": 0,
       "weighted_net": 0,
       "targets": {
+        "Government/policy": 1,
         "Simon Harris": 5,
         "unclear": 1
       },
@@ -30,6 +31,13 @@
           "unfavourable": 0,
           "mixed": 1
         },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
         "Courts/security": {
           "total": 1,
           "favourable": 0,
@@ -37,7 +45,7 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Fine Gael": {
+        "Tax": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
@@ -47,23 +55,23 @@
       }
     },
     "seven_day": {
-      "total": 99,
+      "total": 100,
       "counts": {
         "favourable": 2,
-        "neutral": 96,
+        "neutral": 97,
         "unfavourable": 0,
         "mixed": 1
       },
       "weighted_counts": {
         "favourable": 4,
-        "neutral": 272,
+        "neutral": 277,
         "unfavourable": 0,
         "mixed": 5
       },
       "net": 2,
       "weighted_net": 1,
       "targets": {
-        "Government/policy": 40,
+        "Government/policy": 41,
         "Simon Harris": 56,
         "unclear": 3
       },
@@ -83,9 +91,9 @@
           "mixed": 1
         },
         "Tax": {
-          "total": 17,
+          "total": 18,
           "favourable": 0,
-          "neutral": 17,
+          "neutral": 18,
           "unfavourable": 0,
           "mixed": 0
         },
@@ -110,6 +118,13 @@
           "unfavourable": 0,
           "mixed": 0
         },
+        "Courts/security": {
+          "total": 2,
+          "favourable": 0,
+          "neutral": 2,
+          "unfavourable": 0,
+          "mixed": 0
+        },
         "Constituency/local": {
           "total": 2,
           "favourable": 0,
@@ -123,34 +138,27 @@
           "neutral": 2,
           "unfavourable": 0,
           "mixed": 0
-        },
-        "Courts/security": {
-          "total": 2,
-          "favourable": 0,
-          "neutral": 2,
-          "unfavourable": 0,
-          "mixed": 0
         }
       }
     },
     "thirty_day": {
-      "total": 360,
+      "total": 361,
       "counts": {
         "favourable": 7,
-        "neutral": 329,
+        "neutral": 330,
         "unfavourable": 8,
         "mixed": 16
       },
       "weighted_counts": {
         "favourable": 17,
-        "neutral": 825,
+        "neutral": 830,
         "unfavourable": 32,
         "mixed": 70
       },
       "net": 0,
       "weighted_net": -2,
       "targets": {
-        "Government/policy": 132,
+        "Government/policy": 133,
         "Simon Harris": 203,
         "unclear": 25
       },
@@ -170,9 +178,9 @@
           "mixed": 16
         },
         "Tax": {
-          "total": 35,
+          "total": 36,
           "favourable": 0,
-          "neutral": 34,
+          "neutral": 35,
           "unfavourable": 1,
           "mixed": 0
         },
@@ -228,23 +236,23 @@
       }
     },
     "all_time": {
-      "total": 536,
+      "total": 537,
       "counts": {
         "favourable": 20,
-        "neutral": 483,
+        "neutral": 484,
         "unfavourable": 11,
         "mixed": 22
       },
       "weighted_counts": {
         "favourable": 60,
-        "neutral": 1239,
+        "neutral": 1244,
         "unfavourable": 48,
         "mixed": 92
       },
       "net": 2,
       "weighted_net": 1,
       "targets": {
-        "Government/policy": 215,
+        "Government/policy": 216,
         "Simon Harris": 279,
         "unclear": 42
       },
@@ -264,9 +272,9 @@
           "mixed": 22
         },
         "Tax": {
-          "total": 52,
+          "total": 53,
           "favourable": 3,
-          "neutral": 47,
+          "neutral": 48,
           "unfavourable": 2,
           "mixed": 0
         },
@@ -322,23 +330,23 @@
       }
     },
     "significant_only": {
-      "total": 107,
+      "total": 108,
       "counts": {
         "favourable": 7,
-        "neutral": 70,
+        "neutral": 71,
         "unfavourable": 8,
         "mixed": 22
       },
       "weighted_counts": {
         "favourable": 33,
-        "neutral": 302,
+        "neutral": 307,
         "unfavourable": 41,
         "mixed": 92
       },
       "net": -1,
       "weighted_net": -2,
       "targets": {
-        "Government/policy": 55,
+        "Government/policy": 56,
         "Simon Harris": 48,
         "unclear": 4
       },
@@ -351,9 +359,9 @@
           "mixed": 22
         },
         "Tax": {
-          "total": 32,
+          "total": 33,
           "favourable": 3,
-          "neutral": 27,
+          "neutral": 28,
           "unfavourable": 2,
           "mixed": 0
         },
@@ -2823,22 +2831,23 @@
       }
     },
     "2026-07-23": {
-      "total": 6,
+      "total": 7,
       "counts": {
         "favourable": 0,
-        "neutral": 5,
+        "neutral": 6,
         "unfavourable": 0,
         "mixed": 1
       },
       "weighted_counts": {
         "favourable": 0,
-        "neutral": 13,
+        "neutral": 18,
         "unfavourable": 0,
         "mixed": 5
       },
       "net": 0,
       "weighted_net": 0,
       "targets": {
+        "Government/policy": 1,
         "Simon Harris": 5,
         "unclear": 1
       },
@@ -2850,6 +2859,13 @@
           "unfavourable": 0,
           "mixed": 1
         },
+        "Fine Gael": {
+          "total": 1,
+          "favourable": 0,
+          "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
         "Courts/security": {
           "total": 1,
           "favourable": 0,
@@ -2857,7 +2873,7 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Fine Gael": {
+        "Tax": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,

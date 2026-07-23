@@ -2664,6 +2664,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5": {
+    "outlet": "Newstalk",
+    "published": "Thu, 23 Jul 2026 11:14:39 GMT",
+    "headline": "Government should expand social welfare instead of cutting tax - Social Justice Ireland",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5",
+    "summary": "Newstalk reports: Government should expand social welfare instead of cutting tax - Social Justice Ireland.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "government-should-expand-social-welfare-instead-of-cutting-tax-social-justice-ir",
+    "first_seen": "2026-07-23T11:27:54Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5",
+    "topic": "Tax",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "broadcast",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZMnlDcGNpamNVZlJjV21VV1JZUU1qanpIRksxaExyV291M2VJcExTWTU4Q1JlZ2RIMWhuTE5nRXdrZnJNaEpBY1pJaUZNcl8za3NyY1VkMmhzRkNSSHN0akZXaXFjTTQ?oc=5": {
     "outlet": "businessplus.ie",
     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
