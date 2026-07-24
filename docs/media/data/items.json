@@ -508,6 +508,31 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Fri, 24 Jul 2026 06:20:00 GMT",
+    "headline": "Wicklow social housing costs among highest in State across all delivery streams",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5",
+    "summary": "Irish Independent reports: Wicklow social housing costs among highest in State across all delivery streams.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "wicklow-social-housing-costs-among-highest-in-state-across-all-delivery-streams",
+    "first_seen": "2026-07-24T07:13:16Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5",
+    "topic": "Housing",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFdMZ1R6TlhkM2ozTlpxSnpGb2lZUjVsTmRSalRLaDZvZVBPbHdUbVlCaWJud1RUWFhEN1pKZy1JcVJmLVRjVG02cUIzZ2dmQ0RKcnVXWVg1V0lrZDhqUmdCbmNCckVpS3pDS2w5aXpBSmNwbExZR3N5dC1UUzVPQ3BkTGxUczF3c2tCdG5uanlmN1prTERXaDFqcndIQUhOLTRmSG1CeHNuYlJKaGZ3bmJPTlpyRlp2aTZVcmRIcERweGZhcFU5UHNRVWhMMTFTVV9HNw?oc=5": {
     "outlet": "BreakingNews.ie",
     "published": "Tue, 21 Jul 2026 09:53:53 GMT",
@@ -2475,6 +2500,32 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Fri, 24 Jul 2026 05:30:00 GMT",
+    "headline": "Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5",
+    "summary": "Irish Independent reports: Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "mary-regan-tax-strategy-papers-highlight-just-how-many-challenges-government-fac",
+    "first_seen": "2026-07-24T07:13:16Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13RjRFMm5LbjZzWkIyMUIyWnFJdzdlbDQ0MTZMTTdSQ3FuUFVhTHAxWVNMajEwUFk4U1JV?oc=5": {

@@ -4868,6 +4868,31 @@
     "sentiment_target": "unclear",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY0NXZlJodEpmMGtMOGdqcTBETlhSUGxZYjJEc1hDbkZSMkJ6ekZBYjlQalZ2SFctWkJOcENPQVhySDFOMWpDWWsxU2xnU01ObFhRdGJGQko5ZmZ2R29kRGZ4azBveXhEX3czYlNDWWo1LWJiWW85QjdOdnZOU2tNcjQ5aXFJaEV2Y0FDdW9SaEpRLUtzSF9ZazZoU2VpdnlVNzdjcy1icFFfeXQ2SXozN2pnM1BtSzZGNWRWa1N2bWMxdnpDWUlxcEVPOEh2WEJGbENJNWNhNW5yNDlad2lfOElYYlZTeml4SjAtX2FpTUNYWDg?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Fri, 24 Jul 2026 07:00:32 GMT",
+    "headline": "RSA say not enough cars in Belmullet for an NCT centre but that mobile testing units may be used",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY0NXZlJodEpmMGtMOGdqcTBETlhSUGxZYjJEc1hDbkZSMkJ6ekZBYjlQalZ2SFctWkJOcENPQVhySDFOMWpDWWsxU2xnU01ObFhRdGJGQko5ZmZ2R29kRGZ4azBveXhEX3czYlNDWWo1LWJiWW85QjdOdnZOU2tNcjQ5aXFJaEV2Y0FDdW9SaEpRLUtzSF9ZazZoU2VpdnlVNzdjcy1icFFfeXQ2SXozN2pnM1BtSzZGNWRWa1N2bWMxdnpDWUlxcEVPOEh2WEJGbENJNWNhNW5yNDlad2lfOElYYlZTeml4SjAtX2FpTUNYWDg?oc=5",
+    "summary": "Irish Independent reports: RSA say not enough cars in Belmullet for an NCT centre but that mobile testing units may be used.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "rsa-say-not-enough-cars-in-belmullet-for-an-nct-centre-but-that-mobile-testing-u",
+    "first_seen": "2026-07-24T07:13:16Z",
+    "source_feed": "Fine Gael RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY0NXZlJodEpmMGtMOGdqcTBETlhSUGxZYjJEc1hDbkZSMkJ6ekZBYjlQalZ2SFctWkJOcENPQVhySDFOMWpDWWsxU2xnU01ObFhRdGJGQko5ZmZ2R29kRGZ4azBveXhEX3czYlNDWWo1LWJiWW85QjdOdnZOU2tNcjQ5aXFJaEV2Y0FDdW9SaEpRLUtzSF9ZazZoU2VpdnlVNzdjcy1icFFfeXQ2SXozN2pnM1BtSzZGNWRWa1N2bWMxdnpDWUlxcEVPOEh2WEJGbENJNWNhNW5yNDlad2lfOElYYlZTeml4SjAtX2FpTUNYWDg?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY0NXZlJodEpmMGtMOGdqcTBETlhSUGxZYjJEc1hDbkZSMkJ6ekZBYjlQalZ2SFctWkJOcENPQVhySDFOMWpDWWsxU2xnU01ObFhRdGJGQko5ZmZ2R29kRGZ4azBveXhEX3czYlNDWWo1LWJiWW85QjdOdnZOU2tNcjQ5aXFJaEV2Y0FDdW9SaEpRLUtzSF9ZazZoU2VpdnlVNzdjcy1icFFfeXQ2SXozN2pnM1BtSzZGNWRWa1N2bWMxdnpDWUlxcEVPOEh2WEJGbENJNWNhNW5yNDlad2lfOElYYlZTeml4SjAtX2FpTUNYWDg?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "low",
+    "sentiment_target": "unclear",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVRFY05YamtYOU5iaG04VTllamI2dXlkajNsTDBPV3VpM1R6Qk1paFRpa01mT1ZWRkVBeXBlZVdONEtIM3NKR1dWNGNOeWZDOUhaeUdBZ0VkemdGei1fNXlfSERmam5xNWdfMzhNdEwyVHJUSHhpUF9MZGk4ekJpcjNWbEJqcjFCOF91cGg0Q1RSY1E1VmlQeGVBY2M1UVJubVJqYkhvLU9MbDI3TkpJSVB2QTBqckoyNHJFT0l5b2FIVjVnTHBlanlIVzctNnlZSlROWjgwOXlnclJFSTI3TkZfQmg2b1J1M2x1TmNRdEdlS2M?oc=5": {
     "outlet": "Laois Today",
     "published": "Mon, 29 Jun 2026 17:26:01 GMT",

@@ -1,20 +1,20 @@
 # Simon Harris Media Briefing
 
-Updated: Fri, 24 Jul 2026 04:25 GMT
+Updated: Fri, 24 Jul 2026 07:13 GMT
 
 ## Snapshot
 
-- Recent coverage: 97 item(s) in the last 7 days.
+- Recent coverage: 99 item(s) in the last 7 days.
 - Weighted net framing: +2% (supportive minus critical, reach/significance-weighted).
-- Significant items: 41.
+- Significant items: 42.
 
 ## Trend Summary
 
-- Coverage volume: 97 item(s) in the last 7 days; up 5 vs previous 7 days.
+- Coverage volume: 99 item(s) in the last 7 days; up 7 vs previous 7 days.
 - Net framing: +2% weighted over 7 days, separating coverage volume from supportive/critical wording.
 - Main topic: Other leads recent coverage with 29 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 26 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 28 item(s).
 
 ## Narrative Summary
 
@@ -29,18 +29,18 @@ Updated: Fri, 24 Jul 2026 04:25 GMT
 - [Polling, High-reach outlet] BreakingNews.ie: Ireland ‘ready to support’ closer UK-EU ties under Burnham, says Tánaiste (https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZocng4OUFmQnhuUmFWa0J1cEs2dGd5bXlwZ0xnOWZlWGVpaWgxRy1DTkVGakxza3c2QjdzSmk3blpTeUxaMG42UzVhYUtzX0tQWlZEcWcxU3lxc0UtamROVXNUbzFXUi1GSVF4YUpmRUlNUmExVHBXaE9hYzFpUE9MUW5wa1dhLTZNdFVnZlo3QmRGZ1pXMHRNX1R1bWNmakFUUjgwRXlLY25KbmlKQVF4SVM4ZHVhdEZWRF9MbGhsZkk?oc=5)
 - [Policy, High-reach outlet] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://www.breakingnews.ie/ireland/simon-harris-says-budget-tax-package-must-deliver-for-working-people-1930349.html)
 - [Policy, High-reach outlet] BreakingNews.ie: Simon Harris says budget tax package must deliver for ‘working people’ (https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmFMNy1OZHYtY0hmWUZJeEJzNm1lTG5Ld2ZtazZEaFZTOXphSkJHVzM0ZUJ1bmJlVFRkbEcwZDBVVklvaEZaUXMyUFFTejE3M0cwOWp6RTdaWENQOTFHRmllLVZoaDB2dXVjc3VBZHRKcUx2a2Y5bUZ4MUFReGo4YWZIMXdEeVl4d0kyVkF1b3BRdURUT2hNSXhpbUNoOTFuOUptNFdiVGRENEhFQzVRMW5hSzlqckI0?oc=5)
+- [Policy, High-reach outlet] Irish Independent: Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027 (https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5)
 - [Policy, High-reach outlet] Business Post: Revealed: Finance officials’ warnings on the cost of cutting capital gains tax (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5)
 - [Policy, High-reach outlet] Business Post: Revealed: Finance officials’ warnings on the cost of cutting capital gains tax (https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5)
 - [Policy, High-reach outlet] Irish Independent: Tax cuts for high earners to cost €1.1bn next year, government warned (https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5)
 - [Policy, High-reach outlet] Newstalk: Government should expand social welfare instead of cutting tax - Social Justice Ireland (https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5)
-- [Personnel, High-reach outlet] Irish Independent: Simon Harris uses ‘derogation’ for appointment to Central Bank board (https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5)
 
 ## Top Topics
 
 - Other: 29
-- Finance: 26
+- Finance: 27
 - Tax: 20
-- Housing: 10
+- Housing: 11
 - Fine Gael: 4
 - Polling: 3
 - Courts/security: 2
@@ -48,7 +48,7 @@ Updated: Fri, 24 Jul 2026 04:25 GMT
 
 ## Top Outlets
 
-- Irish Independent: 26
+- Irish Independent: 28
 - Business Post: 8
 - Irish Examiner: 6
 - BreakingNews.ie: 6
@@ -72,6 +72,8 @@ Updated: Fri, 24 Jul 2026 04:25 GMT
 
 ## Recent Items
 
+- [neutral factual] Irish Independent: Wicklow social housing costs among highest in State across all delivery streams (https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5)
+- [neutral factual] Irish Independent: Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027 (https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5)
 - [supportive] Irish Independent: Cork politician welcomes Smyths Toys’ removal of e-scooters as pressure builds on Government (https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5)
 - [neutral factual] Business Post: Revealed: Finance officials’ warnings on the cost of cutting capital gains tax (https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5)
 - [neutral factual] Business Post: Revealed: Finance officials’ warnings on the cost of cutting capital gains tax (https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5)
@@ -90,5 +92,3 @@ Updated: Fri, 24 Jul 2026 04:25 GMT
 - [neutral factual] Irish Independent: Simon Harris and Jack Chambers make announcements around the Summer Economic Statement (https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdW52STJwamlkamtuajJKQ1dXVHJOeS1RLUxaZW5KbzRsc1RaS0ZqaVJpSmNxXzRINHZaZlNIQWxneFI2OVE0ZnVjdmFFYzJwVFd3X0R6UlVTQ2JLOW9EWXFIcEhzN2ZkQlBwblFKQmlKbjQtSVVoMGhrck92aTFobHdJNEJ6VzRyVlllQW5UbEs3dXdCOVJWdlhEVnJZSHNfUnRGWUVOR1U1dlQtSmszWGZiUk1mdFdJOGJJZktJbl81YlFWRmdBUXQ0QWNDUDk5aUln?oc=5)
 - [neutral factual] LMFM: Department of Finance releases Summer Economic Statement 2026 (https://news.google.com/rss/articles/CBMingFBVV95cUxNenBZTlhGT0ZKcnA3MnNNU3hZaEYwWmtRM1ZCRXZ4NzJmMlRQcGlVNVlLcjhBLW9PS3U0ZVJucVdqUThwWExZZWI5dnVqTGJ2UGZLN2E4YTdyRTd3X3NxOG9neFRZblZVR2I3NUdscUYtUXZFNEt5bnlTY2RJWFpHcFRZS3ZfUVpNeVdFbFNwQ0drVldtOEhUcGVWeUwxQQ?oc=5)
 - [neutral factual] Irish Independent: New plans for local government will prevent councillors from ‘hiding’ behind ‘not having to make decisions’ (https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT1ZDeFRha0tLM3BFNm9zTWVSVHktQTFMQlhiLTQxT2tuSG9RZF8zekRvT0d6QzZETnZMWUFHamdLRHA5NWVCRk1FbnVjUmJIZlVPVjYxb0NTcU9tczFFcjNmbV9LdFFMWUJpYklCTHctUGhZRXhxQ0tWR1Q5U2VEWG1lRTNKR0gzajFrRDNJQThraUpPYXNWTnZhZ2dvWFlDa1dBXzFwaFRpMGZkckhhYWVZMVFUNzJWSU5CUXdBWUduOEFTUDhndG9TR1N2UTc5N3RNUElvMGZYSXgyUmk1eFlGVEdKNXkzWFp1LUdFZzVOVTBpM3RnRlJTVQ?oc=5)
-- [neutral factual] Highland Radio: Tánaiste confident on tax cuts despite warning (https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnJodDBSNEdiRkprRkliVmRzNHNrX1F6dk9iLXdTQmlndnU2SFQyMW5XbHBjMng3MDh1eGtHOVEzSV9TNkxHVUpCN2RGN1BkS3RpMmg3THo5RnFrT2pMclhxbDZTdE12R2NhYVM2LW9FMHlzT0g1ZTFKNlVpdWxZczZaNVVLU1hGNElYRQ?oc=5)
-- [neutral factual] The Irish Times: Serious Government row looms over who gets what in Budget 2027 (https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpYOFBRQ3d6Z0ItN0o1MlpJRnJhaTVfSnJ2WWNDMnhEczRFM3pYczNMUWtQNWg5aDc0TDRYbldqYlhFSlU0dmIzZExseEVwYzMzeDVsNXJtWGtkZmNLQUVXemRYcFdpM2NHR29xbnFPcndvbWRRMW9FanItdzJFbEpHNG1WWVRVdjY1MVhJbkE0N1dDVlZvRmw1MEp1bmJoaG1JRXd5bzhlNmY4RENFZm53VFpFbHJyR3c?oc=5)

@@ -929,6 +929,35 @@
     ]
   },
   {
+    "key": "finance:challenges-government-highlight-just-many-mary:dc0e1748",
+    "title": "Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-24T05:30:00Z",
+    "latest_seen": "2026-07-24T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 12,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5"
+    ]
+  },
+  {
     "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
     "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
     "topic": "Other",
@@ -1361,7 +1390,7 @@
     "latest_seen": "2026-07-23T05:30:00Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -1372,7 +1401,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJaQ2psYUI4XzM3ZlRWNUNBdTl5XzlMcE9sbFk0NmlhVEJNUGFuVGFtS3NuenFsUWpVVXBXVFRtY2JlVmo5S294SnpzUXJCSU9aNFpBZUV6TEh3c1pLM0JEZzdsLWV6M1kxbFV6aGU5N3NlNHhsb0VLRGYxb2wxbXk1TldtNGhTdE80c2FIVlo2TkxqSmZLdGQtSVdzYVlXdjdPSnhzWFp3OVd1TmRWQjg4U3lpanE2RDJBaDFadXVKekFyQTZlUG90ek01STg?oc=5"
     ]
@@ -2843,6 +2872,35 @@
     ]
   },
   {
+    "key": "housing:across-all-among-costs-delivery-highest:818b5113",
+    "title": "Wicklow social housing costs among highest in State across all delivery streams",
+    "topic": "Housing",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-24T06:20:00Z",
+    "latest_seen": "2026-07-24T06:20:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 7,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5"
+    ]
+  },
+  {
     "key": "other:builds-cork-government-politician-pressure-removal:a7a4eb77",
     "title": "Cork politician welcomes Smyths Toys’ removal of e-scooters as pressure builds on Government",
     "topic": "Other",
@@ -2913,7 +2971,7 @@
     "latest_seen": "2026-07-23T05:30:00Z",
     "lifespan_hours": 1,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 0,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -2924,7 +2982,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWFYtNmVPUUsxZ2REN0pmZ0xqWXlkMUpOTFVEMGpCdUM2OTFVa2IxS1BpZktyMWVuTHlMU1lrelJTM0xjMEpQVGNRZnU1OEgwcVpnZTRGNm15VVBhbUNVN1EzbGxOUG5ySGNLSjdxbXZsaHJ6TUxaMVdHM3pScTFYNEtUSWRDZV9SUkNoX242bTlBUno2Mkl5QkxTSXR3Wm5VZmZXQ0JKTm9tdFZVcWl1amZjcnFpQlJvdXFkMXRTcFg3c3YzWjBNejhzUnVwd3BjU3JVTU5nRXlyLUlIM2JUWGxiUXduRkQ2R3BFd2xfbENFc2gzc2tr?oc=5",
       "https://www.independent.ie/business/irish-business/sarah-collins-budget-2027-options-start-to-narrow-as-simon-harris-says-theres-no-new-magic-money/a/159044486.html"
