@@ -2872,35 +2872,6 @@
     ]
   },
   {
-    "key": "housing:across-all-among-costs-delivery-highest:818b5113",
-    "title": "Wicklow social housing costs among highest in State across all delivery streams",
-    "topic": "Housing",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-24T06:20:00Z",
-    "latest_seen": "2026-07-24T06:20:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5"
-    ]
-  },
-  {
     "key": "tax:carbon-government-reviewing-tax-trajectory:030aa93b",
     "title": "Government reviewing carbon tax trajectory, Harris says",
     "topic": "Tax",
@@ -3965,6 +3936,122 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:limerick-meets-omh:051a42c6",
+    "title": "New Limerick Príomh meets Tánaiste",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Limerick Post"
+    ],
+    "first_seen": "2026-07-24T14:00:44Z",
+    "latest_seen": "2026-07-24T14:00:44Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OendkeUZGSVY0d0RON0hRNl9nX1RmZEh5b3JreUxQX0gwNE5uUEJHSHoxb1I3X3NQWTI5OXdKLXdpdGpxZW1wTWVGMW91czRYZXNlQ3h0bmR6dFowWkotQVdlYU9NeXNpaVh1WGlMdzhZdjVSOEZyNkNWVEJkWmc?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2027-billion-budget-for-government-parameters:f9cddd60",
+    "title": "Government sets €8.5 billion parameters for Budget 2027",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Roscommon People"
+    ],
+    "first_seen": "2026-07-24T14:00:15Z",
+    "latest_seen": "2026-07-24T14:00:15Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdy14SklaSmhycWRkVVpURk1HMHhCRmYyY0JocmtOYTczTVJUVHB0QXlxMllGbVQtZHNDeHgtb082YjZYWV9Sa3JVTG1NMk1uYnRGWE5MdWVRS1UwcFIyVlE2MnpBY2dHMEtRajZVcnVOZ056dTlrNVJJOThCd3JVV2RmNTFhMDFobVBN?oc=5"
+    ]
+  },
+  {
+    "key": "other:cannot-children-david-disaster-dodge-for:ccf5504c",
+    "title": "Government cannot dodge responsibility for National Children’s Hospital disaster – David Cullinane TD",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "sinnfein.ie"
+    ],
+    "first_seen": "2026-07-24T12:19:49Z",
+    "latest_seen": "2026-07-24T12:19:49Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 1,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 5,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSERhVUVXMXZadmVaMmVRVk5mME9LX0UtekprT0tLZm1vSTA2UmRRQkdiWWxNekZnc1RJVDdaVlR0ejlwSEtHaDhXa2JWUUtOWEdfVHNnQ2xHTVdhaDB2LWNMZkRMcXA5N2JmUGV6UzlxOGs5MEhxb3U1SmtqSTd3Q0JWdzNzOVFSYU9oa1NvSFlxMHdkRlRGdUxHd0NiMUtpZ2RUMmJfQkdXNGswS0cxXzYyaHpmVkppYzBCMF9HeFhoZw?oc=5"
+    ]
+  },
+  {
+    "key": "housing:across-all-among-costs-delivery-highest:818b5113",
+    "title": "Wicklow social housing costs among highest in State across all delivery streams",
+    "topic": "Housing",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-24T06:20:00Z",
+    "latest_seen": "2026-07-24T06:20:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnFTcTRoSW1hSFh3M1B5Q09tTDR0VXNwdmlmV09OM2xNczMxZi1zUEJDSVJtdXVscE9rRlFPQzMxUFB4TlJvako1Z0lrUmhfakN4MW04SWw0Z2tuYXV2N04wbzZleHFmWklnczZXS1JWVWlGSHluQzhZS3NKUWpsLWUxaU16NnpOdnF5NWNhWmRST0pRVE1ELV9SZGh0WXVjaGxFU0gxQ2pzeVFnejNKRnc1MFAxOXlhc1dFU2pMYjFaY3d2YVVBRFlQVEpyZXBKYVB5Rg?oc=5"
     ]
   },
   {
