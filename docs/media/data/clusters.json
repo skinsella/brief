@@ -929,35 +929,6 @@
     ]
   },
   {
-    "key": "finance:challenges-government-highlight-just-many-mary:dc0e1748",
-    "title": "Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-24T05:30:00Z",
-    "latest_seen": "2026-07-24T05:30:00Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 1,
-    "attention_score": 12,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5"
-    ]
-  },
-  {
     "key": "other:action-ban-leans-outright-scooters-swift:cfe326b0",
     "title": "Tánaiste says 'swift' action will be taken on e-scooters, as Taoiseach leans towards outright ban",
     "topic": "Other",
@@ -1320,6 +1291,35 @@
     ]
   },
   {
+    "key": "finance:challenges-government-highlight-just-many-mary:dc0e1748",
+    "title": "Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-24T05:30:00Z",
+    "latest_seen": "2026-07-24T05:30:00Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1aYk8wREhNeXZVaVdFbnhKUnNOQXJjNEc0MVJTck9xMUc5OFd3Y1F3cWlCWW5nQmRTQjVrdDkxUk9ieWdwc0hoaWNDMWxTTEZ2RkJOWkFERUpqeGlycmVpWFZJUDlMaEdld1VSSWdxSXhsWi1zOUE3MWtuWHotcnZZSjJ4R0tmV1NBVW1Gb2c1ZjFURTBqNUZ0SmxVUTU2VkNsRXNKVFJGdWdXQi1kZmxiTWE4MGJpQk9WT09zc2dEbVI0Mks0Y0lKdW10UlhUay1DTnAwMnJ2V0lBVzFxeElVSU5MQm1TN093RElZdDN0S05LTEZV?oc=5"
+    ]
+  },
+  {
     "key": "tax:1bn-cost-cuts-earners-for-government:9ed8300e",
     "title": "Tax cuts for high earners to cost €1.1bn next year, government warned",
     "topic": "Tax",
@@ -1361,7 +1361,7 @@
     "latest_seen": "2026-07-23T11:14:39Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -1372,7 +1372,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01RTh4VnZfcG16ZlZlU0ZfM3NOdXZCNHRQMGJzeXBvRjV0VU1PREkwZFFyLWdjTy03R3E1UC1ueUZMaXBwNl92Z2xzNDZ4ZmRQREJiUkZLZW4xcWstbGE5eFJn?oc=5"
     ]
@@ -2901,35 +2901,6 @@
     ]
   },
   {
-    "key": "other:builds-cork-government-politician-pressure-removal:a7a4eb77",
-    "title": "Cork politician welcomes Smyths Toys’ removal of e-scooters as pressure builds on Government",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Irish Independent"
-    ],
-    "first_seen": "2026-07-24T04:03:41Z",
-    "latest_seen": "2026-07-24T04:03:41Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 3,
-    "tone_counts": {
-      "favourable": 1,
-      "neutral": 0,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 100,
-    "significant_count": 0,
-    "attention_score": 7,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5"
-    ]
-  },
-  {
     "key": "tax:carbon-government-reviewing-tax-trajectory:030aa93b",
     "title": "Government reviewing carbon tax trajectory, Harris says",
     "topic": "Tax",
@@ -3994,6 +3965,35 @@
     "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS08zZlU2QTdKZ2kxbFBuendkTHFCakhWaDVmYURpVS1HY25LZWhkc3dwMVRxWk9kZlN4Y0xWWDdpejlXdll6bWlxcUlueVBGUEl3cXJmLWpRZS03RjJIU01zaG83RzNQTWxKTS1RaEZoR2U1dG1aRXUzMVZDaUFGZ3F0bW1UWkR1anRCZThUVE1wQnFXVnRORkdhUW9yS0gzd29EZXlVblVFLU9lYy1oQzFSbw?oc=5"
+    ]
+  },
+  {
+    "key": "other:builds-cork-government-politician-pressure-removal:a7a4eb77",
+    "title": "Cork politician welcomes Smyths Toys’ removal of e-scooters as pressure builds on Government",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Irish Independent"
+    ],
+    "first_seen": "2026-07-24T04:03:41Z",
+    "latest_seen": "2026-07-24T04:03:41Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 1,
+      "neutral": 0,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 100,
+    "significant_count": 0,
+    "attention_score": 4,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5"
     ]
   },
   {
