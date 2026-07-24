@@ -3968,64 +3968,6 @@
     ]
   },
   {
-    "key": "other:limerick-meets-omh:051a42c6",
-    "title": "New Limerick Príomh meets Tánaiste",
-    "topic": "Other",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Limerick Post"
-    ],
-    "first_seen": "2026-07-24T14:00:44Z",
-    "latest_seen": "2026-07-24T14:00:44Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OendkeUZGSVY0d0RON0hRNl9nX1RmZEh5b3JreUxQX0gwNE5uUEJHSHoxb1I3X3NQWTI5OXdKLXdpdGpxZW1wTWVGMW91czRYZXNlQ3h0bmR6dFowWkotQVdlYU9NeXNpaVh1WGlMdzhZdjVSOEZyNkNWVEJkWmc?oc=5"
-    ]
-  },
-  {
-    "key": "finance:2027-billion-budget-for-government-parameters:f9cddd60",
-    "title": "Government sets €8.5 billion parameters for Budget 2027",
-    "topic": "Finance",
-    "item_count": 1,
-    "outlet_count": 1,
-    "outlets": [
-      "Roscommon People"
-    ],
-    "first_seen": "2026-07-24T14:00:15Z",
-    "latest_seen": "2026-07-24T14:00:15Z",
-    "lifespan_hours": 0,
-    "velocity_6h": 1,
-    "velocity_24h": 1,
-    "reach_score": 1,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 1,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 0,
-    "attention_score": 5,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdy14SklaSmhycWRkVVpURk1HMHhCRmYyY0JocmtOYTczTVJUVHB0QXlxMllGbVQtZHNDeHgtb082YjZYWV9Sa3JVTG1NMk1uYnRGWE5MdWVRS1UwcFIyVlE2MnpBY2dHMEtRajZVcnVOZ056dTlrNVJJOThCd3JVV2RmNTFhMDFobVBN?oc=5"
-    ]
-  },
-  {
     "key": "housing:across-all-among-costs-delivery-highest:818b5113",
     "title": "Wicklow social housing costs among highest in State across all delivery streams",
     "topic": "Housing",
@@ -9171,6 +9113,64 @@
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcWFiUW1BUldRTXNVcUF6STlhcHFzNHRUX2laZUFiU21oNmhrYm1odk15TW5mWHhic2lUTHZGd0hmcDJDdE1xS3FQcmhLLXFYcTl4SUl1VTdXdmRGbk9ILXZubUMwUmdkTzFpTDhfN1Q3bU10RElucVdUcEVVWjhPTHduTldmQTBGSXdDM09Xa0F5NTlCbjRub210VTZwSkVjT2o5dlpnRXdpaURJYVBKTVpVQzduWWQwUHA0ZC1qczI1Q0V3dDVDaFNyc25adXRNXzZ5eHk0SGp3ZGdtUjdz?oc=5",
       "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT25XVWZrNVRNNU92Ul9SbGxtU2NBZ2Qwb3o1ZlA1ai1rdWNlSW9jU1NHQWs1U21vZjNvTzZLRWFHREZGNmFic0xOZ3N2VElfcTR3bHg3MWNhcThMamlhSnFUQ1kycHlxMl9KTnZ1YkJBczZ3X0ZQbC12bzVnMkNwREFrR1hEMWdieTJaYzVEOE4tRjlLTUFBalhnU1R0NTM2OWo1UUR1LXI0TG9UTFBXdHIyamtjNV9tYTIxeFM3VlRkRER4LTRVTFN6YXlIcW5tcHJ5eVU1V1U4Wi0yTEE?oc=5"
+    ]
+  },
+  {
+    "key": "other:limerick-meets-omh:051a42c6",
+    "title": "New Limerick Príomh meets Tánaiste",
+    "topic": "Other",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Limerick Post"
+    ],
+    "first_seen": "2026-07-24T14:00:44Z",
+    "latest_seen": "2026-07-24T14:00:44Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OendkeUZGSVY0d0RON0hRNl9nX1RmZEh5b3JreUxQX0gwNE5uUEJHSHoxb1I3X3NQWTI5OXdKLXdpdGpxZW1wTWVGMW91czRYZXNlQ3h0bmR6dFowWkotQVdlYU9NeXNpaVh1WGlMdzhZdjVSOEZyNkNWVEJkWmc?oc=5"
+    ]
+  },
+  {
+    "key": "finance:2027-billion-budget-for-government-parameters:f9cddd60",
+    "title": "Government sets €8.5 billion parameters for Budget 2027",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Roscommon People"
+    ],
+    "first_seen": "2026-07-24T14:00:15Z",
+    "latest_seen": "2026-07-24T14:00:15Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 1,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 0,
+    "attention_score": 2,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdy14SklaSmhycWRkVVpURk1HMHhCRmYyY0JocmtOYTczTVJUVHB0QXlxMllGbVQtZHNDeHgtb082YjZYWV9Sa3JVTG1NMk1uYnRGWE5MdWVRS1UwcFIyVlE2MnpBY2dHMEtRajZVcnVOZ056dTlrNVJJOThCd3JVV2RmNTFhMDFobVBN?oc=5"
     ]
   },
   {
