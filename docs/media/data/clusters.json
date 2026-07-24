@@ -419,36 +419,6 @@
     ]
   },
   {
-    "key": "finance:capital-cost-cutting-finance-gains-officials:76ced896",
-    "title": "Revealed: Finance officials’ warnings on the cost of cutting capital gains tax",
-    "topic": "Finance",
-    "item_count": 2,
-    "outlet_count": 1,
-    "outlets": [
-      "Business Post"
-    ],
-    "first_seen": "2026-07-23T17:27:00Z",
-    "latest_seen": "2026-07-24T03:34:02Z",
-    "lifespan_hours": 10,
-    "velocity_6h": 1,
-    "velocity_24h": 2,
-    "reach_score": 6,
-    "tone_counts": {
-      "favourable": 0,
-      "neutral": 2,
-      "unfavourable": 0,
-      "mixed": 0
-    },
-    "net_framing": 0,
-    "significant_count": 2,
-    "attention_score": 20,
-    "status": "active",
-    "item_links": [
-      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5"
-    ]
-  },
-  {
     "key": "other:costs-debate-focus-opportunities-should-united:60f7d178",
     "title": "United Ireland debate should focus on opportunities not costs, says Tánaiste",
     "topic": "Other",
@@ -581,6 +551,36 @@
     "item_links": [
       "https://www.breakingnews.ie/ireland/strong-tax-returns-of-e50bn-strengthen-governments-budgetary-position-1922125.html",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXViZVN1OVBUdzgxZk1xbXVtQmQ4WGYxamNiRWczV0MxUjNpTEdZNzcwSGpqejlIYlhXY01JMUVzRFFhbWpPajlZUDBRQWVyU1pDSlNRZUdPVnR2WFBacmZwRFJtdXlvTU5XODYySF85RjM0QU5lbV9ORm9XZ2Y4Sl9nWmRpNnJNMUktb1FxOVFXWWF2NThEbnBKQzdZZm1uSGh3S3otMnY5Z3hTa2w3b0hJV1NCbnM?oc=5"
+    ]
+  },
+  {
+    "key": "finance:capital-cost-cutting-finance-gains-officials:76ced896",
+    "title": "Revealed: Finance officials’ warnings on the cost of cutting capital gains tax",
+    "topic": "Finance",
+    "item_count": 2,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-23T17:27:00Z",
+    "latest_seen": "2026-07-24T03:34:02Z",
+    "lifespan_hours": 10,
+    "velocity_6h": 0,
+    "velocity_24h": 2,
+    "reach_score": 6,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 2,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 2,
+    "attention_score": 17,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWxpSTB3a0NhVDY0SkZaaUFVRW1LeXFESEljUWhjWFc1TnBVdkp2RDBHeDJLOExMUEJiVGJNODloMmllX0VSRmZXeHhocHQxTjJ4VUJMXzRNRnh5eFh6TDF3bzRoM05sb04tSmRWSTdlMkx6TjdzV1RyeFBPUGxJcTJ1djNEd0QzWlZnb094N2JINjVEV0ZxT0s2d0dLU0NkaWViTG9BOWxSWE4yM19hUURGTjg?oc=5"
     ]
   },
   {
@@ -4038,7 +4038,7 @@
     "latest_seen": "2026-07-23T09:28:27Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -4049,7 +4049,7 @@
     "net_framing": 0,
     "significant_count": 0,
     "attention_score": 4,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMER5bEhuc3dEeGVLV3lNTlEzRldVTFBLRTRMVy1GWDd5dUhOdDVnTWhKX1d0STFLc2l5ZGQyT3liRlY3R2xKWHl2TjdMNFBlWFlwQ0pLMTJPWmlQNlZTNFF0YVdlcmdWUWNpVmo0UGticmtFOHFEdDRxQjA5dDVFNnFvaGxGdlpBSV9Jb2dVbjFPYi1WNms4b0ZtQkRYUHJEdUJWWTNpZm1lLXJ5dGFoWjhmdkp2LWpzcVNpT183aERMN3YtRVVqVE5weHNQQXV4S0FJeDZDQU11TjJOVlFv?oc=5"
     ]

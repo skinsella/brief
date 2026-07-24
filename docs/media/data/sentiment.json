@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:13:16Z",
+  "updated_at": "2026-07-24T09:58:46Z",
   "method": "Rule-based headline and summary classifier. Scores are auditable media-framing signals, not polling or public favourability.",
   "windows": {
     "today": {
@@ -30,17 +30,17 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Other": {
-          "total": 1,
-          "favourable": 1,
-          "neutral": 0,
-          "unfavourable": 0,
-          "mixed": 0
-        },
         "Housing": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 1,
+          "favourable": 1,
+          "neutral": 0,
           "unfavourable": 0,
           "mixed": 0
         }
@@ -2909,17 +2909,17 @@
           "unfavourable": 0,
           "mixed": 0
         },
-        "Other": {
-          "total": 1,
-          "favourable": 1,
-          "neutral": 0,
-          "unfavourable": 0,
-          "mixed": 0
-        },
         "Housing": {
           "total": 1,
           "favourable": 0,
           "neutral": 1,
+          "unfavourable": 0,
+          "mixed": 0
+        },
+        "Other": {
+          "total": 1,
+          "favourable": 1,
+          "neutral": 0,
           "unfavourable": 0,
           "mixed": 0
         }
