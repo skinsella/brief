@@ -1447,6 +1447,32 @@
     "sentiment_target": "Simon Harris",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5": {
+    "outlet": "Irish Independent",
+    "published": "Fri, 24 Jul 2026 04:03:41 GMT",
+    "headline": "Cork politician welcomes Smyths Toys’ removal of e-scooters as pressure builds on Government",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5",
+    "summary": "Irish Independent reports: Cork politician welcomes Smyths Toys’ removal of e-scooters as pressure builds on Government.",
+    "tag": "ROUTINE",
+    "reason": "Routine mention; monitor for pickup but no immediate action is obvious.",
+    "cluster_key": "cork-politician-welcomes-smyths-toys-removal-of-e-scooters-as-pressure-builds-on",
+    "first_seen": "2026-07-24T04:25:25Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTVrUEc1Z0lvMElTand2RGlCeVd2LVZCcGhIazM3X1RYU3BBWEJfTlhzc1FaUEJVQl80Z1hRcl8wTk9aczI2M3lqSmRqUHFaelV6Z05RUG5jYUplLVNXM3NCX3J3UnlIWkQxN0RndlZkRFYxb2g2NnlDQjlCY01nSk9mdXFMZjZ5NjhUSTlkV1NRWmZxMEFFQmZWWW5CMlcwR0Ffd2FHeFVyeW95eW5wd1JvLXk3Y3c1T2NRNDhtUkktZlJYTUdwb1RzcmRLeUpkMDZabW1lWC1McWNtbXNjdA?oc=5",
+    "topic": "Other",
+    "attention": [
+      "High-reach outlet",
+      "Review tone"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "favourable",
+    "sentiment_score": 1,
+    "sentiment_confidence": "low",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Headline uses constructive delivery language: welcomes."
+  },
   "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN2l1empDMmQ1TmEta0FUVm5qcUh5YXllWklUN3ZMVHdjY1IzYVpkdjhoalRBWGlQdGhCclkzUHhpWnAxcE9ZOVBZZFROOXo4aVNsbkhnbDVreUxVRXJmRnphRkd5YnBYcV9Ra0FBYkVjMjl3dEQ2anhDZWJ2clQyV2k0WUJVc3BON1VUT2ZkTE90cFZ5UXA4Zk1EVG81dS1vXzR5amp0ZjRqRlVOOUtvQk80bHVJMmlhUHNOZzNvaDdHbFhka3hPS3c2TDBnUTJUNk91OVBxMGIyYnpPd0pHUw?oc=5": {
     "outlet": "Irish Independent",
     "published": "Thu, 02 Jul 2026 12:40:41 GMT",
@@ -8329,6 +8355,32 @@
     "sentiment_score": 0,
     "sentiment_confidence": "medium",
     "sentiment_target": "Simon Harris",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5": {
+    "outlet": "Business Post",
+    "published": "Fri, 24 Jul 2026 03:34:02 GMT",
+    "headline": "Revealed: Finance officials’ warnings on the cost of cutting capital gains tax",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5",
+    "summary": "Business Post reports: Revealed: Finance officials’ warnings on the cost of cutting capital gains tax.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "revealed-finance-officials-warnings-on-the-cost-of-cutting-capital-gains-tax",
+    "first_seen": "2026-07-24T04:25:25Z",
+    "source_feed": "Google News RSS",
+    "google_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2RzX0lMWFR5Mk9zQVc5TFJicjRXWk15MkNQUkdrNjBEczc0VmtCUmVlUTdKdWhBdXQzNUNBR0RRV0xIZzNKVnpuRGdwczNzWmdsb3FGVUNjcEJwdlFMa0JTamlaUkJCczFqVzYzd1VDOVZHcjI4R1M5clgzbjRwWHRZSmFTR09FX2xLQzhheUlRbEtWcGx5SXlsZDF5bGR2czh5UkVhcVlQVkFBeElld3J0YmtPWFUxSzlN?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXBkenJrNnFvVVFKVHFodERteDdNdEYtalFsajJNVTR2bFQ1X0pTZWF5NzVuakRpbW5JSTljSE1VVHlJM0xld21IUlYyeUY2cndGTWpfUEUzYkxTbE5RYUFYZ1pzWDFWWHQyZWlPeldibDZJLUpiWldNZHBSbXZWRnBHQ3FiaGJveUZkUGNOVURJTUluNkszMEFXMFdCdkFrRjlsWFZOWERkcFZuMVpyeTBwa3dCOHVMMndZ?oc=5": {
