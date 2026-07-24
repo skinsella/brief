@@ -1,24 +1,24 @@
 # Simon Harris Media Briefing
 
-Updated: Thu, 23 Jul 2026 23:33 GMT
+Updated: Fri, 24 Jul 2026 01:02 GMT
 
 ## Snapshot
 
-- Recent coverage: 104 item(s) in the last 7 days.
+- Recent coverage: 95 item(s) in the last 7 days.
 - Weighted net framing: +1% (supportive minus critical, reach/significance-weighted).
 - Significant items: 40.
 
 ## Trend Summary
 
-- Coverage volume: 104 item(s) in the last 7 days; up 7 vs previous 7 days.
+- Coverage volume: 95 item(s) in the last 7 days; up 3 vs previous 7 days.
 - Net framing: +1% weighted over 7 days, separating coverage volume from supportive/critical wording.
-- Main topic: Other leads recent coverage with 33 item(s).
+- Main topic: Other leads recent coverage with 28 item(s).
 - Critical concentration: None flagged accounts for 0 recent critical item(s).
-- Leading outlet: Irish Independent has the most recent pickups with 26 item(s).
+- Leading outlet: Irish Independent has the most recent pickups with 25 item(s).
 
 ## Narrative Summary
 
-- Active narratives: 9 active cluster(s), including 0 emerging in the last 6 hours.
+- Active narratives: 8 active cluster(s), including 0 emerging in the last 6 hours.
 - Top cluster: New Central Bank map shows ATM locations nationwide across 7 outlet(s), 7 item(s), reach score 13.
 - Persistence: 7 cluster(s) have lasted at least 48 hours.
 
@@ -37,25 +37,25 @@ Updated: Thu, 23 Jul 2026 23:33 GMT
 
 ## Top Topics
 
-- Other: 33
+- Other: 28
 - Finance: 25
 - Tax: 20
 - Housing: 10
-- Fine Gael: 7
+- Fine Gael: 4
 - Polling: 3
 - Courts/security: 2
 - Constituency/local: 2
 
 ## Top Outlets
 
-- Irish Independent: 26
+- Irish Independent: 25
 - Business Post: 7
 - Irish Examiner: 6
 - BreakingNews.ie: 6
-- MSN: 6
 - The Irish Times: 5
 - Irish Mirror: 4
 - Cork Beo: 3
+- MSN: 3
 
 ## Story Clusters
 

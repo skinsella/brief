@@ -1,5 +1,83 @@
 [
   {
+    "checked_at": "2026-07-24T01:02:49Z",
+    "checked_at_display": "Fri, 24 Jul 2026 01:02 GMT",
+    "new_count": 0,
+    "old_skipped": 5,
+    "duplicate_skipped": 9,
+    "mismatched_skipped": 10,
+    "fetches": [
+      {
+        "name": "Google News RSS",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Supplementary web/news search",
+        "ok": true,
+        "count": 0,
+        "error": ""
+      },
+      {
+        "name": "Google News 24h catch-up",
+        "ok": true,
+        "count": 14,
+        "error": ""
+      },
+      {
+        "name": "Google Finance/policy search",
+        "ok": true,
+        "count": 9,
+        "error": ""
+      },
+      {
+        "name": "RTE News RSS",
+        "ok": true,
+        "count": 20,
+        "error": ""
+      },
+      {
+        "name": "Irish Times RSS",
+        "ok": true,
+        "count": 100,
+        "error": ""
+      },
+      {
+        "name": "Irish Times Ireland RSS",
+        "ok": true,
+        "count": 36,
+        "error": ""
+      },
+      {
+        "name": "Irish Independent RSS",
+        "ok": true,
+        "count": 50,
+        "error": ""
+      },
+      {
+        "name": "TheJournal.ie RSS",
+        "ok": true,
+        "count": 40,
+        "error": ""
+      },
+      {
+        "name": "BreakingNews.ie RSS",
+        "ok": true,
+        "count": 10,
+        "error": ""
+      },
+      {
+        "name": "Today FM RSS",
+        "ok": true,
+        "count": 19,
+        "error": ""
+      }
+    ],
+    "new_links": [],
+    "archive_file": "archive/20260724T010249Z.html"
+  },
+  {
     "checked_at": "2026-07-23T23:33:00Z",
     "checked_at_display": "Thu, 23 Jul 2026 23:33 GMT",
     "new_count": 0,
@@ -7888,85 +7966,5 @@
       "https://www.breakingnews.ie/ireland/more-efficient-way-of-of-assessing-new-drugs-needed-says-tanaiste-1927701.html"
     ],
     "archive_file": "archive/20260716T151130Z.html"
-  },
-  {
-    "checked_at": "2026-07-16T13:04:41Z",
-    "checked_at_display": "Thu, 16 Jul 2026 13:04 GMT",
-    "new_count": 1,
-    "old_skipped": 3,
-    "duplicate_skipped": 6,
-    "mismatched_skipped": 7,
-    "fetches": [
-      {
-        "name": "Google News RSS",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Supplementary web/news search",
-        "ok": true,
-        "count": 3,
-        "error": ""
-      },
-      {
-        "name": "Google News 24h catch-up",
-        "ok": true,
-        "count": 5,
-        "error": ""
-      },
-      {
-        "name": "Google Finance/policy search",
-        "ok": true,
-        "count": 5,
-        "error": ""
-      },
-      {
-        "name": "RTE News RSS",
-        "ok": true,
-        "count": 20,
-        "error": ""
-      },
-      {
-        "name": "Irish Times RSS",
-        "ok": true,
-        "count": 100,
-        "error": ""
-      },
-      {
-        "name": "Irish Times Ireland RSS",
-        "ok": true,
-        "count": 43,
-        "error": ""
-      },
-      {
-        "name": "Irish Independent RSS",
-        "ok": true,
-        "count": 50,
-        "error": ""
-      },
-      {
-        "name": "TheJournal.ie RSS",
-        "ok": true,
-        "count": 40,
-        "error": ""
-      },
-      {
-        "name": "BreakingNews.ie RSS",
-        "ok": true,
-        "count": 10,
-        "error": ""
-      },
-      {
-        "name": "Today FM RSS",
-        "ok": true,
-        "count": 19,
-        "error": ""
-      }
-    ],
-    "new_links": [
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1haeGFzQUl2amtXWmUtOWNhdkZ5QV83VmdhejUxNG9SZlg4eUVPZ2kwT1YtQTBGQVl1a0lpV0lIblZnZmFMX0FrdzAwd1R5MFJxaENSSE45WGlqUTJQT1lCQUN3bmQwcjhmZ1VheGhTLUszOEF1Y2N1aGk2Nkw5ZnREa2pzbmF5WGhaZzhGSDROTjkwSnlHQkFDYk1wUGxzRkVnNHY2eDBTdw?oc=5"
-    ],
-    "archive_file": "archive/20260716T130441Z.html"
   }
 ]
