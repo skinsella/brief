@@ -4678,6 +4678,32 @@
     "sentiment_target": "Government/policy",
     "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
   },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHRiOHVnYUIwbjRmTUt4SnJPcXZEbjlvV3lhV3BZNkpmS1BkOGJ0WjVaWmZZdUlJWUx0U0lxR3IxRmxVdG5PblRnalVpVWlHWXV2WGNaTS1QV3NoY2RJNldMcmhRS1JwUGVZNEhybGNhT0dVa1NmWE9YcHQzbHRBZ09xTk5SYzQ1?oc=5": {
+    "outlet": "Business Post",
+    "published": "Fri, 24 Jul 2026 07:22:24 GMT",
+    "headline": "Finance officials moot softening carbon tax",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHRiOHVnYUIwbjRmTUt4SnJPcXZEbjlvV3lhV3BZNkpmS1BkOGJ0WjVaWmZZdUlJWUx0U0lxR3IxRmxVdG5PblRnalVpVWlHWXV2WGNaTS1QV3NoY2RJNldMcmhRS1JwUGVZNEhybGNhT0dVa1NmWE9YcHQzbHRBZ09xTk5SYzQ1?oc=5",
+    "summary": "Business Post reports: Finance officials moot softening carbon tax.",
+    "tag": "SIGNIFICANT",
+    "reason": "This is policy coverage connected to Finance or Government delivery.",
+    "cluster_key": "finance-officials-moot-softening-carbon-tax",
+    "first_seen": "2026-07-24T17:46:26Z",
+    "source_feed": "Google Finance/policy search",
+    "google_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHRiOHVnYUIwbjRmTUt4SnJPcXZEbjlvV3lhV3BZNkpmS1BkOGJ0WjVaWmZZdUlJWUx0U0lxR3IxRmxVdG5PblRnalVpVWlHWXV2WGNaTS1QV3NoY2RJNldMcmhRS1JwUGVZNEhybGNhT0dVa1NmWE9YcHQzbHRBZ09xTk5SYzQ1?oc=5",
+    "source_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHRiOHVnYUIwbjRmTUt4SnJPcXZEbjlvV3lhV3BZNkpmS1BkOGJ0WjVaWmZZdUlJWUx0U0lxR3IxRmxVdG5PblRnalVpVWlHWXV2WGNaTS1QV3NoY2RJNldMcmhRS1JwUGVZNEhybGNhT0dVa1NmWE9YcHQzbHRBZ09xTk5SYzQ1?oc=5",
+    "topic": "Finance",
+    "attention": [
+      "Policy",
+      "High-reach outlet"
+    ],
+    "outlet_tier": "national",
+    "outlet_weight": 3,
+    "favourability": "neutral",
+    "sentiment_score": 0,
+    "sentiment_confidence": "medium",
+    "sentiment_target": "Government/policy",
+    "sentiment_rationale": "Straight news mention with no clear positive or negative framing toward Simon Harris."
+  },
   "https://news.google.com/rss/articles/CBMiiANBVV95cUxOcFNwN3VVUmwwMlBOVmVaUGRfei04LWIzSE1pY1NYN0Q5RzMzWnFZNklEcmN5RjUtS1VpbnBnSEZya250a0YyZnZackJfTXZZRUU5RGFDeEl2VUNvR1lOaG1xdDdyR00tSXNxLU1INHJXa2c0MW8wY3p1ZnhPeUxxcHEzb1J2YXNRSXBkNTM4eTJSSVkwWnR5NW1JbTY1WXZkeEhPUzBvQU1NNXpTQzAtWXM2bHpxYlFnT2pNSkVsNlQyUFZPczlSUVZWeC1HXzhSYTJFanVvRG1kUUJQZW1GSTFsWU1pTTNVMi1RSFVQNTdXazNmSWcwWHJvU1JxeW5aY2hBMmIzcGRveHotbm9xT2VDeEwwQjZkYUE2aFVLRlFUMzhxQTdzQXhLcE42SFNmelVtTW4zcG5MQWgwU1dhTnkxeEc3dGJTRXhQdnJZNE5sNmJTOENqN1JxUzZ2MVFNdU1mZlZLdzVmSzFJLU5hTXByUThiZFdfLURkdjAyNHYxcFI1Q0ZxNQ?oc=5": {
     "outlet": "MSN",
     "published": "Wed, 15 Jul 2026 12:59:41 GMT",

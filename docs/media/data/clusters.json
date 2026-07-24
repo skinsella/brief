@@ -566,7 +566,7 @@
     "latest_seen": "2026-07-24T03:34:02Z",
     "lifespan_hours": 10,
     "velocity_6h": 0,
-    "velocity_24h": 2,
+    "velocity_24h": 1,
     "reach_score": 6,
     "tone_counts": {
       "favourable": 0,
@@ -1291,6 +1291,35 @@
     ]
   },
   {
+    "key": "finance:carbon-finance-moot-officials-softening-tax:d18b985c",
+    "title": "Finance officials moot softening carbon tax",
+    "topic": "Finance",
+    "item_count": 1,
+    "outlet_count": 1,
+    "outlets": [
+      "Business Post"
+    ],
+    "first_seen": "2026-07-24T07:22:24Z",
+    "latest_seen": "2026-07-24T07:22:24Z",
+    "lifespan_hours": 0,
+    "velocity_6h": 0,
+    "velocity_24h": 1,
+    "reach_score": 3,
+    "tone_counts": {
+      "favourable": 0,
+      "neutral": 1,
+      "unfavourable": 0,
+      "mixed": 0
+    },
+    "net_framing": 0,
+    "significant_count": 1,
+    "attention_score": 9,
+    "status": "active",
+    "item_links": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHRiOHVnYUIwbjRmTUt4SnJPcXZEbjlvV3lhV3BZNkpmS1BkOGJ0WjVaWmZZdUlJWUx0U0lxR3IxRmxVdG5PblRnalVpVWlHWXV2WGNaTS1QV3NoY2RJNldMcmhRS1JwUGVZNEhybGNhT0dVa1NmWE9YcHQzbHRBZ09xTk5SYzQ1?oc=5"
+    ]
+  },
+  {
     "key": "finance:challenges-government-highlight-just-many-mary:dc0e1748",
     "title": "Mary Regan: Tax strategy papers highlight just how many challenges Government faces ahead of Budget 2027",
     "topic": "Finance",
@@ -1332,7 +1361,7 @@
     "latest_seen": "2026-07-23T16:47:16Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 3,
     "tone_counts": {
       "favourable": 0,
@@ -1343,7 +1372,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 9,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0k3WDRJaEZZd0lTVHJCaWJaR0FoY25MRVY0RlZHaW9HMkdpOU5lR1N4MTZRQ19VOG5PalRLWXN3dTRVcUc0LVBmem50M0lGeml4MUU5Ry1feHgxWjkwWl9TbEd2UFhwc2xFVk9uQ0NUejhwX2ZEc2FLZHpBZXZSTG1YMnAtWjVWWVpzMngweHFzMWJoRDBNMUtybVJqZEcyazNjWU5DZzFkV1RjcTJ0T3N3YVFOVkVoaFZMSFcteUh4RHphVEJ1amxKVQ?oc=5"
     ]
@@ -2884,7 +2913,7 @@
     "latest_seen": "2026-07-23T16:15:21Z",
     "lifespan_hours": 0,
     "velocity_6h": 0,
-    "velocity_24h": 1,
+    "velocity_24h": 0,
     "reach_score": 1,
     "tone_counts": {
       "favourable": 0,
@@ -2895,7 +2924,7 @@
     "net_framing": 0,
     "significant_count": 1,
     "attention_score": 7,
-    "status": "active",
+    "status": "dormant",
     "item_links": [
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MjFKb2ZPZ3l5eHU2M1IyY2pDM0pXbWxQanl2bTJ6QkF6SUpsM0dHeU90YTN1MzFIWk1iX0RhbC1RekxnM2RYLUN0UjVmSHBKbGNuakNVUTR5S2hmOEZDMmI5V01FREp0VDUxanp4T2V2ZTBTSUhweFhZVjM?oc=5"
     ]
